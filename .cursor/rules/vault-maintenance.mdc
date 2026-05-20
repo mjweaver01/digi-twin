@@ -1,0 +1,16 @@
+---
+description: Conventions for editing the digi-twin Obsidian vault
+globs: "**/*.md"
+alwaysApply: false
+---
+
+# Vault Maintenance
+
+When editing notes in this vault:
+
+- Use consistent YAML frontmatter: `type`, `tags`, `owner`, `updated`, `status`
+- Types: `context`, `preference`, `stack`, `pattern`
+- Link related notes with Obsidian wikilinks: `[[Preferences/AI Behavior]]`, `[[Stacks/Bun Monolith]]`
+- Do not duplicate content from `Karpathy/` — link to it instead
+- Stack profiles describe architecture types, not individual repos
+- Update the `updated` date when making substantive edits
