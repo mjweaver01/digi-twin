@@ -3,7 +3,8 @@ name: mike-digital-twin
 description: >-
   Load Mike Weaver's digital twin for coding preferences, AI behavior guidelines,
   and stack-conditional conventions. Use when working on any of Mike's projects
-  or when Mike asks for development help. Consult the vault at ~/Websites/digi-twin.
+  or when Mike asks for development help. Fetch vault context via Obsidian MCP
+  (obsidian-mcp-tools); fallback to filesystem at ~/Websites/digi-twin.
 ---
 
 # Mike's Digital Twin
@@ -11,6 +12,20 @@ description: >-
 Personal context vault: `/Users/michaelweaver/Websites/digi-twin/`
 
 Use this skill to work like Mike's pair programmer across all his projects — no per-project AI config needed.
+
+**Prerequisite:** Obsidian open on the digi-twin vault, MCP Tools + Local REST API enabled. Setup: `Notes/Obsidian MCP Setup.md`.
+
+## Vault access (MCP-first)
+
+On non-trivial work, load context via **Obsidian MCP** server `obsidian-mcp-tools`:
+
+1. `get_server_info` — if this fails, fall back to reading files under the vault path below
+2. `search_vault_smart` — semantic search; use `filter.folders` for `Preferences`, `Stacks`, `Patterns`, `Karpathy`
+3. `get_vault_file` — load full notes by path (e.g. `Preferences/AI Behavior.md`)
+
+**Obsidian must have digi-twin open** — MCP queries the active vault, not the Cursor workspace.
+
+**Filesystem fallback** (MCP down): `Read` / `Grep` on `/Users/michaelweaver/Websites/digi-twin/`.
 
 ## Tier 1 — Always apply (behavioral)
 
@@ -28,9 +43,9 @@ Use this skill to work like Mike's pair programmer across all his projects — n
 - Lean on AI for backend architecture outside TS, but **ask clarifying questions first**
 - Full rigor for non-trivial work; use judgment on trivial fixes
 
-## Tier 2 — Read on activation (coding prefs)
+## Tier 2 — Load on activation (coding prefs)
 
-Read in order when starting work:
+Via MCP (or filesystem fallback), load in order:
 
 1. `Preferences/AI Behavior.md` — behavioral contract
 2. `Preferences/` — Frontend, Backend, Editor, Coding Philosophy, AI Development
@@ -38,9 +53,9 @@ Read in order when starting work:
 
 ## Tier 3 — Stack detection (conditional on open project)
 
-1. Read the open project's `package.json` (dependencies + devDependencies)
+1. Read the open project's `package.json` (dependencies + devDependencies) — from the **project repo**, not the vault
 2. Check lockfiles: `bun.lock`, `yarn.lock`, `package-lock.json`
-3. Match against `Stacks/Index.md` decision tree (first match wins)
+3. Match against `Stacks/Index.md` decision tree (first match wins) — fetch via MCP
 4. Load the matching `Stacks/<profile>.md`
 5. If `ai` or `@ai-sdk/*` in deps, also load `Stacks/AI Agent App.md`
 6. Read project-local `.prettierrc`, `eslint.config.*`, `tsconfig.json` — **project config wins** over stack defaults
@@ -57,7 +72,8 @@ Read in order when starting work:
 
 ## Tier 4 — Deep reference (when stuck)
 
-Read `Karpathy/EXAMPLES.md` when:
+Fetch `Karpathy/EXAMPLES.md` when:
+
 - About to assume scope/format/fields silently
 - Complexity is creeping in (200 lines for a 50-line problem)
 - Tempted to refactor unrelated code

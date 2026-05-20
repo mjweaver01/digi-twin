@@ -4,7 +4,20 @@ Personal knowledge vault and **digital twin** for AI-assisted development — sk
 
 Works across all projects without per-repo `CLAUDE.md` or `.cursor/rules/` files.
 
-**Getting started:** [How to Use the Digital Twin](Notes/How%20to%20Use%20the%20Digital%20Twin.md)
+**Getting started:** [How to Use the Digital Twin](Notes/How%20to%20Use%20the%20Digital%20Twin.md)  
+**MCP setup:** [Obsidian MCP Setup](Notes/Obsidian%20MCP%20Setup.md)
+
+## How context reaches Cursor
+
+```text
+Obsidian (digi-twin vault) ←→ MCP Tools + Local REST API
+         ↑
+Global ~/.cursor/mcp.json (obsidian-mcp-tools)
+         ↑
+Cursor Agent (any project) + mike-digital-twin User Skill
+```
+
+Keep **digi-twin** open in Obsidian while coding in other repos. The agent fetches notes via MCP; the skill defines what to load and how to detect stack from the open project.
 
 ## Folder guide
 
@@ -16,11 +29,13 @@ Works across all projects without per-repo `CLAUDE.md` or `.cursor/rules/` files
 | [Patterns/](Patterns/) | Cross-cutting architectural patterns |
 | [Notes/](Notes/) | Guides and operational notes |
 | [Karpathy/](Karpathy/) | AI behavioral reference ([upstream source](https://github.com/forrestchang/andrej-karpathy-skills)) |
+| [cursor/](cursor/) | Example Cursor MCP config |
+| [scripts/](scripts/) | Vault setup scripts |
 
 ## Context stack
 
 1. **How AI should behave** — [Preferences/AI Behavior](Preferences/AI%20Behavior.md), backed by [Karpathy/CLAUDE](Karpathy/CLAUDE.md)
-2. **How I code** — `Preferences/*`, `Patterns/*`
+2. **How I code** — `Preferences/*`, `Patterns/*` (via Obsidian MCP)
 3. **What shape this project is** — detect stack from the open project's `package.json` → load `Stacks/<profile>.md`
 
 ## Stack detection
@@ -33,17 +48,27 @@ Project-local config (`.prettierrc`, `tsconfig.json`) always wins over stack def
 
 ```bash
 git clone <your-repo-url> ~/Websites/digi-twin
+cd ~/Websites/digi-twin
+
+# Obsidian plugins + MCP server binary
+./scripts/setup-obsidian-mcp.sh
+
+# Cursor User Skill
 mkdir -p ~/.cursor/skills/mike-digital-twin
 cp skills/mike-digital-twin/SKILL.md ~/.cursor/skills/mike-digital-twin/
+
+# Cursor MCP — merge cursor/mcp.json.example into ~/.cursor/mcp.json
+# Use API key from Obsidian → Local REST API settings
 ```
 
-If you clone elsewhere, update the vault path in `SKILL.md`.
+Open the vault in [Obsidian](https://obsidian.md), enable plugins, restart MCP in Cursor Settings. Full steps: [Obsidian MCP Setup](Notes/Obsidian%20MCP%20Setup.md).
 
-Optional: open the folder in [Obsidian](https://obsidian.md) to browse and edit notes. `.obsidian/` is gitignored.
+`.obsidian/` is gitignored (local plugins and workspace state).
 
 ## Cursor integration
 
-- **Global User Skill** — [skills/mike-digital-twin/SKILL.md](skills/mike-digital-twin/SKILL.md) provides context from any project
+- **Global User Skill** — [skills/mike-digital-twin/SKILL.md](skills/mike-digital-twin/SKILL.md) — policy and stack detection
+- **Global MCP** — [cursor/mcp.json.example](cursor/mcp.json.example) — vault retrieval from any workspace
 - **Vault rules** — `.cursor/rules/karpathy-guidelines.mdc` applies when editing this repository
 
 ## Credits

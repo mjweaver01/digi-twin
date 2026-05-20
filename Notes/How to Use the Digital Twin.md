@@ -40,6 +40,15 @@ Layer 1 applies everywhere. Layer 3 is detected at runtime from the open project
 
 ## Best ways to use it
 
+### 0. Obsidian MCP (automatic context)
+
+See [[Obsidian MCP Setup]] for one-time install. Daily habit:
+
+- Keep **digi-twin** open in Obsidian while coding in other repos
+- Cursor MCP `obsidian-mcp-tools` must show green in Settings
+
+The agent fetches prefs/stacks via MCP (`search_vault_smart`, `get_vault_file`) — no copying MD files into each project.
+
 ### 1. Let the User Skill do the work
 
 Global skill: `~/.cursor/skills/mike-digital-twin/SKILL.md`
@@ -72,9 +81,9 @@ Detection is automatic, but stating intent helps:
 
 > New Bun monolith with AI agents — follow Bun Monolith + AI Agent App stacks.
 
-### 5. Obsidian for you, files for the agent
+### 5. Obsidian for you, MCP for the agent
 
-Edit and browse in Obsidian. The agent reads markdown from `/Users/michaelweaver/Websites/digi-twin/`. You don't need both open at once.
+Edit and browse in Obsidian. The agent pulls notes via **Obsidian MCP** while digi-twin is the open vault. Filesystem read is fallback only if MCP is down.
 
 ### 6. Back up the vault
 
@@ -97,8 +106,8 @@ See [[Stacks/Index]] for the full decision tree. Summary:
 ## Gaps to watch
 
 - **Stack detection isn't perfect** — legacy Vue 2, Astro-only, theme-only repos may not match. Add profiles when you hit those patterns often.
-- **Skill must activate and read files** — Tier 1 (Karpathy + overrides) is inlined in the skill; Tiers 2–3 depend on the agent reading the vault. Verify on a real task.
-- **Obsidian MCP** — optional richer retrieval when fixed; not required for v1.
+- **Skill + MCP must both work** — Tier 1 is inlined in the skill; Tiers 2–3 need MCP (or filesystem fallback). Verify with `get_server_info` on a real task.
+- **Wrong vault open** — MCP returns another Obsidian vault's notes. Keep digi-twin open.
 - **Don't let it bloat** — concise notes, one concern per file. Layering is the strength, not volume.
 
 ## Fastest way to improve it
@@ -108,5 +117,6 @@ Pick one active project, run a non-trivial task with "follow my digital twin," a
 ## Related
 
 - [[README]] — folder guide and technical setup
+- [[Obsidian MCP Setup]] — install and troubleshoot MCP
 - [[Preferences/AI Behavior]] — behavioral contract
 - [[Stacks/Index]] — stack detection rules

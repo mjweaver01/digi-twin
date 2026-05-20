@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "obsidian-mcp-tools": {
+      "command": "/Users/michaelweaver/Websites/digi-twin/.obsidian/plugins/mcp-tools/bin/mcp-server",
+      "env": {
+        "OBSIDIAN_API_KEY": "paste-your-local-rest-api-key-here"
+      }
+    }
+  }
+}
