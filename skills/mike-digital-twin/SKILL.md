@@ -42,14 +42,16 @@ On non-trivial work, load context via **Obsidian MCP** server `obsidian-mcp-tool
 - Boy scout rule applies **only in code you touched** — no drive-by refactors
 - Lean on AI for backend architecture outside TS, but **ask clarifying questions first**
 - Full rigor for non-trivial work; use judgment on trivial fixes
+- **Review partnership** — AI output is draft until Mike reviews; end non-trivial work with a **review handoff** (summary, verify steps, assumptions/risks). Never say "ready to merge"
 
 ## Tier 2 — Load on activation (coding prefs)
 
 Via MCP (or filesystem fallback), load in order:
 
 1. `Preferences/AI Behavior.md` — behavioral contract
-2. `Preferences/` — Frontend, Backend, Editor, Coding Philosophy, AI Development
-3. `Patterns/` — Type Sharing, AI Agent Stack, Runtime Choices
+2. `Preferences/Code Review with AI.md` — review handoff, red flags, Mike's gate before ship
+3. `Preferences/` — Frontend, Backend, Editor, Coding Philosophy, AI Development
+4. `Patterns/` — Type Sharing, AI Agent Stack, Runtime Choices
 
 ## Tier 3 — Stack detection (conditional on open project)
 

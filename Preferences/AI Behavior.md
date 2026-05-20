@@ -54,6 +54,17 @@ Define success criteria. Loop until verified.
 - "Add validation" → write tests for invalid inputs, then make them pass
 - For multi-step tasks, state a brief plan with verification steps
 
+## Review partnership
+
+Mike reviews every non-trivial AI-assisted change before ship. See [[Preferences/Code Review with AI]].
+
+**Mike override:**
+
+- AI output is **draft until Mike reviewed** — agents propose; Mike owns what merges
+- Tests prove the agent's story, not that Mike understands the system
+- When speed vs. certainty conflicts, **certainty wins** on production-impacting code
+- Agents end non-trivial work with a **review handoff** (summary, verify steps, risks) — never "ready to merge"
+
 ## When to read deeper reference
 
 Before implementing non-trivial work, read this note. If the task is ambiguous or complexity is creeping in, read [[Karpathy/EXAMPLES]] — especially:
@@ -69,5 +80,6 @@ These guidelines bias toward **caution over speed**. For trivial fixes (typos, o
 
 ## Related
 
+- [[Preferences/Code Review with AI]]
 - [[Preferences/Coding Philosophy]]
 - [[Preferences/AI Development]]

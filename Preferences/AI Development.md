@@ -33,6 +33,14 @@ See [[Patterns/AI Agent Stack]] and [[Stacks/AI Agent App]].
 - Version prompts in repo, sync to Langfuse via CLI scripts
 - Don't hardcode long prompts inline in handler code
 
+## Using AI to build (Mike's workflow)
+
+Same human-in-the-loop idea as product features (`needsApproval`), applied when **Mike** is the reviewer:
+
+- Treat agent output as **draft** until [[Preferences/Code Review with AI|reviewed]]
+- End sessions with verify steps Mike runs locally — not "trust the diff"
+- Large or risky changes → checkpoint PRs, not one giant merge
+
 ## Agents vs simple completion
 
 | Use agents (tool loops) when | Use simple completion when |
@@ -43,6 +51,7 @@ See [[Patterns/AI Agent Stack]] and [[Stacks/AI Agent App]].
 
 ## Related
 
+- [[Preferences/Code Review with AI]]
 - [[Preferences/AI Behavior]]
 - [[Stacks/AI Agent App]]
 - [[Patterns/AI Agent Stack]]

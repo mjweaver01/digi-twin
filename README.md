@@ -34,7 +34,7 @@ Keep **digi-twin** open in Obsidian while coding in other repos. The agent fetch
 
 ## Context stack
 
-1. **How AI should behave** — [Preferences/AI Behavior](Preferences/AI%20Behavior.md), backed by [Karpathy/CLAUDE](Karpathy/CLAUDE.md)
+1. **How AI should behave** — [Preferences/AI Behavior](Preferences/AI%20Behavior.md), [Code Review with AI](Preferences/Code%20Review%20with%20AI.md), backed by [Karpathy/CLAUDE](Karpathy/CLAUDE.md)
 2. **How I code** — `Preferences/*`, `Patterns/*` (via Obsidian MCP)
 3. **What shape this project is** — detect stack from the open project's `package.json` → load `Stacks/<profile>.md`
 

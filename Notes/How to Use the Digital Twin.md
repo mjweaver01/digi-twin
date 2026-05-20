@@ -18,7 +18,7 @@ A **portable developer profile** — one place for who you are, how you code, ho
 
 | Layer | Source | What it answers |
 |-------|--------|-----------------|
-| **1. How AI should behave** | [[Preferences/AI Behavior]], [[Karpathy/CLAUDE]] | Ask before assuming, surgical diffs, verifiable goals |
+| **1. How AI should behave** | [[Preferences/AI Behavior]], [[Preferences/Code Review with AI]], [[Karpathy/CLAUDE]] | Ask before assuming, surgical diffs, review before ship |
 | **2. How you code** | `Preferences/*`, `Patterns/*` | State mgmt, type sharing, tooling defaults |
 | **3. What shape this project is** | `Stacks/*` (detected from `package.json`) | Bun monolith vs Vue serverless vs Shopify app, etc. |
 
@@ -34,7 +34,7 @@ Layer 1 applies everywhere. Layer 3 is detected at runtime from the open project
 | Start a new Bun freelance project | Loads [[Stacks/Bun Monolith]] — single server, strict TS, shared types |
 | AI agent feature work | [[Stacks/AI Agent App]] overlay when `@ai-sdk/*` is present — tools, Langfuse, human-in-the-loop |
 | Backend architecture outside TS | Agent asks clarifying questions first instead of silently designing a system |
-| Reviewing agent diffs | Surgical Changes + boy scout rule reduces drive-by refactors |
+| Reviewing agent diffs | [[Preferences/Code Review with AI]] — handoff format, red flags, checkpoint PRs |
 
 **Less useful for:** one-off scripts, Shopify themes without `package.json`, legacy stacks that don't match a profile, or quick Q&A with no coding conventions.
 
@@ -85,7 +85,17 @@ Detection is automatic, but stating intent helps:
 
 Edit and browse in Obsidian. The agent pulls notes via **Obsidian MCP** while digi-twin is the open vault. Filesystem read is fallback only if MCP is down.
 
-### 6. Back up the vault
+### 6. Review before you commit
+
+Before merging AI-assisted work:
+
+1. **Diff** — read full diff; reject out-of-scope hunks
+2. **Verify** — run the agent's verify steps yourself (test, lint, manual checks)
+3. **Explain** — one sentence per major change; if you can't explain it, don't ship
+
+Use [[Preferences/Code Review with AI]] prompts when the diff is large or unfamiliar.
+
+### 7. Back up the vault
 
 Push to a private git remote. This is professional context worth preserving.
 
@@ -119,4 +129,5 @@ Pick one active project, run a non-trivial task with "follow my digital twin," a
 - [[README]] — folder guide and technical setup
 - [[Obsidian MCP Setup]] — install and troubleshoot MCP
 - [[Preferences/AI Behavior]] — behavioral contract
+- [[Preferences/Code Review with AI]] — review discipline with AI
 - [[Stacks/Index]] — stack detection rules

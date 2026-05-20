@@ -8,7 +8,8 @@ alwaysApply: true
 Do not repeat behavioral guidelines here. Read and follow:
 
 1. **`Preferences/AI Behavior.md`** — Karpathy four principles + Mike overrides (canonical)
-2. **`Karpathy/EXAMPLES.md`** — when the task is ambiguous or complexity is creeping in
-3. **`Karpathy/CLAUDE.md`** — full principle text if needed
+2. **`Preferences/Code Review with AI.md`** — review handoff, red flags, Mike's gate before ship
+3. **`Karpathy/EXAMPLES.md`** — when the task is ambiguous or complexity is creeping in
+4. **`Karpathy/CLAUDE.md`** — full principle text if needed
 
 Rationale and upstream context: `Karpathy/README.md`.
