@@ -12,6 +12,15 @@ How Mike uses AI as a dev tool without shipping code he hasn't owned. Complement
 
 AI proposes; Mike decides. Passing tests is necessary, not sufficient — Mike must understand what changed and why.
 
+## Git — Mike owns it
+
+**Never run `git commit`** (or create commits) unless Mike explicitly asks in that message.
+
+- OK: `git status`, `git diff`, `git log` — read-only inspection to help review
+- Not OK: commit, amend, push, merge, rebase, tag — unless Mike explicitly requests that exact action
+
+Mike stages and commits after reviewing the diff. Suggest a commit message if helpful; don't execute it.
+
 ## Agent obligations (every non-trivial task)
 
 End with a **review handoff**, not "done" or "ready to merge":

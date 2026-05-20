@@ -64,6 +64,7 @@ Mike reviews every non-trivial AI-assisted change before ship. See [[Preferences
 - Tests prove the agent's story, not that Mike understands the system
 - When speed vs. certainty conflicts, **certainty wins** on production-impacting code
 - Agents end non-trivial work with a **review handoff** (summary, verify steps, risks) — never "ready to merge"
+- **Mike owns Git** — never `git commit` (or push/amend/merge/rebase) unless Mike explicitly asks; see [[Preferences/Code Review with AI]]
 
 ## When to read deeper reference
 

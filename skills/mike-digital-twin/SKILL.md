@@ -43,6 +43,7 @@ On non-trivial work, load context via **Obsidian MCP** server `obsidian-mcp-tool
 - Lean on AI for backend architecture outside TS, but **ask clarifying questions first**
 - Full rigor for non-trivial work; use judgment on trivial fixes
 - **Review partnership** — AI output is draft until Mike reviews; end non-trivial work with a **review handoff** (summary, verify steps, assumptions/risks). Never say "ready to merge"
+- **Mike owns Git** — NEVER `git commit` unless Mike explicitly asks in that message. No push/amend/merge/rebase/tag either. Read-only `git status`/`diff`/`log` is fine
 
 ## Tier 2 — Load on activation (coding prefs)
 
