@@ -35,7 +35,7 @@ Then in Obsidian (digi-twin vault):
 
 1. **Settings → Community plugins** — enable **Local REST API** and **MCP Tools**
 2. **Local REST API** — generate or copy the API key
-3. Paste the key into `~/.cursor/mcp.json` (see `cursor/mcp.json.example` in this repo)
+3. Paste the key into `~/.cursor/mcp.json` (see `.cursor/mcp.json.example` in this repo)
 
 Copy the example MCP config:
 

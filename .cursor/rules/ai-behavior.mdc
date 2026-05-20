@@ -1,0 +1,14 @@
+---
+description: AI coding behavior — read vault sources, do not duplicate
+alwaysApply: true
+---
+
+# AI behavior (vault source of truth)
+
+Do not repeat behavioral guidelines here. Read and follow:
+
+1. **`Preferences/AI Behavior.md`** — Karpathy four principles + Mike overrides (canonical)
+2. **`Karpathy/EXAMPLES.md`** — when the task is ambiguous or complexity is creeping in
+3. **`Karpathy/CLAUDE.md`** — full principle text if needed
+
+Rationale and upstream context: `Karpathy/README.md`.

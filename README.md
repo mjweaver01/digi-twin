@@ -29,7 +29,7 @@ Keep **digi-twin** open in Obsidian while coding in other repos. The agent fetch
 | [Patterns/](Patterns/) | Cross-cutting architectural patterns |
 | [Notes/](Notes/) | Guides and operational notes |
 | [Karpathy/](Karpathy/) | AI behavioral reference ([upstream source](https://github.com/forrestchang/andrej-karpathy-skills)) |
-| [cursor/](cursor/) | Example Cursor MCP config |
+| [.cursor/](.cursor/) | Cursor rules and MCP config example |
 | [scripts/](scripts/) | Vault setup scripts |
 
 ## Context stack
@@ -57,7 +57,7 @@ cd ~/Websites/digi-twin
 mkdir -p ~/.cursor/skills/mike-digital-twin
 cp skills/mike-digital-twin/SKILL.md ~/.cursor/skills/mike-digital-twin/
 
-# Cursor MCP — merge cursor/mcp.json.example into ~/.cursor/mcp.json
+# Cursor MCP — merge .cursor/mcp.json.example into ~/.cursor/mcp.json
 # Use API key from Obsidian → Local REST API settings
 ```
 
@@ -68,8 +68,8 @@ Open the vault in [Obsidian](https://obsidian.md), enable plugins, restart MCP i
 ## Cursor integration
 
 - **Global User Skill** — [skills/mike-digital-twin/SKILL.md](skills/mike-digital-twin/SKILL.md) — policy and stack detection
-- **Global MCP** — [cursor/mcp.json.example](cursor/mcp.json.example) — vault retrieval from any workspace
-- **Vault rules** — `.cursor/rules/karpathy-guidelines.mdc` applies when editing this repository
+- **Global MCP** — [.cursor/mcp.json.example](.cursor/mcp.json.example) — vault retrieval from any workspace
+- **Vault rules** — `.cursor/rules/ai-behavior.mdc` (pointers to `Preferences/AI Behavior.md`); `vault-maintenance.mdc` for markdown edits
 
 ## Credits
 
