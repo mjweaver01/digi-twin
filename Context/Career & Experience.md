@@ -2,7 +2,7 @@
 type: context
 tags: [digi-twin, context, career]
 owner: Mike
-updated: 2026-05-20
+updated: 2026-05-21
 status: current
 ---
 
@@ -13,6 +13,19 @@ Source: [Resume](https://mjweaver01.com/Weaver_Michael_Resume.txt)
 ## Summary
 
 Over a decade of professional web development — from e-commerce retail to AI data platforms. Progression from UI developer to lead frontend to full-stack individual contributor.
+
+## Full Stack Developer — Govalo
+
+**Gift Card & Store Credit SaaS** · Remote · Jan 2026 – Present
+
+Embedded Shopify app. Individual contributor across the full stack.
+
+- Next.js frontend (pages router) with Shopify Polaris + App Bridge
+- Koa backend with Inversify DI, BullMQ async job processing, Prisma client, dbmate migrations
+- GraphQL Admin API codegen for Shopify type safety
+- Scrum / JIRA workflow; pre-commit hooks (Husky), ESLint, Prettier
+
+Representative stack: [[Stacks/Shopify App]]
 
 ## Full Stack Developer — Triple Whale
 
@@ -78,7 +91,7 @@ Graduated Summa Cum Laude. Choose Ohio First Scholarship.
 
 ## Representative stack experience
 
+- [[Stacks/Shopify App]] — gift card / store credit SaaS (Govalo)
 - [[Stacks/Bun Monolith]] — AI knowledge base platforms
 - [[Stacks/Vue Serverless]] — production AI chatbots
 - [[Stacks/Express Monolith]] — AI copywriting and content tools
-- [[Stacks/Shopify App]] — gift card / store credit SaaS

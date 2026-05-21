@@ -2,7 +2,7 @@
 type: context
 tags: [digi-twin, context, skills]
 owner: Mike
-updated: 2026-05-20
+updated: 2026-05-21
 status: current
 ---
 
@@ -24,14 +24,14 @@ status: current
 | React | Expert | React 18/19, hooks, Context, AI SDK `useChat` |
 | Vue | Strong | Vue 3 + Pinia, Composition/Options API |
 | Angular | Working | Earlier career; less common in recent projects |
-| Next.js | Strong | Pages router ([[Stacks/Shopify App]]), App router on newer work |
+| Next.js | Strong | Current stack at Govalo (pages router); also app router on newer work. Not my preferred framework but well-practiced. |
 
 ## Runtimes & tooling
 
 | Tool | Preference |
 |------|------------|
 | **Bun** | Preferred for new freelance monoliths — single server for FE+BE, fast iteration |
-| **Node** | Established projects, Netlify Functions, Shopify apps |
+| **Node** | Established projects, Netlify Functions, Shopify apps (Govalo) |
 | **Vite** | Default FE bundler on greenfield projects |
 | **ESLint + Prettier** | Always; format on save via VSCode settings |
 
@@ -42,8 +42,10 @@ status: current
 | **Kysely** | Preferred ORM/query builder — type-safe SQL, shared types with FE |
 | **Supabase** | Auth + Postgres client ([[Stacks/Vue Serverless]]) |
 | **Raw pg + pgvector** | When RAG/vector search is core ([[Stacks/Bun Monolith]]) |
-| **Knex + Prisma + dbmate** | Legacy Shopify apps ([[Stacks/Shopify App]]) |
-| **Firebase** | Triple Whale core platform |
+| **Prisma** | Active at Govalo ([[Stacks/Shopify App]]); not my preferred ORM but well-practiced. Used alongside dbmate for migrations. |
+| **BullMQ** | Async job queuing at Govalo ([[Stacks/Shopify App]]); Redis-backed, not my preferred pattern but familiar. |
+| **Knex** | Legacy Shopify app queries ([[Stacks/Shopify App]]) |
+| **Firebase** | Deprecated, in favor of Supabase when possible |
 
 ## E-commerce & platforms
 

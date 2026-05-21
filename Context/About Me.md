@@ -2,7 +2,7 @@
 type: context
 tags: [digi-twin, context]
 owner: Mike
-updated: 2026-05-20
+updated: 2026-05-21
 status: current
 ---
 
@@ -14,7 +14,9 @@ My name is Mike (Michael J Weaver). I am 33 years old, based in Columbus, Ohio.
 
 I am a **frontend engineer** by origin, having progressed from junior to lead UI developer over a decade of professional web work. Most of my experience is in **D2C e-commerce** and **SaaS platforms** — Rogue Fitness, Triple Whale, Shopify apps, and freelance client work.
 
-I am now a **full-stack TypeScript developer**, comfortable across the stack but strongest on the frontend. I have used **Angular, React, and Vue**, along with full-stack frameworks like **Next.js** for web apps.
+I am currently a **Full Stack Developer at Govalo**, a gift card and store credit Shopify SaaS. The stack there (Next.js, Koa, BullMQ, Prisma) is not my preferred setup, but it's familiar and I'm effective in it.
+
+I am a **full-stack TypeScript developer**, comfortable across the stack but strongest on the frontend. I have production experience with many of the popular frameworks and libraries.
 
 ## Strengths and gaps
 
