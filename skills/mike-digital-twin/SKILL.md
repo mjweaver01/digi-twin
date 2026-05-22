@@ -1,17 +1,21 @@
 ---
 name: mike-digital-twin
 description: >-
-  Load Mike Weaver's digital twin for coding preferences, AI behavior guidelines,
-  and stack-conditional conventions. Use when working on any of Mike's projects
-  or when Mike asks for development help. Fetch vault context via Obsidian MCP
+  Load Mike Weaver's personal digital twin for coding preferences, AI behavior
+  guidelines, and stack-conditional conventions. Use when working on any of
+  Mike's projects or when Mike asks for development help. Works in Cursor,
+  Claude Code, or any MCP-capable agent. Fetch vault context via Obsidian MCP
   (obsidian-mcp-tools); fallback to filesystem at ~/Websites/digi-twin.
+  Others can fork the vault layout and adapt this skill with their own paths.
 ---
 
 # Mike's Digital Twin
 
-Personal context vault: `/Users/michaelweaver/Websites/digi-twin/`
+**Personal profile — Mike Weaver.** Adapt by forking the vault, replacing `Context/` and `Preferences/`, and updating paths below.
 
-Use this skill to work like Mike's pair programmer across all his projects — no per-project AI config needed.
+Context vault: `/Users/michaelweaver/Websites/digi-twin/`
+
+Use this skill to work like Mike's pair programmer across all his projects — no per-project AI config needed. Same policy works as a few-shot prompt if your client has no skill system.
 
 **Prerequisite:** Obsidian open on the digi-twin vault, MCP Tools + Local REST API enabled. Setup: `Notes/Obsidian MCP Setup.md`.
 
@@ -23,7 +27,7 @@ On non-trivial work, load context via **Obsidian MCP** server `obsidian-mcp-tool
 2. `search_vault_smart` — semantic search; use `filter.folders` for `Preferences`, `Stacks`, `Patterns`, `Karpathy`
 3. `get_vault_file` — load full notes by path (e.g. `Preferences/AI Behavior.md`)
 
-**Obsidian must have digi-twin open** — MCP queries the active vault, not the Cursor workspace.
+**Obsidian must have digi-twin open** — MCP queries the active vault, not the open project workspace.
 
 **Filesystem fallback** (MCP down): `Read` / `Grep` on `/Users/michaelweaver/Websites/digi-twin/`.
 

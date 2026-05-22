@@ -2,19 +2,35 @@
 type: context
 tags: [digi-twin, guide]
 owner: Mike
-updated: 2026-05-20
+updated: 2026-05-22
 status: current
 ---
 
 # How to Use the Digital Twin
 
-A practical guide for getting value from this vault in day-to-day development with Cursor and other AI tools.
+A practical guide for getting value from **Mike's personal digital twin** in day-to-day development with Cursor, Claude Code, or any MCP-capable AI agent.
 
 ## What this is
 
-A **portable developer profile** — one place for who you are, how you code, how AI should behave, and conventions by tech stack. No per-repo `CLAUDE.md` or `.cursor/rules/` needed.
+A **portable developer profile** — one place for who I am, how I code, how AI should behave, and conventions by tech stack. No per-repo `CLAUDE.md` or editor-specific rules needed.
+
+This vault is **mine by default** — paths, stack profiles, and preferences reflect how I actually work. The layout is intentionally generic: fork it, replace `Context/` and `Preferences/`, and teach your agent with a copied skill file or a few-shot prompt at session start.
 
 ## The three layers
+
+```mermaid
+flowchart TB
+    L1["Layer 1 — How AI should behave<br/>Preferences/AI Behavior · Code Review · Karpathy"]
+    L2["Layer 2 — How I code<br/>Preferences/* · Patterns/*"]
+    L3["Layer 3 — What shape this project is<br/>Stacks/* (detected from package.json)"]
+
+    L1 --> Agent["AI agent"]
+    L2 --> Agent
+    L3 --> Agent
+
+    L1 -.- Note1["Always applies"]
+    L3 -.- Note3["Runtime detection — not repo lookup"]
+```
 
 | Layer | Source | What it answers |
 |-------|--------|-----------------|
@@ -45,17 +61,17 @@ Layer 1 applies everywhere. Layer 3 is detected at runtime from the open project
 See [[Obsidian MCP Setup]] for one-time install. Daily habit:
 
 - Keep **digi-twin** open in Obsidian while coding in other repos
-- Cursor MCP `obsidian-mcp-tools` must show green in Settings
+- MCP `obsidian-mcp-tools` must be connected in your AI client (green/healthy status)
 
 The agent fetches prefs/stacks via MCP (`search_vault_smart`, `get_vault_file`) — no copying MD files into each project.
 
-### 1. Let the User Skill do the work
+### 1. Let the skill or prompt do the work
 
-Global skill: `~/.cursor/skills/mike-digital-twin/SKILL.md`
-
-Cursor should activate it on your projects. For important tasks, nudge explicitly:
+Copy `skills/mike-digital-twin/SKILL.md` into your client's skill location, or paste a few-shot prompt when starting important work:
 
 > Follow my digital twin — detect the stack and match project config.
+
+Works the same in Cursor (User Skill), Claude Code (project instructions or skill), or any client that can read the skill file.
 
 ### 2. Invoke the behavioral layer on non-trivial tasks
 
@@ -98,6 +114,20 @@ Use [[Preferences/Code Review with AI]] prompts when the diff is large or unfami
 ### 7. Back up the vault
 
 Push to a private git remote. This is professional context worth preserving.
+
+## Adapting for someone else
+
+You do not need my exact stacks or career notes. Minimum viable fork:
+
+1. Replace [[Context/About Me]] and trim `Context/` to what matters
+2. Edit `Preferences/` to your coding and AI behavior defaults
+3. Add or rename `Stacks/` profiles that match your project types
+4. Copy `skills/mike-digital-twin/SKILL.md` → rename paths and owner references
+5. Teach the agent once with a few-shot prompt, then let MCP pull the rest
+
+Example few-shot opener:
+
+> This Obsidian vault is my developer profile. On non-trivial tasks: search Preferences and Stacks via MCP, read the open project's package.json for stack detection, and prefer project-local config over stack defaults. Ask before assuming scope.
 
 ## Stack detection quick reference
 
