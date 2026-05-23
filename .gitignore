@@ -1,2 +1,7 @@
 .obsidian/
 mcp.json
+
+
+
+# Ignore Smart Environment folder
+.smart-env
