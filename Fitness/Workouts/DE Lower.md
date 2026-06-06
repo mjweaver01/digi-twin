@@ -13,23 +13,25 @@
 ---
 
 ## Lower Accessories
+*Pick one option per row — rotate for variation.*
 
 | Exercise | Sets x Reps | Notes |
 |---|---|---|
-| Good Mornings | 3 x 12 | Light barbell — posterior chain |
-| KB Swings | 3 x 20 | 35 lb KB |
+| Good Mornings **or** RDLs | 3 x 12 | Light barbell — posterior chain |
+| KB Swings **or** Hip Thrusts | 3 x 20 | 35 lb KB / glute-focused |
 | Core | 3 x 10–15 | Hanging leg raises or weighted sit-ups |
 
 ---
 
 ## Upper Accessories (bulk focus)
+*Pick one option per row — rotate for variation.*
 
 | Exercise | Sets x Reps | Notes |
 |---|---|---|
-| Lawnmowers | 4 x 10–12 | 35 lb DB — heavy single-arm rows, back thickness |
-| EZ Bar Curls | 3 x 10–12 | Keep the bicep volume going |
-| Hammer Curls | 3 x 12–15 | |
-| Band Tricep Pushdowns | 3 x 15 | |
+| Lawnmowers **or** Bent Over Rows | 4 x 10–12 · 4 x 8–10 | 35 lb DB single-arm / barbell — back thickness |
+| EZ Bar Curls **or** DB Curls | 3 x 10–12 | Keep the bicep volume going |
+| Hammer Curls **or** Cross-Body Hammer Curls | 3 x 12–15 | Brachialis + forearm |
+| Band Tricep Pushdowns **or** Overhead DB Extension | 3 x 15 | Tricep volume |
 
 **Rest:** 45–60s on speed sets, 60–90s on accessories
 
