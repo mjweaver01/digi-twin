@@ -26,7 +26,7 @@ Log entries newest-first. Use the template below for each session.
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
 | Deadlift (work up to heavy triple) | 5 x 3 | 135 / 185 / 200 / 220 / 220 | Ramp; top triple 220x3 x2 |
-| Lateral / Shoulder Raises | 4 x 10 | 5 lb DBs | logged as "10x5x4" — confirm reps/weight |
+| Lateral / Shoulder Raises | 4 x 10 | 10 lb DBs | |
 | KB Swings | 3 x 15 | 35 lb KB | |
 | Arnold Press | 4 x 10 | 20 lb DBs | |
 | Hanging Knee-to-Chest / Sit-ups | 3 x 12 | BW | |
