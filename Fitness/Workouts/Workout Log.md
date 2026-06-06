@@ -18,6 +18,22 @@ Log entries newest-first. Use the template below for each session.
 
 ---
 
+## 2026-06-06 — ME Lower (Deadlift)
+
+**Feel:** —
+**Notes:** Heavy deadlift worked up in triples, topped at 220x3 for two sets. Shoulder-focused accessories.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Deadlift (work up to heavy triple) | 5 x 3 | 135 / 185 / 200 / 220 / 220 | Ramp; top triple 220x3 x2 |
+| Lateral / Shoulder Raises | 4 x 10 | 5 lb DBs | logged as "10x5x4" — confirm reps/weight |
+| KB Swings | 3 x 15 | 35 lb KB | |
+| Arnold Press | 4 x 10 | 20 lb DBs | |
+| Hanging Knee-to-Chest / Sit-ups | 3 x 12 | BW | |
+| Band Pull-Aparts | 3 x 15 | band | |
+
+---
+
 ## 2026-06-04 — Upper Body (Bench / Curl / OHP)
 
 **Feel:** —
