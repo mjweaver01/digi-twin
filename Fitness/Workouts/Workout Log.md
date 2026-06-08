@@ -21,16 +21,16 @@ Log entries newest-first. Use the template below for each session.
 ## 2026-06-08 — Arms (Bis & Tris Pump)
 
 **Feel:** —
-**Notes:** Low-stress pump session — biceps focus, light, keep rest short. Fill in weights as you go.
+**Notes:** Low-stress pump session — biceps focus, light, keep rest short. Weights pre-filled from your kit (25/35 DBs, EZ curl bar) — adjust as you go.
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
-| EZ Bar or DB Curls | 3–4 x 10–12 | | Squeeze at top |
-| Hammer Curls | 3 x 12–15 | | Neutral grip — brachialis/forearm |
-| Cross-Body Hammer Curls | 2–3 x 12 | | Optional bicep variation |
-| DB Overhead Tricep Extension | 3 x 12–15 | | Keep elbows tight |
-| Band Tricep Pushdowns | 3 x 15 | | |
-| Finisher: Band Curls + Kickbacks | 2 x 20 each | | Light, fast |
+| EZ Bar or DB Curls | 3–4 x 10–12 | Curl bar or 25 lb DBs | Squeeze at top |
+| Hammer Curls | 3 x 12–15 | 25 lb DBs | Neutral grip — brachialis/forearm |
+| Cross-Body Hammer Curls | 2–3 x 12 | 25 lb DBs | Optional bicep variation |
+| DB Overhead Tricep Extension | 3 x 12–15 | 25 lb DB | Keep elbows tight |
+| Band Tricep Pushdowns | 3 x 15 | Band | |
+| Finisher: Band Curls + Kickbacks | 2 x 20 each | Band, light | Fast |
 
 ---
 
