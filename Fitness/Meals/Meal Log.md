@@ -23,6 +23,35 @@ Log entries newest-first. Use the template below for each day.
 
 ---
 
+## 2026-06-08
+
+**Training day:** Yes (arm/bicep pump)
+
+| Meal | Food | Cal | Protein | Carbs | Fat |
+|---|---|---|---|---|---|
+| Daytime | Various (so far) | ~1000 | 60g | | |
+| Shake | Calorie/mass-gainer shake | 1200 | 40g | | |
+| Dinner | TBD | | | | |
+| **Total so far** | | **~2200** | **~100g** | | |
+
+**Notes:** Calories on track for the bulk target with dinner. Protein at ~100g so far — aim for a protein-forward dinner (~50–60g) to clear the 155g+ target.
+
+---
+
+## 2026-06-07
+
+**Training day:** No (rest from lifting — heavy housework: gutters + mowed the lawn)
+
+| Meal | Food | Cal | Protein | Carbs | Fat |
+|---|---|---|---|---|---|
+| Shakes / Yogurt | Protein shakes + yogurt | ~1400 | ~130g | ~est | ~est |
+| Pizza | Pizza | ~600 | ~20g | ~est | ~est |
+| **Total** | | **~2000** | **~150g** | ~est | ~est |
+
+**Notes:** Weigh-in 156 → 154 over the day (water/food fluctuation from a sweaty labor day, not real loss). Protein solid at ~150g. Calories ~2000 — under the 2800–3000 bulk target, though the day's physical labor burned extra.
+
+---
+
 ## 2026-06-06
 
 **Training day:** Yes (ME Lower)

@@ -39,9 +39,9 @@
 | Curl bar | EZ bar |
 | Squat rack | Full rack |
 | Bench | Adjustable |
-| Dumbbells | 20 lb, 35 lb |
+| Dumbbells | 25 lb, 35 lb |
 | Kettlebells | 25 lb, 35 lb |
-| Plates | 45 / 25 / 15 / 10 / 5 lb |
+| Plates | 45 / 25 / 15 / 10 / 5 lb — **~220 lb total loadable** |
 | Bands | Light–heavy (DE work + accessories) |
 
 *No reverse hyper, no chains, no monolift — program around this accordingly*
