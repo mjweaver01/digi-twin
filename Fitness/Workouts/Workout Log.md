@@ -18,6 +18,23 @@ Log entries newest-first. Use the template below for each session.
 
 ---
 
+## 2026-06-09 — ME Upper (Bench)
+
+**Feel:** —
+**Notes:** Max-effort bench day. Eat + shake before you lift — don't max under-fueled. Work up to a heavy single/double/triple, then accessories. Weights from your kit; log actuals.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Bench Press (work up to heavy single/double/triple) | Ramp → top set | 45 / 95 / 115 / 135 → heavy single | Ramp slowly; stop if form breaks. Last bench was 115x5 — push past it |
+| JM Press | 3–4 x 8–10 | EZ curl bar | Tricep mass — bar to throat, elbows forward |
+| Lawnmowers (single-arm DB row) | 4 x 10–12 | 35 lb DB | Heavy, brace hard |
+| DB Incline Press | 3–4 x 10–12 | 35 lb DBs | Upper chest thickness |
+| Band Pull-Aparts / Face Pulls | 3–4 x 20 | Band | Rear delt, shoulder health |
+| EZ Bar Curls | 3 x 10–12 | Curl bar | |
+| Hammer Curls | 2–3 x 12–15 | 25 lb DBs | Brachialis/forearm |
+
+---
+
 ## 2026-06-08 — Arms (Bis & Tris Pump)
 
 **Feel:** —

@@ -23,6 +23,21 @@ Log entries newest-first. Use the template below for each day.
 
 ---
 
+## 2026-06-09
+
+**Training day:** Yes (ME Upper)
+
+| Meal | Food | Cal | Protein | Carbs | Fat |
+|---|---|---|---|---|---|
+| Buffet | Indian buffet (big plate) | ~900 | ~35g | ~90g | ~40g |
+| Dinner | Chicken (6 oz) + rice | ~590 | ~58g | ~67g | ~7g |
+| Shake | Mass gainer / protein powder (fill remainder) | ~1300 | ~65g | ~est | ~est |
+| **Total** | | **~2790** | **~158g** | | |
+
+**Notes:** Weigh-in 157. Buffet was the only food until topping up with chicken + rice and mass-gainer powder. Aim for ~1300 cal / ~60–65g protein from the powder to clear the ~2800 cal and 155g+ protein targets. Estimates.
+
+---
+
 ## 2026-06-08
 
 **Training day:** Yes (arm/bicep pump)
