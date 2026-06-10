@@ -25,16 +25,17 @@ Log entries newest-first. Use the template below for each day.
 
 ## 2026-06-09
 
-**Training day:** Yes (ME Upper)
+**Training day:** No (rest day — planned ME Upper moved to 6/10)
 
 | Meal | Food | Cal | Protein | Carbs | Fat |
 |---|---|---|---|---|---|
-| Buffet | Indian buffet (big plate) | ~900 | ~35g | ~90g | ~40g |
-| Dinner | Chicken (6 oz) + rice | ~590 | ~58g | ~67g | ~7g |
-| Shake | Mass gainer / protein powder (fill remainder) | ~1300 | ~65g | ~est | ~est |
-| **Total** | | **~2790** | **~158g** | | |
+| Meal | Rice + chicken | ~900 | ~50g | ~90g | ~25g |
+| Snack | Banana | ~105 | ~1g | ~27g | ~0g |
+| Snack | Yogurt | ~150 | 20g | ~12g | ~3g |
+| Shake | Protein / mass-gainer shake (made with 6% milk) | ~850 | ~45g | ~est | ~est |
+| **Total** | | **~2005** | **~116g** | | |
 
-**Notes:** Weigh-in 157. Buffet was the only food until topping up with chicken + rice and mass-gainer powder. Aim for ~1300 cal / ~60–65g protein from the powder to clear the ~2800 cal and 155g+ protein targets. Estimates.
+**Notes:** Weigh-in 157. Rest day. Shakes made with 6% whole milk (extra fat + calories vs water — good for the bulk). Calories ~2005 and protein ~116g — still under the 2800–3000 cal / 155g+ protein targets, but closer. Estimates.
 
 ---
 

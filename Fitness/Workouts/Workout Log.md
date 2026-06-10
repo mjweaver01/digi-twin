@@ -18,7 +18,7 @@ Log entries newest-first. Use the template below for each session.
 
 ---
 
-## 2026-06-09 — ME Upper (Bench)
+## 2026-06-10 — ME Upper (Bench)
 
 **Feel:** —
 **Notes:** Max-effort bench day. Eat + shake before you lift — don't max under-fueled. Work up to a heavy single/double/triple, then accessories. Weights from your kit; log actuals.
@@ -32,6 +32,13 @@ Log entries newest-first. Use the template below for each session.
 | Band Pull-Aparts / Face Pulls | 3–4 x 20 | Band | Rear delt, shoulder health |
 | EZ Bar Curls | 3 x 10–12 | Curl bar | |
 | Hammer Curls | 2–3 x 12–15 | 25 lb DBs | Brachialis/forearm |
+
+---
+
+## 2026-06-09 — Rest Day
+
+**Feel:** —
+**Notes:** Rest day — no training. Planned ME Upper moved to 6/10.
 
 ---
 
