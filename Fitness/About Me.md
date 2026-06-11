@@ -65,3 +65,19 @@
 - Conjugate 4-day split in use (ME Upper, ME Lower, DE Upper, DE Lower)
 - Week 1 program on file (see Workouts log)
 - Good movement foundation from CrossFit background
+# Nutrition
+
+## Calorie & Protein Boosters
+
+High-leverage additions to close the ~700–900 cal daily deficit:
+
+- **4–6 eggs daily** — ~70 cal / 6g protein each, easy to add anywhere
+- **Cottage cheese** — 1 cup = ~200 cal / 25g protein; good evening snack (supports overnight muscle protein synthesis)
+- **Double chicken at lunch** — 4oz → 8oz adds ~200 cal / 50g protein
+- **Peanut butter on everything** — 2 tbsp = ~190 cal, minimal effort
+- **Cheese on everything** — easy calorie density add
+- **Olive oil on rice** — 1 tbsp = ~120 cal, tasteless
+- **Whole milk as default** for all shakes (already doing this — keep it consistent)
+
+Main gap is calories, not protein. Fat is the lever — nuts, PB, oils, dairy add density without volume.
+

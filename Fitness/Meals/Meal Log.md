@@ -1,5 +1,21 @@
 # Meal Log
 
+## 2026-06-11
+
+**Training day:** Yes (DE Lower)
+
+| Meal | Food | Cal | Protein | Carbs | Fat |
+|---|---|---|---|---|---|
+| Morning | Protein shake (ON Gold Standard + whole milk) | ~270 | ~32g | ~14g | ~10g |
+| Smoothie | Banana, 3 strawberries, heaping spoonful PB, milk, ½ serving protein powder | ~400 | ~20g | ~45g | ~12g |
+| Shake | Protein shake (ON Gold Standard + whole milk) | ~270 | ~32g | ~14g | ~10g |
+| Snack | 20g protein yogurt | ~150 | ~20g | ~12g | ~3g |
+| **Total so far** | | **~1090** | **~104g** | **~85g** | **~35g** |
+
+**Notes:** In progress. ~104g protein so far — need ~50g+ more to hit the 155g target. Calories at ~1090, well under the 2800–3000 bulk target — big dinner needed. Estimates.
+
+---
+
 ## 2026-06-10
 
 **Training day:** Yes (slated workout completed)
@@ -17,7 +33,6 @@
 **Notes:** Training day — workout completed. Protein ~159g, on target. Calories ~2120, still under the 2800–3000 bulk target. Good whole foods day (nuts, berries, veggies). Estimates.
 
 ---
-
 
 Log entries newest-first. Use the template below for each day.
 
