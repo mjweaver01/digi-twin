@@ -1,5 +1,24 @@
 # Meal Log
 
+## 2026-06-10
+
+**Training day:** Yes (slated workout completed)
+
+| Meal | Food | Cal | Protein | Carbs | Fat |
+|---|---|---|---|---|---|
+| Morning | Protein shake | ~200 | ~25g | ~10g | ~5g |
+| Snack | Mixed nuts (walnuts, almonds, pistachios) + strawberries | ~320 | ~9g | ~20g | ~24g |
+| Lunch | Carrots, celery, cucumber + chicken pieces | ~300 | ~35g | ~15g | ~5g |
+| Post-workout | Protein shake | ~200 | ~25g | ~10g | ~5g |
+| Dinner | Beef crunchwrap | ~700 | ~30g | ~65g | ~35g |
+| Evening | Half meal replacement + half protein shake + milk | ~400 | ~35g | ~30g | ~10g |
+| **Total** | | **~2120** | **~159g** | **~150g** | **~84g** |
+
+**Notes:** Training day — workout completed. Protein ~159g, on target. Calories ~2120, still under the 2800–3000 bulk target. Good whole foods day (nuts, berries, veggies). Estimates.
+
+---
+
+
 Log entries newest-first. Use the template below for each day.
 
 ---
