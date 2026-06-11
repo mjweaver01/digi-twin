@@ -1,5 +1,24 @@
 # Workout Log
 
+## 2026-06-11 — DE Lower
+
+**Feel:** —
+**Notes:** Speed day — stay explosive, short rests. ~60% of ME Lower top weight (220 lbs → ~135 lbs).
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Box Squats | 10–12 x 2 | ~135 lbs | Sit back, pause, explode up. 45–60s rest |
+| Speed Deadlifts | 6–8 x 1 | ~130 lbs | Full reset each rep, explosive pull |
+| Good Mornings or RDLs | 3 x 12 | Light barbell | Posterior chain |
+| KB Swings or Hip Thrusts | 3 x 20 | 35 lb KB | Glute-focused |
+| Core (hanging leg raises or weighted sit-ups) | 3 x 10–15 | BW / light | |
+| Lawnmowers or Bent Over Rows | 4 x 10–12 | 35 lb DB | Back thickness |
+| EZ Bar or DB Curls | 3 x 10–12 | Curl bar / 25s | |
+| Hammer Curls | 3 x 12–15 | 25 lb DBs | |
+
+---
+
+
 Log entries newest-first. Use the template below for each session.
 
 ---
