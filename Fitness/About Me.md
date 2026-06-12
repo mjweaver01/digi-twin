@@ -61,23 +61,25 @@
 **Caloric goal:** 2800–3000+ cal/day (aggressive surplus for bulk)
 **Protein target:** 155–185g/day (1.0–1.2g per lb bodyweight)
 
+### Supplements (Optimum Nutrition)
+- **Mass gainer (full serving):** ~1250 cal / ~50g protein — highest calorie/protein density item in the diet. Half serving = ~625 cal / ~25g protein.
+- **Pre-workout w/ creatine:** 1 scoop morning + 1 scoop before workout = 1 full serving (daily)
+- **Whey (Gold Standard) + whole milk:** ~270 cal / ~32g protein per shake
+
+## Calorie & Protein Boosters
+High-leverage additions to close the ~700–900 cal daily deficit, prioritizing small volume / high density:
+
+- **Full mass gainer serving** — ~1250 cal / ~50g protein, single biggest lever
+- **Peanut butter** — 2 tbsp = ~190 cal / 8g protein
+- **Cottage cheese** — 1 cup = ~200 cal / 25g protein; good evening snack
+- **Double chicken at lunch** — 4oz → 8oz adds ~200 cal / 50g protein
+- **Cheese (provolone/cheddar)** — ~100–110 cal / 6–7g protein per slice
+- **Olive oil on rice** — 1 tbsp = ~120 cal, tasteless
+- **4–6 eggs daily** — ~70 cal / 6g protein each
+
+Main gap is calories, not protein. Fat is the lever — nuts, PB, oils, dairy, mass gainer add density without volume.
+
 ## Notes from Nitro.ai
 - Conjugate 4-day split in use (ME Upper, ME Lower, DE Upper, DE Lower)
 - Week 1 program on file (see Workouts log)
 - Good movement foundation from CrossFit background
-# Nutrition
-
-## Calorie & Protein Boosters
-
-High-leverage additions to close the ~700–900 cal daily deficit:
-
-- **4–6 eggs daily** — ~70 cal / 6g protein each, easy to add anywhere
-- **Cottage cheese** — 1 cup = ~200 cal / 25g protein; good evening snack (supports overnight muscle protein synthesis)
-- **Double chicken at lunch** — 4oz → 8oz adds ~200 cal / 50g protein
-- **Peanut butter on everything** — 2 tbsp = ~190 cal, minimal effort
-- **Cheese on everything** — easy calorie density add
-- **Olive oil on rice** — 1 tbsp = ~120 cal, tasteless
-- **Whole milk as default** for all shakes (already doing this — keep it consistent)
-
-Main gap is calories, not protein. Fat is the lever — nuts, PB, oils, dairy add density without volume.
-

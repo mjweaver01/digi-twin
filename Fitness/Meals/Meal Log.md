@@ -10,9 +10,13 @@
 | Smoothie | Banana, 3 strawberries, heaping spoonful PB, milk, ½ serving protein powder | ~400 | ~20g | ~45g | ~12g |
 | Shake | Protein shake (ON Gold Standard + whole milk) | ~270 | ~32g | ~14g | ~10g |
 | Snack | 20g protein yogurt | ~150 | ~20g | ~12g | ~3g |
-| **Total so far** | | **~1090** | **~104g** | **~85g** | **~35g** |
+| Shake | Half mass gainer shake (ON, 6% milk) | ~625 | ~25g | ~est | ~est |
+| Shake | Protein shake (ON Gold Standard + whole milk) | ~270 | ~32g | ~14g | ~10g |
+| Snack | 20g protein yogurt shake | ~150 | ~20g | ~12g | ~3g |
+| Snack | 2 slices provolone + 2 slices turkey | ~260 | ~24g | ~3g | ~18g |
+| **Total** | | **~2425** | **~205g** | **~100g+** | **~56g+** |
 
-**Notes:** In progress. ~104g protein so far — need ~50g+ more to hit the 155g target. Calories at ~1090, well under the 2800–3000 bulk target — big dinner needed. Estimates.
+**Notes:** Training day (DE Lower). Protein ~205g — well above the 155–185g target. Calories ~2425 — closer to the bulk target, still ~400–600 short of 2800–3000. Mass gainer corrected to 1250 cal / 50g protein per full serving (ON). Heavy on shakes/cheese today; carb/fat totals rough due to mass-gainer estimate gaps. Estimates.
 
 ---
 
