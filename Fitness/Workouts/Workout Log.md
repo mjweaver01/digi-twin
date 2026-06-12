@@ -1,5 +1,24 @@
 # Workout Log
 
+## 2026-06-12 — DE Upper
+
+**Feel:** —
+**Notes:** Speed day, completes the 4-day rotation (ME Lower 6/6 → Arms 6/8 → ME Upper 6/10 → DE Lower 6/11 → DE Upper 6/12). Percentages based on 6/10 ME Upper heavy single ~135 lbs. Nitro-confirmed plan.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Bench Press | 9 x 3 | ~80 lbs (bar + ~15–20/side) | ~60% of 135. Rotate grip close/medium/wide (3 sets each). 45–60s rest. Add bands if available |
+| DB Incline Press or Flat DB Press | 4 x 10–12 | 35 lb DBs | Upper chest |
+| Bent Over Rows or Lawnmowers | 4 x 8–10 / 4 x 10–12 | Barbell / 35 lb DB | Back width/thickness |
+| Arnold Press or OHP | 4 x 10–12 | 35 lb DBs | Delts |
+| JM Press or Band Tricep Pushdowns | 3–4 x 10–12 / 3 x 12–15 | EZ bar / band | Tricep |
+| EZ Bar Skull Crushers or Close-Grip Push-ups | 3 x 10–12 | EZ bar / BW | |
+| EZ Bar or DB Curls | 3 x 10–12 | Curl bar / 25s | |
+| Hammer Curls | 3 x 12–15 | 25 lb DBs | |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Don't skip — shoulder health |
+
+---
+
 ## 2026-06-11 — DE Lower
 
 **Feel:** —
