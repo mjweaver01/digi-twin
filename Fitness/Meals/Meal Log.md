@@ -1,5 +1,35 @@
 # Meal Log
 
+## 2026-06-13
+
+**Training day:** No (rest — recommended after 3 consecutive training days: ME Upper 6/10, DE Lower 6/11, DE Upper 6/12)
+
+| Meal | Food | Cal | Protein | Carbs | Fat |
+|---|---|---|---|---|---|
+| Morning | Protein shake | ~270 | ~32g | ~14g | ~10g |
+| **Total so far** | | **~270** | **~32g** | **~14g** | **~10g** |
+
+**Notes:** In progress. Rest day — full ME/DE Upper+Lower rotation completed 6/10–6/12. Estimates.
+
+---
+
+## 2026-06-12
+
+**Training day:** Yes (DE Upper)
+
+| Meal | Food | Cal | Protein | Carbs | Fat |
+|---|---|---|---|---|---|
+| Morning | Protein shake (ON Gold Standard + whole milk) | ~270 | ~32g | ~14g | ~10g |
+| Shake | 3/4 mass gainer shake (ON, whole milk) | ~940 | ~38g | ~est | ~est |
+| Shake | Protein shake (ON Gold Standard + whole milk) | ~270 | ~32g | ~14g | ~10g |
+| Shake | Full meal replacement shake | ~450 | ~35g | ~45g | ~12g |
+| Dinner | Chicken fried rice + 1 tsp butter | ~650 | ~35g | ~70g | ~22g |
+| **Total** | | **~2580** | **~172g** | **~143g+** | **~54g+** |
+
+**Notes:** Training day (DE Upper). Protein ~172g — solidly in the 155–185g target. Calories ~2580 — closer to the bulk target, still ~200–400 short of 2800–3000. Mass gainer carb/fat unknown beyond cal/protein; estimates.
+
+---
+
 ## 2026-06-11
 
 **Training day:** Yes (DE Lower)
