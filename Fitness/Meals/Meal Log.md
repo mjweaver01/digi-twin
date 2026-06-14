@@ -7,9 +7,15 @@
 | Meal | Food | Cal | Protein | Carbs | Fat |
 |---|---|---|---|---|---|
 | Morning | Protein shake | ~270 | ~32g | ~14g | ~10g |
-| **Total so far** | | **~270** | **~32g** | **~14g** | **~10g** |
+| Shake | Protein shake | ~270 | ~32g | ~14g | ~10g |
+| Dinner | Arancini | ~300 | ~6g | ~35g | ~15g |
+| Dinner | Cavatelli (1.5 cups) + 1 meatball + marinara | ~515 | ~23g | ~73g | ~13.5g |
+| Dinner | Caesar salad | ~250 | ~6g | ~10g | ~20g |
+| Dinner | Piece of bread | ~120 | ~4g | ~22g | ~2g |
+| Evening | Meal replacement shake | ~450 | ~35g | ~45g | ~12g |
+| **Total** | | **~2175** | **~138g** | **~213g** | **~82.5g** |
 
-**Notes:** In progress. Rest day — full ME/DE Upper+Lower rotation completed 6/10–6/12. Estimates.
+**Notes:** Rest day, complete. Protein ~138g — solid for a rest day, still ~17–47g under the 155–185g target. Calories ~2175 — a bit below the 2800–3000 bulk target, but reasonable for a non-training day. Estimates.
 
 ---
 
