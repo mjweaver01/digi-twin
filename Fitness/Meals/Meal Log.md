@@ -1,5 +1,25 @@
 # Meal Log
 
+## 2026-06-14
+
+**Training day:** Yes (ME Lower — Box Squat + Arm Blast)
+
+| Meal | Food | Cal | Protein | Carbs | Fat |
+|---|---|---|---|---|---|
+| Morning | Protein shake (water) | ~120 | ~24g | ~3g | ~1g |
+| Snack | Half hot dog | ~150 | ~6g | ~15g | ~8.5g |
+| Snack | Half slice pizza | ~143 | ~6g | ~18g | ~5g |
+| Pre-workout | Protein shake | ~150 | ~30g | ~4g | ~1g |
+| Post-workout | Cavatelli (1.5 cups) + marinara | ~315 | ~12g | ~60g | ~1.5g |
+| Drink | Pressed juice | ~150 | ~1g | ~36g | ~0g |
+| Dinner | Mass gainer shake (full serving, ON) | ~1250 | ~50g | ~est | ~est |
+| Snack | Built Bar | ~150 | ~16g | ~14g | ~5g |
+| **Total so far** | | **~2428** | **~145g** | **~150g+** | **~22g+** |
+
+**Notes:** In progress. Training day — ME Lower (box squat) + arm blast completed. Protein ~145g — close to the 155–185g target, ~10–40g short. Calories ~2428 — ~372–572 short of the 2800–3000 bulk target; mass gainer carb/fat unknown beyond cal/protein. Estimates.
+
+---
+
 ## 2026-06-13
 
 **Training day:** No (rest — recommended after 3 consecutive training days: ME Upper 6/10, DE Lower 6/11, DE Upper 6/12)

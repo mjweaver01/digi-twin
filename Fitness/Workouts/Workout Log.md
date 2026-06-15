@@ -1,23 +1,41 @@
 # Workout Log
 
-## 2026-06-14 — ME Lower (Box Squat) + Arm Blast
+## 2026-06-15 — ME Upper (Incline Bench)
 
 **Feel:** —
-**Notes:** Restarting the 4-day rotation after rest day (6/13). ME Lower day — rotating the max-effort lift to box squat (last ME Lower was deadlift on 6/6, per conjugate principle of varying the ME exercise). DE Lower box squats were ~135 lbs (~60% of an estimated ~225 1RM) — ramp toward that range for today's heavy single/triple, log actuals. Heavy arm accessory block per Nitro — high volume, 60-90s rest, push for the pump as requested.
+**Notes:** Continuing the restarted rotation (ME Lower 6/14 → ME Upper 6/15 → DE Lower → DE Upper). Rotating the max-effort lift to incline barbell bench press (last ME Upper on 6/10 was flat bench, heavy single ~135 lbs) — per conjugate principle of varying the ME exercise to avoid accommodation. Nitro-confirmed plan.
 
-| Exercise                                   | Sets x Reps    | Weight                                          | Notes                                                                           |
-| ------------------------------------------ | -------------- | ----------------------------------------------- | ------------------------------------------------------------------------------- |
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Incline Barbell Bench Press (work up to heavy single/triple) | Ramp → top set | 45 / 65 / 85 / 105 / 115 → heavy single/triple | New ME variation — upper chest/shoulder emphasis. Ramp slowly, stop if form breaks |
+| EZ Bar Skull Crushers | 3 x 8–12 | EZ bar | Tricep lockout strength |
+| Rolling DB Tricep Extension | 3 x 8–12 | 25–35 lb DB | Lying, full stretch at bottom |
+| Band Pushdowns | 3 x 12–15 | Band | Maintain tension through lockout |
+| Barbell or EZ Bar Rows | 4 x 8–10 | Barbell / EZ bar | Balance pushing — back thickness |
+| Flat DB Press | 3 x 10–12 | 35 lb DBs | Different angle from the main lift |
+| Hammer Curls | 3 x 10–12 | 25–35 lb DBs | Arm balance / elbow stability |
+| Band Pull-Aparts / Face Pulls | 3 x 15–20 | Band | Shoulder health — don't skip |
+
+---
+
+## 2026-06-14 — ME Lower (Box Squat) + Arm Blast ✅ Completed
+
+**Feel:** —
+**Notes:** Completed. Restarting the 4-day rotation after rest day (6/13). ME Lower day — rotating the max-effort lift to box squat (last ME Lower was deadlift on 6/6, per conjugate principle of varying the ME exercise). DE Lower box squats were ~135 lbs (~60% of an estimated ~225 1RM) — ramped toward that range for today's heavy single/triple. Heavy arm accessory block per Nitro — high volume, 60-90s rest, pushed for the pump as requested.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
 | Box Squat (work up to heavy single/triple) | Ramp → top set | 45 / 95 / 135 / 175 / 205 → heavy single/triple | Sit back to box, brief pause, drive up explosively. Stop ramping if form breaks |
-| Good Mornings                              | 3 x 10–15      | Light barbell                                   | Posterior chain — keep light after heavy squat                                  |
-| EZ Bar Skull Crushers                      | 4 x 8–12       | EZ bar                                          | Tricep mass                                                                     |
-| Rolling DB Tricep Extension                | 3 x 10–12      | 25–35 lb DB                                     | Lying, full stretch at bottom                                                   |
-| Band Tricep Pushdowns                      | 100 reps total | Band                                            | Break into sets of ~20–25, short rest — burnout                                 |
-| EZ Bar Curls                               | 4 x 8–12       | EZ bar                                          | Bicep mass                                                                      |
-| Hammer Curls                               | 3 x 12–15      | 25–35 lb DBs                                    | Brachialis/forearm                                                              |
-| Banded Curls                               | 3 x 15–20      | Band                                            | Extra burn finisher                                                             |
-| EZ Bar Reverse Curls                       | 3 x 10–12      | EZ bar                                          | Forearm/grip                                                                    |
-| Weighted Side Bends                        | 3 x 10/side    | 25 lb DB                                        | Core                                                                            |
-| Hanging Knee Raises or Planks              | 3 sets         | BW                                              | Core finisher                                                                   |
+| Good Mornings | 3 x 10–15 | Light barbell | Posterior chain — keep light after heavy squat |
+| EZ Bar Skull Crushers | 4 x 8–12 | EZ bar | Tricep mass |
+| Rolling DB Tricep Extension | 3 x 10–12 | 25–35 lb DB | Lying, full stretch at bottom |
+| Band Tricep Pushdowns | 100 reps total | Band | Break into sets of ~20–25, short rest — burnout |
+| EZ Bar Curls | 4 x 8–12 | EZ bar | Bicep mass |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Brachialis/forearm |
+| Banded Curls | 3 x 15–20 | Band | Extra burn finisher |
+| EZ Bar Reverse Curls | 3 x 10–12 | EZ bar | Forearm/grip |
+| Weighted Side Bends | 3 x 10/side | 25 lb DB | Core |
+| Hanging Knee Raises or Planks | 3 sets | BW | Core finisher |
 
 ---
 
