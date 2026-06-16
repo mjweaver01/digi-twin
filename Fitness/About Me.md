@@ -54,7 +54,7 @@
 | Pre-lunch | Protein shake |
 | Lunch | Chicken or salmon + rice or yams + avocado, almonds/mixed nuts, cheese, egg, or baby greens w/ balsamic |
 | Dinner | Eat to fullness — no strict structure |
-| Supplements | Mass gainer, pre-workout with creatine (daily) |
+| Supplements | Mass gainer (daytime only), pre-workout with creatine (daily) |
 
 **Typical lunch macros:** ~870–970 cal / ~46–57g protein / ~80–87g carbs / ~34–43g fat
 
@@ -63,21 +63,30 @@
 
 ### Supplements (Optimum Nutrition)
 - **Mass gainer (full serving):** ~1250 cal / ~50g protein — highest calorie/protein density item in the diet. Half serving = ~625 cal / ~25g protein.
+  - ⚠️ **DAYTIME ONLY** — evening/nighttime use causes blood sugar spike, sweating, and disrupted sleep. Take in the morning, pre-workout, or post-workout only. Do NOT suggest as an evening calorie closer.
 - **Pre-workout w/ creatine:** 1 scoop morning + 1 scoop before workout = 1 full serving (daily)
 - **Whey (Gold Standard) + whole milk:** ~270 cal / ~32g protein per shake
 
 ## Calorie & Protein Boosters
-High-leverage additions to close the ~700–900 cal daily deficit, prioritizing small volume / high density:
 
-- **Full mass gainer serving** — ~1250 cal / ~50g protein, single biggest lever
-- **Peanut butter** — 2 tbsp = ~190 cal / 8g protein
-- **Cottage cheese** — 1 cup = ~200 cal / 25g protein; good evening snack
+### Daytime (anytime)
+High-leverage additions to close the calorie gap — small volume, high density:
+- **Full mass gainer serving** — ~1250 cal / ~50g protein, single biggest lever (daytime only — see above)
 - **Double chicken at lunch** — 4oz → 8oz adds ~200 cal / 50g protein
-- **Cheese (provolone/cheddar)** — ~100–110 cal / 6–7g protein per slice
 - **Olive oil on rice** — 1 tbsp = ~120 cal, tasteless
-- **4–6 eggs daily** — ~70 cal / 6g protein each
+- **4–6 eggs** — ~70 cal / 6g protein each
 
-Main gap is calories, not protein. Fat is the lever — nuts, PB, oils, dairy, mass gainer add density without volume.
+### Evening / Late Night
+Fat + protein dominant — slow-digesting, no blood sugar spike, won't disrupt sleep:
+- **Cottage cheese** — 1 cup = ~200 cal / 25g protein; ideal evening snack, casein-heavy (slow-digesting)
+- **Peanut butter** — 2 tbsp = ~190 cal / 8g protein; fat slows absorption
+- **Cheese + deli meat** — 2 slices provolone + 2 slices turkey = ~260 cal / 24g protein; zero carb spike
+- **Whole milk** — 8oz = ~150 cal / 8g protein; fat content slows absorption
+- **Walnuts/almonds** — 1oz = ~170 cal / 6g protein; fat-dominant, zero glycemic impact
+- **Protein shake with milk** — ~270 cal / 32g protein; much lower carb than mass gainer
+- **Eggs (2–3 scrambled)** — ~210 cal / 18g protein; protein + fat, no spike
+
+Main gap is calories, not protein. For evening, lean on fat-based foods rather than carb-heavy shakes.
 
 ## Notes from Nitro.ai
 - Conjugate 4-day split in use (ME Upper, ME Lower, DE Upper, DE Lower)
