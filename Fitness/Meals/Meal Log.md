@@ -1,5 +1,22 @@
 # Meal Log
 
+## 2026-06-16
+
+**Training day:** Yes (DE Lower)
+
+| Meal | Food | Cal | Protein | Carbs | Fat |
+|---|---|---|---|---|---|
+| Morning | 20g protein yogurt | ~150 | ~20g | ~12g | ~3g |
+| Shake | 3/4 mass gainer shake (ON) | ~940 | ~38g | ~est | ~est |
+| Breakfast | Catalina Crunch protein cereal (1 cup) | ~120 | ~11g | ~17g | ~3g |
+| Post-workout | Protein shake (30g) | ~150 | ~30g | ~4g | ~1g |
+| Dinner | Crunchwrap | ~700 | ~30g | ~65g | ~35g |
+| **Total** | | **~2060** | **~129g** | **~98g+** | **~42g+** |
+
+**Notes:** Day complete. Training day. Protein ~129g — under the 155–185g target by ~26–56g. Calories ~2060 — under the 2800–3000 bulk target by ~740–940. Pre-workout mass gainer helped on calories but a mid-day protein snack (yogurt, cottage cheese, deli meat) between the shake and dinner would close the gap next time. Mass gainer carb/fat unknown. Estimates.
+
+---
+
 ## 2026-06-15
 
 **Training day:** Yes (ME Upper — Incline Bench)
@@ -17,7 +34,7 @@
 | Evening | Protein shake (30g) | ~150 | ~30g | ~4g | ~1g |
 | **Total** | | **~1983** | **~179g** | **~193g** | **~54g** |
 
-**Notes:** Day complete. Training day. Protein ~179g — right at the top of the 155–185g target, excellent. Calories ~1983 — about ~820–1020 short of the 2800–3000 bulk target; mass gainer excluded per evening constraint. Need to front-load more calories during the day (mass gainer with morning/post-workout shakes). Estimates.
+**Notes:** Day complete. Training day. Protein ~179g — excellent. Calories ~1983 — short on calories but strong protein day. Estimates.
 
 ---
 
@@ -37,7 +54,7 @@
 | Snack | Built Bar | ~150 | ~16g | ~14g | ~5g |
 | **Total** | | **~2428** | **~145g** | **~150g+** | **~22g+** |
 
-**Notes:** Training day — ME Lower (box squat) + arm blast completed. Protein ~145g — close to the 155–185g target. Calories ~2428 — ~372–572 short of the 2800–3000 bulk target. Mass gainer carb/fat unknown beyond cal/protein. Estimates.
+**Notes:** Training day — ME Lower (box squat) + arm blast completed. Protein ~145g. Calories ~2428. Estimates.
 
 ---
 
@@ -56,7 +73,7 @@
 | Evening | Meal replacement shake | ~450 | ~35g | ~45g | ~12g |
 | **Total** | | **~2175** | **~138g** | **~213g** | **~82.5g** |
 
-**Notes:** Rest day, complete. Protein ~138g — solid for a rest day. Calories ~2175 — reasonable for a non-training day. Estimates.
+**Notes:** Rest day, complete. Protein ~138g. Calories ~2175. Estimates.
 
 ---
 
@@ -73,7 +90,7 @@
 | Dinner | Chicken fried rice + 1 tsp butter | ~650 | ~35g | ~70g | ~22g |
 | **Total** | | **~2580** | **~172g** | **~143g+** | **~54g+** |
 
-**Notes:** Training day (DE Upper). Protein ~172g — solidly in the 155–185g target. Calories ~2580 — still ~200–400 short of 2800–3000. Estimates.
+**Notes:** Training day (DE Upper). Protein ~172g. Calories ~2580. Estimates.
 
 ---
 
@@ -93,7 +110,7 @@
 | Snack | 2 slices provolone + 2 slices turkey | ~260 | ~24g | ~3g | ~18g |
 | **Total** | | **~2425** | **~205g** | **~100g+** | **~56g+** |
 
-**Notes:** Training day (DE Lower). Protein ~205g — well above the 155–185g target. Calories ~2425 — still ~400–600 short of 2800–3000. Estimates.
+**Notes:** Training day (DE Lower). Protein ~205g. Calories ~2425. Estimates.
 
 ---
 
@@ -111,7 +128,7 @@
 | Evening | Half meal replacement + half protein shake + milk | ~400 | ~35g | ~30g | ~10g |
 | **Total** | | **~2120** | **~159g** | **~150g** | **~84g** |
 
-**Notes:** Training day — workout completed. Protein ~159g, on target. Calories ~2120, still under the 2800–3000 bulk target. Estimates.
+**Notes:** Training day — workout completed. Protein ~159g. Calories ~2120. Estimates.
 
 ---
 
@@ -150,7 +167,7 @@ Log entries newest-first. Use the template below for each day.
 | Shake | Protein / mass-gainer shake (made with 6% milk) | ~850 | ~45g | ~est | ~est |
 | **Total** | | **~2005** | **~116g** | | |
 
-**Notes:** Weigh-in 157. Rest day. Shakes made with 6% whole milk — extra fat + calories vs water. Calories ~2005 and protein ~116g — still under targets. Estimates.
+**Notes:** Weigh-in 157. Rest day. Estimates.
 
 ---
 
@@ -165,8 +182,6 @@ Log entries newest-first. Use the template below for each day.
 | Dinner | TBD | | | | |
 | **Total so far** | | **~2200** | **~100g** | | |
 
-**Notes:** Calories on track for the bulk target with dinner. Protein at ~100g so far — aim for a protein-forward dinner (~50–60g) to clear the 155g+ target.
-
 ---
 
 ## 2026-06-07
@@ -178,8 +193,6 @@ Log entries newest-first. Use the template below for each day.
 | Shakes / Yogurt | Protein shakes + yogurt | ~1400 | ~130g | ~est | ~est |
 | Pizza | Pizza | ~600 | ~20g | ~est | ~est |
 | **Total** | | **~2000** | **~150g** | ~est | ~est |
-
-**Notes:** Weigh-in 156 → 154 over the day (water/food fluctuation — not real loss). Protein solid at ~150g. Calories ~2000 — under bulk target. Estimates.
 
 ---
 
@@ -199,7 +212,7 @@ Log entries newest-first. Use the template below for each day.
 | Dinner | Yogurt + milk protein smoothie | ~500 | 60g | ~45g | ~10g |
 | **Total** | | **~2375** | **~192g** | **~219g** | **~86g** |
 
-**Notes:** 3 L water. Protein ~192g — above target, solid. Calories ~2375 — ~400–600 under the 2800–3000 bulk target. Estimates.
+**Notes:** 3 L water. Protein ~192g. Calories ~2375. Estimates.
 
 ---
 
