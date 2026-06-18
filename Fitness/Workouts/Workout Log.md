@@ -1,9 +1,35 @@
 # Workout Log
 
-## 2026-06-16 — DE Lower
+## 2026-06-18 — DE Upper
 
 **Feel:** —
-**Notes:** Speed day — stay explosive, short rests (45–60s). Box squat speed weight = ~60% of your 6/14 top set (if you hit ~205, use ~125 lbs; if you pushed higher, adjust accordingly). Speed deadlift based on 6/6 ME Lower max (~220 lbs → ~130 lbs at 60%). Reset fully between deadlift reps — this is singles, not touch-and-go.
+**Notes:** Speed day — completes the 4-day rotation (ME Lower 6/14 → ME Upper 6/15 → DE Lower 6/16 → rest 6/17 → DE Upper 6/18). Speed bench percentage based on last flat bench ME heavy single (~135 lbs on 6/10 → ~80 lbs at 60%). Rotate grip close/medium/wide across 9 sets (3 each). Stay explosive — bar speed is the point, not load.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Bench Press | 9 x 3 | ~80 lbs (bar + ~15–20/side) | ~60% of 135. Rotate grip: 3 close / 3 medium / 3 wide. 45–60s rest. Add bands if available |
+| DB Incline Press or Flat DB Press | 4 x 10–12 | 35 lb DBs | Upper chest |
+| Bent Over Rows or Lawnmowers | 4 x 8–10 / 4 x 10–12 | Barbell / 35 lb DB | Back width/thickness |
+| Arnold Press or OHP | 4 x 10–12 | 35 lb DBs | Delts |
+| JM Press or Band Tricep Pushdowns | 3–4 x 10–12 / 3 x 12–15 | EZ bar / band | Tricep |
+| EZ Bar Skull Crushers | 3 x 10–12 | EZ bar | |
+| EZ Bar or DB Curls | 3 x 10–12 | Curl bar / 25s | |
+| Hammer Curls | 3 x 12–15 | 25 lb DBs | |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Don't skip — shoulder health |
+
+---
+
+## 2026-06-17 — Rest Day
+
+**Feel:** —
+**Notes:** Rest day after 3 consecutive training days (ME Lower 6/14, ME Upper 6/15, DE Lower 6/16). DE Upper pushed to 6/18.
+
+---
+
+## 2026-06-16 — DE Lower ✅ Completed
+
+**Feel:** —
+**Notes:** Speed day — stay explosive, short rests (45–60s). Box squat speed weight = ~60% of 6/14 top set. Speed deadlift based on 6/6 ME Lower max (~220 lbs → ~130 lbs at 60%).
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
@@ -21,39 +47,39 @@
 ## 2026-06-15 — ME Upper (Incline Bench) ✅ Completed
 
 **Feel:** —
-**Notes:** Continuing the restarted rotation (ME Lower 6/14 → ME Upper 6/15 → DE Lower → DE Upper). Rotating the max-effort lift to incline barbell bench press (last ME Upper 6/10 was flat bench, heavy single ~135) per conjugate principle of varying the ME exercise. Nitro-confirmed plan.
+**Notes:** Rotating the max-effort lift to incline barbell bench press (last ME Upper 6/10 was flat bench, heavy single ~135) per conjugate principle. Nitro-confirmed plan.
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
-| Incline Barbell Bench Press (work up to heavy single/triple) | Ramp → top set | 45 / 65 / 85 / 105 / 115 → heavy single/triple | New ME variation — upper chest/shoulder emphasis. Ramp slowly, stop if form breaks |
-| EZ Bar Skull Crushers | 3 x 8–12 | EZ bar | Tricep lockout strength |
-| Rolling DB Tricep Extension | 3 x 8–12 | 25–35 lb DB | Lying, full stretch at bottom |
-| Band Pushdowns | 3 x 12–15 | Band | Maintain tension through lockout |
-| Barbell or EZ Bar Rows | 4 x 8–10 | Barbell / EZ bar | Balance pushing — back thickness |
-| Flat DB Press | 3 x 10–12 | 35 lb DBs | Different angle from the main lift |
-| Hammer Curls | 3 x 10–12 | 25–35 lb DBs | Arm balance / elbow stability |
-| Band Pull-Aparts / Face Pulls | 3 x 15–20 | Band | Shoulder health — don't skip |
+| Incline Barbell Bench Press (work up to heavy single/triple) | Ramp → top set | 45 / 65 / 85 / 105 / 115 → heavy single/triple | New ME variation — upper chest/shoulder emphasis |
+| EZ Bar Skull Crushers | 3 x 8–12 | EZ bar | |
+| Rolling DB Tricep Extension | 3 x 8–12 | 25–35 lb DB | |
+| Band Pushdowns | 3 x 12–15 | Band | |
+| Barbell or EZ Bar Rows | 4 x 8–10 | Barbell / EZ bar | |
+| Flat DB Press | 3 x 10–12 | 35 lb DBs | |
+| Hammer Curls | 3 x 10–12 | 25–35 lb DBs | |
+| Band Pull-Aparts / Face Pulls | 3 x 15–20 | Band | Shoulder health |
 
 ---
 
 ## 2026-06-14 — ME Lower (Box Squat) + Arm Blast ✅ Completed
 
 **Feel:** —
-**Notes:** Completed. Restarting the 4-day rotation after rest day (6/13). ME Lower day — rotating the max-effort lift to box squat (last ME Lower was deadlift on 6/6). Heavy arm accessory block per Nitro.
+**Notes:** Restarting the 4-day rotation. ME Lower — box squat variation (rotating off deadlift from 6/6). Heavy arm accessory block per Nitro.
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
-| Box Squat (work up to heavy single/triple) | Ramp → top set | 45 / 95 / 135 / 175 / 205 → heavy single/triple | Sit back to box, brief pause, drive up explosively |
-| Good Mornings | 3 x 10–15 | Light barbell | Posterior chain |
-| EZ Bar Skull Crushers | 4 x 8–12 | EZ bar | Tricep mass |
-| Rolling DB Tricep Extension | 3 x 10–12 | 25–35 lb DB | Lying, full stretch at bottom |
-| Band Tricep Pushdowns | 100 reps total | Band | Break into sets of ~20–25 |
-| EZ Bar Curls | 4 x 8–12 | EZ bar | Bicep mass |
+| Box Squat (work up to heavy single/triple) | Ramp → top set | 45 / 95 / 135 / 175 / 205 → heavy single/triple | |
+| Good Mornings | 3 x 10–15 | Light barbell | |
+| EZ Bar Skull Crushers | 4 x 8–12 | EZ bar | |
+| Rolling DB Tricep Extension | 3 x 10–12 | 25–35 lb DB | |
+| Band Tricep Pushdowns | 100 reps total | Band | |
+| EZ Bar Curls | 4 x 8–12 | EZ bar | |
 | Hammer Curls | 3 x 12–15 | 25–35 lb DBs | |
-| Banded Curls | 3 x 15–20 | Band | Finisher |
-| EZ Bar Reverse Curls | 3 x 10–12 | EZ bar | Forearm/grip |
-| Weighted Side Bends | 3 x 10/side | 25 lb DB | Core |
-| Hanging Knee Raises or Planks | 3 sets | BW | Core finisher |
+| Banded Curls | 3 x 15–20 | Band | |
+| EZ Bar Reverse Curls | 3 x 10–12 | EZ bar | |
+| Weighted Side Bends | 3 x 10/side | 25 lb DB | |
+| Hanging Knee Raises or Planks | 3 sets | BW | |
 
 ---
 
@@ -126,11 +152,11 @@ Log entries newest-first. Use the template below for each session.
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
-| Bench Press (work up to heavy single/double/triple) | Ramp → top set | 45 / 95 / 115 / 135 → heavy single | Ramp slowly; stop if form breaks. Last bench was 115x5 — push past it |
-| JM Press | 3–4 x 8–10 | EZ curl bar | Tricep mass — bar to throat, elbows forward |
-| Lawnmowers (single-arm DB row) | 4 x 10–12 | 35 lb DB | Heavy, brace hard |
-| DB Incline Press | 3–4 x 10–12 | 35 lb DBs | Upper chest thickness |
-| Band Pull-Aparts / Face Pulls | 3–4 x 20 | Band | Rear delt, shoulder health |
+| Bench Press (work up to heavy single/double/triple) | Ramp → top set | 45 / 95 / 115 / 135 → heavy single | Ramp slowly; stop if form breaks |
+| JM Press | 3–4 x 8–10 | EZ curl bar | Tricep mass |
+| Lawnmowers (single-arm DB row) | 4 x 10–12 | 35 lb DB | |
+| DB Incline Press | 3–4 x 10–12 | 35 lb DBs | |
+| Band Pull-Aparts / Face Pulls | 3–4 x 20 | Band | |
 | EZ Bar Curls | 3 x 10–12 | Curl bar | |
 | Hammer Curls | 2–3 x 12–15 | 25 lb DBs | |
 
@@ -150,12 +176,12 @@ Log entries newest-first. Use the template below for each session.
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
-| EZ Bar or DB Curls | 3–4 x 10–12 | Curl bar or 25 lb DBs | Squeeze at top |
-| Hammer Curls | 3 x 12–15 | 25 lb DBs | Neutral grip |
-| Cross-Body Hammer Curls | 2–3 x 12 | 25 lb DBs | Optional |
-| DB Overhead Tricep Extension | 3 x 12–15 | 25 lb DB | Keep elbows tight |
+| EZ Bar or DB Curls | 3–4 x 10–12 | Curl bar or 25 lb DBs | |
+| Hammer Curls | 3 x 12–15 | 25 lb DBs | |
+| Cross-Body Hammer Curls | 2–3 x 12 | 25 lb DBs | |
+| DB Overhead Tricep Extension | 3 x 12–15 | 25 lb DB | |
 | Band Tricep Pushdowns | 3 x 15 | Band | |
-| Finisher: Band Curls + Kickbacks | 2 x 20 each | Band, light | Fast |
+| Finisher: Band Curls + Kickbacks | 2 x 20 each | Band, light | |
 
 ---
 
@@ -196,9 +222,9 @@ Log entries newest-first. Use the template below for each session.
 |---|---|---|
 | Dumbbell Bicep Curls | 3 x 12–15 | 20 or 30 lb |
 | DB Overhead Tricep Extension | 3 x 12–15 | Keep elbows tight |
-| Band Tricep Pushdowns | 3 x 15 | Attached to squat rack |
+| Band Tricep Pushdowns | 3 x 15 | |
 | Hammer Curls | 3 x 12–15 | Neutral wrist |
-| Close-Grip Push-ups | 3 x 10–15 | Elbows in |
+| Close-Grip Push-ups | 3 x 10–15 | |
 | **Finisher:** Band Bicep Curls + Kickbacks | 2 x 20 each | Light, fast |
 
 ---
@@ -206,11 +232,11 @@ Log entries newest-first. Use the template below for each session.
 ### Light Lower Body Activation & Mobility
 | Exercise | Sets x Reps | Notes |
 |---|---|---|
-| Goblet Squats | 3 x 12–15 | Chest up, vertical bar path |
-| Romanian Deadlifts (DB) | 3 x 12 | Hip hinge, flat back |
-| Step-Ups | 3 x 10/leg | Drive through heel |
-| Bulgarian Split Squats (BW) | 3 x 10/leg | Rear foot elevated |
-| Kettlebell Swings | 3 x 15–20 | Light, hip-driven |
+| Goblet Squats | 3 x 12–15 | |
+| Romanian Deadlifts (DB) | 3 x 12 | |
+| Step-Ups | 3 x 10/leg | |
+| Bulgarian Split Squats (BW) | 3 x 10/leg | |
+| Kettlebell Swings | 3 x 15–20 | |
 
 ---
 
@@ -222,7 +248,7 @@ Log entries newest-first. Use the template below for each session.
 | Bench Press (heavy single/triple) | Work up — 5 singles | 40/60/80% warmup |
 | DB Overhead Press | 3 x 10 | |
 | Barbell/DB Curls | 3 x 12 | 2-1-2 tempo |
-| Tricep Extensions | 3 x 12 | Bands or DB |
+| Tricep Extensions | 3 x 12 | |
 | DB/Barbell Rows | 3 x 10 | |
 | Band Pull-Aparts / Face Pulls | 3 x 15 | |
 
@@ -232,7 +258,7 @@ Log entries newest-first. Use the template below for each session.
 | Box Squat or Back Squat (heavy single/triple) | Work up — 5 singles | 40/60/80% warmup |
 | Bulgarian Split Squats (DB) | 3 x 10/leg | |
 | Good Mornings (bands/BW) | 3 x 10 | |
-| Planks or Hanging Leg Raises | 3 sets | 30–45s or 10–15 reps |
+| Planks or Hanging Leg Raises | 3 sets | |
 
 ### Day 3: Dynamic Effort Upper
 | Exercise | Sets x Reps | Notes |
@@ -250,4 +276,4 @@ Log entries newest-first. Use the template below for each session.
 | Speed Box Squats | 8–12 x 2 @ ~60% 1RM | 45–60s rest, explosive |
 | Romanian Deadlifts / KB Swings | 3 x 12 | |
 | Lunges / Step-ups (DB) | 3 x 12/leg | |
-| Core (planks, side planks) | 3 sets | 30–45s |
+| Core (planks, side planks) | 3 sets | |

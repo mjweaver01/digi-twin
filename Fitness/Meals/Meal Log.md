@@ -1,5 +1,23 @@
 # Meal Log
 
+## 2026-06-17
+
+**Training day:** No (rest — recovery after 3 consecutive training days 6/14–6/16)
+
+| Meal | Food | Cal | Protein | Carbs | Fat |
+|---|---|---|---|---|---|
+| Shake | Protein shake (30g) | ~150 | ~30g | ~4g | ~1g |
+| Meal | 2 slices pizza | ~570 | ~24g | ~72g | ~20g |
+| Shake | Full mass gainer shake (ON) + 16oz 6% milk | ~1550 | ~66g | ~est | ~est |
+| Shake | Protein shake (30g) | ~150 | ~30g | ~4g | ~1g |
+| Snack | 20g protein yogurt drink | ~150 | ~20g | ~12g | ~3g |
+| Snack | Built Bar | ~150 | ~16g | ~14g | ~5g |
+| **Total** | | **~2720** | **~186g** | **~106g+** | **~30g+** |
+
+**Notes:** Rest day, complete. Protein ~186g — above the 155–185g target, excellent. Calories ~2720 — closest to the 2800–3000 bulk target yet. Full mass gainer + 16oz milk was the key lever (~1550 cal alone). Mass gainer carb/fat unknown beyond what's noted. Estimates.
+
+---
+
 ## 2026-06-16
 
 **Training day:** Yes (DE Lower)
@@ -11,9 +29,10 @@
 | Breakfast | Catalina Crunch protein cereal (1 cup) | ~120 | ~11g | ~17g | ~3g |
 | Post-workout | Protein shake (30g) | ~150 | ~30g | ~4g | ~1g |
 | Dinner | Crunchwrap | ~700 | ~30g | ~65g | ~35g |
-| **Total** | | **~2060** | **~129g** | **~98g+** | **~42g+** |
+| Evening | 20g protein yogurt | ~150 | ~20g | ~12g | ~3g |
+| **Total** | | **~2210** | **~149g** | **~110g+** | **~45g+** |
 
-**Notes:** Day complete. Training day. Protein ~129g — under the 155–185g target by ~26–56g. Calories ~2060 — under the 2800–3000 bulk target by ~740–940. Pre-workout mass gainer helped on calories but a mid-day protein snack (yogurt, cottage cheese, deli meat) between the shake and dinner would close the gap next time. Mass gainer carb/fat unknown. Estimates.
+**Notes:** Training day (DE Lower). Protein ~149g — close to target. Calories ~2210. Estimates.
 
 ---
 
@@ -34,7 +53,7 @@
 | Evening | Protein shake (30g) | ~150 | ~30g | ~4g | ~1g |
 | **Total** | | **~1983** | **~179g** | **~193g** | **~54g** |
 
-**Notes:** Day complete. Training day. Protein ~179g — excellent. Calories ~1983 — short on calories but strong protein day. Estimates.
+**Notes:** Day complete. Training day. Protein ~179g — excellent. Calories ~1983. Estimates.
 
 ---
 
