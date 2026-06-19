@@ -1,13 +1,34 @@
 # Workout Log
 
-## 2026-06-18 — DE Upper
+## 2026-06-19 — ME Lower (Sumo Deadlift)
 
 **Feel:** —
-**Notes:** Speed day — completes the 4-day rotation (ME Lower 6/14 → ME Upper 6/15 → DE Lower 6/16 → rest 6/17 → DE Upper 6/18). Speed bench percentage based on last flat bench ME heavy single (~135 lbs on 6/10 → ~80 lbs at 60%). Rotate grip close/medium/wide across 9 sets (3 each). Stay explosive — bar speed is the point, not load.
+**Notes:** New rotation cycle. ME lift rotates: deadlift (6/6) → box squat (6/14) → sumo deadlift (6/19). Wide stance, toes flared out, hips drop lower than conventional, drive knees out as you pull. Ramp up to a heavy single or triple — stop if form breaks. Arm blast accessory block carried over from 6/14.
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
-| Speed Bench Press | 9 x 3 | ~80 lbs (bar + ~15–20/side) | ~60% of 135. Rotate grip: 3 close / 3 medium / 3 wide. 45–60s rest. Add bands if available |
+| Sumo Deadlift (work up to heavy single/triple) | Ramp → top set | 135 / 185 / 205 / 225 → heavy single/triple | Wide stance, toes out ~45°. Drive floor away, keep chest up. Stop at form breakdown |
+| Good Mornings | 3 x 10–12 | Light barbell | Posterior chain — hinge at hips, soft knees |
+| KB Swings | 3 x 15 | 35 lb KB | Hip drive, not arms |
+| EZ Bar Skull Crushers | 4 x 8–12 | EZ bar | |
+| Rolling DB Tricep Extension | 3 x 10–12 | 25–35 lb DB | |
+| Band Tricep Pushdowns | 100 reps total | Band | |
+| EZ Bar Curls | 4 x 8–12 | EZ bar | |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | |
+| Banded Curls | 3 x 15–20 | Band | |
+| EZ Bar Reverse Curls | 3 x 10–12 | EZ bar | |
+| Core (hanging knee raises or planks) | 3 sets | BW | |
+
+---
+
+## 2026-06-18 — DE Upper
+
+**Feel:** —
+**Notes:** Speed day — completes the prior 4-day rotation. Speed bench at ~80 lbs (~60% of 135). Rotate grip close/medium/wide across 9 sets (3 each).
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Bench Press | 9 x 3 | ~80 lbs (bar + ~15–20/side) | ~60% of 135. Rotate grip: 3 close / 3 medium / 3 wide. 45–60s rest |
 | DB Incline Press or Flat DB Press | 4 x 10–12 | 35 lb DBs | Upper chest |
 | Bent Over Rows or Lawnmowers | 4 x 8–10 / 4 x 10–12 | Barbell / 35 lb DB | Back width/thickness |
 | Arnold Press or OHP | 4 x 10–12 | 35 lb DBs | Delts |
@@ -22,11 +43,11 @@
 ## 2026-06-17 — Rest Day
 
 **Feel:** —
-**Notes:** Rest day after 3 consecutive training days (ME Lower 6/14, ME Upper 6/15, DE Lower 6/16). DE Upper pushed to 6/18.
+**Notes:** Rest day after 3 consecutive training days (ME Lower 6/14, ME Upper 6/15, DE Lower 6/16).
 
 ---
 
-## 2026-06-16 — DE Lower ✅ Completed
+## 2026-06-16 — DE Lower
 
 **Feel:** —
 **Notes:** Speed day — stay explosive, short rests (45–60s). Box squat speed weight = ~60% of 6/14 top set. Speed deadlift based on 6/6 ME Lower max (~220 lbs → ~130 lbs at 60%).
@@ -44,10 +65,10 @@
 
 ---
 
-## 2026-06-15 — ME Upper (Incline Bench) ✅ Completed
+## 2026-06-15 — ME Upper (Incline Bench)
 
 **Feel:** —
-**Notes:** Rotating the max-effort lift to incline barbell bench press (last ME Upper 6/10 was flat bench, heavy single ~135) per conjugate principle. Nitro-confirmed plan.
+**Notes:** Rotating the max-effort lift to incline barbell bench press (last ME Upper 6/10 was flat bench, heavy single ~135) per conjugate principle.
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
@@ -62,7 +83,7 @@
 
 ---
 
-## 2026-06-14 — ME Lower (Box Squat) + Arm Blast ✅ Completed
+## 2026-06-14 — ME Lower (Box Squat) + Arm Blast
 
 **Feel:** —
 **Notes:** Restarting the 4-day rotation. ME Lower — box squat variation (rotating off deadlift from 6/6). Heavy arm accessory block per Nitro.
@@ -86,14 +107,14 @@
 ## 2026-06-13 — Rest Day
 
 **Feel:** —
-**Notes:** Rest day. Completed full ME/DE Upper+Lower rotation 6/10–6/12 (3 training days in a row) — recovery day before starting next cycle.
+**Notes:** Rest day. Completed full ME/DE Upper+Lower rotation 6/10–6/12 — recovery before starting next cycle.
 
 ---
 
 ## 2026-06-12 — DE Upper
 
 **Feel:** —
-**Notes:** Speed day, completes the 4-day rotation (ME Lower 6/6 → Arms 6/8 → ME Upper 6/10 → DE Lower 6/11 → DE Upper 6/12). Percentages based on 6/10 ME Upper heavy single ~135 lbs. Nitro-confirmed plan.
+**Notes:** Speed day, completes the 4-day rotation. Percentages based on 6/10 ME Upper heavy single ~135 lbs.
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
