@@ -1,5 +1,24 @@
 # Workout Log
 
+## 2026-06-20 — ME Upper (Floor Press)
+
+**Feel:** —
+**Notes:** ME Upper — floor press variation (rotation: flat bench 6/10 → incline bench 6/15 → floor press 6/20). Dead-stop each rep, elbows ~45°, hips flat. Bands optional for accommodating resistance at lockout.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Floor Press (work up to heavy single/triple) | Ramp → top set | 45 / 95 / 115 / 135 → heavy single/triple | Dead-stop each rep. Stop at form breakdown. Bands optional for lockout |
+| Flat DB Press | 4 x 10–12 | 35 lb DBs | Mid-chest focus — full stretch at bottom, squeeze at top |
+| DB Flyes | 3 x 12–15 | 25 lb DBs | Keep slight bend in elbows, feel the stretch across mid-chest |
+| Band Tricep Pushdowns | 3 x 15 | Band | Light tricep finisher |
+| Bent Over Rows or Lawnmowers | 4 x 8–10 | Barbell / 35 lb DB | |
+| Arnold Press or OHP | 3 x 10–12 | 35 lb DBs | |
+| EZ Bar Curls | 3 x 10–12 | EZ bar | |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Don't skip — shoulder health |
+
+---
+
 ## 2026-06-19 — ME Lower (Sumo Deadlift)
 
 **Feel:** —

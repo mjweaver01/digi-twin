@@ -1,6 +1,25 @@
 # Meal Log
 
-> **Reference — ON Mass Gainer + 16oz 6% Milk:** ~1550 cal / ~66g protein. This is what "mass gainer" or "meal replacement" always refers to unless otherwise noted (e.g., "3/4 serving" = ~940 cal / ~38g protein; "1/2 serving" = ~625 cal / ~25g protein).
+---
+
+## 2026-06-19
+
+**Training day:** Yes (ME Lower — Sumo Deadlift)
+
+| Meal | Food | Cal | Protein | Carbs | Fat |
+|---|---|---|---|---|---|
+| Pre-workout | Protein shake (30g) | ~150 | ~30g | ~4g | ~1g |
+| Pre-workout | ON mass gainer + milk (full) | ~1550 | ~66g | ~est | ~est |
+| Post-workout | Protein shake (30g) | ~150 | ~30g | ~4g | ~1g |
+| Meal | Rice (~1 cup) | ~200 | ~4g | ~45g | ~0g |
+| Meal | Chicken (~1 cup) | ~250 | ~35g | ~0g | ~5g |
+| Snack | Pepitas (1 serving) | ~160 | ~9g | ~5g | ~13g |
+| Snack | Almonds (1 serving) | ~165 | ~6g | ~6g | ~14g |
+| Snack | Walnuts (1 serving) | ~185 | ~4g | ~4g | ~18g |
+| Snack | Built Bar | ~150 | ~16g | ~14g | ~5g |
+| **Total** | | **~2760** | **~200g** | **~82g+** | **~57g+** |
+
+**Notes:** Training day (ME Lower — sumo deadlift). Protein ~200g — well above target. Calories ~2760 — solid surplus. Estimates.
 
 ---
 
@@ -16,7 +35,7 @@
 | Dinner | Fajitas — 4 tacos (Mexican restaurant) | ~1100 | ~48g | ~90g | ~38g |
 | **Total** | | **~2950** | **~174g** | | |
 
-**Notes:** Training day (DE Upper). Protein ~174g — in range. Calories ~2950 — solid training day. Fajita tacos estimated. Estimates.
+**Notes:** Training day (DE Upper). Protein ~174g. Calories ~2950. Estimates.
 
 ---
 
@@ -34,7 +53,7 @@
 | Snack | Built Bar | ~150 | ~16g | ~14g | ~5g |
 | **Total** | | **~2720** | **~186g** | | |
 
-**Notes:** Rest day. Protein ~186g — excellent. Calories ~2720. Estimates.
+**Notes:** Rest day. Protein ~186g. Calories ~2720. Estimates.
 
 ---
 
@@ -73,7 +92,7 @@
 | Evening | Protein shake (30g) | ~150 | ~30g | ~4g | ~1g |
 | **Total** | | **~1983** | **~179g** | | |
 
-**Notes:** Training day. Protein ~179g — excellent. Calories ~1983. Estimates.
+**Notes:** Training day. Protein ~179g. Calories ~1983. Estimates.
 
 ---
 
@@ -93,7 +112,7 @@
 | Snack | Built Bar | ~150 | ~16g | ~14g | ~5g |
 | **Total** | | **~2728** | **~161g** | | |
 
-**Notes:** Training day — ME Lower (box squat) + arm blast. Previously logged as ~1250 (no milk) — corrected to ~1550. Protein ~161g. Calories ~2728. Estimates.
+**Notes:** Training day — ME Lower (box squat) + arm blast. Protein ~161g. Calories ~2728. Estimates.
 
 ---
 
@@ -112,7 +131,7 @@
 | Evening | ON mass gainer + milk (full) | ~1550 | ~66g | ~est | ~est |
 | **Total** | | **~3275** | **~169g** | | |
 
-**Notes:** Rest day. Previously logged at ~2175 — corrected meal replacement to ~1550. Protein ~169g. Calories ~3275 — surplus on a rest day. Estimates.
+**Notes:** Rest day. Protein ~169g. Calories ~3275. Estimates.
 
 ---
 
@@ -129,7 +148,7 @@
 | Dinner | Chicken fried rice + 1 tsp butter | ~650 | ~35g | ~70g | ~22g |
 | **Total** | | **~3680** | **~203g** | | |
 
-**Notes:** Training day (DE Upper). Previously logged "meal replacement" at ~450 — corrected to ~1550. Two mass gainer servings this day (3/4 + full). Protein ~203g. Calories ~3680 — well above target, big surplus. Estimates.
+**Notes:** Training day (DE Upper). Two mass gainer servings (3/4 + full). Protein ~203g. Calories ~3680. Estimates.
 
 ---
 
@@ -143,13 +162,13 @@
 | Smoothie | Banana, 3 strawberries, heaping spoonful PB, milk, ½ serving protein powder | ~400 | ~20g | ~45g | ~12g |
 | Shake | Protein shake (ON Gold Standard + whole milk) | ~270 | ~32g | ~14g | ~10g |
 | Snack | 20g protein yogurt | ~150 | ~20g | ~12g | ~3g |
-| Shake | ON mass gainer + milk (1/2 serving) | ~625 | ~25g | ~est | ~est |
+| Shake | ON mass gainer + milk (1/2 serving) | ~775 | ~33g | ~est | ~est |
 | Shake | Protein shake (ON Gold Standard + whole milk) | ~270 | ~32g | ~14g | ~10g |
 | Snack | 20g protein yogurt shake | ~150 | ~20g | ~12g | ~3g |
 | Snack | 2 slices provolone + 2 slices turkey | ~260 | ~24g | ~3g | ~18g |
-| **Total** | | **~2425** | **~205g** | | |
+| **Total** | | **~2545** | **~213g** | | |
 
-**Notes:** Training day (DE Lower). Protein ~205g. Calories ~2425. Estimates.
+**Notes:** Training day (DE Lower). Protein ~213g. Calories ~2545. Estimates.
 
 ---
 
@@ -203,7 +222,7 @@ Log entries newest-first.
 | Shake | ON mass gainer + milk | ~1550 | ~66g | ~est | ~est |
 | **Total** | | **~2705** | **~152g** | | |
 
-**Notes:** Weigh-in 157. Rest day. Previously logged mass gainer at ~850 — corrected. Estimates.
+**Notes:** Weigh-in 157. Rest day. Estimates.
 
 ---
 
@@ -215,7 +234,6 @@ Log entries newest-first.
 |---|---|---|---|---|---|
 | Daytime | Various (so far) | ~1000 | 60g | | |
 | Shake | ON mass gainer + milk | ~1550 | ~66g | ~est | ~est |
-| Dinner | TBD | | | | |
 | **Total so far** | | **~2550+** | **~126g+** | | |
 
 ---
@@ -248,4 +266,4 @@ Log entries newest-first.
 | Dinner | Yogurt + milk protein smoothie | ~500 | 60g | ~45g | ~10g |
 | **Total** | | **~2375** | **~192g** | | |
 
-**Notes:** 3 L water. Protein ~192g. Calories ~2375. (6/6 logged before reference was established — may be underreported.) Estimates.
+**Notes:** 3 L water. Protein ~192g. Calories ~2375. (Logged before reference was established — may be underreported.) Estimates.
