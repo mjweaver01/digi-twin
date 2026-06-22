@@ -2,6 +2,42 @@
 
 ---
 
+## 2026-06-22
+
+**Training day:** Yes (DE Lower)
+
+| Meal | Food | Cal | Protein | Carbs | Fat |
+|---|---|---|---|---|---|
+| **Total** | | — | — | — | — |
+
+**Notes:** DE Lower. Cal and protein targets — update after session.
+
+---
+
+## 2026-06-21
+
+**Training day:** No (rest)
+
+| Meal | Food | Cal | Protein | Carbs | Fat |
+|---|---|---|---|---|---|
+| **Total** | | ~2800–3000+ | ~155g+ | — | — |
+
+**Notes:** Rest day. Cal and protein targets met (per Mike).
+
+---
+
+## 2026-06-20
+
+**Training day:** Yes (ME Upper — Floor Press)
+
+| Meal | Food | Cal | Protein | Carbs | Fat |
+|---|---|---|---|---|---|
+| **Total** | | ~2800–3000+ | ~155g+ | — | — |
+
+**Notes:** ME Upper (floor press). Cal and protein targets met (per Mike).
+
+---
+
 ## 2026-06-19
 
 **Training day:** Yes (ME Lower — Sumo Deadlift)

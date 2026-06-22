@@ -1,5 +1,31 @@
 # Workout Log
 
+## 2026-06-22 — DE Lower
+
+**Feel:** —
+**Notes:** Speed day. Based off 6/19 ME Lower (sumo deadlift ~225 top set). Sunday 6/21 was rest. Speed weights at ~60%.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Box Squats | 10–12 x 2 | ~125–135 lbs | Sit back, pause, explode up. 45–60s rest |
+| Speed Deadlifts | 6–8 x 1 | ~135 lbs | Full reset each rep, explosive pull. 45–60s rest |
+| Good Mornings or RDLs | 3 x 12 | Light barbell | Posterior chain |
+| KB Swings | 3 x 15–20 | 35 lb KB | Hip-driven, stay explosive |
+| Core (hanging leg raises or planks) | 3 sets | BW | |
+| Lawnmowers or Bent Over Rows | 4 x 10–12 | 35 lb DB | Back thickness |
+| EZ Bar Curls | 3 x 10–12 | EZ bar | |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | |
+| Band Tricep Pushdowns | 3 x 15 | Band | |
+
+---
+
+## 2026-06-21 — Rest Day
+
+**Feel:** —
+**Notes:** Rest day after ME Upper 6/20. Cal and protein targets met.
+
+---
+
 ## 2026-06-20 — ME Upper (Floor Press)
 
 **Feel:** —
