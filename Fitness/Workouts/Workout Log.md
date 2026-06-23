@@ -1,5 +1,22 @@
 # Workout Log
 
+## 2026-06-23 — ME Upper (Bench) w/ Tom
+
+**Feel:** —
+**Notes:** Trained with Tom (owner, Westside Barbell). Warmup with band work, then worked up to max bench, followed by volume and tricep/chest accessories.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Band Tricep Pushdowns | 1 x 50 | Band | Warmup |
+| Band Pull-Aparts | 1 x 50 | Band | Warmup / shoulder health |
+| Bench Press (work up to max) | Ramp → heavy single | 175 lbs | Worked up to max with Tom |
+| Bench Press (volume) | 3 x 12/10/8 | — | Drop sets after max |
+| Knuckle Press | 3 x — | 25 lb DBs | |
+| Rolling DB Tricep Extensions | 3 x — | 25 lb DBs | |
+| Isolated Arnold Press (chest focus) | 3 x — | 35 lb DBs | |
+
+---
+
 ## 2026-06-22 — DE Lower
 
 **Feel:** —

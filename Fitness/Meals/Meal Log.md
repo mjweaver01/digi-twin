@@ -2,6 +2,18 @@
 
 ---
 
+## 2026-06-23
+
+**Training day:** Yes (ME Upper w/ Tom)
+
+| Meal | Food | Cal | Protein | Carbs | Fat |
+|---|---|---|---|---|---|
+| **Total** | | ~2800–3000+ | ~155g+ | — | — |
+
+**Notes:** ME Upper with Tom (owner, WSBB). Cal and protein targets met (per Mike).
+
+---
+
 ## 2026-06-22
 
 **Training day:** Yes (DE Lower)

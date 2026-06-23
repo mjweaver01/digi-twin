@@ -152,6 +152,25 @@ Rest: 2–3 min on squat/deadlift, 60–90s accessories
 
 ---
 
+---
+
+### ME Upper — Tom's Variation (WSBB)
+*Good for: ME Upper days — high-volume warmup, max bench, tricep/chest accessories*
+
+| Exercise | Sets x Reps | Notes |
+|---|---|---|
+| Band Tricep Pushdowns | 1 x 50 | Warmup — high rep, light band |
+| Band Pull-Aparts | 1 x 50 | Warmup — shoulder health / rear delt |
+| Bench Press (work up to max) | Ramp → heavy single | 3–5 min rest between heavy sets |
+| Bench Press (volume) | 3 x 12/10/8 | Drop weight from max, descending reps |
+| Knuckle Press | 3 x — | 25 lb DBs |
+| Rolling DB Tricep Extensions | 3 x — | 25 lb DBs |
+| Isolated Arnold Press (chest focus) | 3 x — | 35 lb DBs |
+
+Rest: 3–5 min on ME sets, 60–90s on accessories
+
+---
+
 ## Add New Workout
 ```
 ### [Name]
