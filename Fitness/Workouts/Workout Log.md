@@ -1,5 +1,23 @@
 # Workout Log
 
+## 2026-06-24 — ME Lower (Conventional Deadlift)
+
+**Feel:** —
+**Notes:** ME Lower — back to conventional deadlift (rotation: deadlift 6/6 → box squat 6/14 → sumo 6/19 → deadlift 6/24). Last top set 220x3 on 6/6 — aiming for 225+.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Conventional Deadlift (work up to heavy single/triple) | Ramp → top set | 135 / 185 / 205 / 225 → heavy single/triple | Full reset each rep, stop at form breakdown |
+| Good Mornings | 3–4 x 8–10 | Light barbell | Hinge at hips |
+| KB Swings | 3–4 x 15–20 | 35 lb KB | Explosive hip drive |
+| Arnold Press | 3–4 x 10–12 | 35 lb DBs | Full ROM, slow eccentric |
+| EZ Bar Curls or DB Curls | 3 x 10–12 | EZ bar | |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | |
+| Band Pull-Aparts | 3–4 x 20 | Band | Shoulder health |
+| Ab work | 3 x 10–15 | BW | Hanging leg raises or weighted sit-ups |
+
+---
+
 ## 2026-06-23 — ME Upper (Bench) w/ Tom
 
 **Feel:** —
