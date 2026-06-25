@@ -1,5 +1,23 @@
 # Workout Log
 
+## 2026-06-25 — DE Upper
+
+**Feel:** —
+**Notes:** Speed day. Based off 6/23 ME Upper max (175 lbs). Speed weight ~105 lbs (~60%).
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Bench Press | 9 x 3 | ~105 lbs | Rotate grip: 3 close / 3 medium / 3 wide. 45–60s rest |
+| DB Incline Press or Flat DB Press | 4 x 10–12 | 35 lb DBs | |
+| Bent Over Rows or Lawnmowers | 4 x 8–10 | Barbell / 35 lb DB | |
+| Arnold Press or OHP | 4 x 10–12 | 35 lb DBs | |
+| JM Press or Band Tricep Pushdowns | 3–4 x 10–12 | EZ bar / band | |
+| EZ Bar Curls or DB Curls | 3 x 10–12 | EZ bar | |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | |
+| Band Pull-Aparts | 3 x 20 | Band | Shoulder health |
+
+---
+
 ## 2026-06-24 — ME Lower (Conventional Deadlift)
 
 **Feel:** —
@@ -7,7 +25,7 @@
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
-| Conventional Deadlift (work up to heavy single/triple) | Ramp → top set | 135 / 185 / 205 / 225 → heavy single/triple | Full reset each rep, stop at form breakdown |
+| Conventional Deadlift (work up to heavy single/triple) | Ramp → top set | 135 / 185 / 205 / 225 / 275 — top set 275 | Full reset each rep, stop at form breakdown |
 | Good Mornings | 3–4 x 8–10 | Light barbell | Hinge at hips |
 | KB Swings | 3–4 x 15–20 | 35 lb KB | Explosive hip drive |
 | Arnold Press | 3–4 x 10–12 | 35 lb DBs | Full ROM, slow eccentric |

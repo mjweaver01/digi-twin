@@ -14,6 +14,18 @@
 
 ---
 
+## 2026-06-24
+
+**Training day:** Yes (ME Lower — Conventional Deadlift)
+
+| Meal | Food | Cal | Protein | Carbs | Fat |
+|---|---|---|---|---|---|
+| **Total** | | ~2800–3000+ | ~155g+ | — | — |
+
+**Notes:** ME Lower — deadlift top set 275 lbs (PR, up from 220x3 on 6/6). Protein and carb goals met (per Mike).
+
+---
+
 ## 2026-06-22
 
 **Training day:** Yes (DE Lower)
