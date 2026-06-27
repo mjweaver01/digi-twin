@@ -1,5 +1,30 @@
 # Workout Log
 
+## 2026-06-27 — ME Lower (Box Squat)
+
+**Feel:** —
+**Notes:** New rotation cycle. ME Lower — box squat (rotation: deadlift 6/24 → box squat 6/27). Last box squat top set 205 on 6/14 — aiming for 210+. Sit back onto box, pause, explode up.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Box Squat (work up to heavy single/triple) | Ramp → top set | 45 / 95 / 135 / 175 / 205 / 210+ | Sit back, pause, explode up. Stop at form breakdown |
+| Good Mornings | 3–4 x 8–10 | Light barbell | |
+| KB Swings | 3–4 x 15–20 | 35 lb KB | |
+| Arnold Press | 3–4 x 10–12 | 35 lb DBs | |
+| EZ Bar Curls or DB Curls | 3 x 10–12 | EZ bar | |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | |
+| Band Pull-Aparts | 3–4 x 20 | Band | |
+| Ab work | 3 x 10–15 | BW | |
+
+---
+
+## 2026-06-26 — Rest Day
+
+**Feel:** —
+**Notes:** Rest day after DE Upper 6/25.
+
+---
+
 ## 2026-06-25 — DE Upper
 
 **Feel:** —
