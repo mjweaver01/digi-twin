@@ -1,5 +1,22 @@
 # Workout Log
 
+## 2026-06-28 — ME Upper (Incline Bench)
+
+**Feel:** —
+**Notes:** ME Upper — incline bench (rotation: floor press 6/20 → flat bench w/ Tom 6/23 → incline 6/28). Last incline top set 115 on 6/15 — aiming for 120+.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Incline Bench Press (work up to heavy single/triple) | Ramp → top set | 45 / 65 / 85 / 105 / 115 / 120+ | Push past 115 from 6/15 |
+| JM Press or EZ Bar Skull Crushers | 3–4 x 8–10 | EZ bar | Tricep mass |
+| Lawnmowers or Bent Over Rows | 4 x 10–12 | 35 lb DB / barbell | Back thickness |
+| DB Incline Press or Flat DB Press | 3–4 x 10–12 | 35 lb DBs | |
+| Band Pull-Aparts | 3–4 x 20 | Band | Don't skip |
+| EZ Bar Curls or DB Curls | 3 x 10–12 | EZ bar | |
+| Hammer Curls | 2–3 x 12–15 | 25–35 lb DBs | |
+
+---
+
 ## 2026-06-27 — ME Lower (Box Squat)
 
 **Feel:** —
@@ -7,7 +24,7 @@
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
-| Box Squat (work up to heavy single/triple) | Ramp → top set | 45 / 95 / 135 / 175 / 205 / 210+ | Sit back, pause, explode up. Stop at form breakdown |
+| Box Squat (work up to heavy single/triple) | Ramp → top set | 45 / 95 / 135 / 175 / 205 / 235 — top set 235 (PR) | Sit back, pause, explode up. Stop at form breakdown |
 | Good Mornings | 3–4 x 8–10 | Light barbell | |
 | KB Swings | 3–4 x 15–20 | 35 lb KB | |
 | Arnold Press | 3–4 x 10–12 | 35 lb DBs | |

@@ -14,6 +14,18 @@
 
 ---
 
+## 2026-06-27
+
+**Training day:** Yes (ME Lower — Box Squat)
+
+| Meal | Food | Cal | Protein | Carbs | Fat |
+|---|---|---|---|---|---|
+| **Total** | | — | ~200g | ~100g | ~60g |
+
+**Notes:** ME Lower — box squat PR 235 lbs (up from 205 on 6/14). Protein, carb, and fat goals met (per Mike).
+
+---
+
 ## 2026-06-24
 
 **Training day:** Yes (ME Lower — Conventional Deadlift)
@@ -66,18 +78,18 @@
 
 **Training day:** Yes (ME Lower — Sumo Deadlift)
 
-| Meal | Food | Cal | Protein | Carbs | Fat |
-|---|---|---|---|---|---|
-| Pre-workout | Protein shake (30g) | ~150 | ~30g | ~4g | ~1g |
-| Pre-workout | ON mass gainer + milk (full) | ~1550 | ~66g | ~est | ~est |
-| Post-workout | Protein shake (30g) | ~150 | ~30g | ~4g | ~1g |
-| Meal | Rice (~1 cup) | ~200 | ~4g | ~45g | ~0g |
-| Meal | Chicken (~1 cup) | ~250 | ~35g | ~0g | ~5g |
-| Snack | Pepitas (1 serving) | ~160 | ~9g | ~5g | ~13g |
-| Snack | Almonds (1 serving) | ~165 | ~6g | ~6g | ~14g |
-| Snack | Walnuts (1 serving) | ~185 | ~4g | ~4g | ~18g |
-| Snack | Built Bar | ~150 | ~16g | ~14g | ~5g |
-| **Total** | | **~2760** | **~200g** | **~82g+** | **~57g+** |
+| Meal         | Food                         | Cal       | Protein   | Carbs     | Fat       |
+| ------------ | ---------------------------- | --------- | --------- | --------- | --------- |
+| Pre-workout  | Protein shake (30g)          | ~150      | ~30g      | ~4g       | ~1g       |
+| Pre-workout  | ON mass gainer + milk (full) | ~1550     | ~66g      | ~est      | ~est      |
+| Post-workout | Protein shake (30g)          | ~150      | ~30g      | ~4g       | ~1g       |
+| Meal         | Rice (~1 cup)                | ~200      | ~4g       | ~45g      | ~0g       |
+| Meal         | Chicken (~1 cup)             | ~250      | ~35g      | ~0g       | ~5g       |
+| Snack        | Pepitas (1 serving)          | ~160      | ~9g       | ~5g       | ~13g      |
+| Snack        | Almonds (1 serving)          | ~165      | ~6g       | ~6g       | ~14g      |
+| Snack        | Walnuts (1 serving)          | ~185      | ~4g       | ~4g       | ~18g      |
+| Snack        | Built Bar                    | ~150      | ~16g      | ~14g      | ~5g       |
+| **Total**    |                              | **~2760** | **~200g** | **~82g+** | **~57g+** |
 
 **Notes:** Training day (ME Lower — sumo deadlift). Protein ~200g — well above target. Calories ~2760 — solid surplus. Estimates.
 
@@ -87,13 +99,14 @@
 
 **Training day:** Yes (DE Upper)
 
-| Meal | Food | Cal | Protein | Carbs | Fat |
-|---|---|---|---|---|---|
-| Shake | Protein shake (30g) | ~150 | ~30g | ~4g | ~1g |
-| Shake | ON mass gainer + milk (full) | ~1550 | ~66g | ~est | ~est |
-| Shake | Protein shake (30g) | ~150 | ~30g | ~4g | ~1g |
-| Dinner | Fajitas — 4 tacos (Mexican restaurant) | ~1100 | ~48g | ~90g | ~38g |
-| **Total** | | **~2950** | **~174g** | | |
+| Meal      | Food                                   | Cal       | Protein   | Carbs | Fat  |
+| --------- | -------------------------------------- | --------- | --------- | ----- | ---- |
+| Shake     | Protein shake (30g)                    | ~150      | ~30g      | ~4g   | ~1g  |
+| Shake     | ON mass gainer + milk (full)           | ~1550     | ~66g      | ~est  | ~est |
+| Shake     | Protein shake (30g)                    | ~150      | ~30g      | ~4g   | ~1g  |
+| Dinner    | Fajitas — 4 tacos (Mexican restaurant) | ~1100     | ~48g      | ~90g  | ~38g |
+| **Total** |                                        | **~2950** | **~174g** |       |      |
+|           |                                        |           |           |       |      |
 
 **Notes:** Training day (DE Upper). Protein ~174g. Calories ~2950. Estimates.
 
@@ -139,18 +152,18 @@
 
 **Training day:** Yes (ME Upper — Incline Bench)
 
-| Meal | Food | Cal | Protein | Carbs | Fat |
-|---|---|---|---|---|---|
-| Morning | Protein shake (milk) | ~270 | ~32g | ~14g | ~10g |
-| Snack | Chips and salsa | ~280 | ~5g | ~38g | ~11g |
-| Snack | 20g protein yogurt drink | ~150 | ~20g | ~12g | ~3g |
-| Lunch | White rice (bowl) | ~310 | ~6g | ~67g | ~1g |
-| Snack | Built Bar | ~150 | ~16g | ~14g | ~5g |
-| Dinner | 8oz filet | ~460 | ~60g | ~0g | ~22g |
-| Dinner | Veggies (2 cups) | ~110 | ~8g | ~22g | ~1g |
-| Dinner | White rice (½ cup) | ~103 | ~2g | ~22g | ~0g |
-| Evening | Protein shake (30g) | ~150 | ~30g | ~4g | ~1g |
-| **Total** | | **~1983** | **~179g** | | |
+| Meal      | Food                     | Cal       | Protein   | Carbs | Fat  |
+| --------- | ------------------------ | --------- | --------- | ----- | ---- |
+| Morning   | Protein shake (milk)     | ~270      | ~32g      | ~14g  | ~10g |
+| Snack     | Chips and salsa          | ~280      | ~5g       | ~38g  | ~11g |
+| Snack     | 20g protein yogurt drink | ~150      | ~20g      | ~12g  | ~3g  |
+| Lunch     | White rice (bowl)        | ~310      | ~6g       | ~67g  | ~1g  |
+| Snack     | Built Bar                | ~150      | ~16g      | ~14g  | ~5g  |
+| Dinner    | 8oz filet                | ~460      | ~60g      | ~0g   | ~22g |
+| Dinner    | Veggies (2 cups)         | ~110      | ~8g       | ~22g  | ~1g  |
+| Dinner    | White rice (½ cup)       | ~103      | ~2g       | ~22g  | ~0g  |
+| Evening   | Protein shake (30g)      | ~150      | ~30g      | ~4g   | ~1g  |
+| **Total** |                          | **~1983** | **~179g** |       |      |
 
 **Notes:** Training day. Protein ~179g. Calories ~1983. Estimates.
 
