@@ -15,6 +15,7 @@
 | Lawnmowers or Bent Over Rows | 4 x 10–12 | 35 lb DB | |
 | EZ Bar Curls or DB Curls | 3 x 10–12 | EZ bar | |
 | Hammer Curls | 3 x 12–15 | 25–35 lb DBs | |
+| Upright Rows | 3 x 10–12 | Barbell / EZ bar | Elbows above wrists, pull to chin |
 
 ---
 
