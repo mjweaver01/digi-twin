@@ -1,5 +1,23 @@
 # Workout Log
 
+## 2026-06-29 — DE Lower
+
+**Feel:** —
+**Notes:** Speed day. Based off box squat PR 235 (6/27) and deadlift PR 275 (6/24). Speed weights at ~60%.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Box Squats | 10–12 x 2 | ~140 lbs | Sit back, pause, explode up. 45–60s rest |
+| Speed Deadlifts | 6–8 x 1 | ~165 lbs | Full reset each rep, explosive pull. 45–60s rest |
+| Good Mornings or RDLs | 3 x 12 | Light barbell | Posterior chain |
+| KB Swings | 3 x 15–20 | 35 lb KB | Hip-driven |
+| Core (hanging leg raises or planks) | 3 sets | BW | |
+| Lawnmowers or Bent Over Rows | 4 x 10–12 | 35 lb DB | |
+| EZ Bar Curls or DB Curls | 3 x 10–12 | EZ bar | |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | |
+
+---
+
 ## 2026-06-28 — ME Upper (Incline Bench)
 
 **Feel:** —
@@ -7,7 +25,7 @@
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
-| Incline Bench Press (work up to heavy single/triple) | Ramp → top set | 45 / 65 / 85 / 105 / 115 / 120+ | Push past 115 from 6/15 |
+| Incline Bench Press (work up to heavy single/triple) | Ramp → top set | 45 / 65 / 85 / 105 / 115 / 135 — top set 135 (PR) | Push past 115 from 6/15 |
 | JM Press or EZ Bar Skull Crushers | 3–4 x 8–10 | EZ bar | Tricep mass |
 | Lawnmowers or Bent Over Rows | 4 x 10–12 | 35 lb DB / barbell | Back thickness |
 | DB Incline Press or Flat DB Press | 3–4 x 10–12 | 35 lb DBs | |
