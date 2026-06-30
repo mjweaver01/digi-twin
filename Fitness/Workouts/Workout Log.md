@@ -1,5 +1,24 @@
 # Workout Log
 
+## 2026-06-30 — DE Upper
+
+**Feel:** —
+**Notes:** Speed day. Based off flat bench max 175 (6/23). Speed weight ~60%.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Bench Press | 9 x 3 | ~105 lbs | Rotate grip: 3 close / 3 medium / 3 wide. 45–60s rest |
+| DB Incline Press or Flat DB Press | 4 x 10–12 | 35 lb DBs | |
+| Bent Over Rows or Lawnmowers | 4 x 8–10 | Barbell / 35 lb DB | |
+| Arnold Press or OHP | 4 x 10–12 | 35 lb DBs | |
+| JM Press or Band Tricep Pushdowns | 3–4 x 10–12 | EZ bar / band | |
+| Upright Rows | 3 x 10–12 | Barbell / EZ bar | Elbows above wrists, pull to chin |
+| EZ Bar Curls or DB Curls | 3 x 10–12 | EZ bar | |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | |
+| Band Pull-Aparts | 3 x 20 | Band | Don't skip |
+
+---
+
 ## 2026-06-29 — DE Lower
 
 **Feel:** —
