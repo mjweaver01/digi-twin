@@ -1,5 +1,23 @@
 # Workout Log
 
+## 2026-07-01 — ME Lower (Sumo Deadlift)
+
+**Feel:** —
+**Notes:** ME Lower — sumo deadlift (rotation: deadlift 6/24 → box squat 6/27 → sumo 7/1). Last sumo top set 225 on 6/19 — aiming for 235+.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Sumo Deadlift (work up to heavy single/triple) | Ramp → top set | 135 / 185 / 205 / 225 / 235+ | Wide stance, toes flared ~45°, drive knees out |
+| Upright Rows | 3 x 10–12 | Barbell / EZ bar | Elbows above wrists, pull to chin |
+| Bulgarian Split Squats | 3 x 10/leg | 25 lb DBs | Rear foot on bench |
+| Lawnmowers | 4 x 10–12 | 35 lb DB | Single-arm, brace hard |
+| EZ Bar Skull Crushers | 3 x 10–12 | EZ bar | |
+| EZ Bar Curls | 3 x 10–12 | EZ bar | |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | |
+
+---
+
 ## 2026-06-30 — DE Upper
 
 **Feel:** —
@@ -7,7 +25,7 @@
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
-| Speed Bench Press | 9 x 3 | ~105 lbs | Rotate grip: 3 close / 3 medium / 3 wide. 45–60s rest |
+| Speed Bench Press | 9 x 3 | 135 lbs | Rotate grip: 3 close / 3 medium / 3 wide. 45–60s rest |
 | DB Incline Press or Flat DB Press | 4 x 10–12 | 35 lb DBs | |
 | Bent Over Rows or Lawnmowers | 4 x 8–10 | Barbell / 35 lb DB | |
 | Arnold Press or OHP | 4 x 10–12 | 35 lb DBs | |

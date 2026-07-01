@@ -14,6 +14,18 @@
 
 ---
 
+## 2026-06-30
+
+**Training day:** Yes (DE Upper)
+
+| Meal | Food | Cal | Protein | Carbs | Fat |
+|---|---|---|---|---|---|
+| **Total** | | — | ✓ | ✓ | ✓ |
+
+**Notes:** DE Upper — speed bench 9x3 @ 135. Protein, carb, and fat goals met (per Mike).
+
+---
+
 ## 2026-06-27
 
 **Training day:** Yes (ME Lower — Box Squat)
