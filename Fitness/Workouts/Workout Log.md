@@ -1,5 +1,22 @@
 # Workout Log
 
+## 2026-07-02 — ME Upper (Floor Press)
+
+**Feel:** —
+**Notes:** ME Upper — floor press (rotation: flat bench 6/23 → incline 6/28 → floor press 7/2). Dead-stop each rep, elbows ~45°, hips flat.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Floor Press (work up to heavy single/triple) | Ramp → top set | 45 / 95 / 115 / 135 / 155+ | Dead-stop each rep, elbows ~45°, hips flat |
+| DB Flat Press | 4 x 10–12 | 35 lb DBs | |
+| Arnold Press | 3 x 10–12 | 35 lb DBs | |
+| JM Press | 3 x 8–10 | EZ bar | Bar to throat, elbows slightly forward |
+| EZ Bar Curls | 3 x 10–12 | EZ bar | |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | |
+
+---
+
 ## 2026-07-01 — ME Lower (Sumo Deadlift)
 
 **Feel:** —
@@ -7,7 +24,7 @@
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
-| Sumo Deadlift (work up to heavy single/triple) | Ramp → top set | 135 / 185 / 205 / 225 / 235+ | Wide stance, toes flared ~45°, drive knees out |
+| Sumo Deadlift (work up to heavy single/triple) | Ramp → top set | 135 / 185 / 205 / 225 / 265 — top set 265 (PR) | Wide stance, toes flared ~45°, drive knees out |
 | Upright Rows | 3 x 10–12 | Barbell / EZ bar | Elbows above wrists, pull to chin |
 | Bulgarian Split Squats | 3 x 10/leg | 25 lb DBs | Rear foot on bench |
 | Lawnmowers | 4 x 10–12 | 35 lb DB | Single-arm, brace hard |
