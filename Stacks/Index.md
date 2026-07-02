@@ -2,7 +2,7 @@
 type: stack
 tags: [digi-twin, stack, index]
 owner: Mike
-updated: 2026-05-20
+updated: 2026-07-02
 status: current
 ---
 
@@ -24,19 +24,16 @@ Apply the **first match**. If AI deps are present, also load [[Stacks/AI Agent A
 3. bun.lock + react?
    → Bun Monolith
 
-4. express + (vite OR react) + kysely?
-   → Express Monolith
+4. express + (vite OR react)?
+   → Express Monolith (kysely usually present, but optional)
 
-5. express + vite + react (no kysely)?
-   → Express Monolith
+5. next + koa?
+   → Shopify App
 
-6. next + koa?
-   → Shopify App (or Next + Koa legacy pattern)
-
-7. ai OR @ai-sdk/* in deps (no other match)?
+6. ai OR @ai-sdk/* in deps (no other match)?
    → AI Agent App (+ read project structure for runtime)
 
-8. No clear match?
+7. No clear match?
    → Preferences/* only + read project's .prettierrc, tsconfig.json
 ```
 

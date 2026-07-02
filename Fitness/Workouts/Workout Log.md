@@ -1,6 +1,6 @@
 # Workout Log
 
-## 2026-07-08 — Vacation — Band Upper (Day 3: Full Upper Pump)
+## 2026-07-08 (Planned) — Vacation — Band Upper (Day 3: Full Upper Pump)
 
 **Feel:** —
 **Notes:** Vacation day 3. Band only — small + medium bands.
@@ -18,7 +18,7 @@
 
 ---
 
-## 2026-07-07 — Vacation — Band Upper (Day 2: Pull Focus)
+## 2026-07-07 (Planned) — Vacation — Band Upper (Day 2: Pull Focus)
 
 **Feel:** —
 **Notes:** Vacation day 2. Band only — small + medium bands.
@@ -35,7 +35,7 @@
 
 ---
 
-## 2026-07-06 — Vacation — Band Upper (Day 1: Push Focus)
+## 2026-07-06 (Planned) — Vacation — Band Upper (Day 1: Push Focus)
 
 **Feel:** —
 **Notes:** Vacation day 1. Band only — small + medium bands.
@@ -52,7 +52,7 @@
 
 ---
 
-## 2026-07-05 — DE Lower
+## 2026-07-05 (Planned) — DE Lower
 
 **Feel:** —
 **Notes:** Speed day — last session before vacation. Based off box squat PR 235 (6/27) and deadlift PR 275 (6/24).
@@ -69,7 +69,7 @@
 
 ---
 
-## 2026-07-04 — ME Upper (Floor Press)
+## 2026-07-04 (Planned) — ME Upper (Floor Press)
 
 **Feel:** —
 **Notes:** ME Upper — floor press moved from 7/3 (lawn day). Rotation: flat bench 6/23 → incline 6/28 → floor press 7/4. Dead-stop each rep, elbows ~45°, hips flat.
@@ -86,7 +86,7 @@
 
 ---
 
-## 2026-07-03 — Active Recovery / Lawn + Curls
+## 2026-07-03 (Planned) — Active Recovery / Lawn + Curls
 
 **Feel:** —
 **Notes:** Mowed the lawn. Light curls and accessory work only.
@@ -96,19 +96,6 @@
 | EZ Bar Curls | — | — | |
 | Hammer Curls | — | — | |
 | Random accessory work | — | — | |
-
-**Feel:** —
-**Notes:** ME Upper — floor press (rotation: flat bench 6/23 → incline 6/28 → floor press 7/3). Dead-stop each rep, elbows ~45°, hips flat.
-
-| Exercise | Sets x Reps | Weight | Notes |
-|---|---|---|---|
-| Floor Press (work up to heavy single/triple) | Ramp → top set | 45 / 95 / 115 / 135 / 155+ | Dead-stop each rep, elbows ~45°, hips flat |
-| DB Flat Press | 4 x 10–12 | 35 lb DBs | |
-| Arnold Press | 3 x 10–12 | 35 lb DBs | |
-| JM Press | 3 x 8–10 | EZ bar | Bar to throat, elbows slightly forward |
-| EZ Bar Curls | 3 x 10–12 | EZ bar | |
-| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | |
-| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | |
 
 ---
 

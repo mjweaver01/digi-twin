@@ -50,9 +50,12 @@ Keep **digi-twin** open in Obsidian while coding in other repos. The agent fetch
 | [Patterns/](Patterns/) | Cross-cutting architectural patterns |
 | [Notes/](Notes/) | Guides and operational notes |
 | [Karpathy/](Karpathy/) | AI behavioral reference ([upstream source](https://github.com/forrestchang/andrej-karpathy-skills)) |
+| [Plans/](Plans/) | Project plans and briefs — loaded only when named explicitly |
+| [Fitness/](Fitness/) | Personal fitness twin (profile, workouts, meals) — **never loaded for coding tasks** |
+| [Chess/](Chess/) | Personal chess study notes — **never loaded for coding tasks** |
 | [.cursor/](.cursor/) | Optional Cursor rules and MCP config example |
 | [scripts/](scripts/) | Vault setup scripts |
-| [skills/](skills/) | Agent policy template (copy into your client's skill/prompt location) |
+| [skills/](skills/) | Agent policy templates: `mike-digital-twin` (coding), `mike-fitness` (fitness) |
 
 ## Context stack
 

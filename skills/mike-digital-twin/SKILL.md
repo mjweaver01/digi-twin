@@ -48,6 +48,7 @@ On non-trivial work, load context via **Obsidian MCP** server `obsidian-mcp-tool
 - Full rigor for non-trivial work; use judgment on trivial fixes
 - **Review partnership** — AI output is draft until Mike reviews; end non-trivial work with a **review handoff** (summary, verify steps, assumptions/risks). Never say "ready to merge"
 - **Mike owns Git** — NEVER `git commit` unless Mike explicitly asks in that message. No push/amend/merge/rebase/tag either. Read-only `git status`/`diff`/`log` is fine
+- **Coding scope** — NEVER search or load `Fitness/`, `Chess/`, or `Plans/` for coding tasks. They are personal domains, not developer context (fitness has its own skill: `mike-fitness`). `Plans/` is loaded only when Mike names a specific plan
 
 ## Tier 2 — Load on activation (coding prefs)
 
@@ -69,13 +70,15 @@ Via MCP (or filesystem fallback), load in order:
 
 ### Stack profiles
 
-| Profile | Signals |
-|---------|---------|
-| Bun Monolith | `bun.lock` + React |
-| Vue Serverless | Vue 3 + Pinia + serverless |
-| Express Monolith | Vite + Express (+ Kysely) |
-| Shopify App | `@shopify/app`, Polaris, Next + Koa |
-| AI Agent App | `ai`, `@ai-sdk/*` (overlay) |
+Apply top-down — **first match wins**. Canonical order lives in `Stacks/Index.md`; this table mirrors it:
+
+| # | Profile | Signals |
+|---|---------|---------|
+| 1 | Shopify App | `@shopify/app`, Polaris, or Next + Koa |
+| 2 | Vue Serverless | Vue 3 + Pinia + serverless |
+| 3 | Bun Monolith | `bun.lock` + React |
+| 4 | Express Monolith | Express + Vite/React (Kysely optional) |
+| 5 | AI Agent App | `ai`, `@ai-sdk/*` (overlay — combines with any above) |
 
 ## Tier 4 — Deep reference (when stuck)
 
@@ -95,10 +98,14 @@ Fetch `Karpathy/EXAMPLES.md` when:
 
 ## Vault structure
 
-| Folder | Purpose |
-|--------|---------|
-| `Context/` | Bio, career, skills |
-| `Preferences/` | How Mike codes + AI behavior |
-| `Stacks/` | Conventions by tech stack type |
-| `Patterns/` | Cross-cutting architecture |
-| `Karpathy/` | Upstream AI behavioral reference |
+| Folder | Purpose | Coding tasks? |
+|--------|---------|---------------|
+| `Context/` | Bio, career, skills | Yes |
+| `Preferences/` | How Mike codes + AI behavior | Yes |
+| `Stacks/` | Conventions by tech stack type | Yes |
+| `Patterns/` | Cross-cutting architecture | Yes |
+| `Karpathy/` | Upstream AI behavioral reference | Yes |
+| `Notes/` | Vault guides and MCP setup | Reference only |
+| `Plans/` | Project plans and briefs | Only when Mike names one |
+| `Fitness/` | Personal fitness twin (see `mike-fitness` skill) | **Never** |
+| `Chess/` | Personal chess study notes | **Never** |

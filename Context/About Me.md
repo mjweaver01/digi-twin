@@ -2,13 +2,13 @@
 type: context
 tags: [digi-twin, context]
 owner: Mike
-updated: 2026-05-21
+updated: 2026-07-02
 status: current
 ---
 
 # About Me
 
-My name is Mike (Michael J Weaver). I am 33 years old, based in Columbus, Ohio.
+My name is Mike (Michael J Weaver). I am 33 (as of mid-2026), based in Columbus, Ohio.
 
 ## Professional identity
 

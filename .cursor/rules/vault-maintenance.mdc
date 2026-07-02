@@ -9,8 +9,11 @@ alwaysApply: false
 When editing notes in this vault:
 
 - Use consistent YAML frontmatter: `type`, `tags`, `owner`, `updated`, `status`
-- Types: `context`, `preference`, `stack`, `pattern`
+- Types: `context`, `preference`, `stack`, `pattern`, `fitness`
 - Link related notes with Obsidian wikilinks: `[[Preferences/AI Behavior]]`, `[[Stacks/Bun Monolith]]`
 - Do not duplicate content from `Karpathy/` — link to it instead
 - Stack profiles describe architecture types, not individual repos
 - Update the `updated` date when making substantive edits
+- `Stacks/Index.md` is the canonical stack-detection order; if you change it, update the mirror tables in `skills/mike-digital-twin/SKILL.md` and `Notes/How to Use the Digital Twin.md`
+- `Fitness/`, `Chess/`, and `Plans/` are personal domains — never mix them into coding context; fitness log conventions live in `skills/mike-fitness/SKILL.md`
+- Log files (`Fitness/**/... Log.md`): insert rows/entries into the existing structure — never append new headings or duplicate tables

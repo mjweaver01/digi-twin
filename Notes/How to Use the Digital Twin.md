@@ -2,7 +2,7 @@
 type: context
 tags: [digi-twin, guide]
 owner: Mike
-updated: 2026-05-22
+updated: 2026-07-02
 status: current
 ---
 
@@ -131,17 +131,21 @@ Example few-shot opener:
 
 ## Stack detection quick reference
 
-See [[Stacks/Index]] for the full decision tree. Summary:
+**[[Stacks/Index]] is canonical** — apply its decision tree top-down, first match wins. Summary (in detection order):
 
 | Profile | Signals |
 |---------|---------|
-| [[Stacks/Shopify App]] | `@shopify/app`, Polaris, Next + Koa |
+| [[Stacks/Shopify App]] | `@shopify/app`, Polaris, or Next + Koa |
 | [[Stacks/Vue Serverless]] | Vue 3 + Pinia + serverless |
 | [[Stacks/Bun Monolith]] | `bun.lock` + React |
-| [[Stacks/Express Monolith]] | Vite + Express (+ Kysely) |
+| [[Stacks/Express Monolith]] | Express + Vite/React (Kysely optional) |
 | [[Stacks/AI Agent App]] | `ai`, `@ai-sdk/*` (overlay on any runtime) |
 
 **Project config always wins** when it conflicts with stack defaults — read `.prettierrc`, `eslint.config.*`, `tsconfig.json` in the open project.
+
+## Personal domains
+
+The vault also holds non-developer content: `Fitness/` (own skill: `skills/mike-fitness/SKILL.md`), `Chess/`, and `Plans/`. These are **never loaded for coding tasks** — and coding preferences are never loaded for fitness tasks. Keep the scopes separate so semantic search stays clean.
 
 ## Gaps to watch
 

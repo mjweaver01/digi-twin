@@ -2,7 +2,7 @@
 type: pattern
 tags: [digi-twin, pattern, ai]
 owner: Mike
-updated: 2026-05-20
+updated: 2026-07-02
 status: current
 ---
 
@@ -53,7 +53,7 @@ import { z } from 'zod';
 
 export const searchKnowledge = tool({
   description: 'Search the knowledge base',
-  parameters: z.object({ query: z.string() }),
+  inputSchema: z.object({ query: z.string() }), // v5+ renamed `parameters` → `inputSchema`
   execute: async ({ query }) => { /* ... */ },
 });
 ```

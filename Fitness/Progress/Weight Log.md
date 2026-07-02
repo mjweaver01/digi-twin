@@ -12,13 +12,15 @@ Track weekly. Weigh in same conditions each time (morning, before eating, after 
 |---|---|---|
 | ~Jan 2026 | 175 | Pre-cut baseline — carrying fat, not training |
 | ~Jun 2026 | 155–160 | After ~5 month inadvertent fast — current starting point |
+| 2026-06-05 | 155–160 | Fasted = 155, EOD after protein shake = 160. Baseline check-in. |
+| 2026-07-02 | ~165 | ~1 month into bulk — up ~5–10 lbs from baseline. PRs on all main lifts this month. |
 
 ---
 
 ## Milestones
-- [ ] 160 lbs
-- [ ] 163 lbs
-- [ ] 165 lbs
+- [x] 160 lbs — Jun 2026
+- [x] 163 lbs — Jun 2026
+- [ ] 165 lbs — ~at it now (Jul 2026); confirm with a fasted weigh-in
 - [ ] 168 lbs
 - [ ] 170 lbs lean
 - [ ] 175 lbs lean
@@ -30,6 +32,3 @@ Track weekly. Weigh in same conditions each time (morning, before eating, after 
 - Recomposition goal: add muscle, minimize fat gain
 - Expect ~0.5–1 lb/week gain on a clean surplus
 - Use progress photos alongside scale weight — scale alone is misleading during recomp
-# Log
-
-| 2026-06-05 | 155–160 | Fasted = 155, EOD after protein shake = 160. Baseline check-in. |

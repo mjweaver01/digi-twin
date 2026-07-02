@@ -1,4 +1,12 @@
-# About Me — Fitness Profile
+---
+type: fitness
+tags: [digi-twin, fitness, profile]
+owner: Mike
+updated: 2026-07-02
+status: current
+---
+
+# Fitness Profile
 
 ## Background
 - **Works for Westside Barbell** — deep working knowledge of conjugate methodology, not just exposure
@@ -14,7 +22,7 @@
 ## Current Stats
 | Field | Value |
 |---|---|
-| Weight | 155–160 lbs |
+| Weight | See [[Fitness/Progress/Weight Log]] — **single source of truth** (~165 lbs as of Jul 2026, up from 155–160 baseline) |
 | Target | Bulky, Westside-style build |
 | Training Experience | Advanced — CrossFit certified, works at Westside Barbell |
 
@@ -24,6 +32,16 @@
 **Current focus:** Upper body priority (bench, press, curls) while maintaining squat/deadlift
 
 **Primary lifts:** Bench, Squat, Deadlift
+
+**Current PRs** (source of truth: [[Fitness/Workouts/Workout Log]]):
+
+| Lift | PR | Date |
+|---|---|---|
+| Bench Press | 175 | 2026-06-23 (w/ Tom) |
+| Box Squat | 235 | 2026-06-27 |
+| Conventional Deadlift | 275 | 2026-06-24 |
+| Sumo Deadlift | 265 | 2026-07-01 |
+| Incline Bench | 135 | 2026-06-28 |
 
 **Accessory favorites:** OHP, barbell/DB curls, tricep extensions, skull crushers, lawnmowers (single-arm DB rows)
 

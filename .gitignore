@@ -2,3 +2,5 @@
 mcp.json
 # Ignore Smart Environment folder
 .smart-env
+# Private material — never publish (repo is public)
+Fitness/Personal/

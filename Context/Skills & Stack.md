@@ -2,7 +2,7 @@
 type: context
 tags: [digi-twin, context, skills]
 owner: Mike
-updated: 2026-05-21
+updated: 2026-07-02
 status: current
 ---
 
@@ -33,7 +33,7 @@ status: current
 | **Bun** | Preferred for new freelance monoliths — single server for FE+BE, fast iteration |
 | **Node** | Established projects, Netlify Functions, Shopify apps (Govalo) |
 | **Vite** | Default FE bundler on greenfield projects |
-| **ESLint + Prettier** | Always; format on save via VSCode settings |
+| **ESLint + Prettier** | Prettier always (format on save); ESLint only on stacks that use it — see [[Preferences/Editor & Tooling]] |
 
 ## Backend & data
 
