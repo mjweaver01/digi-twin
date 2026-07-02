@@ -171,6 +171,54 @@ Rest: 3–5 min on ME sets, 60–90s on accessories
 
 ---
 
+---
+
+## Vacation — Band Only (Upper Body)
+*For travel with small + medium bands. Curls and pull-aparts every session — everything else rotates.*
+
+### Day 1 — Push Focus
+
+| Exercise | Sets x Reps | Band |
+|---|---|---|
+| Band Chest Press (anchor behind) | 4 x 15 | Medium |
+| Band Overhead Press | 3 x 12–15 | Medium |
+| Band Tricep Pushdowns | 3 x 15–20 | Small |
+| Band Lateral Raises | 3 x 15 | Small |
+| Band Curls | 3 x 12–15 | Small |
+| Hammer Curls (band) | 3 x 12–15 | Small |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Small |
+
+---
+
+### Day 2 — Pull Focus
+
+| Exercise | Sets x Reps | Band |
+|---|---|---|
+| Band Rows (step on band, hinge) | 4 x 15 | Medium |
+| Band Upright Rows | 3 x 12–15 | Medium |
+| Band Face Pulls | 3 x 20 | Small |
+| Band Curls | 4 x 12–15 | Small |
+| Hammer Curls (band) | 3 x 12–15 | Small |
+| Band Tricep Kickbacks | 3 x 15 | Small |
+| Band Pull-Aparts | 3 x 20 | Small |
+
+---
+
+### Day 3 — Full Upper Pump
+
+| Exercise | Sets x Reps | Band |
+|---|---|---|
+| Band Chest Press (anchor behind) | 3 x 15 | Medium |
+| Band Rows (step on band) | 3 x 15 | Medium |
+| Band Arnold Press | 3 x 12 | Medium |
+| Band Curls | 4 x 15 | Small |
+| Hammer Curls (band) | 3 x 15 | Small |
+| Band Tricep Pushdowns | 3 x 20 | Small |
+| Band Lateral Raises | 3 x 15 | Small |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Small |
+
+---
+
 ## Add New Workout
 ```
 ### [Name]

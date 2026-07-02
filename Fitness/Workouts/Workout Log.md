@@ -1,9 +1,78 @@
 # Workout Log
 
-## 2026-07-02 — ME Upper (Floor Press)
+## 2026-07-08 — Vacation — Band Upper (Day 3: Full Upper Pump)
 
 **Feel:** —
-**Notes:** ME Upper — floor press (rotation: flat bench 6/23 → incline 6/28 → floor press 7/2). Dead-stop each rep, elbows ~45°, hips flat.
+**Notes:** Vacation day 3. Band only — small + medium bands.
+
+| Exercise | Sets x Reps | Band | Notes |
+|---|---|---|---|
+| Band Chest Press (anchor behind) | 3 x 15 | Medium | |
+| Band Rows (step on band) | 3 x 15 | Medium | |
+| Band Arnold Press | 3 x 12 | Medium | |
+| Band Curls | 4 x 15 | Small | |
+| Hammer Curls (band) | 3 x 15 | Small | |
+| Band Tricep Pushdowns | 3 x 20 | Small | |
+| Band Lateral Raises | 3 x 15 | Small | |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Small | |
+
+---
+
+## 2026-07-07 — Vacation — Band Upper (Day 2: Pull Focus)
+
+**Feel:** —
+**Notes:** Vacation day 2. Band only — small + medium bands.
+
+| Exercise | Sets x Reps | Band | Notes |
+|---|---|---|---|
+| Band Rows (step on band, hinge) | 4 x 15 | Medium | |
+| Band Upright Rows | 3 x 12–15 | Medium | |
+| Band Face Pulls | 3 x 20 | Small | |
+| Band Curls | 4 x 12–15 | Small | |
+| Hammer Curls (band) | 3 x 12–15 | Small | |
+| Band Tricep Kickbacks | 3 x 15 | Small | |
+| Band Pull-Aparts | 3 x 20 | Small | |
+
+---
+
+## 2026-07-06 — Vacation — Band Upper (Day 1: Push Focus)
+
+**Feel:** —
+**Notes:** Vacation day 1. Band only — small + medium bands.
+
+| Exercise | Sets x Reps | Band | Notes |
+|---|---|---|---|
+| Band Chest Press (anchor behind) | 4 x 15 | Medium | |
+| Band Overhead Press | 3 x 12–15 | Medium | |
+| Band Tricep Pushdowns | 3 x 15–20 | Small | |
+| Band Lateral Raises | 3 x 15 | Small | |
+| Band Curls | 3 x 12–15 | Small | |
+| Hammer Curls (band) | 3 x 12–15 | Small | |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Small | |
+
+---
+
+## 2026-07-05 — DE Lower
+
+**Feel:** —
+**Notes:** Speed day — last session before vacation. Based off box squat PR 235 (6/27) and deadlift PR 275 (6/24).
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Box Squats | 10–12 x 2 | ~140 lbs | Sit back, pause, explode up. 45–60s rest |
+| Speed Deadlifts | 6–8 x 1 | ~165 lbs | Full reset each rep, explosive pull. 45–60s rest |
+| Lawnmowers | 4 x 10–12 | 35 lb DB | |
+| Arnold Press | 3 x 10–12 | 35 lb DBs | |
+| EZ Bar Curls | 3 x 10–12 | EZ bar | |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | |
+
+---
+
+## 2026-07-04 — ME Upper (Floor Press)
+
+**Feel:** —
+**Notes:** ME Upper — floor press moved from 7/3 (lawn day). Rotation: flat bench 6/23 → incline 6/28 → floor press 7/4. Dead-stop each rep, elbows ~45°, hips flat.
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
@@ -14,6 +83,45 @@
 | EZ Bar Curls | 3 x 10–12 | EZ bar | |
 | Hammer Curls | 3 x 12–15 | 25–35 lb DBs | |
 | Band Pull-Aparts / Face Pulls | 3 x 20 | Band | |
+
+---
+
+## 2026-07-03 — Active Recovery / Lawn + Curls
+
+**Feel:** —
+**Notes:** Mowed the lawn. Light curls and accessory work only.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| EZ Bar Curls | — | — | |
+| Hammer Curls | — | — | |
+| Random accessory work | — | — | |
+
+**Feel:** —
+**Notes:** ME Upper — floor press (rotation: flat bench 6/23 → incline 6/28 → floor press 7/3). Dead-stop each rep, elbows ~45°, hips flat.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Floor Press (work up to heavy single/triple) | Ramp → top set | 45 / 95 / 115 / 135 / 155+ | Dead-stop each rep, elbows ~45°, hips flat |
+| DB Flat Press | 4 x 10–12 | 35 lb DBs | |
+| Arnold Press | 3 x 10–12 | 35 lb DBs | |
+| JM Press | 3 x 8–10 | EZ bar | Bar to throat, elbows slightly forward |
+| EZ Bar Curls | 3 x 10–12 | EZ bar | |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | |
+
+---
+
+## 2026-07-02 — Active Recovery / Curls & Accessories
+
+**Feel:** —
+**Notes:** Mowed the lawn. Light accessory work only — curls and whatever felt good.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| EZ Bar Curls | — | — | |
+| Hammer Curls | — | — | |
+| Random accessory work | — | — | |
 
 ---
 
