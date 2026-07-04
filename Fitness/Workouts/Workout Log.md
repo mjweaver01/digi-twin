@@ -1,6 +1,6 @@
 # Workout Log
 
-## 2026-07-08 (Planned) — Vacation — Band Upper (Day 3: Full Upper Pump)
+## 2026-07-08 — Vacation — Band Upper (Day 3: Full Upper Pump)
 
 **Feel:** —
 **Notes:** Vacation day 3. Band only — small + medium bands.
@@ -18,7 +18,7 @@
 
 ---
 
-## 2026-07-07 (Planned) — Vacation — Band Upper (Day 2: Pull Focus)
+## 2026-07-07  — Vacation — Band Upper (Day 2: Pull Focus)
 
 **Feel:** —
 **Notes:** Vacation day 2. Band only — small + medium bands.
@@ -35,7 +35,7 @@
 
 ---
 
-## 2026-07-06 (Planned) — Vacation — Band Upper (Day 1: Push Focus)
+## 2026-07-06 — Vacation — Band Upper (Day 1: Push Focus)
 
 **Feel:** —
 **Notes:** Vacation day 1. Band only — small + medium bands.
