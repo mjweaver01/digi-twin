@@ -52,27 +52,10 @@
 
 ---
 
-## 2026-07-05 (Planned) — DE Lower
+## 2026-07-05 — ME Upper (Floor Press)
 
 **Feel:** —
-**Notes:** Speed day — last session before vacation. Based off box squat PR 235 (6/27) and deadlift PR 275 (6/24).
-
-| Exercise | Sets x Reps | Weight | Notes |
-|---|---|---|---|
-| Speed Box Squats | 10–12 x 2 | ~140 lbs | Sit back, pause, explode up. 45–60s rest |
-| Speed Deadlifts | 6–8 x 1 | ~165 lbs | Full reset each rep, explosive pull. 45–60s rest |
-| Lawnmowers | 4 x 10–12 | 35 lb DB | |
-| Arnold Press | 3 x 10–12 | 35 lb DBs | |
-| EZ Bar Curls | 3 x 10–12 | EZ bar | |
-| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | |
-| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | |
-
----
-
-## 2026-07-04 (Planned) — ME Upper (Floor Press)
-
-**Feel:** —
-**Notes:** ME Upper — floor press moved from 7/3 (lawn day). Rotation: flat bench 6/23 → incline 6/28 → floor press 7/4. Dead-stop each rep, elbows ~45°, hips flat.
+**Notes:** ME Upper — floor press (rotation: flat bench 6/23 → incline 6/28 → floor press 7/5). Dead-stop each rep, elbows ~45°, hips flat. DE Lower skipped — heading into vacation after this.
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
@@ -83,6 +66,13 @@
 | EZ Bar Curls | 3 x 10–12 | EZ bar | |
 | Hammer Curls | 3 x 12–15 | 25–35 lb DBs | |
 | Band Pull-Aparts / Face Pulls | 3 x 20 | Band | |
+
+---
+
+## 2026-07-04 — Rest Day
+
+**Feel:** —
+**Notes:** 4th of July rest day. ME Upper pushed to 7/5.
 
 ---
 
