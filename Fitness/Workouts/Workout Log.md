@@ -1,44 +1,40 @@
 # Workout Log
 
-## 2026-07-08 — Vacation — Band Upper (Day 3: Full Upper Pump)
+## 2026-07-09 — ME Upper (Bench Press)
 
 **Feel:** —
-**Notes:** Vacation day 3. Band only — small + medium bands.
+**Notes:** Back from vacation. ME Upper — flat bench (last top set 175 w/ Tom on 6/23 — aiming for 185+).
 
-| Exercise | Sets x Reps | Band | Notes |
+| Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
-| Band Chest Press (anchor behind) | 3 x 15 | Medium | |
-| Band Rows (step on band) | 3 x 15 | Medium | |
-| Band Arnold Press | 3 x 12 | Medium | |
-| Band Curls | 4 x 15 | Small | |
-| Hammer Curls (band) | 3 x 15 | Small | |
-| Band Tricep Pushdowns | 3 x 20 | Small | |
-| Band Lateral Raises | 3 x 15 | Small | |
-| Band Pull-Aparts / Face Pulls | 3 x 20 | Small | |
+| Bench Press (work up to heavy single/triple) | Ramp → top set | 45 / 95 / 135 / 155 / 175 / 185+ | Push past 175 from 6/23 |
+| DB Flat Press | 4 x 10–12 | 35 lb DBs | |
+| Upright Rows | 3 x 10–12 | Barbell / EZ bar | |
+| Lawnmowers | 4 x 10–12 | 35 lb DB | |
+| EZ Bar Curls | 3 x 10–12 | EZ bar | |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | |
 
 ---
 
-## 2026-07-07  — Vacation — Band Upper (Day 2: Pull Focus)
+## 2026-07-08 — Rest Day
 
 **Feel:** —
-**Notes:** Vacation day 2. Band only — small + medium bands.
+**Notes:** Vacation rest day.
 
-| Exercise | Sets x Reps | Band | Notes |
-|---|---|---|---|
-| Band Rows (step on band, hinge) | 4 x 15 | Medium | |
-| Band Upright Rows | 3 x 12–15 | Medium | |
-| Band Face Pulls | 3 x 20 | Small | |
-| Band Curls | 4 x 12–15 | Small | |
-| Hammer Curls (band) | 3 x 12–15 | Small | |
-| Band Tricep Kickbacks | 3 x 15 | Small | |
-| Band Pull-Aparts | 3 x 20 | Small | |
+---
+
+## 2026-07-07 — Rest Day
+
+**Feel:** —
+**Notes:** Vacation rest day.
 
 ---
 
 ## 2026-07-06 — Vacation — Band Upper (Day 1: Push Focus)
 
 **Feel:** —
-**Notes:** Vacation day 1. Band only — small + medium bands.
+**Notes:** Only vacation workout completed.
 
 | Exercise | Sets x Reps | Band | Notes |
 |---|---|---|---|
@@ -55,14 +51,14 @@
 ## 2026-07-05 — ME Upper (Floor Press)
 
 **Feel:** —
-**Notes:** ME Upper — floor press (rotation: flat bench 6/23 → incline 6/28 → floor press 7/5). Dead-stop each rep, elbows ~45°, hips flat. DE Lower skipped — heading into vacation after this.
+**Notes:** ME Upper — floor press before vacation.
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
-| Floor Press (work up to heavy single/triple) | Ramp → top set | 45 / 95 / 115 / 135 / 155+ | Dead-stop each rep, elbows ~45°, hips flat |
+| Floor Press (work up to heavy single/triple) | Ramp → top set | 45 / 95 / 115 / 135 / 170 — top set 170 | Dead-stop each rep, elbows ~45°, hips flat |
 | DB Flat Press | 4 x 10–12 | 35 lb DBs | |
 | Arnold Press | 3 x 10–12 | 35 lb DBs | |
-| JM Press | 3 x 8–10 | EZ bar | Bar to throat, elbows slightly forward |
+| JM Press | 3 x 8–10 | EZ bar | |
 | EZ Bar Curls | 3 x 10–12 | EZ bar | |
 | Hammer Curls | 3 x 12–15 | 25–35 lb DBs | |
 | Band Pull-Aparts / Face Pulls | 3 x 20 | Band | |
@@ -76,16 +72,10 @@
 
 ---
 
-## 2026-07-03 (Planned) — Active Recovery / Lawn + Curls
+## 2026-07-03 — Rest Day
 
 **Feel:** —
-**Notes:** Mowed the lawn. Light curls and accessory work only.
-
-| Exercise | Sets x Reps | Weight | Notes |
-|---|---|---|---|
-| EZ Bar Curls | — | — | |
-| Hammer Curls | — | — | |
-| Random accessory work | — | — | |
+**Notes:** Rest day.
 
 ---
 
