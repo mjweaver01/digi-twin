@@ -1,5 +1,22 @@
 # Workout Log
 
+## 2026-07-10 — DE Lower
+
+**Feel:** —
+**Notes:** Speed day. Based off box squat PR 235 (6/27) and deadlift PR 275 (6/24).
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Box Squats | 10–12 x 2 | ~140 lbs | Sit back, pause, explode up. 45–60s rest |
+| Speed Deadlifts | 6–8 x 1 | ~165 lbs | Full reset each rep, explosive pull. 45–60s rest |
+| KB Swings | 3 x 20 | 35 lb KB | Hip-driven |
+| Arnold Press | 3 x 10–12 | 35 lb DBs | |
+| EZ Bar Curls | 3 x 10–12 | EZ bar | |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | |
+
+---
+
 ## 2026-07-09 — ME Upper (Bench Press)
 
 **Feel:** —
@@ -7,7 +24,7 @@
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
-| Bench Press (work up to heavy single/triple) | Ramp → top set | 45 / 95 / 135 / 155 / 175 / 185+ | Push past 175 from 6/23 |
+| Bench Press (work up to heavy single/triple) | Ramp → top set | 45 / 95 / 135 / 155 / 175 / 195 — top set 195 (PR) | Push past 175 from 6/23 |
 | DB Flat Press | 4 x 10–12 | 35 lb DBs | |
 | Upright Rows | 3 x 10–12 | Barbell / EZ bar | |
 | Lawnmowers | 4 x 10–12 | 35 lb DB | |
