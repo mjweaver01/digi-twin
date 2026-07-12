@@ -1,5 +1,29 @@
 # Workout Log
 
+## 2026-07-12 — DE Upper
+
+**Feel:** —
+**Notes:** Speed day. Based off bench PR 195 (7/9). Speed weight ~60%.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Bench Press | 9 x 3 | ~115 lbs | Rotate grip: 3 close / 3 medium / 3 wide. 45–60s rest |
+| DB Incline Press | 4 x 10–12 | 35 lb DBs | |
+| Lawnmowers | 4 x 10–12 | 35 lb DB | |
+| EZ Bar Skull Crushers | 3 x 10–12 | EZ bar | |
+| EZ Bar Curls | 3 x 10–12 | EZ bar | |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | |
+
+---
+
+## 2026-07-11 — Rest Day
+
+**Feel:** —
+**Notes:** Rest day.
+
+---
+
 ## 2026-07-10 — DE Lower
 
 **Feel:** —
