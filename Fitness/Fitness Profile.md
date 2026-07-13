@@ -2,7 +2,6 @@
 type: fitness
 tags: [digi-twin, fitness, profile]
 owner: Mike
-updated: 2026-07-02
 status: current
 ---
 
@@ -106,7 +105,11 @@ Fat + protein dominant — slow-digesting, no blood sugar spike, won't disrupt s
 
 Main gap is calories, not protein. For evening, lean on fat-based foods rather than carb-heavy shakes.
 
-## Notes from Nitro.ai
-- Conjugate 4-day split in use (ME Upper, ME Lower, DE Upper, DE Lower)
-- Week 1 program on file (see Workouts log)
-- Good movement foundation from CrossFit background
+## Program Principles
+- **Split:** conjugate 4-day — ME Upper, ME Lower, DE Upper, DE Lower.
+- **DE loading:** wave bar weight on a 3-week pendulum (**50/55/60%**) and **add band tension to the bar** for accommodating resistance — never fixed straight weight.
+- **ME emphasis:** bias heavy **3s/5s over true singles** for mass; singles for testing only. Rotate the main lift, but occasionally hold one ~2 weeks to grind a real progression.
+- **Accessories (biggest mass lever):** back is the priority — **pull-ups/chin-ups + heavy barbell rows** every upper day, plus **direct hamstrings** (banded/Nordic leg curls) and **lower-back** (back raises / banded reverse hyper) every lower day. With the 35 lb DB cap: load the barbell or chase reps to failure (15–30). Keep arm volume in check — it's already well-covered.
+- **Rep-effort work:** dips + high-rep DB pressing to failure for hypertrophy.
+- **Weak points:** forward lean on squats = upper-back/bracing — prioritize heavy rows + ab/bracing work every lower day.
+- Good movement foundation from CrossFit background.

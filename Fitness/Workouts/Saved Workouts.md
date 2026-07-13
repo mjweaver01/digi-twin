@@ -2,14 +2,19 @@
 
 Pull these up and go. Log weights every session — progressive overload is the whole game.
 
+> **Program principles:**
+> - **ME days:** bias heavy **3s/5s** over true singles for mass; save singles for testing. Rotate the main lift, but hold ~2 weeks now and then to grind a real progression.
+> - **DE days:** wave bar weight on a **3-week pendulum (50 / 55 / 60%)** AND **add band tension to the bar** — accommodating resistance is the whole point of DE.
+> - **Accessories:** back is the weak link — **pull-ups + heavy barbell rows every upper day**. Add **direct hamstring (banded/Nordic leg curls)** and **lower-back (back raises / banded reverse hyper)** on lower days. With the 35 lb DB cap, either load the barbell or chase reps to failure (15–30). Arms are already well-covered — don't keep piling on curls.
+
 ---
 
 ## Westside Conjugate — Full Program
 
 ### ME Upper — Max Effort Upper Body
-*Goal: find a new max on a bench variation. Rotate the main lift every 1–3 weeks to avoid accommodation.*
+*Goal: build a heavy top 3–5RM on a bench variation (singles only for testing). Rotate the main lift to avoid accommodation.*
 
-**Main lift — work up to a heavy single, double, or triple:**
+**Main lift — work up to a heavy 3–5RM (bias reps over singles for mass):**
 - Flat bench press
 - Close-grip bench press
 - Floor press (flat on ground, limits ROM — great for lockout)
@@ -20,38 +25,38 @@ Pull these up and go. Log weights every session — progressive overload is the 
 
 | Accessory | Sets x Reps | Notes |
 |---|---|---|
-| JM Press | 3–4 x 8–10 | Bench/skull crusher hybrid — best tricep mass builder. Bar comes down to throat, elbows slightly forward of bar |
-| Lawnmowers (single-arm DB row) | 4 x 10–12 | Heavy. 35 lb DB, brace hard |
-| EZ Bar Skull Crushers | 3 x 10–12 | Keep elbows in, full stretch |
+| **Pull-ups / Chin-ups (weighted or banded)** | 4 x 6–12 | **Lat width — the missing piece. Every upper day.** Add weight / slow eccentric to progress |
+| Barbell Rows or Lawnmowers | 4 x 8–12 · 4 x 15–20 | Load the barbell heavy for thickness, or take 35 lb DBs to failure |
+| JM Press | 3–4 x 8–10 | Bench/skull crusher hybrid — best tricep mass builder. Bar to throat, elbows slightly forward |
+| DB Incline Press or Arnold Press | 3–4 x 12–20 | Chase reps to failure — DBs are capped at 35 lb |
 | Band Pull-Aparts | 3–4 x 20 | Face pulls or over/under — shoulder health, rear delt thickness |
-| DB Curls or EZ Bar Curls | 3 x 10–12 | Biceps stay in every upper session |
-| Hammer Curls | 2–3 x 12–15 | Brachialis + forearm size |
+| EZ Bar or Hammer Curls | 2–3 x 10–15 | One movement — arm volume is already high across the week |
 
 Rest: 3–5 min on ME work, 60–90s on accessories
 
 ---
 
 ### DE Upper — Dynamic Effort Upper Body
-*Goal: bar speed and volume. Use bands for accommodating resistance if available.*
+*Goal: bar speed and volume. **Band tension on the bar is mandatory, and wave the % on a 3-week pendulum.***
 
 | Exercise | Sets x Reps | Load | Notes |
 |---|---|---|---|
-| Speed Bench Press | 8–9 x 3 | ~50–60% 1RM + band tension | Max speed off chest. 45–60s rest. Change grip width across sets (close / medium / wide) |
-| DB Incline Press | 3–4 x 10–12 | 20 or 35 lb | Hypertrophy focus |
-| JM Press or Tricep Pushdowns (band) | 3 x 12–15 | | Volume tricep work |
-| Bent Over Rows | 4 x 8–10 | Barbell | Full stretch, controlled |
-| Arnold Press | 3 x 10–12 | 20 lb DB | Full pronation — hits all three delt heads |
+| Speed Bench Press | 9 x 3 | **50 / 55 / 60% by week + band tension** | Wave weekly, reset after wk 3. Bench ~195 → ~95/105/115 lb + band. Max speed off chest, 45–60s rest, rotate grip close/medium/wide |
+| **Pull-ups / Chin-ups (weighted or banded)** | 4 x 6–12 | BW + load | **Lat width — don't skip** |
+| Barbell Rows or Chest-Supported Rows | 4 x 8–12 | Barbell, heavy | Back thickness — load past the DBs |
+| DB Incline or Flat Press | 3–4 x 12–20 | 35 lb | Chase reps to failure |
+| Dips (weighted or high-rep) or JM Press | 3 x 8–15 | BW + load / EZ bar | Rep-method chest + tricep mass |
+| Arnold Press | 3 x 10–12 | 35 lb DB | Full pronation — all three delt heads |
 | Band Pull-Aparts | 3 x 20 | Light band | |
-| EZ Bar Curls | 3 x 12 | | |
 
 Rest: 45–60s on speed sets, 60–90s on accessories
 
 ---
 
 ### ME Lower — Max Effort Lower Body
-*Goal: find a new max on a squat or deadlift variation. Rotate main lift every 1–3 weeks.*
+*Goal: heavy top 3–5RM on a squat or deadlift variation (singles for testing only). Rotate main lift.*
 
-**Main lift — work up to a heavy single, double, or triple:**
+**Main lift — work up to a heavy 3–5RM:**
 - Back squat
 - Box squat (use bench at appropriate height)
 - Romanian deadlift (RDL) to a max set of 3–5
@@ -61,26 +66,28 @@ Rest: 45–60s on speed sets, 60–90s on accessories
 
 | Accessory | Sets x Reps | Notes |
 |---|---|---|
-| Good Mornings | 3–4 x 8–10 | Barbell on back, hinge at hips — builds the posterior chain that makes you look thick from behind |
+| Good Mornings or RDLs | 3–4 x 8–10 | **Load it heavy** — not a light bar. Builds the thick posterior chain |
+| **Banded Leg Curls or Nordic Curls** | 3 x 10–15 | **Direct hamstring — was missing. Every lower day.** Heel to glute, controlled |
+| **Back Raises / Bench Back Ext. or Banded Reverse Hyper** | 3–4 x 12–20 | Lower-back / reverse-hyper sub — face down over bench, band at ankles |
+| Bulgarian Split Squats | 3 x 10/leg | 25 or 35 lb DB — rear foot on bench |
 | KB Swings | 3–4 x 15–20 | 35 lb KB, explosive hip drive |
-| Bulgarian Split Squats | 3 x 10/leg | 20 or 35 lb DB — rear foot elevated on bench |
-| Reverse Hyper (band sub) | 3–4 x 15–20 | Lie face-down on bench, band around ankles, kick back — approximates reverse hyper for lower back/glutes |
-| Ab work | 3 x 10–15 | Hanging leg raises or weighted sit-ups — strong abs = bigger lifts |
+| Ab / bracing work | 3 x 10–15 | Hanging leg raises or weighted sit-ups — strong brace = bigger lifts |
 
 Rest: 3–5 min on ME work, 60–90s on accessories
 
 ---
 
 ### DE Lower — Dynamic Effort Lower Body
-*Goal: speed, explosiveness, posterior chain volume.*
+*Goal: speed, explosiveness, posterior chain volume. **Wave the % on a 3-week pendulum + band tension.***
 
 | Exercise | Sets x Reps | Load | Notes |
 |---|---|---|---|
-| Speed Box Squats | 10–12 x 2 | ~50–60% 1RM + band tension | Sit back onto box, pause, explode up. 45–60s rest |
-| Speed Deadlifts | 6–8 x 1 | ~60% 1RM | Reset each rep. Explosive pull |
-| RDLs | 3 x 10–12 | Barbell | Slow eccentric, feel the hamstring |
-| KB Swings | 3 x 20 | 35 lb | Hip explosion |
-| Good Mornings | 3 x 12 | Light barbell | |
+| Speed Box Squats | 10–12 x 2 | **50 / 55 / 60% by week + band** | Box squat ~235 → ~115/130/140 lb + band. Sit back, pause, explode. 45–60s rest |
+| Speed Deadlifts | 6–8 x 1 | **50 / 55 / 60% by week** | DL ~275 → ~135/150/165 lb. Reset each rep, explosive pull |
+| **Banded Leg Curls or Nordic Curls** | 3 x 10–15 | Band / BW | **Direct hamstring — every lower day** |
+| RDLs or Heavy Good Mornings | 3–4 x 8–10 | Barbell, loaded | Slow eccentric, feel the hamstring |
+| **Back Raises or Banded Reverse Hyper** | 3 x 12–20 | BW / band | Lower-back / glute — reverse-hyper sub |
+| Pull-ups (weighted or banded) | 3 x 6–12 | BW + load | Add lat work on lower day too |
 | Core | 3 sets | | Planks or leg raises |
 
 Rest: 45–60s on speed work, 90s on accessories
