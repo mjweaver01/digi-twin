@@ -1,5 +1,23 @@
 # Workout Log
 
+## 2026-07-13 — ME Lower (Conventional Deadlift)
+
+**Feel:** —
+**Notes:** ME Lower — conventional deadlift (rotation: sumo 7/1 → box squat 6/27 → conventional 6/24, back to conventional). Last conventional top set 275 on 6/24 — aiming for 280+. Full reset each rep, stop at form breakdown. Watch bar path / stay over midfoot; keep Valsalva moderate.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Conventional Deadlift (work up to heavy single/triple) | Ramp → top set | 135 / 185 / 225 / 255 / 280+ | Full reset each rep, chest up, drive floor away. Push past 275 from 6/24 |
+| Good Mornings | 3 x 8–10 | Light barbell | Hinge at hips, soft knees — posterior chain |
+| KB Swings | 3 x 15–20 | 35 lb KB | Explosive hip drive |
+| Arnold Press | 3–4 x 10–12 | 35 lb DBs | Delts — full ROM, slow eccentric |
+| EZ Bar Curls | 3 x 10–12 | EZ bar | |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health — don't skip |
+| Ab work | 3 x 10–15 | BW | Hanging leg raises or weighted sit-ups |
+
+---
+
 ## 2026-07-12 — DE Upper
 
 **Feel:** —
@@ -10,7 +28,7 @@
 | Speed Bench Press | 9 x 3 | ~115 lbs | Rotate grip: 3 close / 3 medium / 3 wide. 45–60s rest |
 | DB Incline Press | 4 x 10–12 | 35 lb DBs | |
 | Lawnmowers | 4 x 10–12 | 35 lb DB | |
-| EZ Bar Skull Crushers | 3 x 10–12 | EZ bar | |
+| Rolling DB Tricep Extensions | 3 x 10–12 | 25 lb DBs | |
 | EZ Bar Curls | 3 x 10–12 | EZ bar | |
 | Hammer Curls | 3 x 12–15 | 25–35 lb DBs | |
 | Band Pull-Aparts / Face Pulls | 3 x 20 | Band | |
