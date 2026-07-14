@@ -1,5 +1,29 @@
 # Workout Log
 
+## 2026-07-15 — ME Upper (Bench Press)
+
+**Feel:** —
+**Notes:** ME Upper — flat bench (rotation: bench 7/9 → floor press 7/5 → incline 6/28). Last flat bench top set 195 PR on 7/9 — aiming for 200+. Restarting the rotation after 7/14 rest. Keep Valsalva moderate.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Bench Press (work up to heavy single/triple) | Ramp → top set | 45 / 95 / 135 / 165 / 185 / 200+ | Push past 195 from 7/9 |
+| DB Flat Press | 4 x 10–12 | 35 lb DBs | |
+| JM Press or EZ Bar Skull Crushers | 3–4 x 8–10 | EZ bar | Tricep mass |
+| Lawnmowers | 4 x 10–12 | 35 lb DB | Single-arm, brace hard |
+| EZ Bar Curls | 3 x 10–12 | EZ bar | |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health — don't skip |
+
+---
+
+## 2026-07-14 — Rest Day
+
+**Feel:** —
+**Notes:** Rest day after conventional deadlift PR (305) on 7/13 and two consecutive training days. CNS recovery before restarting the rotation.
+
+---
+
 ## 2026-07-13 — ME Lower (Conventional Deadlift)
 
 **Feel:** —
@@ -7,7 +31,7 @@
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
-| Conventional Deadlift (work up to heavy single/triple) | Ramp → top set | 135 / 185 / 225 / 255 / 280+ | Full reset each rep, chest up, drive floor away. Push past 275 from 6/24 |
+| Conventional Deadlift (work up to heavy single/triple) | Ramp → top set | 135 / 185 / 225 / 255 / 305 (PR) | Full reset each rep, chest up, drive floor away. New PR — up 30 lbs from 275 (6/24) |
 | Good Mornings | 3 x 8–10 | Light barbell | Hinge at hips, soft knees — posterior chain |
 | KB Swings | 3 x 15–20 | 35 lb KB | Explosive hip drive |
 | Arnold Press | 3–4 x 10–12 | 35 lb DBs | Delts — full ROM, slow eccentric |

@@ -38,7 +38,7 @@ status: current
 |---|---|---|
 | Bench Press | 175 | 2026-06-23 (w/ Tom) |
 | Box Squat | 235 | 2026-06-27 |
-| Conventional Deadlift | 275 | 2026-06-24 |
+| Conventional Deadlift | 305 | 2026-07-13 |
 | Sumo Deadlift | 265 | 2026-07-01 |
 | Incline Bench | 135 | 2026-06-28 |
 
