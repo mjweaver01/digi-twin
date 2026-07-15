@@ -36,7 +36,7 @@ status: current
 
 | Lift | PR | Date |
 |---|---|---|
-| Bench Press | 175 | 2026-06-23 (w/ Tom) |
+| Bench Press | 205 | 2026-07-15 |
 | Box Squat | 235 | 2026-06-27 |
 | Conventional Deadlift | 305 | 2026-07-13 |
 | Sumo Deadlift | 265 | 2026-07-01 |

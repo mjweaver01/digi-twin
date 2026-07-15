@@ -1,5 +1,25 @@
 # Workout Log
 
+## 2026-07-16 — DE Lower
+
+**Feel:** —
+**Notes:** Speed day — new 3-week wave, Week 1 = 50%. Box squat speed ~115 (50% of 235). Speed deadlift ~150 (50% of new 305 PR). Add band tension if set up. Stay explosive, short rests. Take a rest day first if the bench PR (7/15) left you beat up.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Box Squats | 10–12 x 2 | ~115 lbs | Sit back to bench, pause, explode up. 45–60s rest |
+| Speed Deadlifts | 6–8 x 1 | ~150 lbs | Full reset each rep, explosive pull. 45–60s rest |
+| Good Mornings or RDLs | 3–4 x 8–10 | Loaded barbell | Heavy hinge — thick posterior chain |
+| Banded Leg Curls | 3 x 10–15 | Band | Direct hamstring work — don't skip |
+| Back Raises / Bench Back Extensions | 3 x 12–20 | BW / band | Lower-back, reverse-hyper sub |
+| KB Swings | 3 x 20 | 35 lb KB | Hip-driven |
+| Lawnmowers | 4 x 15–20 | 35 lb DB | Back thickness |
+| EZ Bar Curls | 3 x 10–15 | EZ bar | |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+| Core | 3 x 10–15 | BW | Hanging leg raises or weighted sit-ups |
+
+---
+
 ## 2026-07-15 — ME Upper (Bench Press)
 
 **Feel:** —
@@ -7,7 +27,7 @@
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
-| Bench Press (work up to heavy single/triple) | Ramp → top set | 45 / 95 / 135 / 165 / 185 / 200+ | Push past 195 from 7/9 |
+| Bench Press (work up to heavy single/triple) | Ramp → top set | 45 / 95 / 135 / 165 / 185 / 205 (PR) | New PR — up 10 lbs from 195 (7/9) |
 | DB Flat Press | 4 x 10–12 | 35 lb DBs | |
 | JM Press or EZ Bar Skull Crushers | 3–4 x 8–10 | EZ bar | Tricep mass |
 | Lawnmowers | 4 x 10–12 | 35 lb DB | Single-arm, brace hard |
