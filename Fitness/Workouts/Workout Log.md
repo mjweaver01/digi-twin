@@ -1,19 +1,62 @@
-# Workout Log
+d# Workout Log
+
+## 2026-07-19 — ME Lower (Box Squat)
+
+**Feel:** —
+**Notes:** ME Lower — box squat (rotation: conventional 7/13 → box squat, back into deadlift → box squat → sumo cycle). Last box squat top set 235 PR on 6/27 — aiming for 240+. Sit back onto box, pause, explode up. Watch the forward lean / bar path; keep Valsalva moderate.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Box Squat (work up to heavy single/triple) | Ramp → top set | 45 / 135 / 185 / 205 / 225 / 240+ | Sit back, pause, explode up. Push past 235 from 6/27. Stop at form breakdown |
+| Good Mornings | 3–4 x 8–10 | Light barbell | Hinge at hips, soft knees |
+| KB Swings | 3 x 15–20 | 35 lb KB | Explosive hip drive |
+| Arnold Press | 3–4 x 10–12 | 35 lb DBs | Delts — full ROM, slow eccentric |
+| EZ Bar Curls | 3 x 10–12 | EZ bar | |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+| Ab work | 3 x 10–15 | BW | Hanging leg raises or weighted sit-ups |
+
+---
+
+## 2026-07-18 — DE Upper
+
+**Feel:** —
+**Notes:** Speed day — new 3-week wave, Week 1 = 50%. Speed bench ~105 (50% of new 205 PR) + band tension on the bar. Max speed off the chest, rotate grip close/medium/wide (3 sets each). ~72 hrs off the 7/15 bench PR — keep it explosive, not heavy.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Bench Press | 9 x 3 | ~105 lbs + band | 50% of 205. Rotate grip: 3 close / 3 medium / 3 wide. 45–60s rest |
+| Pull-ups / Chin-ups (weighted or banded) | 4 x 6–12 | BW / band | Vertical pull — lat width, don't skip |
+| Barbell Rows or DB Shrugs | 4 x 8–12 / 4 x 10–15 | Barbell / 35 lb DBs | Back thickness — shrugs an option now |
+| DB Incline Press or Flat DB Press | 4 x 12–20 to failure | 35 lb DBs | Chase reps, weight is capped |
+| Arnold Press or OHP | 4 x 10–12 | 35 lb DBs | Full delt development |
+| JM Press or Dips | 3–4 x 10–12 / 3 x 8–15 | EZ bar / BW | Tricep mass |
+| EZ Bar Curls or Hammer Curls | 3 x 10–15 | EZ bar / DBs | Pick one |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health — don't skip |
+
+---
+
+## 2026-07-17 — Rest Day
+
+**Feel:** —
+**Notes:** Rest day. Spacing DE Upper (7/18) ~72 hrs off the 7/15 bench PR, and recovery after back-to-back sessions 7/15–7/16.
+
+---
 
 ## 2026-07-16 — DE Lower
 
 **Feel:** —
-**Notes:** Speed day — new 3-week wave, Week 1 = 50%. Box squat speed ~115 (50% of 235). Speed deadlift ~150 (50% of new 305 PR). Add band tension if set up. Stay explosive, short rests. Take a rest day first if the bench PR (7/15) left you beat up.
+**Notes:** Speed day — new 3-week wave, Week 1 = 50%. Ran speed box squats at 135 (worked well). Subbed DB shrugs for lawnmowers — good trap/upper-back thickness, adding as a rotation variation going forward.
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
-| Speed Box Squats | 10–12 x 2 | ~115 lbs | Sit back to bench, pause, explode up. 45–60s rest |
+| Speed Box Squats | 10–12 x 2 | 135 lbs | Sit back to bench, pause, explode up. 45–60s rest |
 | Speed Deadlifts | 6–8 x 1 | ~150 lbs | Full reset each rep, explosive pull. 45–60s rest |
 | Good Mornings or RDLs | 3–4 x 8–10 | Loaded barbell | Heavy hinge — thick posterior chain |
 | Banded Leg Curls | 3 x 10–15 | Band | Direct hamstring work — don't skip |
 | Back Raises / Bench Back Extensions | 3 x 12–20 | BW / band | Lower-back, reverse-hyper sub |
 | KB Swings | 3 x 20 | 35 lb KB | Hip-driven |
-| Lawnmowers | 4 x 15–20 | 35 lb DB | Back thickness |
+| DB Shrugs | 4 x 10 | 35 lb DBs | Subbed for lawnmowers — trap/upper-back thickness |
 | EZ Bar Curls | 3 x 10–15 | EZ bar | |
 | Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
 | Core | 3 x 10–15 | BW | Hanging leg raises or weighted sit-ups |

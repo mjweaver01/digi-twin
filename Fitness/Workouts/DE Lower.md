@@ -35,7 +35,7 @@
 | Exercise | Sets x Reps | Notes |
 |---|---|---|
 | **Pull-ups / Chin-ups** (weighted or banded) | 3–4 x 6–12 | Lat width — add on lower day too |
-| Barbell Rows **or** Lawnmowers | 4 x 8–12 · 4 x 15–20 | Load the barbell heavy, or take DBs to failure |
+| Barbell Rows **or** Lawnmowers **or** DB Shrugs | 4 x 8–12 · 4 x 15–20 · 4 x 10 | Load the barbell heavy, take DBs to failure, or shrugs (35 lb DBs) for trap/upper-back thickness |
 | EZ Bar Curls **or** Hammer Curls | 3 x 10–15 | One is plenty — arms are well-covered |
 | Band Pull-Aparts / Face Pulls | 3 x 20 | Rear delt, shoulder health |
 

@@ -21,6 +21,7 @@
 |---|---|---|
 | **Pull-ups / Chin-ups** (weighted or banded) | 4 x 6–12 | **Vertical pull — lat width. Do not skip.** Add weight or slow the eccentric as you progress |
 | Barbell Rows **or** Pendlay Rows **or** Chest-Supported Rows | 4 x 8–12 | Load the barbell heavy — goes far past 35 lb DBs. Back thickness |
+| DB Shrugs | 4 x 10–15 | 35 lb DBs — trap/upper-back thickness. Squeeze at top, no rolling |
 | DB Incline Press **or** Flat DB Press | 4 x 12–20 to failure | 35 lb DBs — chase reps since weight is capped |
 | Arnold Press **or** Overhead Press | 4 x 10–12 | 35 lb DBs / barbell — full delt development |
 | Dips (weighted or high-rep) **or** JM Press | 3 x 8–15 · 3–4 x 10–12 | Rep-method chest/tricep mass — dips scale past light DBs |
