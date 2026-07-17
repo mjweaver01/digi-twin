@@ -2,7 +2,7 @@
 type: stack
 tags: [digi-twin, stack, index]
 owner: Mike
-updated: 2026-07-02
+updated: 2026-07-16
 status: current
 ---
 
@@ -39,13 +39,29 @@ Apply the **first match**. If AI deps are present, also load [[Stacks/AI Agent A
 
 ## Stack profiles
 
+In detection order:
+
 | Profile | Detection signals | Doc |
 |---------|-------------------|-----|
-| Bun Monolith | `bun.lock` + React + single-server | [[Stacks/Bun Monolith]] |
-| Vue Serverless | Vue 3 + Pinia + serverless deploy | [[Stacks/Vue Serverless]] |
-| Express Monolith | Vite + Express (+ Kysely) | [[Stacks/Express Monolith]] |
 | Shopify App | `@shopify/app`, Polaris, Next + Koa | [[Stacks/Shopify App]] |
+| Vue Serverless | Vue 3 + Pinia + serverless deploy | [[Stacks/Vue Serverless]] |
+| Bun Monolith | `bun.lock` + React + single-server | [[Stacks/Bun Monolith]] |
+| Express Monolith | Vite + Express (+ Kysely) | [[Stacks/Express Monolith]] |
 | AI Agent App | `ai`, `@ai-sdk/*` (overlay) | [[Stacks/AI Agent App]] |
+
+## Choosing a stack (greenfield)
+
+Detection covers existing projects. For new work, pick by scenario:
+
+| Scenario | Stack profile |
+|----------|---------------|
+| New freelance project, full ownership | [[Stacks/Bun Monolith]] |
+| Existing Node + Express project | [[Stacks/Express Monolith]] |
+| Vue + serverless deploy (Netlify) | [[Stacks/Vue Serverless]] |
+| Shopify embedded app | [[Stacks/Shopify App]] |
+| Any project with AI SDK | [[Stacks/AI Agent App]] (overlay) |
+
+Package managers: match the project. Don't migrate unless asked.
 
 ## Fallback rule
 
@@ -53,5 +69,5 @@ When stack profile and **project-local config** conflict, **project wins**. Alwa
 
 ## Related
 
-- [[Patterns/Runtime Choices]]
 - [[Preferences/Editor & Tooling]]
+- [[Preferences/Backend Conventions]]

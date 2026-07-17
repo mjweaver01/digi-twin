@@ -2,7 +2,7 @@
 type: stack
 tags: [digi-twin, stack, bun, react]
 owner: Mike
-updated: 2026-05-20
+updated: 2026-07-16
 status: current
 ---
 
@@ -12,7 +12,7 @@ Single Bun process serves React SPA + REST API. Mike's preferred pattern for **n
 
 ## Detection
 
-- `bun.lock` or `bun.lockb` present
+- `bun.lock` present (`bun.lockb` only on legacy pre-Bun-1.2 projects)
 - `react` in dependencies
 - Single entry: `src/index.ts` with `Bun.serve`, or monolithic `src/` layout
 
@@ -62,4 +62,4 @@ src/
 
 - [[Stacks/AI Agent App]] — if `@ai-sdk/*` present
 - [[Patterns/Type Sharing]]
-- [[Patterns/Runtime Choices]]
+- [[Stacks/Index]]

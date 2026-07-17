@@ -2,10 +2,7 @@
 
 Pull these up and go. Log weights every session — progressive overload is the whole game.
 
-> **Program principles:**
-> - **ME days:** bias heavy **3s/5s** over true singles for mass; save singles for testing. Rotate the main lift, but hold ~2 weeks now and then to grind a real progression.
-> - **DE days:** wave bar weight on a **3-week pendulum (50 / 55 / 60%)** AND **add band tension to the bar** — accommodating resistance is the whole point of DE.
-> - **Accessories:** back is the weak link — **pull-ups + heavy barbell rows every upper day**. Add **direct hamstring (banded/Nordic leg curls)** and **lower-back (back raises / banded reverse hyper)** on lower days. With the 35 lb DB cap, either load the barbell or chase reps to failure (15–30). Arms are already well-covered — don't keep piling on curls.
+> **Program principles:** the canonical list lives in [[Fitness Profile]] → *Program Principles* (ME 3s/5s over singles; DE 50/55/60% pendulum + band tension; back/hamstring/lower-back accessory priority). Read it before programming — don't duplicate it here.
 
 ---
 

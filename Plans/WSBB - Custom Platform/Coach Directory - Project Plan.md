@@ -1,3 +1,11 @@
+---
+type: plan
+tags: [digi-twin, plan]
+owner: Mike
+updated: 2026-06-05
+status: planning
+---
+
 # WSBB Coach Directory — Project Plan
 
 **Client:** Tom Barry, Westside Barbell

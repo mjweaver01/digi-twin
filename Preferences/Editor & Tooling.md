@@ -2,7 +2,7 @@
 type: preference
 tags: [digi-twin, preference, tooling]
 owner: Mike
-updated: 2026-05-20
+updated: 2026-07-16
 status: current
 ---
 
@@ -55,12 +55,24 @@ Apply per-language formatters for TypeScript, JavaScript, JSON, HTML, CSS, Markd
 | Manager | Stack |
 |---------|-------|
 | Bun | [[Stacks/Bun Monolith]] |
-| Yarn | [[Stacks/Vue Serverless]] |
+| Yarn (usually — match the project's lockfile) | [[Stacks/Vue Serverless]] |
 | npm | [[Stacks/Express Monolith]], [[Stacks/Shopify App]] |
 
 ## Tab size
 
 2 spaces everywhere.
+
+## Claude Code status line
+
+Custom status line showing model, cwd, git branch + dirty state, a color-coded context-window bar, session cost, and lines changed:
+
+```
+⚡ Fable 5 │ digi-twin │ ⎇ master ✗ │ ████░░░░░░ 42% │ $1.23 │ +120/-45
+```
+
+- Source of truth: `scripts/claude-statusline.sh`
+- Install on a new machine: `bash scripts/setup-claude-statusline.sh` (needs `jq`; backs up and merges into `~/.claude/settings.json`)
+- After editing the local copy (`~/.claude/statusline.sh`), copy changes back to `scripts/claude-statusline.sh` so other machines pick them up.
 
 ## Related
 

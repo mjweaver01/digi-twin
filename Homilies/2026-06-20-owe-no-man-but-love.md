@@ -1,3 +1,11 @@
+---
+type: homily
+tags: [digi-twin, homily]
+owner: Mike
+updated: 2026-06-20
+status: current
+---
+
 # The Debt That Is Never Paid
 
 There is a kind of freedom in a settled account. The loan repaid, the invoice cleared, the last installment made — done. Finished. Nothing hangs over you. Paul knows this feeling, and in Romans 13 he commands us to pursue it: *"Render therefore to all their dues: tribute to whom tribute is due; custom to whom custom; fear to whom fear; honour to whom honour"* (Romans 13:7). Pay everyone what you owe them — taxes, customs, respect, honor. Settle your accounts. Be a person of integrity.

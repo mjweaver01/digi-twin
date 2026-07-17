@@ -61,4 +61,4 @@ db/migrations/          # dbmate SQL migrations
 ## Related
 
 - [[Preferences/Frontend Conventions]]
-- [[Patterns/Runtime Choices]]
+- [[Stacks/Index]]

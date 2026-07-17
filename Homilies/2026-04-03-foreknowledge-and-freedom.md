@@ -1,3 +1,11 @@
+---
+type: homily
+tags: [digi-twin, homily]
+owner: Mike
+updated: 2026-04-03
+status: current
+---
+
 # The School of Ascent: Why the Infinite Meets Us in a Finite World
 
 If God knows all things, why does He choose for us to live like this — bound in three dimensions, hemmed in by time, walking by choice and not by sight? Why would infinite knowledge design a world of such limitation, and then place eternal souls inside it?
@@ -51,3 +59,5 @@ So do not mistake your limitations for abandonment. The God who knows all things
 **Scripture & Sources:** Plato, *Phaedo* and the Allegory of the Cave (*Republic*); Augustine of Hippo, *Confessions*, Book I; Isaac Luria (Lurianic Kabbalah), *Etz Chaim* — Tzimtzum, Shevirat HaKelim, Tikkun, and the Ein Sof.
 
 *Source: "if god knows all, why does he choose for us to operate under free will" — 2026-04-03 · Conversation ID: `cb1d5281-c678-4920-9f92-7aa4bcbc0e18`*
+
+**Related homily:** [[2026-06-20-augustine-before-christ]] — Augustine's restless heart, before conversion

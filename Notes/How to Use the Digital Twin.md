@@ -2,7 +2,7 @@
 type: context
 tags: [digi-twin, guide]
 owner: Mike
-updated: 2026-07-02
+updated: 2026-07-16
 status: current
 ---
 
@@ -145,7 +145,7 @@ Example few-shot opener:
 
 ## Personal domains
 
-The vault also holds non-developer content: `Fitness/` (own skill: `skills/mike-fitness/SKILL.md`), `Chess/`, and `Plans/`. These are **never loaded for coding tasks** — and coding preferences are never loaded for fitness tasks. Keep the scopes separate so semantic search stays clean.
+The vault also holds non-developer content: `Fitness/` (own skill: `skills/mike-fitness/SKILL.md`), `Chess/`, `Homilies/`, and `Plans/`. These are **never loaded for coding tasks** — and coding preferences are never loaded for fitness tasks. Keep the scopes separate so semantic search stays clean.
 
 ## Gaps to watch
 

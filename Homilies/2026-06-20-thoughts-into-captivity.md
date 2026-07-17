@@ -1,3 +1,11 @@
+---
+type: homily
+tags: [digi-twin, homily]
+owner: Mike
+updated: 2026-06-20
+status: current
+---
+
 # The War Begins in the Mind: Taking Every Thought Prisoner
 
 You did not sin this morning with your hands first. You sinned, if you sinned at all, in the quiet chamber of your mind — in a thought that arrived uninvited, was entertained, was welcomed, and was slowly given permission. Sin almost never begins in the body. It begins as a thought. And so the battle against sin is first and foremost a battle of the mind.

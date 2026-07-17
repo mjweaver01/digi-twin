@@ -46,5 +46,5 @@ Prefer Kysely on greenfield work. Use whatever the existing project uses on brow
 
 ## Related
 
-- [[Patterns/Runtime Choices]]
+- [[Stacks/Index]]
 - [[Patterns/Type Sharing]]

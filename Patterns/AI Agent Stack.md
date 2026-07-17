@@ -2,13 +2,13 @@
 type: pattern
 tags: [digi-twin, pattern, ai]
 owner: Mike
-updated: 2026-07-02
+updated: 2026-07-16
 status: current
 ---
 
 # AI Agent Stack
 
-Cross-cutting AI architecture. For stack-specific application, see [[Stacks/AI Agent App]].
+Cross-cutting AI architecture map. **Conventions live in [[Stacks/AI Agent App]]** (canonical: tool definitions, prompt management, human-in-the-loop, RAG, Langfuse). This note only maps the architecture and which pattern each runtime uses.
 
 ## Architecture overview
 
@@ -36,7 +36,7 @@ flowchart LR
 }
 ```
 
-## Agent patterns
+## Pattern by runtime
 
 | Pattern | Stack | Usage |
 |---------|-------|-------|
@@ -45,32 +45,8 @@ flowchart LR
 | `useChat` | All chat UIs | Frontend streaming state |
 | MCP server | Any agent app | External agent access via `/mcp` |
 
-## Tool definition pattern
-
-```typescript
-import { tool } from 'ai';
-import { z } from 'zod';
-
-export const searchKnowledge = tool({
-  description: 'Search the knowledge base',
-  inputSchema: z.object({ query: z.string() }), // v5+ renamed `parameters` → `inputSchema`
-  execute: async ({ query }) => { /* ... */ },
-});
-```
-
-Factory pattern: `createTools(userId)` returns context-aware tool sets.
-
-## Langfuse integration
-
-- Prompts versioned in repo, synced via CLI scripts
-- Tracing wraps chat requests (`withTrace`, OpenTelemetry)
-
-## Human-in-the-loop
-
-External-write tools use `needsApproval: true`.
-
 ## Related
 
-- [[Stacks/AI Agent App]]
+- [[Stacks/AI Agent App]] — canonical conventions (tools, Langfuse, HITL, prompts)
 - [[Preferences/AI Development]]
 - [[Preferences/AI Behavior]]

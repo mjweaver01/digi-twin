@@ -1,3 +1,11 @@
+---
+type: plan
+tags: [digi-twin, plan]
+owner: Mike
+updated: 2026-06-05
+status: planning
+---
+
 # Thinkific → Coach Directory Seeding
 
 **Related:** [[Coach Directory - Project Plan]]

@@ -1,3 +1,11 @@
+---
+type: homily
+tags: [digi-twin, homily]
+owner: Mike
+updated: 2026-04-03
+status: current
+---
+
 # Tremble and Stay: The Still, Dark Center of History
 
 *"Were you there when they crucified my Lord? Sometimes it causes me to tremble, tremble, tremble..."*

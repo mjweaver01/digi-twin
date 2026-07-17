@@ -1,3 +1,11 @@
+---
+type: homily
+tags: [digi-twin, homily]
+owner: Mike
+updated: 2026-06-20
+status: current
+---
+
 # Beautiful in Its Time: The Artistry of God and the Eternity in Our Hearts
 
 *"He has made everything beautiful in its time. He has also set eternity in the human heart; yet no one can fathom what God has done from beginning to end."* — Ecclesiastes 3:11
@@ -55,3 +63,5 @@ And when your own season feels formless and void, remember: that is not the nega
 **Scripture & Sources:** Ecclesiastes 3:11; Genesis 1:2 (*tohu wa-bohu*); Romans 8:20 (creation subjected in hope); Augustine, *Confessions*; Origen, *On First Principles*; Gregory of Nyssa, *The Life of Moses* (*epektasis*); Thomas Aquinas on the transcendentals (*integritas*, *consonantia*, *claritas*); the Hebrew *olam* (עֹלָם).
 
 *Source: "elaborate on "He has made everything beautiful in its time"..." — 2026-06-20 · Conversation ID: `cafb6073-3d2e-469b-a585-d87a7d5050dd`*
+
+**Related homily:** [[2026-06-20-a-time-for-everything]] — the full Ecclesiastes 3 poem of seasons

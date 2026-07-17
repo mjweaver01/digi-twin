@@ -1,3 +1,11 @@
+---
+type: homily
+tags: [digi-twin, homily]
+owner: Mike
+updated: 2026-04-05
+status: current
+---
+
 # The Name Spoken in the Garden: An Easter Sunday of Sacred Reading
 
 It is early on the first day of the week, and it is still dark. A woman is walking to a tomb. She comes before she has any reason to hope — she comes looking for a corpse. And because this is where Easter actually begins, this is where we will begin too: not in the light, but in the dark; not with answers, but with weeping; not with doctrine, but with a name.
@@ -65,3 +73,5 @@ He is risen. He is risen indeed.
 **Scripture & Sources:** John 20:1–18; 1 Corinthians 15:12–58; Luke 24:13–35; Colossians 3:1–15; John 11:25–26; John 1:5; Galatians 2:20; Ephesians 3:20–21 · Origen, *On First Principles*; Augustine, *Confessions*, *City of God*, *Enchiridion*; Gregory of Nyssa; Teresa of Ávila, *Life*; John of the Cross, *Spiritual Canticle*; Meister Eckhart; Jonathan Edwards; John Wesley, *Sermons*; Kierkegaard, *Fear and Trembling*; Viktor Frankl, *Man's Search for Meaning*; C. S. Lewis, *The Weight of Glory*, *The Last Battle*; Charles Spurgeon.
 
 *Source: "Today is Easter Sunday - can you give me an overview..." — 2026-04-05 · Conversation ID: `4bf1cbaf-cde4-45be-a738-986d8a9bbf67`*
+
+**Related homily:** [[2026-04-05-easter-sunday-deep-dive]] — the deep-dive companion to this overview

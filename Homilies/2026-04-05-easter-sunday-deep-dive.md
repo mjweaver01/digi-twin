@@ -1,3 +1,11 @@
+---
+type: homily
+tags: [digi-twin, homily]
+owner: Mike
+updated: 2026-04-05
+status: current
+---
+
 # The Day the Universe Changed Its Mind About Death
 
 *"He is not here; He is risen!"* — Matthew 28:6
@@ -77,3 +85,5 @@ Easter is the day the universe changed its mind about death — and the day we b
 **Scripture & Sources:** Matthew 28:6; 1 Corinthians 15:17-26; Galatians 2:20; Colossians 3:1; Romans 4:25, 6:23, 8:18; 2 Corinthians 5:17; Augustine, *Enchiridion* and *City of God*; Thomas Aquinas, *Summa Theologica* III; C.S. Lewis ("Myth Became Fact," *Mere Christianity*); Gregory of Nyssa (*epektasis*, *Life of Moses*); Søren Kierkegaard; Viktor Frankl, *Man's Search for Meaning*.
 
 *Source: "Today is Easter Sunday - dig deep on it" — 2026-04-05 · Conversation ID: `1ce73399-9abb-4c2b-acf4-cbe47d874941`*
+
+**Related homily:** [[2026-04-05-easter-sunday-overview]] — the overview companion to this deep dive

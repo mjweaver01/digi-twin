@@ -1,6 +1,6 @@
-d# Workout Log
+# Workout Log
 
-## 2026-07-19 — ME Lower (Box Squat)
+## 2026-07-19 — ME Lower (Box Squat) (Planned)
 
 **Feel:** —
 **Notes:** ME Lower — box squat (rotation: conventional 7/13 → box squat, back into deadlift → box squat → sumo cycle). Last box squat top set 235 PR on 6/27 — aiming for 240+. Sit back onto box, pause, explode up. Watch the forward lean / bar path; keep Valsalva moderate.
@@ -18,7 +18,7 @@ d# Workout Log
 
 ---
 
-## 2026-07-18 — DE Upper
+## 2026-07-18 — DE Upper (Planned)
 
 **Feel:** —
 **Notes:** Speed day — new 3-week wave, Week 1 = 50%. Speed bench ~105 (50% of new 205 PR) + band tension on the bar. Max speed off the chest, rotate grip close/medium/wide (3 sets each). ~72 hrs off the 7/15 bench PR — keep it explosive, not heavy.
@@ -582,24 +582,6 @@ d# Workout Log
 
 ---
 
-Log entries newest-first. Use the template below for each session.
-
----
-
-## Template
-```
-## YYYY-MM-DD — [Day Type] (e.g. ME Upper / DE Lower / Arms)
-
-**Feel:** 1–10
-**Notes:**
-
-| Exercise | Sets x Reps | Weight | Notes |
-|---|---|---|---|
-| | | | |
-```
-
----
-
 ## 2026-06-10 — ME Upper (Bench)
 
 **Feel:** —
@@ -670,7 +652,9 @@ Log entries newest-first. Use the template below for each session.
 
 ---
 
-## Past Sessions (from Nitro.ai history)
+## Legacy Reference — Nitro.ai (not log entries)
+
+### Past Sessions (from Nitro.ai history)
 
 ### Light Upper Body Pump — Bis & Tris
 | Exercise | Sets x Reps | Notes |
@@ -695,7 +679,7 @@ Log entries newest-first. Use the template below for each session.
 
 ---
 
-## Week 1 — Conjugate Program (Nitro.ai)
+### Week 1 — Conjugate Program (Nitro.ai)
 
 ### Day 1: Max Effort Upper (Bench Focus)
 | Exercise | Sets x Reps | Notes |
@@ -732,3 +716,22 @@ Log entries newest-first. Use the template below for each session.
 | Romanian Deadlifts / KB Swings | 3 x 12 | |
 | Lunges / Step-ups (DB) | 3 x 12/leg | |
 | Core (planks, side planks) | 3 sets | |
+
+---
+
+## Template
+
+```
+## YYYY-MM-DD — [Day Type] (e.g. ME Upper / DE Lower / Arms)
+
+**Feel:** 1–10
+**Notes:**
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| | | | |
+```
+
+### Log rules
+ 
+> entries are **newest-first** — insert new sessions directly below this note, above the current newest entry. Mark future-dated sessions with **(Planned)** in the heading and drop the marker once completed (update weights to what actually happened). The session template lives at the **bottom** of this file — never insert entries near it.

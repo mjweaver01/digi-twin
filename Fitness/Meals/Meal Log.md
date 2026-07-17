@@ -1,16 +1,6 @@
 # Meal Log
 
----
-
-## 2026-06-23
-
-**Training day:** Yes (ME Upper w/ Tom)
-
-| Meal | Food | Cal | Protein | Carbs | Fat |
-|---|---|---|---|---|---|
-| **Total** | | ~2800–3000+ | ~155g+ | — | — |
-
-**Notes:** ME Upper with Tom (owner, WSBB). Cal and protein targets met (per Mike).
+> **Log rules:** entries are **newest-first** — insert new days directly below this note, above the current newest entry. The day template lives at the **bottom** of this file — never insert entries near it.
 
 ---
 
@@ -47,6 +37,18 @@
 | **Total** | | ~2800–3000+ | ~155g+ | — | — |
 
 **Notes:** ME Lower — deadlift top set 275 lbs (PR, up from 220x3 on 6/6). Protein and carb goals met (per Mike).
+
+---
+
+## 2026-06-23
+
+**Training day:** Yes (ME Upper w/ Tom)
+
+| Meal | Food | Cal | Protein | Carbs | Fat |
+|---|---|---|---|---|---|
+| **Total** | | ~2800–3000+ | ~155g+ | — | — |
+
+**Notes:** ME Upper with Tom (owner, WSBB). Cal and protein targets met (per Mike).
 
 ---
 
@@ -275,26 +277,6 @@
 
 ---
 
-Log entries newest-first.
-
----
-
-## Template
-```
-## YYYY-MM-DD
-
-**Training day:** Yes / No
-
-| Meal | Food | Cal | Protein | Carbs | Fat |
-|---|---|---|---|---|---|
-| | | | | | |
-| **Total** | | | | | |
-
-**Notes:**
-```
-
----
-
 ## 2026-06-09
 
 **Training day:** No (rest)
@@ -352,3 +334,20 @@ Log entries newest-first.
 | **Total** | | **~2375** | **~192g** | | |
 
 **Notes:** 3 L water. Protein ~192g. Calories ~2375. (Logged before reference was established — may be underreported.) Estimates.
+
+---
+
+## Template
+
+```
+## YYYY-MM-DD
+
+**Training day:** Yes / No
+
+| Meal | Food | Cal | Protein | Carbs | Fat |
+|---|---|---|---|---|---|
+| | | | | | |
+| **Total** | | | | | |
+
+**Notes:**
+```

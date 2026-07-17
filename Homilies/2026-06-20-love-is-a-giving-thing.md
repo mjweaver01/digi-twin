@@ -1,3 +1,11 @@
+---
+type: homily
+tags: [digi-twin, homily]
+owner: Mike
+updated: 2026-06-20
+status: current
+---
+
 # The Spring That Flows Outward: Love as Self-Donation
 
 "Love is a giving thing." Say it slowly, and it cuts to the very marrow of both Christian theology and deep human experience. We spend so much of our lives asking what love can get us — comfort, belonging, someone to hold. But love, in its truest form, does not ask *"what can I get?"* It continuously asks *"what can I give?"* And when we follow that question all the way down, we find it does not end in a feeling or a virtue. It ends in God Himself.

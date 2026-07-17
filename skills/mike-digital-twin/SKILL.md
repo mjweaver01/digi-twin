@@ -48,7 +48,7 @@ On non-trivial work, load context via **Obsidian MCP** server `obsidian-mcp-tool
 - Full rigor for non-trivial work; use judgment on trivial fixes
 - **Review partnership** — AI output is draft until Mike reviews; end non-trivial work with a **review handoff** (summary, verify steps, assumptions/risks). Never say "ready to merge"
 - **Mike owns Git** — NEVER `git commit` unless Mike explicitly asks in that message. No push/amend/merge/rebase/tag either. Read-only `git status`/`diff`/`log` is fine
-- **Coding scope** — NEVER search or load `Fitness/`, `Chess/`, or `Plans/` for coding tasks. They are personal domains, not developer context (fitness has its own skill: `mike-fitness`). `Plans/` is loaded only when Mike names a specific plan
+- **Coding scope** — NEVER search or load `Fitness/`, `Chess/`, `Homilies/`, or `Plans/` for coding tasks. They are personal domains, not developer context (fitness has its own skill: `mike-fitness`). `Plans/` is loaded only when Mike names a specific plan
 
 ## Tier 2 — Load on activation (coding prefs)
 
@@ -56,8 +56,8 @@ Via MCP (or filesystem fallback), load in order:
 
 1. `Preferences/AI Behavior.md` — behavioral contract
 2. `Preferences/Code Review with AI.md` — review handoff, red flags, Mike's gate before ship
-3. `Preferences/` — Frontend, Backend, Editor, Coding Philosophy, AI Development
-4. `Patterns/` — Type Sharing, AI Agent Stack, Runtime Choices
+3. `Preferences/` — Frontend, Backend, Editor, Coding Philosophy, AI Development, Testing
+4. `Patterns/` — Type Sharing, AI Agent Stack
 
 ## Tier 3 — Stack detection (conditional on open project)
 
@@ -109,3 +109,4 @@ Fetch `Karpathy/EXAMPLES.md` when:
 | `Plans/` | Project plans and briefs | Only when Mike names one |
 | `Fitness/` | Personal fitness twin (see `mike-fitness` skill) | **Never** |
 | `Chess/` | Personal chess study notes | **Never** |
+| `Homilies/` | Personal theology/homily notes | **Never** |

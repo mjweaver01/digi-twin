@@ -26,6 +26,7 @@ Welcome to your chess notes. This index organizes everything from absolute basic
 ## Specific Openings
 
 - [[Caro-Kann]] — Solid defense against 1.e4 (1...c6)
+- [[Newbie Notes]] — how to actually study openings (method, not lines)
 
 ---
 

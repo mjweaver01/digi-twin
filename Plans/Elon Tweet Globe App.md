@@ -1,8 +1,11 @@
 ---
 title: Elon Tweet Globe — Project Plan
-status: planning
+type: plan
+tags: [digi-twin, plan, typescript, bun, dataviz]
+owner: Mike
 created: 2026-06-05
-tags: [project, plan, typescript, bun, dataviz]
+updated: 2026-06-05
+status: planning
 ---
 
 # Elon Tweet Globe

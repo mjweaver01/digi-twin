@@ -1,3 +1,11 @@
+---
+type: homily
+tags: [digi-twin, homily]
+owner: Mike
+updated: 2026-06-30
+status: current
+---
+
 # The Word and the Wave: A Universe Spoken in Light
 
 Consider this: everything is made of light. Matter, at its most fundamental, is energy — photons, electromagnetic waves, quantum vibrations. And light is a wave. Now consider what happens when you speak: you produce waves — vibrations moving through the fabric of space. And then open the first page of Scripture: *"And God said, 'Let there be light'"* (Genesis 1:3). Creation began with divine speech.

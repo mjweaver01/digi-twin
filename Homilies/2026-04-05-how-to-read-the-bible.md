@@ -1,3 +1,11 @@
+---
+type: homily
+tags: [digi-twin, homily]
+owner: Mike
+updated: 2026-04-05
+status: current
+---
+
 # The Veil Lifted: Reading Scripture as an Encounter, Not a Conquest
 
 You open the Bible, and you want to read it well. That desire is itself the beginning of grace — but it comes with a warning attached. It is possible to read this book your whole life and never meet the One who wrote it. Origen of Alexandria, one of the most brilliant minds of the early church, put his finger on the danger seventeen centuries ago: if you only read the Bible on the surface, "a veil lies upon your heart" (2 Corinthians 3:15). But when you turn to the Lord, the veil is lifted, and you behold the glory that was hidden in the text all along.

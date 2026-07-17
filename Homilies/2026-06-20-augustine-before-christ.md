@@ -1,3 +1,11 @@
+---
+type: homily
+tags: [digi-twin, homily]
+owner: Mike
+updated: 2026-06-20
+status: current
+---
+
 # The Restless Heart and the Open Door
 
 There is a sentence, written sixteen centuries ago, that may be the truest thing ever said about you.
@@ -69,3 +77,5 @@ Whosoever. That is you. The door is open. Come — and let the restless heart fi
 **Scripture & Sources:** Psalms 6, 32, 38, 51, 102, 130, 143 (the seven penitential psalms — esp. Ps 130:3–4; 51:1, 10; 143:2, 6); Romans 1:17; 5:18; 10:13; 13:13–14; John 3:16; 6:37; 1 Timothy 2:4; 2 Peter 3:9; 1 John 2:2; 4:8; Revelation 22:17; Augustine, *Confessions*, *City of God*, *Expositions on the Psalms*, *Soliloquies*; Possidius, *Life of Augustine*; Cicero, *Hortensius*; Luther, *The Bondage of the Will*, the 95 Theses; Calvin, *Institutes of the Christian Religion*; Jacobus Arminius and the Five Articles of Remonstrance; John Wesley, "Free Grace" and sermons on prevenient grace; C. S. Lewis, *Mere Christianity*, *The Screwtape Letters*, *The Great Divorce*, *The Weight of Glory*.
 
 *Source: "tell me about st augustine before he found christ" — 2026-06-20 · Conversation ID: `4ed591cb-76e5-4eda-9aef-af9431c255e0`*
+
+**Related homily:** [[2026-04-03-foreknowledge-and-freedom]] — also builds on Augustine's Confessions and the restless heart

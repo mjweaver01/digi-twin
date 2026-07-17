@@ -2,6 +2,7 @@
 type: fitness
 tags: [digi-twin, fitness, profile]
 owner: Mike
+updated: 2026-07-16
 status: current
 ---
 
@@ -21,7 +22,7 @@ status: current
 ## Current Stats
 | Field | Value |
 |---|---|
-| Weight | See [[Fitness/Progress/Weight Log]] — **single source of truth** (~165 lbs as of Jul 2026, up from 155–160 baseline) |
+| Weight | See [[Fitness/Progress/Weight Log]] — **single source of truth** (don't duplicate the number here) |
 | Target | Bulky, Westside-style build |
 | Training Experience | Advanced — CrossFit certified, works at Westside Barbell |
 
@@ -32,15 +33,7 @@ status: current
 
 **Primary lifts:** Bench, Squat, Deadlift
 
-**Current PRs** (source of truth: [[Fitness/Workouts/Workout Log]]):
-
-| Lift | PR | Date |
-|---|---|---|
-| Bench Press | 205 | 2026-07-15 |
-| Box Squat | 235 | 2026-06-27 |
-| Conventional Deadlift | 305 | 2026-07-13 |
-| Sumo Deadlift | 265 | 2026-07-01 |
-| Incline Bench | 135 | 2026-06-28 |
+**Current PRs:** see [[Fitness/Progress/PR Log]] — **single source of truth** (append-only; don't duplicate the table here).
 
 **Accessory favorites:** OHP, barbell/DB curls, tricep extensions, skull crushers, lawnmowers (single-arm DB rows)
 

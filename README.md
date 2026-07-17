@@ -53,6 +53,7 @@ Keep **digi-twin** open in Obsidian while coding in other repos. The agent fetch
 | [Plans/](Plans/) | Project plans and briefs — loaded only when named explicitly |
 | [Fitness/](Fitness/) | Personal fitness twin (profile, workouts, meals) — **never loaded for coding tasks** |
 | [Chess/](Chess/) | Personal chess study notes — **never loaded for coding tasks** |
+| [Homilies/](Homilies/) | Homilies distilled from Philosophizer conversations — **never loaded for coding tasks** |
 | [.cursor/](.cursor/) | Optional Cursor rules and MCP config example |
 | [scripts/](scripts/) | Vault setup scripts |
 | [skills/](skills/) | Agent policy templates: `mike-digital-twin` (coding), `mike-fitness` (fitness) |
@@ -100,3 +101,5 @@ Optional Cursor-only extras in `.cursor/rules/` — pointers to vault sources wh
 ## Credits
 
 Behavioral guidelines adapted from [andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) by Forrest Chang, derived from [Andrej Karpathy's observations](https://x.com/karpathy/status/2015883857489522876) on LLM coding pitfalls.
+
+`Karpathy/` is vendored from that upstream repo (snapshot ~2026-05; only `CLAUDE.md` and `EXAMPLES.md` are load-bearing here — install docs and translations are not carried). Don't edit vendored files; re-copy from upstream to update.

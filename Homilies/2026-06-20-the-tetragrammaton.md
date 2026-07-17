@@ -1,3 +1,11 @@
+---
+type: homily
+tags: [digi-twin, homily]
+owner: Mike
+updated: 2026-06-20
+status: current
+---
+
 # The Name That Is: Four Letters and the Ground of Being
 
 There is a name that appears more than six thousand eight hundred times in the Hebrew Bible, and yet you have never heard it spoken. Four letters — Yod, Heh, Vav, Heh — יהוה — the name God revealed at the Burning Bush, the name whispered only in the innermost sanctum by the High Priest on Yom Kippur, the name the mystics say contains the blueprint of all existence. We call it the Tetragrammaton, "the four letters," because even to name the Name we must speak around it. Jews reading Scripture aloud say *Adonai* — Lord — or simply *HaShem*, "the Name." The original vowels were never written down, and when the Temple fell, the pronunciation was lost.

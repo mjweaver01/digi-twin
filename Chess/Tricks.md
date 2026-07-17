@@ -2,7 +2,7 @@
 
 Tactics are short sequences of moves that win material or deliver checkmate. Chess at the beginner level is mostly decided by tactics — whoever spots them first wins. Learn these patterns and your rating will jump.
 
-> **Tip:** The acronym **FOSS** (Fork, Overloaded piece, Skewer, Sacrifice) won't cover everything, but thinking tactically about each position helps.
+> **Tip:** Six motifs cover most beginner tactics — **Fork, Pin, Skewer, Discovered Attack, Overloaded Piece, Back Rank**. Scan for each of them before every move.
 
 ---
 

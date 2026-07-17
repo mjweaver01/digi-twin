@@ -1,3 +1,11 @@
+---
+type: homily
+tags: [digi-twin, homily]
+owner: Mike
+updated: 2026-06-20
+status: current
+---
+
 # Every Babylon Falls: The Beast, the Harlot, and the Two Cities
 
 There is a page near the end of your Bible where a woman rides a monster. She is dressed in purple and scarlet, adorned with gold and jewels, seated on many waters, drunk — the text says — with the blood of the saints. On her forehead is written a name: *"Babylon the Great, the Mother of Harlots and of Earth's Abominations."* Beneath her, the Beast: seven heads, ten horns, crowns upon crowns, a body stitched together from leopard and bear and lion, given its power by the Dragon himself, making war on the saints and demanding what belongs to God alone — worship. And behind them both, a second beast, the False Prophet, pressing a mark onto every hand and forehead, so that no one may buy or sell without it.

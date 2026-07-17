@@ -75,4 +75,4 @@ Agile, Scrum, JIRA, Confluence. On-call experience (OpsGenie, DataDog).
 - [[Preferences/Frontend Conventions]]
 - [[Preferences/Backend Conventions]]
 - [[Patterns/AI Agent Stack]]
-- [[Patterns/Runtime Choices]]
+- [[Stacks/Index]]

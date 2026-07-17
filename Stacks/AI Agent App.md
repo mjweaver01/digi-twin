@@ -2,7 +2,7 @@
 type: stack
 tags: [digi-twin, stack, ai]
 owner: Mike
-updated: 2026-07-02
+updated: 2026-07-16
 status: current
 ---
 
@@ -43,7 +43,7 @@ import { z } from 'zod';
 
 export const searchKnowledge = tool({
   description: 'Search the knowledge base',
-  inputSchema: z.object({ query: z.string() }), // v5+ renamed `parameters` → `inputSchema`
+  inputSchema: z.object({ query: z.string() }),
   execute: async ({ query }) => { /* ... */ },
 });
 ```
@@ -67,7 +67,7 @@ External-write tools (publish, send email, modify external systems) use `needsAp
 
 ## When building AI features
 
-- Read [[Patterns/AI Agent Stack]] for full architecture
+- See [[Patterns/AI Agent Stack]] for the architecture diagram and pattern-by-runtime map
 - Add tools to `tools/` directory with Zod schemas
 - Wrap chat handlers with Langfuse tracing
 - Test tool loops with step limits to prevent runaway agents

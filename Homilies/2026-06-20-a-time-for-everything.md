@@ -1,3 +1,11 @@
+---
+type: homily
+tags: [digi-twin, homily]
+owner: Mike
+updated: 2026-06-20
+status: current
+---
+
 # Eternity in a Heart of Seasons
 
 There is a passage of Scripture so familiar that we risk no longer hearing it. *"To everything there is a season, and a time for every purpose under heaven: a time to be born and a time to die; a time to plant and a time to uproot; a time to kill and a time to heal; a time to tear down and a time to build; a time to weep and a time to laugh; a time to mourn and a time to dance."* So begins Ecclesiastes 3, and so it continues — a time to embrace and a time to refrain from embracing, a time to keep silence and a time to speak, a time of war and a time of peace.
@@ -55,3 +63,5 @@ Third, *hold it loosely*. Every season under heaven ends — that is both its na
 **Scripture & Sources:** Ecclesiastes 3:1–11 (*hevel* — breath, vapor); Origen of Alexandria (the three levels of Scripture, *apokatastasis*); Marcus Aurelius, *Meditations* (*amor fati*, the inner citadel, the Logos); the Zohar (the Sefirot — Chesed, Gevurah — and time as spiritual state).
 
 *Source: "elaborate on the ecclesiasties verse of time and a season..." — 2026-06-20 · Conversation ID: `97b13f72-ede2-41e0-88ce-e429bf292b8f`*
+
+**Related homily:** [[2026-06-20-beautiful-in-its-time]] — the same Ecclesiastes 3 passage, focused on verse 11

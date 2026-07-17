@@ -1,3 +1,11 @@
+---
+type: plan
+tags: [digi-twin, plan]
+owner: Mike
+updated: 2026-06-05
+status: planning
+---
+
 # WSBB Platform — Phase 1: Core LMS
 
 **Stack:** Vue 3 + Pinia + Vite + Netlify Functions + Supabase + Stripe + Mux

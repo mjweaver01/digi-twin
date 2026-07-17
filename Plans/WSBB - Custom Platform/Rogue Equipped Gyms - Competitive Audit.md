@@ -1,3 +1,11 @@
+---
+type: plan
+tags: [digi-twin, plan]
+owner: Mike
+updated: 2026-06-05
+status: planning
+---
+
 # Rogue Equipped Gyms — Competitive Audit
 
 **Source:** https://www.roguefitness.com/rogue-equipped-gyms
