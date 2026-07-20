@@ -1,5 +1,29 @@
 # Workout Log
 
+## 2026-07-21 — ME Upper (Incline Bench)
+
+**Feel:** —
+**Notes:** ME Upper — rotating off flat bench (205 PR, 7/15) to incline. Last incline top set 135 on 6/28 — stale, since flat bench added 30 lbs in that window. Aim 145+, stop at form breakdown. Keep Valsalva moderate. Watch overall fatigue — 3 max-effort PRs 7/13–7/19.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Incline Bench Press (work up to heavy single/triple) | Ramp → top set | 45 / 65 / 95 / 115 / 135 / 145+ | Push past 135 from 6/28. Stop at form breakdown |
+| JM Press or EZ Bar Skull Crushers | 3–4 x 8–10 | EZ bar | Tricep mass |
+| Lawnmowers or DB Shrugs | 4 x 10–12 / 4 x 10–15 | 35 lb DB | Back/trap thickness |
+| DB Flat Press | 4 x 12–20 to failure | 35 lb DBs | Chase reps, weight is capped |
+| EZ Bar Curls | 3 x 10–12 | EZ bar | |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health — don't skip |
+
+---
+
+## 2026-07-20 — Rest Day
+
+**Feel:** —
+**Notes:** Rest day after box squat PR (255) on 7/19 and back-to-back sessions 7/18–7/19. Third ME PR in five days — CNS recovery.
+
+---
+
 ## 2026-07-19 — ME Lower (Box Squat) (Planned)
 
 **Feel:** —
@@ -7,7 +31,7 @@
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
-| Box Squat (work up to heavy single/triple) | Ramp → top set | 45 / 135 / 185 / 205 / 225 / 240+ | Sit back, pause, explode up. Push past 235 from 6/27. Stop at form breakdown |
+| Box Squat (work up to heavy single/triple) | Ramp → top set | 45 / 135 / 185 / 205 / 225 / 255 (PR) | Sit back, pause, explode up. New PR — up 20 lbs from 235 (6/27) |
 | Good Mornings | 3–4 x 8–10 | Light barbell | Hinge at hips, soft knees |
 | KB Swings | 3 x 15–20 | 35 lb KB | Explosive hip drive |
 | Arnold Press | 3–4 x 10–12 | 35 lb DBs | Delts — full ROM, slow eccentric |

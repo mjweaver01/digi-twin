@@ -11,7 +11,7 @@
 | Bench Press | 205 | 2026-07-15 |
 | Incline Bench | 135 | 2026-06-28 |
 | Floor Press | 170 | 2026-07-05 |
-| Box Squat | 235 | 2026-06-27 |
+| Box Squat | 255 | 2026-07-19 |
 | Conventional Deadlift | 305 | 2026-07-13 |
 | Sumo Deadlift | 265 | 2026-07-01 |
 
@@ -21,6 +21,7 @@
 
 | Date | Lift | Weight | Notes |
 |---|---|---|---|
+| 2026-07-19 | Box Squat | 255 | +20 from 235 (6/27) |
 | 2026-07-15 | Bench Press | 205 | +10 from 195 (7/9) |
 | 2026-07-13 | Conventional Deadlift | 305 | +30 from 275 (6/24) |
 | 2026-07-09 | Bench Press | 195 | +20 from 175 (6/23) |
