@@ -17,4 +17,4 @@ Standing cautions plus a dated incident log. Any AI programming a session should
 
 | Date | What happened | Lift / context | Follow-up |
 |---|---|---|---|
-| | No incidents logged yet | | |
+| 2026-07-21 | Middle back (thoracic) pain reported | Onset during a heavy PR stretch — deadlift 7/13, bench 7/15, box squat 7/19, incline 7/21. Trained through it and PR'd incline 165 | Thoracic mobility + soft-tissue work, prioritize scap/upper-back health. Monitor — if it sharpens, localizes to one spot, or refers around the ribs, back off heavy pressing/pulling and reassess |

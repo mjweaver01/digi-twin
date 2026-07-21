@@ -1,5 +1,39 @@
 # Workout Log
 
+## 2026-07-23 — DE Upper (back-conscious)
+
+**Feel:** —
+**Notes:** Speed day, chosen over DE Lower to spare the middle back — no heavy hinging/pulling while the thoracic settles. Speed bench Week 2 = 55% of 205 ≈ 115 + band. Keep the arch modest, stay explosive not heavy. Swap barbell rows for chest-supported to keep load off the low/mid back. If the back complains at all, cut it short.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Bench Press | 9 x 3 | ~115 lbs + band | 55% of 205. Rotate grip close/medium/wide. Modest arch — mind the back. 45–60s rest |
+| Chest-Supported Rows | 4 x 10–12 | 35 lb DBs | Supported — spares the mid/low back vs barbell rows |
+| DB Incline Press or Flat DB Press | 4 x 12–20 to failure | 35 lb DBs | Chase reps |
+| Arnold Press or OHP | 4 x 10–12 | 35 lb DBs | Delts |
+| JM Press or Dips | 3–4 x 10–12 / 3 x 8–15 | EZ bar / BW | Tricep mass |
+| EZ Bar Curls or Hammer Curls | 3 x 10–15 | EZ bar / DBs | Pick one |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Light — also feeds the thoracic rehab |
+
+---
+
+## 2026-07-22 — Rehab / Recovery Day
+
+**Feel:** —
+**Notes:** Active recovery for middle back (thoracic) tightness. No loading — mobility + soft tissue + easy blood flow. Also serves as CNS recovery after 4 PRs in 9 days.
+
+| Movement | Sets/Time | Notes |
+|---|---|---|
+| Foam roll thoracic spine | 1–2 min | Roller across mid-back, hands behind head, extend over it. Avoid rolling on the bones |
+| Peanut/twin-ball spinal work | 1–2 min | Muscles either side of the spine, not the vertebrae |
+| Cat-Cow | 10 slow rounds | Move segment by segment through the mid-back |
+| Thread the Needle | 8–10/side | Quadruped, reach arm under and across — thoracic rotation |
+| Open-Book Stretch | 8–10/side | Side-lying, rotate top arm open, follow with eyes |
+| Band Pull-Aparts | 2–3 x 20 | Light, high rep — blood flow, no load |
+| Easy walk | 15–20 min | Gentle movement beats total rest for muscular tightness |
+
+---
+
 ## 2026-07-21 — ME Upper (Incline Bench)
 
 **Feel:** —
@@ -7,7 +41,7 @@
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
-| Incline Bench Press (work up to heavy single/triple) | Ramp → top set | 45 / 65 / 95 / 115 / 135 / 145+ | Push past 135 from 6/28. Stop at form breakdown |
+| Incline Bench Press (work up to heavy single/triple) | Ramp → top set | 45 / 65 / 95 / 115 / 135 / 165 (PR) | New PR — up 30 lbs from 135 (6/28) |
 | JM Press or EZ Bar Skull Crushers | 3–4 x 8–10 | EZ bar | Tricep mass |
 | Lawnmowers or DB Shrugs | 4 x 10–12 / 4 x 10–15 | 35 lb DB | Back/trap thickness |
 | DB Flat Press | 4 x 12–20 to failure | 35 lb DBs | Chase reps, weight is capped |
