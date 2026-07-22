@@ -32,6 +32,16 @@
 | Band Pull-Aparts | 2–3 x 20 | Light, high rep — blood flow, no load |
 | Easy walk | 15–20 min | Gentle movement beats total rest for muscular tightness |
 
+**Arm blast** (light pump — no spinal load; sit or brace on a bench where you can):
+
+| Exercise | Sets x Reps | Notes |
+|---|---|---|
+| Preacher Curls | 3 x 12–15 | EZ bar over the incline bench pad — chest supported, light, strict |
+| Hammer Curls | 3 x 12–15 | Seated if it keeps the back neutral |
+| DB Overhead Tricep Extension | 3 x 12–15 | Seated, elbows tight |
+| Band Tricep Pushdowns | 3 x 15–20 | Light finisher |
+| Finisher: Band Curls + Kickbacks | 2 x 20 each | Fast, light — burn it out |
+
 ---
 
 ## 2026-07-21 — ME Upper (Incline Bench)
