@@ -5,16 +5,16 @@
 **Feel:** —
 **Notes:** Back is better but not 100%, so this is a cautious return to lower work — speed box squats only (box unloads the spine vs deadlifts), skipping speed deads and heavy good mornings until the thoracic is fully clear. Speed box squats Week 2 = 55% of new 255 PR ≈ 140 + band. Gut-check the back before starting; if it's grumbly, drop to mobility/rehab instead. Stay explosive, short rests.
 
-| Exercise | Sets x Reps | Weight | Notes |
-|---|---|---|---|
-| Speed Box Squats | 10–12 x 2 | ~140 lbs | Sit back, pause, explode up. Brace but keep Valsalva moderate. 45–60s rest |
-| Banded Leg Curls | 3 x 10–15 | Band | Direct hamstring — spine-sparing |
-| Hip Thrusts or Glute Bridges | 3 x 15–20 | BW / light | Glutes without loading the mid-back |
-| KB Swings (light, if back is happy) | 3 x 15–20 | 35 lb KB | Skip if any back complaint — hinging is the risk |
-| Chest-Supported Rows | 3 x 10–12 | 35 lb DBs | Upper-back thickness, supported |
-| EZ Bar Curls | 3 x 10–15 | EZ bar | |
-| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder + thoracic health |
-| Core | 3 x 10–15 | BW | Planks over loaded flexion while back recovers |
+| Exercise                            | Sets x Reps   | Weight    | Notes                                                                                                                                                                                                                                                        |
+| ----------------------------------- | ------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Speed Box Squats                    | 10–12 x 2     | ~140 lbs  | Sit back, pause, explode up. Brace but keep Valsalva moderate. 45–60s rest                                                                                                                                                                                   |
+| Banded Leg Curls                    | 3 x 10–15     | Band      | Prone/standing — feet only, zero upper-back load                                                                                                                                                                                                             |
+| Standing Banded Glute Kickbacks     | 3 x 15–20/leg | Band      | Standing, no bench contact — spares the shoulder blades vs hip thrusts                                                                                                                                                                                       |
+| KB Swings (light, if back is happy) | 3 x 15–20     | 35 lb KB  | Skip if any back complaint — hinging is the risk                                                                                                                                                                                                             |
+| Chest-Supported Rows                | 3 x 10–12     | 35 lb DBs | Upper-back thickness, supported                                                                                                                                                                                                                              |
+| EZ Bar Curls                        | 3 x 10–15     | EZ bar    |                                                                                                                                                                                                                                                              |
+| Band Pull-Aparts / Face Pulls       | 3 x 20        | Band      | Shoulder + thoracic health                                                                                                                                                                                                                                   |
+| Core — anti-movement (pick 2–3)     | see notes     | BW / band | Front plank 3 x 20–40s · Side plank 3 x 20–30s/side · Dead bugs 3 x 8–10/side · Bird dogs 3 x 8–10/side · Pallof press 3 x 10/side. Dead bugs + Pallof safest — zero upper-back load. Avoid loaded flexion (sit-ups, hanging leg raises) while back recovers |
 
 ---
 
