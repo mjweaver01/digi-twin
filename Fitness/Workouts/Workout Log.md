@@ -1,9 +1,34 @@
 # Workout Log
 
-## 2026-07-23 — DE Upper (back-conscious)
+## 2026-07-25 — DE Lower (back-conscious)
 
 **Feel:** —
-**Notes:** Speed day, chosen over DE Lower to spare the middle back — no heavy hinging/pulling while the thoracic settles. Speed bench Week 2 = 55% of 205 ≈ 115 + band. Keep the arch modest, stay explosive not heavy. Swap barbell rows for chest-supported to keep load off the low/mid back. If the back complains at all, cut it short.
+**Notes:** Back is better but not 100%, so this is a cautious return to lower work — speed box squats only (box unloads the spine vs deadlifts), skipping speed deads and heavy good mornings until the thoracic is fully clear. Speed box squats Week 2 = 55% of new 255 PR ≈ 140 + band. Gut-check the back before starting; if it's grumbly, drop to mobility/rehab instead. Stay explosive, short rests.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Box Squats | 10–12 x 2 | ~140 lbs | Sit back, pause, explode up. Brace but keep Valsalva moderate. 45–60s rest |
+| Banded Leg Curls | 3 x 10–15 | Band | Direct hamstring — spine-sparing |
+| Hip Thrusts or Glute Bridges | 3 x 15–20 | BW / light | Glutes without loading the mid-back |
+| KB Swings (light, if back is happy) | 3 x 15–20 | 35 lb KB | Skip if any back complaint — hinging is the risk |
+| Chest-Supported Rows | 3 x 10–12 | 35 lb DBs | Upper-back thickness, supported |
+| EZ Bar Curls | 3 x 10–15 | EZ bar | |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder + thoracic health |
+| Core | 3 x 10–15 | BW | Planks over loaded flexion while back recovers |
+
+---
+
+## 2026-07-24 — Rest Day
+
+**Feel:** —
+**Notes:** Rest day. Back recovering (better but not 100%). Letting the thoracic settle before returning to lower work Saturday.
+
+---
+
+## 2026-07-23 — DE Upper (back-conscious) + Mowed Lawn
+
+**Feel:** —
+**Notes:** Speed day, chosen over DE Lower to spare the middle back. Also mowed the lawn. Speed bench Week 2 = 55% of 205 ≈ 115 + band. Kept arch modest, chest-supported rows to keep load off the mid back.
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
