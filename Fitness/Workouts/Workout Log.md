@@ -1,5 +1,31 @@
 # Workout Log
 
+## 2026-07-26 — ME Lower (Sumo Deadlift)
+
+**Feel:** —
+**Notes:** ME Lower as slated — sumo deadlift (rotation: conventional 7/13 → box squat 7/19 → sumo). Last sumo top set 265 on 7/1 — aiming 270+. Back is better-not-100%, and sumo is the more upright pull (less thoracic demand than conventional), but **autoregulate**: ramp in smaller jumps, and if the top single feels off or the shoulder blades bark, take what you get and stop — no grinding. Keep Valsalva moderate. Warm the thoracic up first (foam roll + band pull-aparts) before touching the bar.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Sumo Deadlift (work up to heavy single/triple) | Ramp → top set | 135 / 185 / 225 / 245 / 265 / 270+ | Wide stance, toes out ~45°, drive knees out, chest up. Push past 265 (7/1). Stop at form breakdown or any back complaint |
+| Good Mornings (light–moderate) | 3 x 10–12 | Light barbell | Keep it light while the back recovers — hinge, soft knees |
+| Banded Leg Curls | 3 x 10–15 | Band | Direct hamstring — zero upper-back load |
+| Standing Banded Glute Kickbacks | 3 x 15–20/leg | Band | Standing, no bench contact |
+| Arnold Press | 3 x 10–12 | 35 lb DBs | Delts — seated with back supported |
+| Preacher Curls | 3 x 12–15 | EZ bar over incline pad | Chest-supported, strict |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Seated |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Light — feeds the thoracic rehab, don't skip |
+| Core — anti-movement (pick 2–3) | see notes | BW / band | Dead bugs 3 x 8–10/side · Pallof press 3 x 10/side · Side plank 3 x 20–30s/side. Avoid loaded flexion while back recovers |
+
+---
+
+## 2026-07-25 — Rest Day
+
+**Feel:** —
+**Notes:** Rest day. Continued recovery for the upper back / shoulder blade area.
+
+---
+
 ## 2026-07-24 — DE Lower (back-conscious)
 
 **Feel:** —
