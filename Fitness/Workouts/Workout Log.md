@@ -1,5 +1,100 @@
 # Workout Log
 
+## 2026-08-02 — Rest Day
+
+**Feel:** —
+**Notes:** Rest after two straight training days (7/31–8/1), per the 2-on / 1-off pattern. Speed wave resets to Week 1 (50%) off the new PRs after this.
+
+---
+
+## 2026-08-01 — ME Lower (Box Squat, ~90% cap)
+
+**Feel:** —
+**Notes:** Modulated ME week — heavy triple at ~90%, **no max attempt**. Box squat (rotation: sumo 7/26 → box squat). 90% of 255 ≈ 230 for a triple. Leave 2+ in the tank. Bar sits on the upper back — swap to goblet/DB squats if that spot flares.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Box Squat (heavy triple — no max) | Ramp → top triple | 45 / 135 / 185 / 205 / 230 x3 | ~90% of 255. Sit back, pause, explode up. Leave 2+ in the tank |
+| Good Mornings | 3 x 8–10 | Light–moderate barbell | Hinge, soft knees |
+| Banded Leg Curls | 3 x 10–15 | Band | Hamstrings |
+| Standing Banded Glute Kickbacks | 3 x 15–20/leg | Band | Standing, no bench contact |
+| Arnold Press | 3 x 10–12 | 35 lb DBs | Seated, back supported |
+| DB Curls | 3 x 10–12 | 25–35 lb DBs | Seated or standing |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Thoracic health |
+| Core — anti-movement (pick 2–3) | see notes | BW / band | Dead bugs · Pallof press · Side plank |
+
+---
+
+## 2026-07-31 — ME Upper (Floor Press, ~90% cap)
+
+**Feel:** —
+**Notes:** Modulated ME week — heavy triple at ~90%, **no max attempt**. Floor press (rotation: bench 7/15 → incline 7/21 → floor press). Last floor press 170 on 7/5, but bench has gone 175 → 205 since, so that's stale — work to a controlled triple around 175–185 and stop there. Dead-stop each rep, elbows ~45°, hips flat. Modest arch — mind the shoulder blades.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Floor Press (heavy triple — no max) | Ramp → top triple | 45 / 95 / 135 / 155 / 175–185 x3 | Dead-stop each rep. Leave 2+ in the tank |
+| Chest-Supported Rows | 4 x 10–12 | 35 lb DBs | Supported — back thickness |
+| DB Flat Press | 4 x 12–20 to failure | 35 lb DBs | Chase reps, weight is capped |
+| JM Press or EZ Bar Skull Crushers | 3 x 8–10 | EZ bar | Tricep mass |
+| DB Shrugs | 4 x 10–15 | 35 lb DBs | Trap/upper-back thickness |
+| DB Curls | 3 x 10–12 | 25–35 lb DBs | Seated or standing |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Seated |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Thoracic health — don't skip |
+
+---
+
+## 2026-07-30 — Rest Day
+
+**Feel:** —
+**Notes:** Rest after two straight training days (7/28–7/29), per the 2-on / 1-off pattern.
+
+---
+
+## 2026-07-29 — DE Lower (Wave Week 3 — 60%)
+
+**Feel:** —
+**Notes:** Speed day, Week 3 of the pendulum = 60%, then the wave resets to 50%. Box squats 60% of 255 ≈ 155. Speed deadlifts 60% of 305 ≈ 185 — reintroducing these now that the back is good; drop them if it complains. Band tension if set up. Explosive, short rests.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Box Squats | 10–12 x 2 | ~155 lbs | 60% of 255. Sit back, pause, explode up. 45–60s rest |
+| Speed Deadlifts | 6–8 x 1 | ~185 lbs | 60% of 305. Full reset each rep, explosive pull. 45–60s rest |
+| Good Mornings or RDLs | 3–4 x 8–10 | Loaded barbell | Heavy hinge — posterior chain |
+| Banded Leg Curls | 3 x 10–15 | Band | Direct hamstring |
+| Back Raises / Bench Back Extensions | 3 x 12–20 | BW | Lower-back, reverse-hyper sub |
+| KB Swings | 3 x 20 | 35 lb KB | Hip-driven |
+| DB Shrugs or Chest-Supported Rows | 4 x 10–15 | 35 lb DBs | Back/trap thickness |
+| EZ Bar Curls | 3 x 10–15 | EZ bar | |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+| Core — anti-movement (pick 2–3) | see notes | BW / band | Dead bugs · Pallof press · Side plank |
+
+---
+
+## 2026-07-28 — DE Upper (Wave Week 3 — 60%)
+
+**Feel:** —
+**Notes:** Speed day, Week 3 of the pendulum = 60%, then the wave resets to 50%. Speed bench 60% of 205 ≈ 125 + band tension. Max speed off the chest — light bar weight, speed is the point. Rotate grip close/medium/wide.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Bench Press | 9 x 3 | ~125 lbs + band | 60% of 205. Rotate grip: 3 close / 3 medium / 3 wide. 45–60s rest |
+| Pull-ups / Chin-ups (weighted or banded) | 4 x 6–12 | BW / band | Vertical pull — lat width |
+| Chest-Supported Rows or Barbell Rows | 4 x 8–12 | 35 lb DBs / barbell | Back thickness |
+| DB Incline Press or Flat DB Press | 4 x 12–20 to failure | 35 lb DBs | Chase reps |
+| Arnold Press or OHP | 4 x 10–12 | 35 lb DBs | Delts |
+| JM Press or Dips | 3–4 x 10–12 / 3 x 8–15 | EZ bar / BW | Tricep mass |
+| EZ Bar Curls or Hammer Curls | 3 x 10–15 | EZ bar / DBs | Pick one |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+
+---
+
+## 2026-07-27 — Rest Day
+
+**Feel:** —
+**Notes:** Rest after sumo PR (285) on 7/26. Starting the modulated week — speed days at 60%, ME days capped at ~90% triples, no max attempts.
+
+---
+
 ## 2026-07-26 — ME Lower (Sumo Deadlift)
 
 **Feel:** —
@@ -7,7 +102,7 @@
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
-| Sumo Deadlift (work up to heavy single/triple) | Ramp → top set | 135 / 185 / 225 / 245 / 265 / 270+ | Wide stance, toes out ~45°, drive knees out, chest up. Push past 265 (7/1). Stop at form breakdown or any back complaint |
+| Sumo Deadlift (work up to heavy single/triple) | Ramp → top set | 135 / 185 / 225 / 245 / 265 / 285 (PR) | New PR — up 20 lbs from 265 (7/1). Hit with back not yet 100% |
 | Good Mornings (light–moderate) | 3 x 10–12 | Light barbell | Keep it light while the back recovers — hinge, soft knees |
 | Banded Leg Curls | 3 x 10–15 | Band | Direct hamstring — zero upper-back load |
 | Standing Banded Glute Kickbacks | 3 x 15–20/leg | Band | Standing, no bench contact |
