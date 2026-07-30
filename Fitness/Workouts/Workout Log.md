@@ -1,9 +1,27 @@
 # Workout Log
 
-## 2026-08-02 — Rest Day
+## 2026-08-03 — Rest Day
 
 **Feel:** —
-**Notes:** Rest after two straight training days (7/31–8/1), per the 2-on / 1-off pattern. Speed wave resets to Week 1 (50%) off the new PRs after this.
+**Notes:** Rest after 8/1–8/2, per the 2-on / 1-off pattern.
+
+---
+
+## 2026-08-02 — DE Upper (Wave Week 1 — 50%, new cycle)
+
+**Feel:** —
+**Notes:** New speed wave starts — pendulum resets to Week 1 = 50%, now calculated off the current 205 bench PR ≈ 105 + band tension. Light bar weight, speed is the whole point — max acceleration off the chest. Rotate grip close/medium/wide.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Bench Press | 9 x 3 | ~105 lbs + band | 50% of 205. Rotate grip: 3 close / 3 medium / 3 wide. 45–60s rest |
+| Pull-ups / Chin-ups (weighted or banded) | 4 x 6–12 | BW / band | Vertical pull — lat width |
+| Chest-Supported Rows or Barbell Rows | 4 x 8–12 | 35 lb DBs / barbell | Back thickness |
+| DB Incline Press or Flat DB Press | 4 x 12–20 to failure | 35 lb DBs | Chase reps |
+| Arnold Press or OHP | 4 x 10–12 | 35 lb DBs | Delts |
+| JM Press or Dips | 3–4 x 10–12 / 3 x 8–15 | EZ bar / BW | Tricep mass |
+| DB Curls or Hammer Curls | 3 x 10–12 | 25–35 lb DBs | Pick one |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
 
 ---
 
@@ -25,7 +43,14 @@
 
 ---
 
-## 2026-07-31 — ME Upper (Floor Press, ~90% cap)
+## 2026-07-31 — Rest Day
+
+**Feel:** —
+**Notes:** Rest day (swapped with 7/30). Sits between ME Upper (7/30) and ME Lower (8/1).
+
+---
+
+## 2026-07-30 — ME Upper (Floor Press, ~90% cap)
 
 **Feel:** —
 **Notes:** Modulated ME week — heavy triple at ~90%, **no max attempt**. Floor press (rotation: bench 7/15 → incline 7/21 → floor press). Last floor press 170 on 7/5, but bench has gone 175 → 205 since, so that's stale — work to a controlled triple around 175–185 and stop there. Dead-stop each rep, elbows ~45°, hips flat. Modest arch — mind the shoulder blades.
@@ -40,13 +65,6 @@
 | DB Curls | 3 x 10–12 | 25–35 lb DBs | Seated or standing |
 | Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Seated |
 | Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Thoracic health — don't skip |
-
----
-
-## 2026-07-30 — Rest Day
-
-**Feel:** —
-**Notes:** Rest after two straight training days (7/28–7/29), per the 2-on / 1-off pattern.
 
 ---
 
