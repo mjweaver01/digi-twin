@@ -1,9 +1,27 @@
 # Workout Log
 
-## 2026-08-03 — Rest Day
+## 2026-08-04 — Rest Day
 
 **Feel:** —
-**Notes:** Rest after 8/1–8/2, per the 2-on / 1-off pattern.
+**Notes:** Rest after 8/2–8/3, per the 2-on / 1-off pattern.
+
+---
+
+## 2026-08-03 — ME Lower (Box Squat, ~90% cap)
+
+**Feel:** —
+**Notes:** Pushed from 8/1 (rested instead). Modulated ME — heavy triple at ~90%, **no max attempt**. Box squat (rotation: sumo 7/26 → box squat). 90% of 255 ≈ 230 for a triple. Leave 2+ in the tank. Bar sits on the upper back — swap to goblet/DB squats if that spot flares.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Box Squat (heavy triple — no max) | Ramp → top triple | 45 / 135 / 185 / 205 / 230 x3 | ~90% of 255. Sit back, pause, explode up. Leave 2+ in the tank |
+| Good Mornings | 3 x 8–10 | Light–moderate barbell | Hinge, soft knees |
+| Banded Leg Curls | 3 x 10–15 | Band | Hamstrings |
+| Standing Banded Glute Kickbacks | 3 x 15–20/leg | Band | Standing, no bench contact |
+| Arnold Press | 3 x 10–12 | 35 lb DBs | Seated, back supported |
+| DB Curls | 3 x 10–12 | 25–35 lb DBs | Seated or standing |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Thoracic health |
+| Core — anti-movement (pick 2–3) | see notes | BW / band | Dead bugs · Pallof press · Side plank |
 
 ---
 
@@ -25,21 +43,10 @@
 
 ---
 
-## 2026-08-01 — ME Lower (Box Squat, ~90% cap)
+## 2026-08-01 — Rest Day
 
 **Feel:** —
-**Notes:** Modulated ME week — heavy triple at ~90%, **no max attempt**. Box squat (rotation: sumo 7/26 → box squat). 90% of 255 ≈ 230 for a triple. Leave 2+ in the tank. Bar sits on the upper back — swap to goblet/DB squats if that spot flares.
-
-| Exercise | Sets x Reps | Weight | Notes |
-|---|---|---|---|
-| Box Squat (heavy triple — no max) | Ramp → top triple | 45 / 135 / 185 / 205 / 230 x3 | ~90% of 255. Sit back, pause, explode up. Leave 2+ in the tank |
-| Good Mornings | 3 x 8–10 | Light–moderate barbell | Hinge, soft knees |
-| Banded Leg Curls | 3 x 10–15 | Band | Hamstrings |
-| Standing Banded Glute Kickbacks | 3 x 15–20/leg | Band | Standing, no bench contact |
-| Arnold Press | 3 x 10–12 | 35 lb DBs | Seated, back supported |
-| DB Curls | 3 x 10–12 | 25–35 lb DBs | Seated or standing |
-| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Thoracic health |
-| Core — anti-movement (pick 2–3) | see notes | BW / band | Dead bugs · Pallof press · Side plank |
+**Notes:** Rested instead of the planned ME Lower — pushed the box squat session to 8/3.
 
 ---
 
