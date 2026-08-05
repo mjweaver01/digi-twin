@@ -3,20 +3,17 @@
 ## 2026-08-05 — DE Lower (Wave Week 1 — 50%)
 
 **Feel:** —
-**Notes:** Speed day — matches the new wave started 8/2, Week 1 = 50%, recalculated off current PRs. Box squats 50% of 255 ≈ 130. Speed deadlifts 50% of 305 ≈ 150. Band tension if set up. Explosive, short rests — bar speed is the whole point, not load.
+**Notes:** Speed day — Week 1 of the wave = 50%. Box squat max is stale (230x3 flew on 8/3), so working off an estimated ~275 rather than the logged 255. Bands optional — use them if you feel like it, skip if not. **Bar speed governs** — when speed drops, the set is done regardless of the plan. Retest the box squat next ME Lower to recalibrate.
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
-| Speed Box Squats | 10–12 x 2 | ~130 lbs | 50% of 255. Sit back, pause, explode up. 45–60s rest |
-| Speed Deadlifts | 6–8 x 1 | ~150 lbs | 50% of 305. Full reset each rep, explosive pull. 45–60s rest |
-| Good Mornings or RDLs | 3–4 x 8–10 | Loaded barbell | Heavy hinge — posterior chain |
-| Banded Leg Curls | 3 x 10–15 | Band | Direct hamstring |
-| Back Raises / Bench Back Extensions | 3 x 12–20 | BW | Lower-back, reverse-hyper sub |
-| KB Swings | 3 x 20 | 35 lb KB | Hip-driven |
-| DB Shrugs or Chest-Supported Rows | 4 x 10–15 | 35 lb DBs | Back/trap thickness |
+| Speed Box Squats | 10–12 x 2 | ~140 lbs **+ band** | 50% of est. 275. Sit back, pause, explode up. 45–60s rest |
+| Speed Deadlifts | 6–8 x 1 | ~150 lbs **+ band** | 50% of 305. Full reset each rep, explosive pull. 45–60s rest |
+| Stiff-Leg / Snatch-Grip RDL | 3–4 x 8–10 | Loaded barbell | Push the stretch |
+| Lawnmowers | 4 x 20+ **to failure** | 35 lb DB | Rep method — DB is light for you, so go to actual failure. Sub barbell rows 4 x 8–12 heavy if you'd rather load it |
 | DB Curls | 3 x 10–12 | 25–35 lb DBs | |
-| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
-| Core — anti-movement (pick 2–3) | see notes | BW / band | Dead bugs · Pallof press · Side plank |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | |
+| Toes-to-Bar | 3 x 10–15 | BW | Strict or slight kip, full ROM |
 
 ---
 
