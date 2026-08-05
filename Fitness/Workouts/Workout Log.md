@@ -1,5 +1,25 @@
 # Workout Log
 
+## 2026-08-05 — DE Lower (Wave Week 1 — 50%)
+
+**Feel:** —
+**Notes:** Speed day — matches the new wave started 8/2, Week 1 = 50%, recalculated off current PRs. Box squats 50% of 255 ≈ 130. Speed deadlifts 50% of 305 ≈ 150. Band tension if set up. Explosive, short rests — bar speed is the whole point, not load.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Box Squats | 10–12 x 2 | ~130 lbs | 50% of 255. Sit back, pause, explode up. 45–60s rest |
+| Speed Deadlifts | 6–8 x 1 | ~150 lbs | 50% of 305. Full reset each rep, explosive pull. 45–60s rest |
+| Good Mornings or RDLs | 3–4 x 8–10 | Loaded barbell | Heavy hinge — posterior chain |
+| Banded Leg Curls | 3 x 10–15 | Band | Direct hamstring |
+| Back Raises / Bench Back Extensions | 3 x 12–20 | BW | Lower-back, reverse-hyper sub |
+| KB Swings | 3 x 20 | 35 lb KB | Hip-driven |
+| DB Shrugs or Chest-Supported Rows | 4 x 10–15 | 35 lb DBs | Back/trap thickness |
+| DB Curls | 3 x 10–12 | 25–35 lb DBs | |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+| Core — anti-movement (pick 2–3) | see notes | BW / band | Dead bugs · Pallof press · Side plank |
+
+---
+
 ## 2026-08-04 — Rest Day
 
 **Feel:** —
@@ -10,7 +30,7 @@
 ## 2026-08-03 — ME Lower (Box Squat, ~90% cap)
 
 **Feel:** —
-**Notes:** Pushed from 8/1 (rested instead). Modulated ME — heavy triple at ~90%, **no max attempt**. Box squat (rotation: sumo 7/26 → box squat). 90% of 255 ≈ 230 for a triple. Leave 2+ in the tank. Bar sits on the upper back — swap to goblet/DB squats if that spot flares.
+**Notes:** Pushed from 8/1 (rested instead). Modulated ME — heavy triple at ~90%, no max attempt. Box squat (rotation: sumo 7/26 → box squat). 230 x3 moved **very easily** — 255 PR is now stale, real max is well above it. Back felt good throughout.
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|

@@ -51,7 +51,7 @@ status: current
 | Bench | Adjustable |
 | Dumbbells | 25 lb, 35 lb |
 | Kettlebells | 25 lb, 35 lb |
-| Plates | 45 / 25 / 15 / 10 / 5 lb — **~220 lb total loadable** |
+| Plates | 45 / 25 / 15 / 10 / 5 lb — added 4x extra 45s (Aug 2026), **~400 lb total loadable** |
 | Bands | Light–heavy (DE work + accessories) |
 
 *No reverse hyper, no chains, no monolift — program around this accordingly*

@@ -1,11 +1,29 @@
 # ME Upper
 
 ## Main Lift
-**Pick one:** Flat Bench, Close-Grip Bench, Floor Press, EZ Bar Floor Press, or Incline Bench
 
-**For mass, bias toward heavy 3s and 5s — not true singles.** Work up to a top 3–5RM most weeks; save true singles for when you actually want to test. Triples build size with less CNS drain.
+**Rotation rule:** change the ME variation every 1–2 weeks. **Do not repeat a variation within 3 weeks** — that's the whole point of conjugate. Rotating between only 2–3 movements is a long loop, not rotation.
 
-Rotating the variation frequently is fine at your level, but hold a lift for ~2 weeks now and then so you can grind a real progression instead of always hitting a "fresh" PR. Don't repeat the same ME lift back to back within a week. Ramp slowly; if form breaks, drop weight.
+**For mass, bias toward heavy 3s and 5s — not true singles.** Work up to a top 3–5RM most weeks; save true singles for when you actually want to test. Triples build size with less CNS drain. Ramp slowly; if form breaks, drop weight.
+
+### Rotation Pool
+*Each variation attacks a different weak point. Pick one, run it 1–2 weeks, then move on.*
+
+| Variation | Targets | Setup notes |
+|---|---|---|
+| Flat Bench | Baseline / overall | Standard competition-style |
+| Incline Bench | Upper chest, shoulder | Adjustable bench |
+| Floor Press | Lockout, dead-stop strength | Dead-stop each rep, elbows ~45°, hips flat |
+| **Close-Grip Bench** | Triceps, lockout | Hands ~shoulder width, elbows tucked |
+| **Board Press** (1/2/3 board) | Specific sticking point | DIY boards — cheap; pick height matching the sticking point |
+| **Pin Press** | Dead-stop at weakest height | Bar on rack pins, set at the sticking point |
+| **Banded Bench** | Accommodating resistance | Bands over the bar, anchored under bench/feet |
+| **Larsen Press** | Raw pressing, no leg drive | Feet up on the bench — kills leg drive |
+| **Overhead / Strict Press** | Shoulders, overhead strength | Standing, strict — no push press |
+| **Reverse-Band Bench** | Overload at lockout | Bands anchored overhead in the rack |
+| EZ Bar Floor Press | Tricep-biased pressing | EZ bar, dead-stop |
+
+**Suggested sequence** (no repeat inside 3 weeks): Flat Bench → Close-Grip → Board Press → Incline → Pin Press → Floor Press → Banded Bench → Larsen → Overhead Press → repeat.
 
 ---
 

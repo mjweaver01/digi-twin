@@ -1,11 +1,31 @@
 # ME Lower
 
 ## Main Lift
-**Pick one:** Back Squat, Box Squat, Conventional Deadlift, Sumo Deadlift, or RDL (rotate)
 
-**For mass, bias toward heavy 3s and 5s over true singles.** Work up to a top 3–5RM most weeks; save true singles for testing. Rotating frequently is fine, but hold a lift ~2 weeks now and then to grind a real progression.
+**Rotation rule:** change the ME variation every 1–2 weeks. **Do not repeat a variation within 3 weeks** — that's the whole point of conjugate. Cycling between only 2–3 movements is a long loop, not rotation.
+
+**For mass, bias toward heavy 3s and 5s over true singles.** Work up to a top 3–5RM most weeks; save true singles for testing.
 
 Ramp slowly. If form breaks down, drop weight. (Watch the forward lean / bar path — brace hard, drive the upper back into the bar.)
+
+### Rotation Pool
+*Each variation attacks a different weak point. Pick one, run it 1–2 weeks, then move on.*
+
+| Variation | Targets | Setup notes |
+|---|---|---|
+| Box Squat | Posterior chain, starting strength | Vary box height — low / parallel / high each count as separate variations |
+| Conventional Deadlift | Overall pull | Full reset each rep |
+| Sumo Deadlift | Hips, quads, more upright | Wide stance, toes ~45°, drive knees out |
+| **Deficit Deadlift** | Off-the-floor strength | Stand on a 45 lb plate or mat, 1–2" deficit |
+| **Rack / Pin Pulls** | Lockout | Pins below or above the knee — needs heavy load |
+| **Front Squat** | Upper back, trunk | Will expose the forward-lean habit — good |
+| **Anderson Squat** | Dead-stop out of the hole | Bar starts on pins at/below parallel |
+| **Paused Squat** | Kills the stretch reflex | 2–3s pause at the bottom |
+| **Heavy Good Morning** | Posterior chain | As the *main* lift, loaded — not the light accessory version |
+| **Banded Box Squat / Banded Deadlift** | Accommodating resistance | Bands anchored under the rack / feet |
+| **Zercher Squat** | Trunk, upper back | Bar in the elbow crooks |
+
+**Suggested sequence** (no repeat inside 3 weeks): Box Squat → Deficit Deadlift → Front Squat → Sumo → Pin Pulls → Paused Squat → Conventional → Anderson Squat → Heavy Good Morning → repeat.
 
 ---
 
