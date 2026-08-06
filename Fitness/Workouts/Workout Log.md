@@ -1,5 +1,21 @@
 # Workout Log
 
+## 2026-08-06 — ME Upper (Close-Grip Bench)
+
+**Feel:** —
+**Notes:** New ME rotation — close-grip bench, first time running it. Last three ME Upper variations were bench (7/15), incline (7/21), floor press (7/30), so this is genuinely fresh. No baseline to beat: ramp and establish one. Close-grip typically lands ~85–90% of flat bench, so ~175–185 off the 205 PR — work to a heavy triple and stop there. Hands about shoulder width, elbows tucked, bar to lower chest. No dedicated tricep accessory today — close-grip *is* the tricep lift.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Close-Grip Bench (work up to heavy triple) | Ramp → top triple | 45 / 95 / 135 / 155 / 175 x3 | Shoulder-width grip, elbows tucked. Establish the baseline — don't chase a number |
+| Pull-ups / Chin-ups | 4 x 6–12 | BW or weighted | Vertical pull — the standing gap in your program. Add weight if 12 is easy |
+| DB Incline Press | 4 x 10–12 | 35 lb DBs | |
+| DB Curls | 3 x 10–12 | 25–35 lb DBs | Supinated — biceps |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Neutral grip — brachialis / brachioradialis |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+
+---
+
 ## 2026-08-05 — DE Lower (Wave Week 1 — 50%)
 
 **Feel:** —
@@ -10,7 +26,7 @@
 | Speed Box Squats | 10–12 x 2 | ~140 lbs **+ band** | 50% of est. 275. Sit back, pause, explode up. 45–60s rest |
 | Speed Deadlifts | 6–8 x 1 | ~150 lbs **+ band** | 50% of 305. Full reset each rep, explosive pull. 45–60s rest |
 | Stiff-Leg / Snatch-Grip RDL | 3–4 x 8–10 | Loaded barbell | Push the stretch |
-| Lawnmowers | 4 x 20+ **to failure** | 35 lb DB | Rep method — DB is light for you, so go to actual failure. Sub barbell rows 4 x 8–12 heavy if you'd rather load it |
+| Lawnmowers | 4 x 10 | 35 lb DB | Single-arm, brace hard |
 | DB Curls | 3 x 10–12 | 25–35 lb DBs | |
 | Band Pull-Aparts / Face Pulls | 3 x 20 | Band | |
 | Toes-to-Bar | 3 x 10–15 | BW | Strict or slight kip, full ROM |

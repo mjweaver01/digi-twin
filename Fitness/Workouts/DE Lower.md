@@ -31,8 +31,8 @@
 | Job | Options | Sets x Reps |
 |---|---|---|
 | **Posterior chain** (hinge) | Stiff-Leg / Snatch-Grip RDL **or** Good Mornings | 3–4 x 8–10 |
-| **Upper back** (pull) | **Lawnmowers** (preferred — rep method, 4 x 20+ **to failure**) **or** Barbell Rows (4 x 8–12, load heavy) **or** Pull-ups | see options |
-| **Arms** | DB Curls **or** Hammer Curls | 3 x 10–12 |
+| **Upper back** (pull) | **Lawnmowers** (preferred) **or** Barbell Rows **or** Pull-ups | 4 x 10–12 |
+| **Arms** ⭐ | **Two curl variations allowed** — one supinated (DB or EZ Bar Curls, 3 x 10–12) + Hammer Curls (3 x 12–15). Different elbow flexors, low systemic cost | see options |
 | **Core** | **Toes-to-Bar** (preferred) **or** Hanging Leg Raises **or** Weighted Sit-ups | 3 x 10–15 |
 
 Plus **Band Pull-Aparts / Face Pulls 3 x 20** — shoulder health, trivial cost, doesn't count toward the four.

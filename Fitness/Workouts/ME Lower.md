@@ -31,7 +31,7 @@ Ramp slowly. If form breaks down, drop weight. (Watch the forward lean / bar pat
 
 ## Accessories
 
-> **35 lb DBs are light for Mike now** (305 DL / 255+ box squat). Any DB accessory must go to genuine failure to be worth doing — or load the barbell instead (~400 lb of plates available).
+> **Don't assume DB weights from barbell numbers.** Barbell strength doesn't transfer to single-arm rows or DB pressing — different leverage, different stabilizer demand. Program DB work off what's actually in the log (35s for ~10–12 reps), not off inference.
 
 > **Programming rule: ONE movement per job. 4 accessories total, max.**
 > The ME lift is the session. Accessories support it — they don't become a second workout.
@@ -42,8 +42,8 @@ Ramp slowly. If form breaks down, drop weight. (Watch the forward lean / bar pat
 | Job | Options | Sets x Reps |
 |---|---|---|
 | **Posterior chain** (hinge) | Stiff-Leg / Snatch-Grip RDL **or** Good Mornings | 3–4 x 8–10 |
-| **Upper back / delts** | **Lawnmowers** (preferred — rep method, 4 x 20+ **to failure**) **or** Barbell Rows (4 x 8–12, load heavy) **or** Pull-ups **or** Arnold Press | see options |
-| **Arms** | DB Curls **or** Hammer Curls | 3 x 10–12 |
+| **Upper back / delts** | **Lawnmowers** (preferred) **or** Barbell Rows **or** Pull-ups **or** Arnold Press | 4 x 10–12 |
+| **Arms** ⭐ | **Two curl variations allowed** — one supinated (DB or EZ Bar Curls, 3 x 10–12) + Hammer Curls (3 x 12–15). Different elbow flexors, low systemic cost | see options |
 | **Core** | **Toes-to-Bar** (preferred) **or** Hanging Leg Raises **or** Weighted Sit-ups | 3 x 10–15 |
 
 Plus **Band Pull-Aparts / Face Pulls 3 x 20** — shoulder health, trivial cost, doesn't count toward the four.
