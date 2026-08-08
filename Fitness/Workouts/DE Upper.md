@@ -1,31 +1,44 @@
 # DE Upper
 *Upper body mass focus — speed work first, then high volume accessories*
 
+> ### Bands: optional
+> Accommodating resistance is the textbook mechanism of DE work, but **Mike dislikes banded barbell work — don't prescribe it as mandatory.** Straight-weight speed work is legitimate (it's how DE started). Without bands, **bar speed is the governor**: when speed visibly drops, the set is over regardless of the plan.
+
 ## Speed Bench Press
-9 x 3 — **wave the bar weight on a 3-week pendulum + band tension on the bar**
-- **Week 1 = 50%, Week 2 = 55%, Week 3 = 60%** of your current ME bench, then reset to Week 1
-- **Always add band tension to the bar** (light/medium band, anchored under bench or feet) — bands are the point of DE. Straight weight decelerates through the top third; bands force you to accelerate the whole ROM
-- Reference: bench ~195 → ~95 / 105 / 115 lbs bar weight across the 3 weeks, + band on top
-- Max speed off chest — the bar weight is light, speed is everything
-- 45–60s rest between sets
+9 x 3 — **wave the bar weight on a 3-week pendulum**
+- **Week 1 = 50%, Week 2 = 55%, Week 3 = 60%** of current ME bench, then reset to Week 1
+- Reference: bench 205 → ~105 / 115 / 125 lbs across the 3 weeks
+- Max speed off the chest — the bar weight is light, speed is everything
 - Rotate grip: close / medium / wide (3 sets each)
+- 45–60s rest between sets
 
 ---
 
-## Accessories — Upper Mass
-*Pick one option per row — rotate for variation.*
+## Accessories
 
-*Priority order: heavy/loadable pulling first, then press, then arms. With 35 lb DB cap — load the barbell or chase reps to failure.*
+> **Programming rule: ONE movement per job. 4 accessories total, max.**
+> DE day is speed work — the accessories support it, they don't become a second workout.
+> Before adding anything, ask what job it does and whether something already in the session does that job. If yes, don't add it.
 
-| Exercise | Sets x Reps | Notes |
+> **Don't assume DB weights from barbell numbers.** Barbell strength doesn't transfer to single-arm rows or DB pressing — different leverage, different stabilizer demand. Program DB work off what's actually in the log (35s for ~10–12 reps), not off inference.
+
+**Pick exactly one from each block. Priority: pull first — back is the weak link.**
+
+| Job | Options | Sets x Reps |
 |---|---|---|
-| **Pull-ups / Chin-ups** (weighted or banded) | 4 x 6–12 | **Vertical pull — lat width. Do not skip.** Add weight or slow the eccentric as you progress |
-| Barbell Rows **or** Pendlay Rows **or** Chest-Supported Rows | 4 x 8–12 | Load the barbell heavy — goes far past 35 lb DBs. Back thickness |
-| DB Shrugs | 4 x 10–15 | 35 lb DBs — trap/upper-back thickness. Squeeze at top, no rolling |
-| DB Incline Press **or** Flat DB Press | 4 x 12–20 to failure | 35 lb DBs — chase reps since weight is capped |
-| Arnold Press **or** Overhead Press | 4 x 10–12 | 35 lb DBs / barbell — full delt development |
-| Dips (weighted or high-rep) **or** JM Press | 3 x 8–15 · 3–4 x 10–12 | Rep-method chest/tricep mass — dips scale past light DBs |
-| EZ Bar Curls **or** Hammer Curls | 3 x 10–15 | Pick one — arms are already well-covered, don't overload here |
-| Band Pull-Aparts **or** Face Pulls | 3 x 20 | Rear delt, shoulder health — don't skip |
+| **Pull** | **Lawnmowers** (preferred) **or** Pull-ups / Chin-ups **or** Barbell Rows **or** DB Shrugs | 4 x 10–12 |
+| **Press / delts** | Arnold Press **or** Overhead Press **or** DB Incline Press **or** Flat DB Press | 4 x 10–12 |
+| **Triceps** | JM Press **or** EZ Bar Skull Crushers **or** Dips | 3 x 8–12 |
+| **Arms** ⭐ | **Two curl variations allowed** — one supinated (DB or EZ Bar Curls, 3 x 10–12) + Hammer Curls (3 x 12–15). Different elbow flexors, low systemic cost | see options |
+
+Plus **Band Pull-Aparts / Face Pulls 3 x 20** — shoulder health, trivial cost, doesn't count toward the four.
+
+### Redundancy watch-list
+- **Triceps** — fine to include here (speed bench isn't a tricep lift), but if the day's main press were close-grip/board/pin/floor press, skip it.
+- **Horizontal press** — one DB press accessory is plenty; don't stack incline + flat + Arnold.
+- **Traps/grip** — carries, shrugs. Pick one.
+
+### ⛔ Do not program
+Preacher curls · farmer's & suitcase carries — Mike dislikes these. Bands on the barbell are optional, never mandatory.
 
 **Rest:** 45–60s on speed sets, 60–90s on accessories

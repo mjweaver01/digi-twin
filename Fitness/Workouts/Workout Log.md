@@ -1,5 +1,46 @@
 # Workout Log
 
+## 2026-08-09 — ME Lower (Deficit Deadlift)
+
+**Feel:** —
+**Notes:** New ME rotation — deficit deadlift, first time running it. Last four ME Lower lifts were conventional (7/13), box squat (7/19), sumo (7/26), box squat (8/3), so this is genuinely fresh. Stand on a 45 lb plate for a 1–2" deficit. No baseline: deficit typically runs ~85–90% of conventional, so ~255–275 off the 305 PR — ramp to a heavy triple and stop. Longer ROM means the bar starts lower; keep the chest up and don't let the hips shoot. Retest the box squat next ME Lower cycle to recalibrate the speed wave.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Deficit Deadlift (work up to heavy triple) | Ramp → top triple | 135 / 185 / 225 / 245 / 255 x3 | 1–2" deficit off a 45. Establish the baseline — don't chase a number |
+| Good Mornings | 3–4 x 8–10 | Loaded barbell | Posterior chain (alternating off RDLs from 8/5) |
+| Pull-ups / Chin-ups | 4 x 6–12 | BW or weighted | Vertical pull |
+| DB Curls | 3 x 10–12 | 25–35 lb DBs | Supinated |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Neutral grip |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+| Toes-to-Bar | 3 x 10–15 | BW | Full ROM |
+
+---
+
+## 2026-08-08 — DE Upper (Wave Week 2 — 55%)
+
+**Feel:** —
+**Notes:** Speed day — Week 2 of the wave = 55% of 205 ≈ 115. Straight weight, no bands. Max acceleration off the chest — bar speed is the point, not load. Rotate grip close/medium/wide, 3 sets each. **Bar speed governs**: when speed drops, the set is done.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Bench Press | 9 x 3 | ~115 lbs | 55% of 205. Rotate grip: 3 close / 3 medium / 3 wide. 45–60s rest |
+| Lawnmowers | 4 x 10–12 | 35 lb DB | Single-arm, brace hard |
+| Arnold Press | 4 x 10–12 | 35 lb DBs | Delts |
+| JM Press | 3 x 8–10 | EZ bar | Tricep mass |
+| DB Curls | 3 x 10–12 | 25–35 lb DBs | Supinated |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Neutral grip |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+
+---
+
+## 2026-08-07 — Rest Day
+
+**Feel:** —
+**Notes:** Rest day.
+
+---
+
 ## 2026-08-06 — ME Upper (Close-Grip Bench)
 
 **Feel:** —
