@@ -1,5 +1,30 @@
 # Workout Log
 
+## 2026-08-11 — ME Upper (Overhead Press)
+
+**Feel:** —
+**Notes:** Upper day — alternating off ME Lower (8/9). New ME rotation: strict overhead press, first time as the max-effort lift. Last three ME Upper variations were incline (7/21), floor press (7/30), close-grip (8/6), so this is fresh. Standing, strict — no leg drive, no push press. Brace hard, squeeze glutes, press around the face not in front of it. OHP typically runs ~60–65% of bench, so ~125–135 off the 205 PR — ramp to a heavy triple and establish the baseline. Keep Valsalva moderate.
+
+**Running variation B** for accessories (8/6 was A) — horizontal pull instead of vertical, different curls. Arnold press dropped since the ME lift is already an overhead press.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Overhead Press (work up to heavy triple) | Ramp → top triple | 45 / 65 / 85 / 105 / 125 x3 | Strict standing press. No leg drive. Establish the baseline — don't chase a number |
+| **Barbell Rows** | 4 x 8–12 | **135 lbs** (bar + 45/side) | ~65% of bench. If 12 is easy, go 155 next time. Log what you actually use |
+| **DB Incline Press** | 4 x 10–12 | 35 lb DBs | Horizontal press — ME lift was overhead, so press in a different plane |
+| **EZ Bar Curls** | 3 x 10–12 | **65 lbs** (bar + 22.5/side) | Strict, no swing. If 12 is easy, go 75 next time |
+| **Cross-Body Hammer Curls** | 3 x 12–15 | 25–35 lb DBs | Across the chest — different brachialis angle |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+
+---
+
+## 2026-08-10 — Rest Day
+
+**Feel:** —
+**Notes:** Rest after the weekend's two training days (8/8–8/9).
+
+---
+
 ## 2026-08-09 — ME Lower (Deficit Deadlift)
 
 **Feel:** —
@@ -7,7 +32,7 @@
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
-| Deficit Deadlift (work up to heavy triple) | Ramp → top triple | 135 / 185 / 225 / 245 / 255 x3 | 1–2" deficit off a 45. Establish the baseline — don't chase a number |
+| Deficit Deadlift (work up to heavy triple) | Ramp → top triple | 135 / 185 / 225 / 245 / **255 x3** | 1–2" deficit off a 45. First tracked deficit — baseline set |
 | Good Mornings | 3–4 x 8–10 | Loaded barbell | Posterior chain (alternating off RDLs from 8/5) |
 | Pull-ups / Chin-ups | 4 x 6–12 | BW or weighted | Vertical pull |
 | DB Curls | 3 x 10–12 | 25–35 lb DBs | Supinated |

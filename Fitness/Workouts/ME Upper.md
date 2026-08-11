@@ -16,16 +16,20 @@
 | Floor Press | Lockout, dead-stop strength | Dead-stop each rep, elbows ~45°, hips flat |
 | **Close-Grip Bench** | Triceps, lockout | Hands ~shoulder width, elbows tucked |
 | **Board Press** (1/2/3 board) | Specific sticking point | DIY boards — cheap; pick height matching the sticking point |
-| **Pin Press** | Dead-stop at weakest height | Bar on rack pins, set at the sticking point |
 | **Banded Bench** | Accommodating resistance | Bands over the bar, anchored under bench/feet |
 | **Larsen Press** | Raw pressing, no leg drive | Feet up on the bench — kills leg drive |
 | **Overhead / Strict Press** | Shoulders, overhead strength | Standing, strict — no push press |
 | **Reverse-Band Bench** | Overload at lockout | Bands anchored overhead in the rack |
 | EZ Bar Floor Press | Tricep-biased pressing | EZ bar, dead-stop |
 
-**Suggested sequence** (no repeat inside 3 weeks): Flat Bench → Close-Grip → Board Press → Incline → Pin Press → Floor Press → Banded Bench → Larsen → Overhead Press → repeat.
+**Suggested sequence** (no repeat inside 3 weeks): Flat Bench → Close-Grip → Overhead Press → Incline → Larsen Press → Floor Press → Board Press → EZ Bar Floor Press → repeat.
+
+> ⛔ **No rack pins available** — do not program pin presses. Reverse-band bench also needs an overhead anchor; check before prescribing. Bands on the barbell are optional (Mike dislikes them).
 
 ---
+
+> ### ⚠️ Always prescribe a real weight
+> **Never write "loaded barbell," "light barbell," or "EZ bar" with no number.** Pull the working weight from [[Fitness/Progress/Accessory Working Weights]]. If the movement isn't in that table, calculate from the ratios there, prescribe a number, and flag it as an estimate.
 
 ## Accessories
 
@@ -35,14 +39,14 @@
 
 > **Don't assume DB weights from barbell numbers.** Barbell strength doesn't transfer to single-arm rows or DB pressing — different leverage, different stabilizer demand. Program DB work off what's actually in the log (35s for ~10–12 reps), not off inference.
 
-**Pick exactly one from each block. Priority: pull first — back is the weak link.**
+> ### ⚠️ Alternate A/B every session
+> **"Preferred" does not mean "every time."** Consecutive ME Upper days must not be the same exercises. Check the last ME Upper in the log and run the *other* variation.
 
-| Job | Options | Sets x Reps |
-|---|---|---|
-| **Vertical pull** | **Pull-ups / Chin-ups** (weighted or banded) | 4 x 6–12 |
-| **Horizontal pull** | **Lawnmowers** (preferred) **or** Barbell Rows **or** DB Shrugs | 4 x 10–12 |
-| **Press (mass)** | DB Incline Press **or** Flat DB Press **or** Arnold Press | 4 x 10–12 |
-| **Arms** ⭐ | **Two curl variations allowed** — one supinated (DB or EZ Bar Curls, 3 x 10–12) + Hammer Curls (3 x 12–15). Different elbow flexors, low systemic cost, and Mike wants the size | see options |
+| Job | **Variation A** | **Variation B** | Sets x Reps |
+|---|---|---|---|
+| **Pull** | Pull-ups / Chin-ups (vertical) | Barbell Rows **or** Lawnmowers (horizontal) | 4 x 6–12 · 4 x 8–12 |
+| **Press (mass)** | DB Incline Press **or** Flat DB Press | Arnold Press **or** Overhead Press | 4 x 10–12 |
+| **Arms** ⭐ (two allowed) | DB Curls + Hammer Curls | EZ Bar Curls + Cross-Body Hammer Curls | 3 x 10–12 · 3 x 12–15 |
 
 Plus **Band Pull-Aparts / Face Pulls 3 x 20** — shoulder health, trivial cost, doesn't count toward the four.
 

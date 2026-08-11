@@ -28,6 +28,8 @@ status: current
 
 ## Training
 **Frequency:** 3–4x/week
+**Rest pattern:** 2 days on, 1 day off
+**Session order:** ⚠️ **Alternate upper and lower.** Never program two lower days or two upper days back to back — check the previous session in the log before writing the next one.
 **Program:** Westside Barbell conjugate — Max Effort + Dynamic Effort days
 **Current focus:** Upper body priority (bench, press, curls) while maintaining squat/deadlift
 
@@ -47,7 +49,7 @@ status: current
 |---|---|
 | Barbell | Olympic (45 lb) |
 | Curl bar | EZ bar |
-| Squat rack | Full rack |
+| Squat rack | Full rack — **no safety pins / spotter arms** (rules out pin press, Anderson squats, pin pulls off pins) |
 | Bench | Adjustable |
 | Dumbbells | 25 lb, 35 lb |
 | Kettlebells | 25 lb, 35 lb |

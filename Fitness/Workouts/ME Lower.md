@@ -19,15 +19,19 @@ Ramp slowly. If form breaks down, drop weight. (Watch the forward lean / bar pat
 | **Deficit Deadlift** | Off-the-floor strength | Stand on a 45 lb plate or mat, 1–2" deficit |
 | **Rack / Pin Pulls** | Lockout | Pins below or above the knee — needs heavy load |
 | **Front Squat** | Upper back, trunk | Will expose the forward-lean habit — good |
-| **Anderson Squat** | Dead-stop out of the hole | Bar starts on pins at/below parallel |
 | **Paused Squat** | Kills the stretch reflex | 2–3s pause at the bottom |
 | **Heavy Good Morning** | Posterior chain | As the *main* lift, loaded — not the light accessory version |
 | **Banded Box Squat / Banded Deadlift** | Accommodating resistance | Bands anchored under the rack / feet |
 | **Zercher Squat** | Trunk, upper back | Bar in the elbow crooks |
 
-**Suggested sequence** (no repeat inside 3 weeks): Box Squat → Deficit Deadlift → Front Squat → Sumo → Pin Pulls → Paused Squat → Conventional → Anderson Squat → Heavy Good Morning → repeat.
+**Suggested sequence** (no repeat inside 3 weeks): Box Squat → Deficit Deadlift → Front Squat → Sumo → Paused Squat → Conventional → Heavy Good Morning → Zercher Squat → repeat.
+
+> ⛔ **No rack pins available** — do not program Anderson squats. **Rack/pin pulls** can still be done by resting the bar on stacked plates or blocks, but not off pins.
 
 ---
+
+> ### ⚠️ Always prescribe a real weight
+> **Never write "loaded barbell," "light barbell," or "EZ bar" with no number.** Pull the working weight from [[Fitness/Progress/Accessory Working Weights]]. If the movement isn't in that table, calculate from the ratios there, prescribe a number, and flag it as an estimate.
 
 ## Accessories
 

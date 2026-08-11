@@ -14,6 +14,9 @@
 
 ---
 
+> ### ⚠️ Always prescribe a real weight
+> **Never write "loaded barbell," "light barbell," or "EZ bar" with no number.** Pull the working weight from [[Fitness/Progress/Accessory Working Weights]]. If the movement isn't in that table, calculate from the ratios there, prescribe a number, and flag it as an estimate.
+
 ## Accessories
 
 > **Programming rule: ONE movement per job. 4 accessories total, max.**
