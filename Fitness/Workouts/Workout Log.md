@@ -1,5 +1,25 @@
 # Workout Log
 
+## 2026-08-12 — DE Lower (Wave 2 of 3 — 55%)
+
+**Feel:** —
+**Notes:** Lower day, alternating off yesterday's ME Upper. Speed wave position 2 of 3 = 55%. Box squats ~150 (55% of est. 275), speed deadlifts ~170 (55% of 305). Straight weight, no bands. **Bar speed governs** — when speed drops, the set is done.
+
+Accessories picked by longest gap since last use, and deliberately avoiding yesterday's (barbell rows, EZ bar curls, cross-body hammers). Box squat max is still an estimate — retest next ME Lower.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Box Squats — wide stance | 10–12 x 2 | 150 lbs | 55% of est. 275. Wider stance, drive knees out. 45–60s rest |
+| Speed Deadlifts | 6–8 x 1 | 170 lbs | 55% of 305. Full reset each rep, explosive pull. 45–60s rest |
+| Stiff-Leg / Snatch-Grip RDL | 3–4 x 8–10 | **185 lbs** | ESTIMATE — ~60% of DL. Push the stretch. Log what you actually use |
+| Lawnmowers | 4 x 10 | 35 lb DB | Single-arm, brace hard |
+| DB Curls | 3 x 10–12 | 25–35 lb DBs | Supinated |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Neutral grip |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+| Toes-to-Bar | 3 x 10–15 | BW | Full ROM |
+
+---
+
 ## 2026-08-11 — ME Upper (Overhead Press)
 
 **Feel:** —
@@ -42,10 +62,10 @@
 
 ---
 
-## 2026-08-08 — DE Upper (Wave Week 2 — 55%)
+## 2026-08-08 — DE Upper (Wave 2 of 3 — 55%)
 
 **Feel:** —
-**Notes:** Speed day — Week 2 of the wave = 55% of 205 ≈ 115. Straight weight, no bands. Max acceleration off the chest — bar speed is the point, not load. Rotate grip close/medium/wide, 3 sets each. **Bar speed governs**: when speed drops, the set is done.
+**Notes:** Speed day — Wave position 2 of 3 = 55% of 205 ≈ 115. Straight weight, no bands. Max acceleration off the chest — bar speed is the point, not load. Rotate grip close/medium/wide, 3 sets each. **Bar speed governs**: when speed drops, the set is done.
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
@@ -82,10 +102,10 @@
 
 ---
 
-## 2026-08-05 — DE Lower (Wave Week 1 — 50%)
+## 2026-08-05 — DE Lower (Wave 1 of 3 — 50%)
 
 **Feel:** —
-**Notes:** Speed day — Week 1 of the wave = 50%. Box squat max is stale (230x3 flew on 8/3), so working off an estimated ~275 rather than the logged 255. Bands optional — use them if you feel like it, skip if not. **Bar speed governs** — when speed drops, the set is done regardless of the plan. Retest the box squat next ME Lower to recalibrate.
+**Notes:** Speed day — Wave position 1 of 3 = 50%. Box squat max is stale (230x3 flew on 8/3), so working off an estimated ~275 rather than the logged 255. Bands optional — use them if you feel like it, skip if not. **Bar speed governs** — when speed drops, the set is done regardless of the plan. Retest the box squat next ME Lower to recalibrate.
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
@@ -127,7 +147,7 @@
 ## 2026-08-02 — DE Upper (Wave Week 1 — 50%, new cycle)
 
 **Feel:** —
-**Notes:** New speed wave starts — pendulum resets to Week 1 = 50%, now calculated off the current 205 bench PR ≈ 105 + band tension. Light bar weight, speed is the whole point — max acceleration off the chest. Rotate grip close/medium/wide.
+**Notes:** New speed wave starts — pendulum resets to position 1 of 3 = 50%, now calculated off the current 205 bench PR ≈ 105 + band tension. Light bar weight, speed is the whole point — max acceleration off the chest. Rotate grip close/medium/wide.
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
@@ -174,10 +194,10 @@
 
 ---
 
-## 2026-07-29 — DE Lower (Wave Week 3 — 60%)
+## 2026-07-29 — DE Lower (Wave 3 of 3 — 60%)
 
 **Feel:** —
-**Notes:** Speed day, Week 3 of the pendulum = 60%, then the wave resets to 50%. Box squats 60% of 255 ≈ 155. Speed deadlifts 60% of 305 ≈ 185 — reintroducing these now that the back is good; drop them if it complains. Band tension if set up. Explosive, short rests.
+**Notes:** Speed day, position 3 of 3 in the pendulum = 60%, then the wave resets to 50%. Box squats 60% of 255 ≈ 155. Speed deadlifts 60% of 305 ≈ 185 — reintroducing these now that the back is good; drop them if it complains. Band tension if set up. Explosive, short rests.
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
@@ -194,10 +214,10 @@
 
 ---
 
-## 2026-07-28 — DE Upper (Wave Week 3 — 60%)
+## 2026-07-28 — DE Upper (Wave 3 of 3 — 60%)
 
 **Feel:** —
-**Notes:** Speed day, Week 3 of the pendulum = 60%, then the wave resets to 50%. Speed bench 60% of 205 ≈ 125 + band tension. Max speed off the chest — light bar weight, speed is the point. Rotate grip close/medium/wide.
+**Notes:** Speed day, position 3 of 3 in the pendulum = 60%, then the wave resets to 50%. Speed bench 60% of 205 ≈ 125 + band tension. Max speed off the chest — light bar weight, speed is the point. Rotate grip close/medium/wide.
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
@@ -248,7 +268,7 @@
 ## 2026-07-24 — DE Lower (back-conscious)
 
 **Feel:** —
-**Notes:** Back is better but not 100%, so this is a cautious return to lower work — speed box squats only (box unloads the spine vs deadlifts), skipping speed deads and heavy good mornings until the thoracic is fully clear. Speed box squats Week 2 = 55% of new 255 PR ≈ 140 + band. Gut-check the back before starting; if it's grumbly, drop to mobility/rehab instead. Stay explosive, short rests.
+**Notes:** Back is better but not 100%, so this is a cautious return to lower work — speed box squats only (box unloads the spine vs deadlifts), skipping speed deads and heavy good mornings until the thoracic is fully clear. Speed box squats position 2 of 3 = 55% of new 255 PR ≈ 140 + band. Gut-check the back before starting; if it's grumbly, drop to mobility/rehab instead. Stay explosive, short rests.
 
 | Exercise                            | Sets x Reps   | Weight    | Notes                                                                                                                                                                                                                                                        |
 | ----------------------------------- | ------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -266,7 +286,7 @@
 ## 2026-07-23 — DE Upper (back-conscious) + Mowed Lawn
 
 **Feel:** —
-**Notes:** Speed day, chosen over DE Lower to spare the middle back. Also mowed the lawn. Speed bench Week 2 = 55% of 205 ≈ 115 + band. Kept arch modest, chest-supported rows to keep load off the mid back.
+**Notes:** Speed day, chosen over DE Lower to spare the middle back. Also mowed the lawn. Speed bench position 2 of 3 = 55% of 205 ≈ 115 + band. Kept arch modest, chest-supported rows to keep load off the mid back.
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
@@ -352,7 +372,7 @@
 ## 2026-07-18 — DE Upper (Planned)
 
 **Feel:** —
-**Notes:** Speed day — new 3-week wave, Week 1 = 50%. Speed bench ~105 (50% of new 205 PR) + band tension on the bar. Max speed off the chest, rotate grip close/medium/wide (3 sets each). ~72 hrs off the 7/15 bench PR — keep it explosive, not heavy.
+**Notes:** Speed day — new wave, position 1 of 3 = 50%. Speed bench ~105 (50% of new 205 PR) + band tension on the bar. Max speed off the chest, rotate grip close/medium/wide (3 sets each). ~72 hrs off the 7/15 bench PR — keep it explosive, not heavy.
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
@@ -377,7 +397,7 @@
 ## 2026-07-16 — DE Lower
 
 **Feel:** —
-**Notes:** Speed day — new 3-week wave, Week 1 = 50%. Ran speed box squats at 135 (worked well). Subbed DB shrugs for lawnmowers — good trap/upper-back thickness, adding as a rotation variation going forward.
+**Notes:** Speed day — new wave, position 1 of 3 = 50%. Ran speed box squats at 135 (worked well). Subbed DB shrugs for lawnmowers — good trap/upper-back thickness, adding as a rotation variation going forward.
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|

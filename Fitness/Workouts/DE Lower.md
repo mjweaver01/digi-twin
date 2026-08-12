@@ -8,13 +8,13 @@
 > Percentages are worthless off a stale max. If a recent ME top set moved easily, **estimate up** and note it — don't wave off an old number. Retest when a lift feels obviously light.
 
 ## Speed Box Squats
-10–12 x 2 — **wave the bar weight on a 3-week pendulum + band tension**
-- **Week 1 = 50%, Week 2 = 55%, Week 3 = 60%** of current ME box squat, then reset
+10–12 x 2 — **wave the bar weight on a 3-session pendulum**
+- **Wave 1 = 50%, Wave 2 = 55%, Wave 3 = 60%** of current ME box squat, then reset
 - Sit back onto bench, pause, explode up
 - 45–60s rest
 
 ## Speed Deadlifts
-6–8 x 1 — same 3-week wave (**~50/55/60%**) + band tension
+6–8 x 1 — same 3-session wave (**~50/55/60%**) + band tension
 - Full reset each rep, explosive pull
 - 45–60s rest
 
@@ -38,7 +38,7 @@
 | **Posterior chain** (hinge) | Stiff-Leg / Snatch-Grip RDL | Good Mornings | 3–4 x 8–10 |
 | **Upper back** (pull) | Lawnmowers | Barbell Rows **or** Pull-ups | 4 x 8–12 |
 | **Arms** ⭐ (two allowed) | DB Curls + Hammer Curls | EZ Bar Curls + Cross-Body Hammer Curls | 3 x 10–12 / 3 x 12–15 |
-| **Core** | Toes-to-Bar | Hanging Leg Raises **or** Weighted Sit-ups | 3 x 10–15 |
+| **Core** | Toes-to-Bar | Toes-to-Bar (weighted, or slower tempo) | 3 x 10–15 |
 
 Plus **Band Pull-Aparts / Face Pulls 3 x 20** — shoulder health, trivial cost, doesn't count toward the four.
 
@@ -52,6 +52,6 @@ Things that look like different exercises but do the same job. Never stack these
 *(Anti-movement core — dead bugs, Pallof, planks — was a July 2026 accommodation for a thoracic injury. Mike is healthy; default back to loaded flexion.)*
 
 ### ⛔ Do not program
-Banded leg curls · Nordic curls · slider curls · back raises / bench back extensions · farmer's & suitcase carries · Bulgarian split squats · preacher curls — Mike dislikes these.
+Banded leg curls · Nordic curls · slider curls · back raises / bench back extensions · hanging leg raises · farmer's & suitcase carries · Bulgarian split squats · preacher curls — Mike dislikes these.
 
 **Rest:** 45–60s on speed sets, 60–90s on accessories

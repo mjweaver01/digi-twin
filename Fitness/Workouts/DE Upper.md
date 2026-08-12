@@ -5,9 +5,9 @@
 > Accommodating resistance is the textbook mechanism of DE work, but **Mike dislikes banded barbell work — don't prescribe it as mandatory.** Straight-weight speed work is legitimate (it's how DE started). Without bands, **bar speed is the governor**: when speed visibly drops, the set is over regardless of the plan.
 
 ## Speed Bench Press
-9 x 3 — **wave the bar weight on a 3-week pendulum**
-- **Week 1 = 50%, Week 2 = 55%, Week 3 = 60%** of current ME bench, then reset to Week 1
-- Reference: bench 205 → ~105 / 115 / 125 lbs across the 3 weeks
+9 x 3 — **wave the bar weight on a 3-session pendulum**
+- **Wave 1 = 50%, Wave 2 = 55%, Wave 3 = 60%** of current ME bench, then reset to Wave 1
+- Reference: bench 205 → ~105 / 115 / 125 lbs across the 3 sessions
 - Max speed off the chest — the bar weight is light, speed is everything
 - Rotate grip: close / medium / wide (3 sets each)
 - 45–60s rest between sets

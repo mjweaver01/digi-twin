@@ -48,7 +48,7 @@ Ramp slowly. If form breaks down, drop weight. (Watch the forward lean / bar pat
 | **Posterior chain** (hinge) | Stiff-Leg / Snatch-Grip RDL **or** Good Mornings | 3–4 x 8–10 |
 | **Upper back / delts** | **Lawnmowers** (preferred) **or** Barbell Rows **or** Pull-ups **or** Arnold Press | 4 x 10–12 |
 | **Arms** ⭐ | **Two curl variations allowed** — one supinated (DB or EZ Bar Curls, 3 x 10–12) + Hammer Curls (3 x 12–15). Different elbow flexors, low systemic cost | see options |
-| **Core** | **Toes-to-Bar** (preferred) **or** Hanging Leg Raises **or** Weighted Sit-ups | 3 x 10–15 |
+| **Core** | **Toes-to-Bar** — always. Vary by adding weight or slowing the tempo, not by swapping the movement | 3 x 10–15 |
 
 Plus **Band Pull-Aparts / Face Pulls 3 x 20** — shoulder health, trivial cost, doesn't count toward the four.
 
@@ -60,6 +60,6 @@ Things that look like different exercises but do the same job. Never stack these
 - **Trunk** — carries, planks, dead bugs, Pallof. One block only.
 
 ### ⛔ Do not program
-Banded leg curls · Nordic curls · slider curls · back raises / bench back extensions · farmer's & suitcase carries · Bulgarian split squats · preacher curls — Mike dislikes these.
+Banded leg curls · Nordic curls · slider curls · back raises / bench back extensions · hanging leg raises · farmer's & suitcase carries · Bulgarian split squats · preacher curls — Mike dislikes these.
 
 **Rest:** 3–5 min on ME sets, 60–90s on accessories
