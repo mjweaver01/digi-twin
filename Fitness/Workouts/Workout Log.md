@@ -1,5 +1,50 @@
 # Workout Log
 
+## 2026-08-15 — ME Lower (Front Squat)
+
+**Feel:** —
+**Notes:** New ME rotation — front squat, first time as the max-effort lift. Last five ME Lower lifts were conventional (7/13), box squat (7/19), sumo (7/26), box squat (8/3), deficit DL (8/9), so this is genuinely fresh. **This one targets your forward-lean habit directly** — the front rack won't let you tip forward without dumping the bar, so it's diagnostic as well as a lift.
+
+Rack position first: elbows high, bar resting on the front delts (not the wrists), fingertips under the bar is fine. Ramp conservatively — front squat usually lands ~70–80% of back/box squat, but technique is the limiter the first time, not strength. Establish a baseline around 185, don't chase it.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Front Squat (work up to heavy triple) | Ramp → top triple | 45 / 95 / 135 / 165 / **185 x3** | Elbows high, upright torso. Stop the moment the elbows drop or the chest caves |
+| Good Mornings | 3–4 x 8–10 | **115 lbs** | ESTIMATE — ~38% of DL. Hinge, soft knees |
+| Barbell Rows | 4 x 8–12 | **135 lbs** | Back thickness |
+| EZ Bar Curls | 3 x 10–12 | **65 lbs** | Strict, no swing |
+| Cross-Body Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Across the chest |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+| Toes-to-Bar | 3 x 10–15 | BW | Full ROM |
+
+---
+
+## 2026-08-14 — DE Upper (Wave 3 of 3 — 60%)
+
+**Feel:** —
+**Notes:** Upper day, alternating off Wednesday's DE Lower. **Closes the upper wave** — position 3 of 3 = 60% of 205 ≈ 125. Straight weight, no bands. Max acceleration off the chest; rotate grip close/medium/wide, 3 sets each. **Bar speed governs** — when speed drops, the set is done. Next DE Upper resets to Wave 1 (50%), recalculated off whatever the bench is by then.
+
+Accessories picked by longest gap — nothing repeats from 8/11 or 8/12.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Bench Press | 9 x 3 | **125 lbs** | 60% of 205. Rotate grip: 3 close / 3 medium / 3 wide. 45–60s rest |
+| Pull-ups / Chin-ups | 4 x 6–12 | BW or weighted | Vertical pull — add weight if 12 is easy |
+| Arnold Press | 4 x 10–12 | 35 lb DBs | Delts |
+| EZ Bar Skull Crushers | 3 x 8–12 | **55 lbs** | ESTIMATE — tricep mass, elbows tight |
+| DB Curls | 3 x 10–12 | 25–35 lb DBs | Supinated |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Neutral grip |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+
+---
+
+## 2026-08-13 — Rest Day
+
+**Feel:** —
+**Notes:** Rest day.
+
+---
+
 ## 2026-08-12 — DE Lower (Wave 2 of 3 — 55%)
 
 **Feel:** —

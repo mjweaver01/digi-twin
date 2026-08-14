@@ -47,7 +47,7 @@ The speed wave is a **3-session pendulum** — 50% → 55% → 60% of the curren
 
 | Wave | Last session | Position used | Next session is |
 |---|---|---|---|
-| **DE Upper** | 2026-08-08 | 2 of 3 (115) | **3 of 3 — 125**, then reset |
+| **DE Upper** | 2026-08-14 | 3 of 3 (125) | **Reset → Wave 1**, recalc off current bench |
 | **DE Lower** | 2026-08-12 | 2 of 3 (150 / 170) | **3 of 3 — 165 / 185**, then reset |
 
 > ⚠️ **Box squat max is an ESTIMATE (275), not tested.** Last real number was 255 (7/19), but 230x3 flew on 8/3. **Retest at the next ME Lower box squat** — it's due back in rotation ~8/24 — before resetting the lower wave.
