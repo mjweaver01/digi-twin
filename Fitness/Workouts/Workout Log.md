@@ -1,5 +1,33 @@
 # Workout Log
 
+## 2026-08-17 — ME Upper (Flat Bench — MAX ATTEMPT)
+
+**Feel:** —
+**Notes:** Upper day, alternating off Saturday's ME Lower. **This is a real max attempt, not a capped triple.** Flat bench hasn't been tested since 7/15 (205) — 33 days, well outside the 3-week rotation window, and everything since has been close-grip, floor press, incline, and OHP building around it. Aim 210+.
+
+Two reasons to test now: you're healthy and the back has been quiet for weeks, and the DE Upper wave just reset on 8/14 — it needs a current bench number to calculate Wave 1 off, otherwise the whole next cycle runs off a stale 205.
+
+Ramp in smaller jumps near the top. Keep Valsalva moderate. Stop at form breakdown — a failed grind is worth less than a clean 210.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Bench Press (work up to a max single) | Ramp → top single | 45 / 95 / 135 / 165 / 185 / 200 / **210+** | Push past 205 (7/15). Small jumps at the top |
+| Lawnmowers | 4 x 10 | 35 lb DB | Single-arm, brace hard |
+| DB Incline Press | 4 x 10–12 | 35 lb DBs | Upper chest |
+| JM Press | 3 x 8–10 | **65 lbs** | ESTIMATE — tricep mass, bar to throat |
+| DB Curls | 3 x 10–12 | 25–35 lb DBs | Supinated |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Neutral grip |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+
+---
+
+## 2026-08-16 — Rest Day
+
+**Feel:** —
+**Notes:** Rest day after 8/14–8/15.
+
+---
+
 ## 2026-08-15 — ME Lower (Front Squat)
 
 **Feel:** —
