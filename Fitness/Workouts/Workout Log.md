@@ -1,11 +1,11 @@
 # Workout Log
 
-## 2026-08-18 — DE Lower (Wave 3 of 3 — 60%)
+## 2026-08-19 — DE Lower (Wave 3 of 3 — 60%)
 
 **Feel:** —
-**Notes:** Lower day, alternating off yesterday's bench max. **Closes the lower wave** — position 3 of 3 = 60%. Box squats 165 (60% of est. 275), speed deadlifts 185 (60% of 305). Straight weight, no bands. Normal stance this time (8/12 was wide). **Bar speed governs** — when speed drops, the set is done.
+**Notes:** Lower day — pushed from 8/18 (mowed the lawn instead). **Closes the lower wave** — position 3 of 3 = 60%. Box squats 165 (60% of est. 275), speed deadlifts 185 (60% of 305). Straight weight, no bands. Normal stance this time (8/12 was wide). **Bar speed governs** — when speed drops, the set is done.
 
-Accessories picked by longest gap — nothing repeats from yesterday.
+Extra day off the 8/17 bench max, so bar speed should be good.
 
 ⚠️ **After this session the lower wave resets** and needs a real box squat number. It's been running on an estimated 275 since 8/5; last tested was 255 (7/19). Box squat comes back into ME rotation after 8/24 — test it then before recalculating.
 
@@ -19,6 +19,13 @@ Accessories picked by longest gap — nothing repeats from yesterday.
 | Cross-Body Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Across the chest |
 | Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
 | Toes-to-Bar | 3 x 10–15 | BW | Full ROM |
+
+---
+
+## 2026-08-18 — Active Recovery (Mowed Lawn)
+
+**Feel:** —
+**Notes:** Mowed the lawn — counts as active recovery. DE Lower pushed to 8/19.
 
 ---
 
