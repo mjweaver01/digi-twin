@@ -36,18 +36,20 @@ status: current
 
 The speed wave is a **3-session pendulum** — 50% → 55% → 60% of the current max, then reset to 50% and recalculate off any new PRs. **Position advances per DE session of that type, not per calendar week.** Upper and lower run independent waves.
 
-| Wave position | Speed Bench (of 205) | Speed Box Squat (of est. 275) | Speed Deadlift (of 305) |
+| Wave position | Speed Bench (of **215**) | Speed Box Squat (of est. 275) | Speed Deadlift (of 305) |
 |---|---|---|---|
-| **1** — 50% | 105 | 140 | 150 |
-| **2** — 55% | 115 | 150 | 170 |
-| **3** — 60% | 125 | 165 | 185 |
+| **1** — 50% | **110** | 140 | 150 |
+| **2** — 55% | **120** | 150 | 170 |
+| **3** — 60% | **130** | 165 | 185 |
 | → reset | recalc off new bench | recalc off **tested** box squat | recalc off new DL |
+
+*Speed bench recalculated off the 215 PR (8/17), up from the 205 basis.*
 
 ### Current position
 
 | Wave | Last session | Position used | Next session is |
 |---|---|---|---|
-| **DE Upper** | 2026-08-14 | 3 of 3 (125) | **Reset → Wave 1**, recalc off current bench |
+| **DE Upper** | 2026-08-14 | 3 of 3 (125) | **Wave 1 — 110** (recalculated off 215) |
 | **DE Lower** | 2026-08-12 | 2 of 3 (150 / 170) | **3 of 3 — 165 / 185**, then reset |
 
 > ⚠️ **Box squat max is an ESTIMATE (275), not tested.** Last real number was 255 (7/19), but 230x3 flew on 8/3. **Retest at the next ME Lower box squat** — it's due back in rotation ~8/24 — before resetting the lower wave.

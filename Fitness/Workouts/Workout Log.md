@@ -1,5 +1,27 @@
 # Workout Log
 
+## 2026-08-18 — DE Lower (Wave 3 of 3 — 60%)
+
+**Feel:** —
+**Notes:** Lower day, alternating off yesterday's bench max. **Closes the lower wave** — position 3 of 3 = 60%. Box squats 165 (60% of est. 275), speed deadlifts 185 (60% of 305). Straight weight, no bands. Normal stance this time (8/12 was wide). **Bar speed governs** — when speed drops, the set is done.
+
+Accessories picked by longest gap — nothing repeats from yesterday.
+
+⚠️ **After this session the lower wave resets** and needs a real box squat number. It's been running on an estimated 275 since 8/5; last tested was 255 (7/19). Box squat comes back into ME rotation after 8/24 — test it then before recalculating.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Box Squats — normal stance | 10–12 x 2 | **165 lbs** | 60% of est. 275. Sit back, pause, explode up. 45–60s rest |
+| Speed Deadlifts | 6–8 x 1 | **185 lbs** | 60% of 305. Full reset each rep, explosive pull. 45–60s rest |
+| Stiff-Leg / Snatch-Grip RDL | 3–4 x 8–10 | **185 lbs** | ESTIMATE — push the stretch. Log what you actually use |
+| Pull-ups / Chin-ups | 4 x 6–12 | BW or weighted | Vertical pull — add weight if 12 is easy |
+| EZ Bar Curls | 3 x 10–12 | **65 lbs** | Strict, no swing |
+| Cross-Body Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Across the chest |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+| Toes-to-Bar | 3 x 10–15 | BW | Full ROM |
+
+---
+
 ## 2026-08-17 — ME Upper (Flat Bench — MAX ATTEMPT)
 
 **Feel:** —
@@ -11,7 +33,7 @@ Ramp in smaller jumps near the top. Keep Valsalva moderate. Stop at form breakdo
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
-| Bench Press (work up to a max single) | Ramp → top single | 45 / 95 / 135 / 165 / 185 / 200 / **210+** | Push past 205 (7/15). Small jumps at the top |
+| Bench Press (work up to a max single) | Ramp → top single | 45 / 95 / 135 / 165 / 185 / 200 / **215 (PR)** | New PR — +10 from 205 (7/15) |
 | Lawnmowers | 4 x 10 | 35 lb DB | Single-arm, brace hard |
 | DB Incline Press | 4 x 10–12 | 35 lb DBs | Upper chest |
 | JM Press | 3 x 8–10 | **65 lbs** | ESTIMATE — tricep mass, bar to throat |
@@ -37,7 +59,7 @@ Rack position first: elbows high, bar resting on the front delts (not the wrists
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
-| Front Squat (work up to heavy triple) | Ramp → top triple | 45 / 95 / 135 / 165 / **185 x3** | Elbows high, upright torso. Stop the moment the elbows drop or the chest caves |
+| Front Squat (work up to heavy triple) | Ramp → top triple | 45 / 95 / 135 / 165 / **185 x3 ✓** | Hit exactly as programmed. First tracked front squat — baseline set |
 | Good Mornings | 3–4 x 8–10 | **115 lbs** | ESTIMATE — ~38% of DL. Hinge, soft knees |
 | Barbell Rows | 4 x 8–12 | **135 lbs** | Back thickness |
 | EZ Bar Curls | 3 x 10–12 | **65 lbs** | Strict, no swing |
