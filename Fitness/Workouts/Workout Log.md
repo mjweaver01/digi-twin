@@ -1,5 +1,24 @@
 # Workout Log
 
+## 2026-08-20 — DE Upper (Wave 1 of 3 — 50%, new cycle)
+
+**Feel:** —
+**Notes:** Upper day, alternating off yesterday's DE Lower. **New wave starts** — pendulum resets to position 1 of 3 = 50%, recalculated off the new **215** bench PR ≈ 110 (up from the old 105 basis). Straight weight, no bands. Light by design — max acceleration off the chest, rotate grip close/medium/wide, 3 sets each. **Bar speed governs.**
+
+Rest day tomorrow (8/21) closes the block.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Bench Press | 9 x 3 | **110 lbs** | 50% of 215. Rotate grip: 3 close / 3 medium / 3 wide. 45–60s rest |
+| Barbell Rows | 4 x 8–12 | **135 lbs** | Back thickness |
+| Arnold Press | 4 x 10–12 | 35 lb DBs | Delts |
+| Dips | 3 x 8–15 | BW (weighted if easy) | Chest/tricep mass — new to the rotation |
+| DB Curls | 3 x 10–12 | 25–35 lb DBs | Supinated |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Neutral grip |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+
+---
+
 ## 2026-08-19 — DE Lower (Wave 3 of 3 — 60%)
 
 **Feel:** —
