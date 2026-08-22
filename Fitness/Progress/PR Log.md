@@ -9,7 +9,7 @@
 | Lift | PR | Date |
 |---|---|---|
 | Bench Press | 215 | 2026-08-17 |
-| Incline Bench | 165 | 2026-07-21 |
+| Incline Bench | 165 | 2026-07-21 | *(angle not recorded)* |
 | Floor Press | 170 | 2026-07-05 |
 | Box Squat | 255 | 2026-07-19 |
 | Conventional Deadlift | 305 | 2026-07-13 |

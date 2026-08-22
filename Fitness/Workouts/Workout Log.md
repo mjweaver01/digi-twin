@@ -1,32 +1,13 @@
 # Workout Log
 
-## 2026-08-23 — ME Upper (Incline Bench)
+## 2026-08-24 — ME Lower (Box Squat — MAX TEST)
 
 **Feel:** —
-**Notes:** Upper day, alternating off Saturday's box squat test. ME rotation moves to incline — last run 7/21 at 165, which is 33 days ago and well outside the window. That number is stale: flat bench went 205 → 215 in the meantime, so expect to beat it comfortably. Aim 175+.
+**Notes:** **The box squat retest**, moved from 8/22. This is the number the lower speed wave has been waiting on — it's been running off an estimated 275 since 8/5, while the last real test was 255 on 7/19. The wave reset after 8/19 and can't recalculate until this is tested.
 
-Second day of the block — rest Monday 8/24.
+Bonus of the reschedule: last box squat was 8/3, so this lands exactly 21 days later — fully inside the 3-week rotation rule instead of 2 days early.
 
-| Exercise | Sets x Reps | Weight | Notes |
-|---|---|---|---|
-| Incline Bench Press (work up to heavy triple) | Ramp → top triple | 45 / 95 / 135 / 155 / **175 x3** | Push past 165 (7/21). Stop at form breakdown |
-| Pull-ups / Chin-ups | 4 x 6–12 | BW or weighted | Vertical pull |
-| Flat DB Press | 4 x 10–12 | 35 lb DBs | Different angle from the ME lift |
-| EZ Bar Skull Crushers | 3 x 8–12 | **55 lbs** | ESTIMATE — elbows tight, full stretch |
-| DB Curls | 3 x 10–12 | 25–35 lb DBs | Supinated |
-| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Neutral grip |
-| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
-
----
-
-## 2026-08-22 — ME Lower (Box Squat — MAX TEST)
-
-**Feel:** —
-**Notes:** **The box squat retest.** This is the number the lower speed wave has been waiting on — it's been running off an estimated 275 since 8/5, while the last real test was 255 on 7/19. The wave reset after 8/19, so it can't recalculate until this is tested.
-
-Last box squat was 8/3 (19 days), so this is 2 days inside the normal 3-week rotation window. Worth the deviation — the estimate is doing too much work across every DE Lower session.
-
-230x3 moved very easily on 8/3, so a real max should land north of 275. Ramp in small jumps at the top, sit back onto the box, pause, explode. Watch the forward lean — brace hard and drive the upper back into the bar. Keep Valsalva moderate. Stop at form breakdown.
+230x3 moved very easily on 8/3, so a real max should land north of 275. Ramp in small jumps at the top, sit back onto the box, pause, explode. Watch the forward lean — brace hard, drive the upper back into the bar. Keep Valsalva moderate. Stop at form breakdown.
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
@@ -37,6 +18,30 @@ Last box squat was 8/3 (19 days), so this is 2 days inside the normal 3-week rot
 | Cross-Body Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Across the chest |
 | Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
 | Toes-to-Bar | 3 x 10–15 | BW | Full ROM |
+
+---
+
+## 2026-08-23 — Rest Day (Baby Shower)
+
+**Feel:** —
+**Notes:** Baby shower — assuming no training. Box squat test pushed to 8/24.
+
+---
+
+## 2026-08-22 — ME Upper (Incline Bench)
+
+**Feel:** —
+**Notes:** Swapped in for the box squat, which moved to 8/24. ME rotation moves to incline — last run 7/21 at 165, 32 days ago and well outside the window. That number is stale: flat bench went 205 → 215 in the meantime, so expect to beat it comfortably. Aim 175+.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Incline Bench Press (work up to heavy triple) | Ramp → top triple | 45 / 95 / 135 / 155 / **175 x3** | **Angle: 30°** (record actual: ____). Push past 165 (7/21). Stop at form breakdown |
+| Pull-ups / Chin-ups | 4 x 6–12 | BW or weighted | Vertical pull |
+| Flat DB Press | 4 x 10–12 | 35 lb DBs | Different angle from the ME lift |
+| EZ Bar Skull Crushers | 3 x 8–12 | **55 lbs** | ESTIMATE — elbows tight, full stretch |
+| DB Curls | 3 x 10–12 | 25–35 lb DBs | Supinated |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Neutral grip |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
 
 ---
 

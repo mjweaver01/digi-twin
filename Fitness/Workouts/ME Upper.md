@@ -12,7 +12,7 @@
 | Variation | Targets | Setup notes |
 |---|---|---|
 | Flat Bench | Baseline / overall | Standard competition-style |
-| Incline Bench | Upper chest, shoulder | Adjustable bench |
+| Incline Bench | Upper chest, shoulder | **Default 30°** — always record the angle. 30–45° is the useful range; past 45° the front delts take over and it becomes a seated press. A shallower bench inflates the number, so angle must be logged or top sets aren't comparable |
 | Floor Press | Lockout, dead-stop strength | Dead-stop each rep, elbows ~45°, hips flat |
 | **Close-Grip Bench** | Triceps, lockout | Hands ~shoulder width, elbows tucked |
 | **Board Press** (1/2/3 board) | Specific sticking point | DIY boards — cheap; pick height matching the sticking point |
