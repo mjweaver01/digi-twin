@@ -9,7 +9,7 @@
 
 ## Speed Box Squats
 10–12 x 2 — **wave the bar weight on a 3-session pendulum**
-- **Wave 1 = 50%, Wave 2 = 55%, Wave 3 = 60%** of current ME box squat, then reset
+- **Wave 1 = 50%, Wave 2 = 55%, Wave 3 = 60%** of current ME box squat (**285** as of 8/24 → 145 / 155 / 170), then reset
 - Sit back onto bench, pause, explode up
 - 45–60s rest
 

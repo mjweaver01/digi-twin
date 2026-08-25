@@ -9,9 +9,9 @@
 | Lift | PR | Date |
 |---|---|---|
 | Bench Press | 215 | 2026-08-17 |
-| Incline Bench | 165 | 2026-07-21 | *(angle not recorded)* |
+| Incline Bench | 175 | 2026-08-22 | *(30°)* |
 | Floor Press | 170 | 2026-07-05 |
-| Box Squat | 255 | 2026-07-19 |
+| Box Squat | 285 | 2026-08-24 |
 | Conventional Deadlift | 305 | 2026-07-13 |
 | Sumo Deadlift | 285 | 2026-07-26 |
 | Deficit Deadlift | 255x3 | 2026-08-09 |
@@ -23,6 +23,8 @@
 
 | Date | Lift | Weight | Notes |
 |---|---|---|---|
+| 2026-08-24 | Box Squat | 285 | +30 from 255 (7/19). Replaces the 275 estimate the DE wave was running on |
+| 2026-08-22 | Incline Bench | 175 | +10 from 165 (7/21). First incline with angle recorded (30°) |
 | 2026-08-17 | Bench Press | 215 | +10 from 205 (7/15) |
 | 2026-08-15 | Front Squat | 185x3 | First tracked front squat — hit exactly as programmed |
 | 2026-08-09 | Deficit Deadlift | 255x3 | First tracked deficit deadlift — 1–2" off a 45 |

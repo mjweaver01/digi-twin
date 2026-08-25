@@ -36,23 +36,23 @@ status: current
 
 The speed wave is a **3-session pendulum** — 50% → 55% → 60% of the current max, then reset to 50% and recalculate off any new PRs. **Position advances per DE session of that type, not per calendar week.** Upper and lower run independent waves.
 
-| Wave position | Speed Bench (of **215**) | Speed Box Squat (of est. 275) | Speed Deadlift (of 305) |
+| Wave position | Speed Bench (of **215**) | Speed Box Squat (of **285**) | Speed Deadlift (of 305) |
 |---|---|---|---|
-| **1** — 50% | **110** | 140 | 150 |
-| **2** — 55% | **120** | 150 | 170 |
-| **3** — 60% | **130** | 165 | 185 |
-| → reset | recalc off new bench | recalc off **tested** box squat | recalc off new DL |
+| **1** — 50% | **110** | **145** | 150 |
+| **2** — 55% | **120** | **155** | 170 |
+| **3** — 60% | **130** | **170** | 185 |
+| → reset | recalc off new bench | recalc off new box squat | recalc off new DL |
 
-*Speed bench recalculated off the 215 PR (8/17), up from the 205 basis.*
+*Speed bench recalculated off the 215 PR (8/17). Speed box squat recalculated off the **tested 285** (8/24) — no longer an estimate.*
 
 ### Current position
 
 | Wave | Last session | Position used | Next session is |
 |---|---|---|---|
-| **DE Upper** | 2026-08-20 | 1 of 3 (110, off new 215) | **2 of 3 — 120** |
-| **DE Lower** | 2026-08-19 | 3 of 3 (165 / 185) | **Reset → Wave 1.** ⚠️ Test the box squat first — still running on est. 275 vs 255 tested (7/19) |
+| **DE Upper** | 2026-08-25 | 2 of 3 (120) | **3 of 3 — 130**, then reset |
+| **DE Lower** | 2026-08-19 | 3 of 3 (165 / 185) | **Wave 1 — 145 / 150** (box squat now tested at 285) |
 
-> ⚠️ **Box squat max is an ESTIMATE (275), not tested.** Last real number was 255 (7/19), but 230x3 flew on 8/3. **Retest at the next ME Lower box squat** — it's due back in rotation ~8/24 — before resetting the lower wave.
+✅ **All three speed lifts now run off tested maxes** — bench 215 (8/17), box squat 285 (8/24), deadlift 305 (7/13). No estimates in the wave.
 
 ### EZ Bar
 *Assumes EZ bar ≈ 20 lbs — **confirm this**, it changes every number below.*

@@ -1,5 +1,24 @@
 # Workout Log
 
+## 2026-08-25 — DE Upper (Wave 2 of 3 — 55%)
+
+**Feel:** —
+**Notes:** Upper day, alternating off yesterday's box squat max. Wave position 2 of 3 = 55% of 215 ≈ 120. Straight weight, no bands. Max acceleration off the chest; rotate grip close/medium/wide, 3 sets each. **Bar speed governs** — when speed drops, the set is done.
+
+Second day of the block — rest tomorrow (8/26). Accessories picked by longest gap; nothing repeats from 8/22 or 8/24.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Bench Press | 9 x 3 | **120 lbs** | 55% of 215. Rotate grip: 3 close / 3 medium / 3 wide. 45–60s rest |
+| Barbell Rows | 4 x 8–12 | **135 lbs** | Back thickness |
+| DB Incline Press | 4 x 10–12 | 35 lb DBs | Upper chest |
+| JM Press | 3 x 8–10 | **65 lbs** | ESTIMATE — bar to throat, elbows forward |
+| DB Curls | 3 x 10–12 | 25–35 lb DBs | Supinated |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Neutral grip |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+
+---
+
 ## 2026-08-24 — ME Lower (Box Squat — MAX TEST)
 
 **Feel:** —
@@ -11,7 +30,7 @@ Bonus of the reschedule: last box squat was 8/3, so this lands exactly 21 days l
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
-| Box Squat (work up to a max single) | Ramp → top single | 45 / 135 / 185 / 225 / 255 / **275+** | Real max attempt. Push past 255 (7/19). Small jumps at the top |
+| Box Squat (work up to a max single) | Ramp → top single | 45 / 135 / 185 / 225 / 255 / **285 (PR)** | New PR — +30 from 255 (7/19). Beat the 275 estimate the wave was running on |
 | Good Mornings | 3–4 x 8–10 | **115 lbs** | ESTIMATE — hinge, soft knees |
 | Lawnmowers | 4 x 10 | 35 lb DB | Single-arm, brace hard |
 | EZ Bar Curls | 3 x 10–12 | **65 lbs** | Strict, no swing |
@@ -35,7 +54,7 @@ Bonus of the reschedule: last box squat was 8/3, so this lands exactly 21 days l
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
-| Incline Bench Press (work up to heavy triple) | Ramp → top triple | 45 / 95 / 135 / 155 / **175 x3** | **Angle: 30°** (record actual: ____). Push past 165 (7/21). Stop at form breakdown |
+| Incline Bench Press (work up to heavy triple) | Ramp → top triple | 45 / 95 / 135 / 155 / **175 (PR)** | **Angle: 30°**. New PR — +10 from 165 (7/21) |
 | Pull-ups / Chin-ups | 4 x 6–12 | BW or weighted | Vertical pull |
 | Flat DB Press | 4 x 10–12 | 35 lb DBs | Different angle from the ME lift |
 | EZ Bar Skull Crushers | 3 x 8–12 | **55 lbs** | ESTIMATE — elbows tight, full stretch |
