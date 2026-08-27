@@ -1,5 +1,78 @@
 # Workout Log
 
+## 2026-08-30 — ME Lower (Conventional Deadlift — MAX TEST)
+
+**Feel:** —
+**Notes:** **Conventional deadlift retest.** 305 from 7/13 is now the stalest number on the board — 48 days, while box squat climbed 255 → 285 and bench went 205 → 215 in the same window. It's also the basis for every speed deadlift, so the whole lower wave is running off a number from a month and a half ago. Aim 315+.
+
+Ramp in small jumps at the top. Full reset each rep — no touch-and-go on the heavy sets. Keep Valsalva moderate. Stop at form breakdown; a clean 315 beats a failed grind at 325.
+
+**No hinge accessory today** — the ME lift is already a maximal hinge. Per the redundancy rule, stacking good mornings or RDLs on top of a deadlift max is exactly the mistake to avoid.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Conventional Deadlift (work up to a max single) | Ramp → top single | 135 / 185 / 225 / 265 / 295 / **315+** | Real max attempt. Push past 305 (7/13). Small jumps at the top |
+| Barbell Rows | 4 x 8–12 | **135 lbs** | Back thickness |
+| EZ Bar Curls | 3 x 10–12 | **65 lbs** | Strict, no swing |
+| Cross-Body Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Across the chest |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+| Toes-to-Bar | 3 x 10–15 | BW | Full ROM |
+
+---
+
+## 2026-08-29 — Rest Day
+
+**Feel:** —
+**Notes:** Rest day after 8/27–8/28. Fresh for the deadlift test.
+
+---
+
+## 2026-08-28 — ME Upper (Larsen Press)
+
+**Feel:** —
+**Notes:** New ME rotation — Larsen press, first time running it. Feet up on the bench (or flat on the bench surface), which removes leg drive entirely and forces the chest and triceps to do all the work. Nothing repeats: incline was 8/22, bench 8/17, OHP 8/11, close-grip 8/6.
+
+Larsen usually runs ~85–90% of a normal bench, so ~180–190 off the 215 PR — but stability is the limiter the first time, not strength. Ramp to a controlled triple around 175 and establish the baseline. Keep the shoulder blades pinned; if the setup feels unstable, drop the weight rather than fighting it.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Larsen Press (work up to heavy triple) | Ramp → top triple | 45 / 95 / 135 / 155 / **175 x3** | Feet up — no leg drive. Establish the baseline, don't chase a number |
+| Lawnmowers | 4 x 10 | 35 lb DB | Single-arm, brace hard |
+| Arnold Press | 4 x 10–12 | 35 lb DBs | Delts |
+| Dips | 3 x 8–15 | BW (weighted if easy) | Chest/tricep mass |
+| DB Curls | 3 x 10–12 | 25–35 lb DBs | Supinated |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Neutral grip |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+
+---
+
+## 2026-08-27 — DE Lower (Wave 1 of 3 — 50%, new cycle)
+
+**Feel:** —
+**Notes:** Lower day, alternating off Tuesday's DE Upper. **New wave starts** — pendulum resets to position 1 of 3 = 50%, and for the first time the box squat percentage comes off a **tested** max (285, 8/24) instead of an estimate. Box squats 145, speed deadlifts 150. Straight weight, no bands. Wide stance this time (8/19 was normal). **Bar speed governs** — when speed drops, the set is done.
+
+Accessories picked by longest gap; nothing repeats from 8/24 or 8/25.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Box Squats — wide stance | 10–12 x 2 | **145 lbs** | 50% of tested 285. Sit back, pause, explode up. 45–60s rest |
+| Speed Deadlifts | 6–8 x 1 | **150 lbs** | 50% of 305. Full reset each rep, explosive pull. 45–60s rest |
+| Stiff-Leg / Snatch-Grip RDL | 3–4 x 8–10 | **185 lbs** | ESTIMATE — push the stretch. Log what you actually use |
+| Pull-ups / Chin-ups | 4 x 6–12 | BW or weighted | Vertical pull — add weight if 12 is easy |
+| EZ Bar Curls | 3 x 10–12 | **65 lbs** | Strict, no swing |
+| Cross-Body Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Across the chest |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+| Toes-to-Bar | 3 x 10–15 | BW | Full ROM |
+
+---
+
+## 2026-08-26 — Rest Day
+
+**Feel:** —
+**Notes:** Rest day after 8/24–8/25.
+
+---
+
 ## 2026-08-25 — DE Upper (Wave 2 of 3 — 55%)
 
 **Feel:** —
