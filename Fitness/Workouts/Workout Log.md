@@ -1,9 +1,9 @@
 # Workout Log
 
-## 2026-08-30 — ME Lower (Conventional Deadlift — MAX TEST)
+## 2026-08-31 — ME Lower (Conventional Deadlift — MAX TEST)
 
 **Feel:** —
-**Notes:** **Conventional deadlift retest.** 305 from 7/13 is now the stalest number on the board — 48 days, while box squat climbed 255 → 285 and bench went 205 → 215 in the same window. It's also the basis for every speed deadlift, so the whole lower wave is running off a number from a month and a half ago. Aim 315+.
+**Notes:** **Conventional deadlift retest**, pushed from 8/30 (worked on Harold's car instead). 305 from 7/13 is now the stalest number on the board — 49 days, while box squat climbed 255 → 285 and bench went 205 → 215 in the same window. It's also the basis for every speed deadlift, so the whole lower wave is running off a number from a month and a half ago. Aim 315+.
 
 Ramp in small jumps at the top. Full reset each rep — no touch-and-go on the heavy sets. Keep Valsalva moderate. Stop at form breakdown; a clean 315 beats a failed grind at 325.
 
@@ -17,6 +17,13 @@ Ramp in small jumps at the top. Full reset each rep — no touch-and-go on the h
 | Cross-Body Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Across the chest |
 | Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
 | Toes-to-Bar | 3 x 10–15 | BW | Full ROM |
+
+---
+
+## 2026-08-30 — No Training (Worked on Harold's Car)
+
+**Feel:** —
+**Notes:** Spent the day working on Harold's car — no training. Deadlift test pushed to 8/31. Two days off the bar (8/29 rest + 8/30) going into a max attempt, which is if anything better prep than one.
 
 ---
 
