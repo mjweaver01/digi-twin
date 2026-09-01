@@ -14,7 +14,7 @@
 - 45–60s rest
 
 ## Speed Deadlifts
-6–8 x 1 — same 3-session wave (**~50/55/60%**) + band tension
+6–8 x 1 — same 3-session wave (**~50/55/60%**) of the conventional deadlift (**325** as of 8/31 → 165 / 180 / 195)
 - Full reset each rep, explosive pull
 - 45–60s rest
 

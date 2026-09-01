@@ -36,23 +36,23 @@ status: current
 
 The speed wave is a **3-session pendulum** — 50% → 55% → 60% of the current max, then reset to 50% and recalculate off any new PRs. **Position advances per DE session of that type, not per calendar week.** Upper and lower run independent waves.
 
-| Wave position | Speed Bench (of **215**) | Speed Box Squat (of **285**) | Speed Deadlift (of 305) |
+| Wave position | Speed Bench (of **215**) | Speed Box Squat (of **285**) | Speed Deadlift (of **325**) |
 |---|---|---|---|
-| **1** — 50% | **110** | **145** | 150 |
-| **2** — 55% | **120** | **155** | 170 |
-| **3** — 60% | **130** | **170** | 185 |
+| **1** — 50% | **110** | **145** | **165** |
+| **2** — 55% | **120** | **155** | **180** |
+| **3** — 60% | **130** | **170** | **195** |
 | → reset | recalc off new bench | recalc off new box squat | recalc off new DL |
 
-*Speed bench recalculated off the 215 PR (8/17). Speed box squat recalculated off the **tested 285** (8/24) — no longer an estimate.*
+*All recalculated off tested maxes: bench 215 (8/17), box squat 285 (8/24), conventional deadlift 325 (8/31).*
 
 ### Current position
 
 | Wave | Last session | Position used | Next session is |
 |---|---|---|---|
 | **DE Upper** | 2026-08-25 | 2 of 3 (120) | **3 of 3 — 130**, then reset |
-| **DE Lower** | 2026-08-27 | 1 of 3 (145 / 150, off tested 285) | **2 of 3 — 155 / 170** |
+| **DE Lower** | 2026-08-27 | 1 of 3 (145 / 150) | **2 of 3 — 155 / 180** (speed deads up: 325 PR) |
 
-✅ **All three speed lifts now run off tested maxes** — bench 215 (8/17), box squat 285 (8/24), deadlift 305 (7/13). No estimates in the wave.
+✅ **All three speed lifts run off tested maxes** — bench 215 (8/17), box squat 285 (8/24), conventional deadlift 325 (8/31). No estimates in the wave.
 
 ### EZ Bar
 *Assumes EZ bar ≈ 20 lbs — **confirm this**, it changes every number below.*
@@ -84,7 +84,7 @@ Use these when a movement isn't in the table yet. Percentages are of the relevan
 | Movement type | % of main lift | Reference lift |
 |---|---|---|
 | Barbell Row (8–12) | 60–70% | Bench (205) |
-| RDL / Stiff-Leg (8–10) | 55–65% | Conventional DL (305) |
+| RDL / Stiff-Leg (8–10) | 55–65% | Conventional DL (325) |
 | Good Morning (8–10) | 30–40% | Conventional DL |
 | Overhead Press (3–5) | 55–65% | Bench |
 | Front Squat (3–5) | 80–85% | Back/Box Squat |

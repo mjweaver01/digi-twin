@@ -1,5 +1,31 @@
 # Workout Log
 
+## 2026-09-02 — DE Upper (Wave 3 of 3 — 60%)
+
+**Feel:** —
+**Notes:** Upper day — deliberately the lightest session in the rotation, coming off Monday's 325 deadlift max. **Closes the upper wave** — position 3 of 3 = 60% of 215 ≈ 130. Straight weight, no bands. Max acceleration off the chest; rotate grip close/medium/wide, 3 sets each. **Bar speed governs.**
+
+Next DE Upper resets to Wave 1 (110). Accessories picked by longest gap.
+
+| Exercise                      | Sets x Reps | Weight         | Notes                                                             |
+| ----------------------------- | ----------- | -------------- | ----------------------------------------------------------------- |
+| Speed Bench Press             | 9 x 3       | **130 lbs**    | 60% of 215. Rotate grip: 3 close / 3 medium / 3 wide. 45–60s rest |
+| Pull-ups / Chin-ups           | 4 x 6–12    | BW or weighted | Vertical pull                                                     |
+| Flat DB Press                 | 4 x 10–12   | 35 lb DBs      | Chest                                                             |
+| EZ Bar Skull Crushers         | 3 x 8–12    | **55 lbs**     | Elbows tight, full stretch                                        |
+| DB Curls                      | 3 x 10–12   | 25–35 lb DBs   | Supinated                                                         |
+| Hammer Curls                  | 3 x 12–15   | 25–35 lb DBs   | Neutral grip                                                      |
+| Band Pull-Aparts / Face Pulls | 3 x 20      | Band           | Shoulder health                                                   |
+
+---
+
+## 2026-09-01 — Rest Day
+
+**Feel:** —
+**Notes:** Rest after the 325 deadlift PR (8/31). Max pulls are the heaviest CNS cost in the program — no value in training the day after.
+
+---
+
 ## 2026-08-31 — ME Lower (Conventional Deadlift — MAX TEST)
 
 **Feel:** —
@@ -11,7 +37,7 @@ Ramp in small jumps at the top. Full reset each rep — no touch-and-go on the h
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
-| Conventional Deadlift (work up to a max single) | Ramp → top single | 135 / 185 / 225 / 265 / 295 / **315+** | Real max attempt. Push past 305 (7/13). Small jumps at the top |
+| Conventional Deadlift (work up to a max single) | Ramp → top single | 135 / 185 / 225 / 265 / 295 / **325 (PR)** | New PR — +20 from 305 (7/13) |
 | Barbell Rows | 4 x 8–12 | **135 lbs** | Back thickness |
 | EZ Bar Curls | 3 x 10–12 | **65 lbs** | Strict, no swing |
 | Cross-Body Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Across the chest |
@@ -43,7 +69,7 @@ Larsen usually runs ~85–90% of a normal bench, so ~180–190 off the 215 PR �
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
-| Larsen Press (work up to heavy triple) | Ramp → top triple | 45 / 95 / 135 / 155 / **175 x3** | Feet up — no leg drive. Establish the baseline, don't chase a number |
+| Larsen Press (work up to heavy triple) | Ramp → top triple | 45 / 95 / 135 / 155 / **175 x3 ✓** | Feet up — no leg drive. Hit exactly as programmed. First tracked Larsen — baseline set |
 | Lawnmowers | 4 x 10 | 35 lb DB | Single-arm, brace hard |
 | Arnold Press | 4 x 10–12 | 35 lb DBs | Delts |
 | Dips | 3 x 8–15 | BW (weighted if easy) | Chest/tricep mass |

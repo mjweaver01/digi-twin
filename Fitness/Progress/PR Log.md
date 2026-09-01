@@ -12,10 +12,11 @@
 | Incline Bench | 175 | 2026-08-22 | *(30°)* |
 | Floor Press | 170 | 2026-07-05 |
 | Box Squat | 285 | 2026-08-24 |
-| Conventional Deadlift | 305 | 2026-07-13 |
+| Conventional Deadlift | 325 | 2026-08-31 |
 | Sumo Deadlift | 285 | 2026-07-26 |
 | Deficit Deadlift | 255x3 | 2026-08-09 |
 | Front Squat | 185x3 | 2026-08-15 |
+| Larsen Press | 175x3 | 2026-08-28 |
 
 ---
 
@@ -23,6 +24,8 @@
 
 | Date | Lift | Weight | Notes |
 |---|---|---|---|
+| 2026-08-31 | Conventional Deadlift | 325 | +20 from 305 (7/13). Recalibrates every speed deadlift |
+| 2026-08-28 | Larsen Press | 175x3 | First tracked Larsen press — feet up, no leg drive |
 | 2026-08-24 | Box Squat | 285 | +30 from 255 (7/19). Replaces the 275 estimate the DE wave was running on |
 | 2026-08-22 | Incline Bench | 175 | +10 from 165 (7/21). First incline with angle recorded (30°) |
 | 2026-08-17 | Bench Press | 215 | +10 from 205 (7/15) |
