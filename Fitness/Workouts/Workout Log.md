@@ -1,5 +1,25 @@
 # Workout Log
 
+## 2026-09-03 — DE Lower (Wave 2 of 3 — 55%)
+
+**Feel:** —
+**Notes:** Lower day, alternating off yesterday's DE Upper. Wave position 2 of 3 = 55%. Box squats 155 (55% of 285), **speed deadlifts 180 — up from 170, first session off the new 325 PR**. Straight weight, no bands. Normal stance this time (8/27 was wide). **Bar speed governs** — when speed drops, the set is done.
+
+Second day of the block — rest tomorrow (9/4). Accessories picked by longest gap; nothing repeats from 8/31 or 9/2.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Box Squats — normal stance | 10–12 x 2 | **155 lbs** | 55% of 285. Sit back, pause, explode up. 45–60s rest |
+| Speed Deadlifts | 6–8 x 1 | **180 lbs** | 55% of 325. Full reset each rep, explosive pull. 45–60s rest |
+| Good Mornings | 3–4 x 8–10 | **125 lbs** | Bumped from 115 — ~38% of the new 325. Hinge, soft knees |
+| Lawnmowers | 4 x 10 | 35 lb DB | Single-arm, brace hard |
+| EZ Bar Curls | 3 x 10–12 | **25/side (65.5 total)** | EZ bar is 15.5 lbs. Strict, no swing |
+| Cross-Body Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Across the chest |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+| Toes-to-Bar | 3 x 10–15 | BW | Full ROM |
+
+---
+
 ## 2026-09-02 — DE Upper (Wave 3 of 3 — 60%)
 
 **Feel:** —

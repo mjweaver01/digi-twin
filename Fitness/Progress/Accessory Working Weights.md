@@ -21,14 +21,14 @@ status: current
 ### Barbell — Pulling
 | Exercise | Working weight | Reps | Basis |
 |---|---|---|---|
-| Barbell Rows | **135** | 4 x 8–12 | ESTIMATE — ~65% of bench (205) |
-| Stiff-Leg / Snatch-Grip RDL | **185** | 3–4 x 8–10 | ESTIMATE — ~60% of conventional DL (305) |
-| Good Mornings | **115** | 3–4 x 8–10 | ESTIMATE — ~35–40% of conventional DL |
+| Barbell Rows | **140** | 4 x 8–12 | ESTIMATE — ~65% of bench (215) |
+| Stiff-Leg / Snatch-Grip RDL | **195** | 3–4 x 8–10 | ESTIMATE — ~60% of conventional DL (325) |
+| Good Mornings | **125** | 3–4 x 8–10 | ESTIMATE — ~38% of conventional DL (325) |
 
 ### Barbell — Pressing
 | Exercise | Working weight | Reps | Basis |
 |---|---|---|---|
-| Overhead Press | **125** | top triple | ESTIMATE — ~60% of bench |
+| Overhead Press | **130** | top triple | ESTIMATE — ~60% of bench (215) |
 
 ---
 
@@ -49,20 +49,22 @@ The speed wave is a **3-session pendulum** — 50% → 55% → 60% of the curren
 
 | Wave | Last session | Position used | Next session is |
 |---|---|---|---|
-| **DE Upper** | 2026-08-25 | 2 of 3 (120) | **3 of 3 — 130**, then reset |
-| **DE Lower** | 2026-08-27 | 1 of 3 (145 / 150) | **2 of 3 — 155 / 180** (speed deads up: 325 PR) |
+| **DE Upper** | 2026-09-02 | 3 of 3 (130) | **Reset → Wave 1 — 110** |
+| **DE Lower** | 2026-09-03 | 2 of 3 (155 / 180) | **3 of 3 — 170 / 195** |
 
 ✅ **All three speed lifts run off tested maxes** — bench 215 (8/17), box squat 285 (8/24), conventional deadlift 325 (8/31). No estimates in the wave.
 
 ### EZ Bar
-*Assumes EZ bar ≈ 20 lbs — **confirm this**, it changes every number below.*
+**EZ bar = 15.5 lbs** (confirmed 2026-09-03). Loadable in 5 lb pairs (2.5s if available), so achievable totals are 15.5 / 25.5 / 35.5 / 45.5 / 55.5 / 65.5 …
 
-| Exercise | Working weight | Reps | Basis |
-|---|---|---|---|
-| EZ Bar Curls | **65** (bar + 22.5/side) | 3 x 10–12 | ESTIMATE |
-| EZ Bar Skull Crushers | **55** (bar + 17.5/side) | 3 x 8–12 | ESTIMATE |
-| JM Press | **65** (bar + 22.5/side) | 3 x 8–10 | ESTIMATE |
-| EZ Bar Reverse Curls | **45** (bar + 12.5/side) | 3 x 10–12 | ESTIMATE |
+| Exercise | Target total | Plates per side | Reps | Basis |
+|---|---|---|---|---|
+| EZ Bar Curls | **65.5** | 25 | 3 x 10–12 | ESTIMATE |
+| EZ Bar Skull Crushers | **55.5** | 20 | 3 x 8–12 | ESTIMATE |
+| JM Press | **65.5** | 25 | 3 x 8–10 | ESTIMATE |
+| EZ Bar Reverse Curls | **45.5** | 15 | 3 x 10–12 | ESTIMATE |
+
+*Prescribe by plates-per-side, not total — the 15.5 bar makes round totals impossible.*
 
 ### Dumbbell / Bodyweight
 | Exercise | Working weight | Reps | Basis |
@@ -83,7 +85,7 @@ Use these when a movement isn't in the table yet. Percentages are of the relevan
 
 | Movement type | % of main lift | Reference lift |
 |---|---|---|
-| Barbell Row (8–12) | 60–70% | Bench (205) |
+| Barbell Row (8–12) | 60–70% | Bench (215) |
 | RDL / Stiff-Leg (8–10) | 55–65% | Conventional DL (325) |
 | Good Morning (8–10) | 30–40% | Conventional DL |
 | Overhead Press (3–5) | 55–65% | Bench |
