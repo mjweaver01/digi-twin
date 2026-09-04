@@ -1,5 +1,51 @@
 # Workout Log
 
+## 2026-09-06 — ME Lower (Paused Squat)
+
+**Feel:** —
+**Notes:** New ME rotation — paused squat, first time running it. 2–3 second pause at the bottom, dead still, then drive. Killing the stretch reflex is the point: it builds strength out of the hole, which is where box squats don't help you.
+
+**Deliberately not a deadlift.** Sumo is the stalest lower number on the board (285, 7/26) and is due, but you maxed conventional at 325 only six days ago — a second maximal pull this close isn't worth it. Sumo is queued for the ME Lower after this one.
+
+Paused squat usually runs ~80–85% of a box squat, so ~225–240 off the 285 — but the pause is the limiter the first time, not the load. Ramp to a controlled triple around 215 and establish a baseline. Upright torso, brace hard, no bouncing out of the pause.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Paused Squat (work up to heavy triple) | Ramp → top triple | 45 / 135 / 165 / 195 / **215 x3** | Full 2–3s pause, dead still. Establish the baseline — don't chase a number |
+| Stiff-Leg / Snatch-Grip RDL | 3–4 x 8–10 | **195 lbs** | Bumped from 185 — ~60% of the new 325. Push the stretch |
+| Pull-ups / Chin-ups | 4 x 6–12 | BW or weighted | Vertical pull |
+| EZ Bar Curls | 3 x 10–12 | **25/side (65.5)** | Strict, no swing |
+| Cross-Body Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Across the chest |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+| Toes-to-Bar | 3 x 10–15 | BW | Full ROM |
+
+---
+
+## 2026-09-05 — ME Upper (Floor Press)
+
+**Feel:** —
+**Notes:** ME rotation moves to floor press — the stalest upper variation you have. Last real number was **170 on 7/5**, and flat bench has gone 175 → 215 in the two months since, so that's badly out of date. Expect a big jump; aim 190+.
+
+Dead-stop every rep — let the triceps settle on the floor, no bouncing the elbows. Elbows ~45°, hips flat. **No dedicated tricep accessory** — floor press already is one.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Floor Press (work up to heavy triple) | Ramp → top triple | 45 / 95 / 135 / 165 / **190 x3** | Dead-stop each rep, elbows ~45°, hips flat. Push past 170 (7/5) |
+| Barbell Rows | 4 x 8–12 | **140 lbs** | Bumped from 135 — ~65% of the 215 bench |
+| DB Incline Press | 4 x 10–12 | 35 lb DBs | Upper chest |
+| DB Curls | 3 x 10–12 | 25–35 lb DBs | Supinated |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Neutral grip |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+
+---
+
+## 2026-09-04 — Rest Day
+
+**Feel:** —
+**Notes:** Rest day after 9/2–9/3.
+
+---
+
 ## 2026-09-03 — DE Lower (Wave 2 of 3 — 55%)
 
 **Feel:** —
