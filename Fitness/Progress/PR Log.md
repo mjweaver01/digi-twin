@@ -17,6 +17,7 @@
 | Deficit Deadlift | 255x3 | 2026-08-09 |
 | Front Squat | 185x3 | 2026-08-15 |
 | Larsen Press | 175x3 | 2026-08-28 |
+| Paused Squat | 215x3 | 2026-09-06 |
 
 ---
 
@@ -24,6 +25,7 @@
 
 | Date | Lift | Weight | Notes |
 |---|---|---|---|
+| 2026-09-06 | Paused Squat | 215x3 | First tracked paused squat — 2–3s pause, hit as programmed |
 | 2026-08-31 | Conventional Deadlift | 325 | +20 from 305 (7/13). Recalibrates every speed deadlift |
 | 2026-08-28 | Larsen Press | 175x3 | First tracked Larsen press — feet up, no leg drive |
 | 2026-08-24 | Box Squat | 285 | +30 from 255 (7/19). Replaces the 275 estimate the DE wave was running on |

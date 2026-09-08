@@ -1,5 +1,31 @@
 # Workout Log
 
+## 2026-09-08 — DE Upper (Wave 1 of 3 — 50%, new cycle)
+
+**Feel:** —
+**Notes:** Upper day, alternating off Sunday's paused squat. **New wave starts** — pendulum resets to position 1 of 3 = 50% of 215 ≈ 110. Straight weight, no bands. Light by design — max acceleration off the chest. Rotate grip close/medium/wide, 3 sets each. **Bar speed governs.**
+
+Accessories picked by longest gap; nothing repeats from 9/5 or 9/6.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Bench Press | 9 x 3 | **110 lbs** | 50% of 215. Rotate grip: 3 close / 3 medium / 3 wide. 45–60s rest |
+| Lawnmowers | 4 x 10 | 35 lb DB | Single-arm, brace hard |
+| Arnold Press | 4 x 10–12 | 35 lb DBs | Delts |
+| Dips | 3 x 8–15 | BW (weighted if easy) | Chest/tricep mass |
+| DB Curls | 3 x 10–12 | 25–35 lb DBs | Supinated |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Neutral grip |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+
+---
+
+## 2026-09-07 — Rest Day
+
+**Feel:** —
+**Notes:** Rest day after 9/5–9/6.
+
+---
+
 ## 2026-09-06 — ME Lower (Paused Squat)
 
 **Feel:** —
@@ -11,7 +37,7 @@ Paused squat usually runs ~80–85% of a box squat, so ~225–240 off the 285 �
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
-| Paused Squat (work up to heavy triple) | Ramp → top triple | 45 / 135 / 165 / 195 / **215 x3** | Full 2–3s pause, dead still. Establish the baseline — don't chase a number |
+| Paused Squat (work up to heavy triple) | Ramp → top triple | 45 / 135 / 165 / 195 / **215 x3 ✓** | Full 2–3s pause. Hit exactly as programmed. First tracked paused squat — baseline set |
 | Stiff-Leg / Snatch-Grip RDL | 3–4 x 8–10 | **195 lbs** | Bumped from 185 — ~60% of the new 325. Push the stretch |
 | Pull-ups / Chin-ups | 4 x 6–12 | BW or weighted | Vertical pull |
 | EZ Bar Curls | 3 x 10–12 | **25/side (65.5)** | Strict, no swing |
