@@ -1,5 +1,27 @@
 # Workout Log
 
+## 2026-09-09 — DE Lower (Wave 3 of 3 — 60%)
+
+**Feel:** —
+**Notes:** Lower day, alternating off yesterday's DE Upper. **Closes the lower wave** — position 3 of 3 = 60%. Box squats 170 (60% of 285), speed deadlifts 195 (60% of 325). Straight weight, no bands. Wide stance this time (9/3 was normal). **Bar speed governs** — when speed drops, the set is done.
+
+Second day of the block — rest tomorrow (9/10). Next DE Lower resets to Wave 1 (145 / 165). Accessories picked by longest gap; nothing repeats from 9/6 or 9/8.
+
+⚠️ **Sumo is queued for the next ME Lower** — 285 from 7/26 is now the stalest number on the board by six weeks.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Box Squats — wide stance | 10–12 x 2 | **170 lbs** | 60% of 285. Sit back, pause, explode up. 45–60s rest |
+| Speed Deadlifts | 6–8 x 1 | **195 lbs** | 60% of 325. Full reset each rep, explosive pull. 45–60s rest |
+| Good Mornings | 3–4 x 8–10 | **125 lbs** | Hinge, soft knees |
+| Barbell Rows | 4 x 8–12 | **140 lbs** | Back thickness |
+| EZ Bar Curls | 3 x 10–12 | **25/side (65.5)** | Strict, no swing |
+| Cross-Body Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Across the chest |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+| Toes-to-Bar | 3 x 10–15 | BW | Full ROM |
+
+---
+
 ## 2026-09-08 — DE Upper (Wave 1 of 3 — 50%, new cycle)
 
 **Feel:** —
@@ -56,7 +78,7 @@ Dead-stop every rep — let the triceps settle on the floor, no bouncing the elb
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
-| Floor Press (work up to heavy triple) | Ramp → top triple | 45 / 95 / 135 / 165 / **190 x3** | Dead-stop each rep, elbows ~45°, hips flat. Push past 170 (7/5) |
+| Floor Press (work up to heavy triple) | Ramp → top triple | 45 / 95 / 135 / 165 / **190 x3 (PR)** | Dead-stop each rep. New PR — +20 from 170 (7/5) |
 | Barbell Rows | 4 x 8–12 | **140 lbs** | Bumped from 135 — ~65% of the 215 bench |
 | DB Incline Press | 4 x 10–12 | 35 lb DBs | Upper chest |
 | DB Curls | 3 x 10–12 | 25–35 lb DBs | Supinated |
