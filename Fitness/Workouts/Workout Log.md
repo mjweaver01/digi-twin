@@ -1,5 +1,18 @@
 # Workout Log
 
+## 2026-09-10 — Accessory Top-Up (short)
+
+**Feel:** —
+**Notes:** Quick session to pick up the three movements cut from 9/9. ~15–20 minutes. This replaces the planned rest day, but the load is low enough that it doesn't count as a real training day — 2-on/1-off is intact.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Good Mornings | 3 x 8–10 | **125 lbs** | Hinge, soft knees. Only real load here — keep it crisp |
+| Cross-Body Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Across the chest |
+| Toes-to-Bar | 3 x 10–15 | BW | Full ROM |
+
+---
+
 ## 2026-09-09 — DE Lower (Wave 3 of 3 — 60%)
 
 **Feel:** —
@@ -13,12 +26,12 @@ Second day of the block — rest tomorrow (9/10). Next DE Lower resets to Wave 1
 |---|---|---|---|
 | Speed Box Squats — wide stance | 10–12 x 2 | **170 lbs** | 60% of 285. Sit back, pause, explode up. 45–60s rest |
 | Speed Deadlifts | 6–8 x 1 | **195 lbs** | 60% of 325. Full reset each rep, explosive pull. 45–60s rest |
-| Good Mornings | 3–4 x 8–10 | **125 lbs** | Hinge, soft knees |
-| Barbell Rows | 4 x 8–12 | **140 lbs** | Back thickness |
-| EZ Bar Curls | 3 x 10–12 | **25/side (65.5)** | Strict, no swing |
-| Cross-Body Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Across the chest |
-| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
-| Toes-to-Bar | 3 x 10–15 | BW | Full ROM |
+| ~~Good Mornings~~ | 3–4 x 8–10 | 125 lbs | ⏭️ Skipped — cut short, moved to 9/10 |
+| Barbell Rows | 4 x 8–12 | **140 lbs** | ✓ |
+| EZ Bar Curls | 3 x 10–12 | **25/side (65.5)** | ✓ |
+| ~~Cross-Body Hammer Curls~~ | 3 x 12–15 | 25–35 lb DBs | ⏭️ Skipped — moved to 9/10 |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | ✓ |
+| ~~Toes-to-Bar~~ | 3 x 10–15 | BW | ⏭️ Skipped — moved to 9/10 |
 
 ---
 
