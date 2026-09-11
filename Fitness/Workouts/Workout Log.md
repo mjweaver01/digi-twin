@@ -1,15 +1,29 @@
 # Workout Log
 
-## 2026-09-10 — Accessory Top-Up (short)
+## 2026-09-11 — ME Upper (Close-Grip Bench)
 
 **Feel:** —
-**Notes:** Quick session to pick up the three movements cut from 9/9. ~15–20 minutes. This replaces the planned rest day, but the load is low enough that it doesn't count as a real training day — 2-on/1-off is intact.
+**Notes:** ME rotation returns to close-grip bench — 36 days since 8/6, the stalest eligible upper variation. Everything else is inside the 3-week window: floor press 9/5, Larsen 8/28, incline 8/22, bench 8/17.
+
+Last close-grip was 175x3. Flat bench has gone 205 → 215 since, and close-grip typically runs 85–90% of bench, so ~185–195. Aim 190x3. Hands about shoulder width, elbows tucked, bar to lower chest.
+
+**No dedicated tricep accessory** — close-grip is the tricep lift.
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
-| Good Mornings | 3 x 8–10 | **125 lbs** | Hinge, soft knees. Only real load here — keep it crisp |
-| Cross-Body Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Across the chest |
-| Toes-to-Bar | 3 x 10–15 | BW | Full ROM |
+| Close-Grip Bench (work up to heavy triple) | Ramp → top triple | 45 / 95 / 135 / 165 / **190 x3** | Shoulder-width grip, elbows tucked. Push past 175 (8/6) |
+| Pull-ups / Chin-ups | 4 x 6–12 | BW or weighted | Vertical pull — add weight if 12 is easy |
+| Flat DB Press | 4 x 10–12 | 35 lb DBs | Chest |
+| DB Curls | 3 x 10–12 | 25–35 lb DBs | Supinated |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Neutral grip |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+
+---
+
+## 2026-09-10 — Rest Day
+
+**Feel:** —
+**Notes:** Rest day. Accessory top-up not done — dropped rather than carried forward; three skipped accessories aren't worth making up.
 
 ---
 
