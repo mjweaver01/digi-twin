@@ -1,5 +1,25 @@
 # Workout Log
 
+## 2026-09-12 — ME Lower (Sumo Deadlift — MAX TEST)
+
+**Feel:** —
+**Notes:** **The sumo retest** — the last stale number on the board. 285 from 7/26 is 48 days old, while conventional went 305 → 325 (+20) in that same stretch. Sumo should have carried some of that. Aim 300+.
+
+Wide stance, toes flared ~45°, hips lower than conventional. Drive the knees out hard as you pull — sumo fails at the floor, not the lockout. Full reset each rep, small jumps at the top. Keep Valsalva moderate. Stop at form breakdown.
+
+**No hinge accessory** — the ME lift is a maximal pull. Nothing else hinges today.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Sumo Deadlift (work up to a max single) | Ramp → top single | 135 / 185 / 225 / 255 / 285 / **300+** | Real max attempt. Push past 285 (7/26). Drive knees out |
+| Lawnmowers | 4 x 10 | 35 lb DB | Single-arm, brace hard |
+| EZ Bar Curls | 3 x 10–12 | **25/side (65.5)** | Strict, no swing |
+| Cross-Body Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Across the chest |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+| Toes-to-Bar | 3 x 10–15 | BW | Full ROM |
+
+---
+
 ## 2026-09-11 — ME Upper (Close-Grip Bench)
 
 **Feel:** —
