@@ -1,4 +1,55 @@
+---
+type: fitness
+tags: [digi-twin, fitness, log]
+owner: Mike
+updated: 2026-09-13
+status: current
+---
+
 # Workout Log
+
+## 2026-09-15 → 09-18 — Cincinnati (Travel)
+
+**Feel:** —
+**Notes:** Away Tue–Fri morning. **Treat this as a deload — it's earned.** Seven max attempts since mid-July; a 3–4 day break off heavy loading is recovery, not lost progress. Strength does not decay in four days.
+
+See [[Fitness/Workouts/Travel & Minimal Equipment]] for the tiered sessions. Pick by what the hotel actually has:
+
+- **Tier 1** — real gym with barbell → run a normal DE day, nothing heavy
+- **Tier 2** — dumbbells + bench → the DB session
+- **Tier 3** — hotel room only → bodyweight + bands
+
+**Pack the light/medium bands.** They weigh nothing and turn Tier 3 from mediocre into genuinely useful.
+
+Zero sessions is an acceptable outcome. Don't chase volume in a bad hotel gym; you'll come back fresher either way. Resume normal programming Fri 9/18 or Sat 9/19.
+
+---
+
+## 2026-09-14 — DE Upper (Wave 2 of 3 — 55%)
+
+**Feel:** —
+**Notes:** Last session before Cincinnati — moved from 9/13 (rest day taken instead). Upper, alternating off Saturday's sumo max. Wave position 2 of 3 = 55% of 215 ≈ 120. Straight weight, no bands. Rotate grip close/medium/wide, 3 sets each. **Bar speed governs.**
+
+The DE Lower that was planned for today is dropped rather than crammed in — travel starts tomorrow and there's no value in stacking two sessions before a 4-day layoff. The lower wave stays at position 1 (145 / 165) and picks up when you're back.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Bench Press | 9 x 3 | **120 lbs** | 55% of 215. Rotate grip: 3 close / 3 medium / 3 wide. 45–60s rest |
+| Pull-ups / Chin-ups | 4 x 6–12 | BW or weighted | Vertical pull |
+| Arnold Press | 4 x 10–12 | 35 lb DBs | Delts |
+| Dips | 3 x 8–15 | BW (weighted if easy) | Chest/tricep mass |
+| DB Curls | 3 x 10–12 | 25–35 lb DBs | Supinated |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Neutral grip |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+
+---
+
+## 2026-09-13 — Rest Day
+
+**Feel:** —
+**Notes:** Rest day. DE Upper moved to 9/14.
+
+---
 
 ## 2026-09-12 — ME Lower (Sumo Deadlift — MAX TEST)
 
@@ -11,7 +62,7 @@ Wide stance, toes flared ~45°, hips lower than conventional. Drive the knees ou
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
-| Sumo Deadlift (work up to a max single) | Ramp → top single | 135 / 185 / 225 / 255 / 285 / **300+** | Real max attempt. Push past 285 (7/26). Drive knees out |
+| Sumo Deadlift (work up to a max single) | Ramp → top single | 135 / 185 / 225 / 255 / 285 / **305 (PR)** | New PR — +20 from 285 (7/26) |
 | Lawnmowers | 4 x 10 | 35 lb DB | Single-arm, brace hard |
 | EZ Bar Curls | 3 x 10–12 | **25/side (65.5)** | Strict, no swing |
 | Cross-Body Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Across the chest |

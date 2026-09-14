@@ -2,7 +2,7 @@
 type: fitness
 tags: [digi-twin, fitness, profile]
 owner: Mike
-updated: 2026-07-16
+updated: 2026-09-13
 status: current
 ---
 
@@ -101,10 +101,12 @@ Fat + protein dominant — slow-digesting, no blood sugar spike, won't disrupt s
 Main gap is calories, not protein. For evening, lean on fat-based foods rather than carb-heavy shakes.
 
 ## Program Principles
-- **Split:** conjugate 4-day — ME Upper, ME Lower, DE Upper, DE Lower.
-- **DE loading:** wave bar weight on a 3-week pendulum (**50/55/60%**) and **add band tension to the bar** for accommodating resistance — never fixed straight weight.
-- **ME emphasis:** bias heavy **3s/5s over true singles** for mass; singles for testing only. Rotate the main lift, but occasionally hold one ~2 weeks to grind a real progression.
-- **Accessories (biggest mass lever):** back is the priority — **pull-ups/chin-ups + heavy barbell rows** every upper day, plus **direct hamstrings** (banded/Nordic leg curls) and **lower-back** (back raises / banded reverse hyper) every lower day. With the 35 lb DB cap: load the barbell or chase reps to failure (15–30). Keep arm volume in check — it's already well-covered.
+- **Split:** conjugate 4-day — ME Upper, ME Lower, DE Upper, DE Lower. **Alternate upper/lower; never two of the same region back to back.**
+- **DE loading:** wave bar weight on a **3-session pendulum** (50/55/60%), position advancing per DE session of that type — not per calendar week. **Straight weight, no bands** — Mike dislikes banded barbell work. Bar speed is the governor: when speed drops, the set is over.
+- **ME emphasis:** bias heavy **3s/5s over true singles** for mass; singles for testing only. **Rotate the ME variation every 1–2 weeks; never repeat one within 3 weeks.** Deep rotation pools live in [[Fitness/Workouts/ME Upper]] and [[Fitness/Workouts/ME Lower]].
+- **Accessories:** **ONE movement per job, 4 accessories max.** Slots are defined by function (posterior chain / pull / press / arms / core), not by an open menu. Check the redundancy watch-lists in the templates before adding anything. Arms are the one exception — two curl variations allowed.
+- **Prescribe real weights** — never "loaded barbell" or "EZ bar" with no number. Pull from [[Fitness/Progress/Accessory Working Weights]].
+- **⛔ Do not program:** banded leg curls · Nordic curls · slider curls · back raises / bench back extensions · hanging leg raises · farmer's & suitcase carries · Bulgarian split squats · preacher curls.
 - **Rep-effort work:** dips + high-rep DB pressing to failure for hypertrophy.
 - **Weak points:** forward lean on squats = upper-back/bracing — prioritize heavy rows + ab/bracing work every lower day.
 - Good movement foundation from CrossFit background.

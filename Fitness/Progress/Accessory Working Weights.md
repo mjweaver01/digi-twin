@@ -2,7 +2,7 @@
 type: fitness
 tags: [digi-twin, fitness, weights, reference]
 owner: Mike
-updated: 2026-08-11
+updated: 2026-09-13
 status: current
 ---
 

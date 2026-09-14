@@ -1,3 +1,11 @@
+---
+type: fitness
+tags: [digi-twin, fitness, prs]
+owner: Mike
+updated: 2026-09-13
+status: current
+---
+
 # PR Log
 
 **Single source of truth for main-lift PRs** — append-only. When a PR happens, add a row to History (newest first) and update the Current PRs table. Don't duplicate PRs in [[Fitness/Fitness Profile]] — it links here.
@@ -9,11 +17,11 @@
 | Lift | PR | Date |
 |---|---|---|
 | Bench Press | 215 | 2026-08-17 |
-| Incline Bench | 175 | 2026-08-22 | *(30°)* |
+| Incline Bench | 175 (30°) | 2026-08-22 |
 | Floor Press | 190x3 | 2026-09-05 |
 | Box Squat | 285 | 2026-08-24 |
 | Conventional Deadlift | 325 | 2026-08-31 |
-| Sumo Deadlift | 285 | 2026-07-26 |
+| Sumo Deadlift | 305 | 2026-09-12 |
 | Deficit Deadlift | 255x3 | 2026-08-09 |
 | Front Squat | 185x3 | 2026-08-15 |
 | Larsen Press | 175x3 | 2026-08-28 |
@@ -25,6 +33,7 @@
 
 | Date | Lift | Weight | Notes |
 |---|---|---|---|
+| 2026-09-12 | Sumo Deadlift | 305 | +20 from 285 (7/26). Matches the conventional jump exactly |
 | 2026-09-06 | Paused Squat | 215x3 | First tracked paused squat — 2–3s pause, hit as programmed |
 | 2026-09-05 | Floor Press | 190x3 | +20 from 170 (7/5). Last lift still carrying a July number |
 | 2026-08-31 | Conventional Deadlift | 325 | +20 from 305 (7/13). Recalibrates every speed deadlift |

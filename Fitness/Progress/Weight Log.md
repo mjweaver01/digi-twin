@@ -1,3 +1,11 @@
+---
+type: fitness
+tags: [digi-twin, fitness, weight]
+owner: Mike
+updated: 2026-08-21
+status: current
+---
+
 # Weight Log
 
 **Goal:** Rebuild lean mass from 155–160 lbs back to 170+ lbs lean
