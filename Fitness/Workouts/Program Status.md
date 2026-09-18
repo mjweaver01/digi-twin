@@ -18,8 +18,8 @@ status: current
 
 | Wave | Last session | Position used | Next session is |
 |---|---|---|---|
-| **DE Upper** | 2026-09-08 (completed) | 1 of 3 — 110 | **2 of 3 — 120** — *planned 9/14* |
-| **DE Lower** | 2026-09-09 (completed) | 3 of 3 — 170 / 195 | **Reset → 1 of 3 — 145 / 165** — *deferred to post-trip* |
+| **DE Upper** | 2026-09-18 | 3 of 3 — 130 | **Reset → 1 of 3 — 110** |
+| **DE Lower** | 2026-09-09 | 3 of 3 — 170 / 195 | **Reset → 1 of 3 — 145 / 165** |
 
 | Wave position | Speed Bench (of 215) | Speed Box Squat (of 285) | Speed Deadlift (of 325) |
 |---|---|---|---|
@@ -69,11 +69,11 @@ status: current
 
 | Field | Value |
 |---|---|
-| Last deload | **2026-09-15 → 09-18** (Cincinnati trip — unplanned but functional) |
+| Last deload | **2026-09-15 → 09-17** (Cincinnati trip — unplanned but functional). Back training 9/18 |
 | Prior | None since restarting 2026-06-04 |
 | Guideline | Light week every ~6 weeks of hard training, or when Feel trends ≤ 5 |
 
-Seven max attempts between 7/13 and 9/12 with no formal deload before the trip. Watch for stalling top sets or slow bar speed as the signal for the next one.
+Seven max attempts between 7/13 and 9/12 with no formal deload before the trip. Next deload due ~late October, or sooner if top sets stall or bar speed slows.
 
 ---
 

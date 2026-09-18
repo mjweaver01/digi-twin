@@ -8,20 +8,35 @@ status: current
 
 # Workout Log
 
-## 2026-09-15 → 09-18 — Cincinnati (Travel)
+## 2026-09-18 — DE Upper (Wave 3 of 3 — 60%)
 
 **Feel:** —
-**Notes:** Away Tue–Fri morning. **Treat this as a deload — it's earned.** Seven max attempts since mid-July; a 3–4 day break off heavy loading is recovery, not lost progress. Strength does not decay in four days.
+**Notes:** First session back from Cincinnati. **Closes the upper wave** — position 3 of 3 = 60% of 215 ≈ 130. Straight weight, no bands. Rotate grip close/medium/wide, 3 sets each. **Bar speed governs.**
 
-See [[Fitness/Workouts/Travel & Minimal Equipment]] for the tiered sessions. Pick by what the hotel actually has:
+Deliberately a speed day rather than a max, per the return-from-travel rule in [[Fitness/Workouts/Travel & Minimal Equipment]]: a layoff dulls technical sharpness before it touches strength, so the first session back re-grooves the pattern instead of testing it. Next DE Upper resets to Wave 1 (110).
 
-- **Tier 1** — real gym with barbell → run a normal DE day, nothing heavy
-- **Tier 2** — dumbbells + bench → the DB session
-- **Tier 3** — hotel room only → bodyweight + bands
+Accessories picked by longest gap — nothing repeats from 9/14.
 
-**Pack the light/medium bands.** They weigh nothing and turn Tier 3 from mediocre into genuinely useful.
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Bench Press | 9 x 3 | **130 lbs** | 60% of 215. Rotate grip: 3 close / 3 medium / 3 wide. 45–60s rest |
+| Lawnmowers | 4 x 10 | 35 lb DB | Single-arm, brace hard |
+| DB Incline Press | 4 x 10–12 | 35 lb DBs | Upper chest |
+| JM Press | 3 x 8–10 | **25/side (65.5)** | Bar to throat, elbows forward |
+| EZ Bar Curls | 3 x 10–12 | **25/side (65.5)** | Strict, no swing |
+| Cross-Body Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Across the chest |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
 
-Zero sessions is an acceptable outcome. Don't chase volume in a bad hotel gym; you'll come back fresher either way. Resume normal programming Fri 9/18 or Sat 9/19.
+---
+
+## 2026-09-15 → 09-17 — Cincinnati (Travel / Deload)
+
+**Feel:** —
+**Notes:** Away Tue–Fri morning; home 9/18. Functioned as the first real deload since training restarted 2026-06-04 — seven max attempts between 7/13 and 9/12 with no light week in between.
+
+Sessions completed on the road: *(not recorded — update if any were done)*
+
+Lower wave was left at position 1 (145 / 165) and picks up at the next DE Lower.
 
 ---
 
