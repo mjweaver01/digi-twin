@@ -41,22 +41,30 @@ Accessories picked by longest gap — nothing repeats from 9/14.
 
 ---
 
-## 2026-09-15 → 09-17 — Cincinnati (Travel / Deload)
+## 2026-09-17 — Cincinnati (Travel / Deload)
 
 **Feel:** —
-**Notes:** Away Tue–Fri morning; home 9/18. Functioned as the first real deload since training restarted 2026-06-04 — seven max attempts between 7/13 and 9/12 with no light week in between.
+**Notes:** Day 3 of the Cincinnati work trip. No training. Home the following morning.
 
-**One session completed on the road** (Tier 2/3 — hotel):
+---
 
-| Exercise | Sets x Reps |
-|---|---|
-| DB Curls | 3 x 10 |
-| Arnold Press | 3 x 10 |
-| Pull-ups | 3 x 6 |
+## 2026-09-16 — Cincinnati (Hotel Session)
 
-Light but not nothing — kept the pull and press patterns warm without adding fatigue.
+**Feel:** —
+**Notes:** Day 2 of the Cincinnati work trip (Wednesday). Light hotel session — kept the pull and press patterns warm without adding fatigue. Only training done on the trip.
 
-Lower wave was left at position 1 (145 / 165) and picks up at the next DE Lower.
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| DB Curls | 3 x 10 | Hotel DBs | |
+| Arnold Press | 3 x 10 | Hotel DBs | |
+| Pull-ups | 3 x 6 | BW | |
+
+---
+
+## 2026-09-15 — Cincinnati (Travel / Deload)
+
+**Feel:** —
+**Notes:** Day 1 of the Cincinnati work trip — travel day, no training. Start of the first real deload since training restarted 2026-06-04: seven max attempts between 7/13 and 9/12 with no light week in between. Lower wave left at position 1 (145 / 165).
 
 ---
 

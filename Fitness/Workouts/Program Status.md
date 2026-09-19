@@ -69,7 +69,7 @@ status: current
 
 | Field | Value |
 |---|---|
-| Last deload | **2026-09-15 → 09-17** (Cincinnati trip). One light hotel session — curls, Arnolds, pull-ups. Back training 9/18 |
+| Last deload | **2026-09-15, 09-16, 09-17** (Cincinnati trip). One light hotel session on 9/16 — curls, Arnolds, pull-ups. Back training 9/18 |
 | Prior | None since restarting 2026-06-04 |
 | Guideline | Light week every ~6 weeks of hard training, or when Feel trends ≤ 5 |
 
