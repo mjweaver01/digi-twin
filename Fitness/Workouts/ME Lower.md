@@ -17,16 +17,17 @@ Ramp slowly. If form breaks down, drop weight. (Watch the forward lean / bar pat
 | Conventional Deadlift | Overall pull | Full reset each rep |
 | Sumo Deadlift | Hips, quads, more upright | Wide stance, toes ~45°, drive knees out |
 | **Deficit Deadlift** | Off-the-floor strength | Stand on a 45 lb plate or mat, 1–2" deficit |
-| **Rack / Pin Pulls** | Lockout | Pins below or above the knee — needs heavy load |
+| **Rack / Pin Pulls** ⭐NOW USABLE | Lockout | Bar on safety arms, below or above the knee. Load heavy — you have ~400 lb of plates |
 | **Front Squat** | Upper back, trunk | Will expose the forward-lean habit — good |
 | **Paused Squat** | Kills the stretch reflex | 2–3s pause at the bottom |
+| **Anderson Squat** ⭐NEW | Dead-stop out of the hole | Bar starts on safety arms at/below parallel. Unlocked Sept 2026 |
 | **Heavy Good Morning** | Posterior chain | As the *main* lift, loaded — not the light accessory version |
 | **Banded Box Squat / Banded Deadlift** | Accommodating resistance | Bands anchored under the rack / feet |
 | **Zercher Squat** | Trunk, upper back | Bar in the elbow crooks |
 
-**Suggested sequence** (no repeat inside 3 weeks): Box Squat → Deficit Deadlift → Front Squat → Sumo → Paused Squat → Conventional → Heavy Good Morning → Zercher Squat → repeat.
+**Suggested sequence** (no repeat inside 3 weeks): Box Squat → Deficit Deadlift → Front Squat → Sumo → **Pin Pulls** → Paused Squat → **Anderson Squat** → Conventional → Heavy Good Morning → Zercher Squat → repeat.
 
-> ⛔ **No rack pins available** — do not program Anderson squats. **Rack/pin pulls** can still be done by resting the bar on stacked plates or blocks, but not off pins.
+> ✅ **Safety arms added Sept 2026** — Anderson squats and proper rack/pin pulls are both available now.
 
 ---
 

@@ -1,17 +1,29 @@
----
-type: fitness
-tags: [digi-twin, fitness, log]
-owner: Mike
-updated: 2026-09-13
-status: current
----
-
-# Workout Log
-
-## 2026-09-18 — DE Upper (Wave 3 of 3 — 60%)
+## 2026-09-19 — DE Lower (Wave 1 of 3 — 50%, new cycle)
 
 **Feel:** —
-**Notes:** First session back from Cincinnati. **Closes the upper wave** — position 3 of 3 = 60% of 215 ≈ 130. Straight weight, no bands. Rotate grip close/medium/wide, 3 sets each. **Bar speed governs.**
+**Notes:** Lower day, alternating off yesterday's DE Upper. **New wave starts** — pendulum resets to position 1 of 3 = 50%. Box squats 145 (50% of 285), speed deadlifts 165 (50% of 325). Straight weight, no bands. Normal stance (9/9 was wide). **Bar speed governs.**
+
+Second speed day in a row, which is intentional: this is the first lower session in 10 days (last was 9/9), and re-entering with light bar speed work beats loading straight into a max. Next lower session can be ME.
+
+Accessories picked by longest gap — nothing repeats from 9/18.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Box Squats — normal stance | 10–12 x 2 | **145 lbs** | 50% of 285. Sit back, pause, explode up. 45–60s rest |
+| Speed Deadlifts | 6–8 x 1 | **165 lbs** | 50% of 325. Full reset each rep, explosive pull. 45–60s rest |
+| Stiff-Leg / Snatch-Grip RDL | 3–4 x 8–10 | **195 lbs** | ESTIMATE — push the stretch. Log what you actually use |
+| Barbell Rows | 4 x 8–12 | **140 lbs** | ESTIMATE — back thickness |
+| DB Curls | 3 x 10–12 | 25–35 lb DBs | Supinated |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Neutral grip |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+| Toes-to-Bar | 3 x 10–15 | BW | Full ROM |
+
+---
+
+## 2026-09-18 — DE Upper (Wave 3 of 3 — 60%) ✓
+
+**Feel:** —
+**Notes:** Completed. First session back from Cincinnati. **Closes the upper wave** — position 3 of 3 = 60% of 215 ≈ 130. Straight weight, no bands. Rotate grip close/medium/wide, 3 sets each. **Bar speed governs.**
 
 Deliberately a speed day rather than a max, per the return-from-travel rule in [[Fitness/Workouts/Travel & Minimal Equipment]]: a layoff dulls technical sharpness before it touches strength, so the first session back re-grooves the pattern instead of testing it. Next DE Upper resets to Wave 1 (110).
 
@@ -34,7 +46,15 @@ Accessories picked by longest gap — nothing repeats from 9/14.
 **Feel:** —
 **Notes:** Away Tue–Fri morning; home 9/18. Functioned as the first real deload since training restarted 2026-06-04 — seven max attempts between 7/13 and 9/12 with no light week in between.
 
-Sessions completed on the road: *(not recorded — update if any were done)*
+**One session completed on the road** (Tier 2/3 — hotel):
+
+| Exercise | Sets x Reps |
+|---|---|
+| DB Curls | 3 x 10 |
+| Arnold Press | 3 x 10 |
+| Pull-ups | 3 x 6 |
+
+Light but not nothing — kept the pull and press patterns warm without adding fatigue.
 
 Lower wave was left at position 1 (145 / 165) and picks up at the next DE Lower.
 

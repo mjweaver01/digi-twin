@@ -49,7 +49,7 @@ status: current
 |---|---|
 | Barbell | Olympic (45 lb) |
 | Curl bar | EZ bar |
-| Squat rack | Full rack — **no safety pins / spotter arms** (rules out pin press, Anderson squats, pin pulls off pins) |
+| Squat rack | Full rack **+ safety arms** (added Sept 2026) — enables pin press, Anderson squats, pin pulls, and safe solo maxing |
 | Bench | Adjustable |
 | Dumbbells | 25 lb, 35 lb |
 | Kettlebells | 25 lb, 35 lb |

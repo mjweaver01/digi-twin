@@ -14,6 +14,7 @@
 | Flat Bench | Baseline / overall | Standard competition-style |
 | Incline Bench | Upper chest, shoulder | **Default 30°** — always record the angle. 30–45° is the useful range; past 45° the front delts take over and it becomes a seated press. A shallower bench inflates the number, so angle must be logged or top sets aren't comparable |
 | Floor Press | Lockout, dead-stop strength | Dead-stop each rep, elbows ~45°, hips flat |
+| **Pin Press** ⭐NEW | Dead-stop at the weakest height | Bar resting on safety arms, set at the sticking point. Unlocked Sept 2026 |
 | **Close-Grip Bench** | Triceps, lockout | Hands ~shoulder width, elbows tucked |
 | **Board Press** (1/2/3 board) | Specific sticking point | DIY boards — cheap; pick height matching the sticking point |
 | **Banded Bench** | Accommodating resistance | Bands over the bar, anchored under bench/feet |
@@ -22,9 +23,9 @@
 | **Reverse-Band Bench** | Overload at lockout | Bands anchored overhead in the rack |
 | EZ Bar Floor Press | Tricep-biased pressing | EZ bar, dead-stop |
 
-**Suggested sequence** (no repeat inside 3 weeks): Flat Bench → Close-Grip → Overhead Press → Incline → Larsen Press → Floor Press → Board Press → EZ Bar Floor Press → repeat.
+**Suggested sequence** (no repeat inside 3 weeks): Flat Bench → Close-Grip → **Pin Press** → Overhead Press → Incline → Larsen Press → Floor Press → Board Press → EZ Bar Floor Press → repeat.
 
-> ⛔ **No rack pins available** — do not program pin presses. Reverse-band bench also needs an overhead anchor; check before prescribing. Bands on the barbell are optional (Mike dislikes them).
+> ✅ **Safety arms added Sept 2026** — pin press is available. Reverse-band bench still needs an overhead anchor; check before prescribing. Bands on the barbell are optional (Mike dislikes them).
 
 ---
 

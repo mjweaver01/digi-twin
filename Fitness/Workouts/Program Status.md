@@ -19,7 +19,7 @@ status: current
 | Wave | Last session | Position used | Next session is |
 |---|---|---|---|
 | **DE Upper** | 2026-09-18 | 3 of 3 — 130 | **Reset → 1 of 3 — 110** |
-| **DE Lower** | 2026-09-09 | 3 of 3 — 170 / 195 | **Reset → 1 of 3 — 145 / 165** |
+| **DE Lower** | 2026-09-19 | 1 of 3 — 145 / 165 | **2 of 3 — 155 / 180** |
 
 | Wave position | Speed Bench (of 215) | Speed Box Squat (of 285) | Speed Deadlift (of 325) |
 |---|---|---|---|
@@ -46,7 +46,7 @@ status: current
 | 2026-08-17 | Flat Bench | **215 PR** |
 | 2026-08-11 | Overhead Press | 125x3 |
 
-**Eligible next** (3+ weeks clear): Overhead Press, Flat Bench, Incline. Never run: **Board Press** (needs DIY boards), **EZ Bar Floor Press**.
+**Eligible next** (3+ weeks clear): Overhead Press, Flat Bench, Incline. Never run: **Pin Press** ⭐(newly unlocked), **Board Press** (needs DIY boards), **EZ Bar Floor Press**.
 
 ### ME Lower — recent (newest first)
 
@@ -59,9 +59,9 @@ status: current
 | 2026-08-15 | Front Squat | 185x3 |
 | 2026-08-09 | Deficit Deadlift | 255x3 |
 
-**Eligible next** (3+ weeks clear): Front Squat, Deficit Deadlift. Never run: **Heavy Good Morning**, **Zercher Squat**, **Banded Box Squat**.
+**Eligible next** (3+ weeks clear): Front Squat, Deficit Deadlift. Never run: **Anderson Squat** ⭐ and **Rack/Pin Pulls** ⭐(newly unlocked), **Heavy Good Morning**, **Zercher Squat**.
 
-> ⛔ **No rack pins** — pin press, Anderson squats, and pin pulls off pins are unavailable.
+> ✅ **Safety arms added 2026-09-19** — **Pin Press**, **Anderson Squat**, and **Rack/Pin Pulls** are now available and never run. All three are fresh stimulus and target lockout / dead-stop strength.
 
 ---
 
@@ -69,7 +69,7 @@ status: current
 
 | Field | Value |
 |---|---|
-| Last deload | **2026-09-15 → 09-17** (Cincinnati trip — unplanned but functional). Back training 9/18 |
+| Last deload | **2026-09-15 → 09-17** (Cincinnati trip). One light hotel session — curls, Arnolds, pull-ups. Back training 9/18 |
 | Prior | None since restarting 2026-06-04 |
 | Guideline | Light week every ~6 weeks of hard training, or when Feel trends ≤ 5 |
 
