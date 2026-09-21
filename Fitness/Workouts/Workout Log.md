@@ -1,7 +1,36 @@
-## 2026-09-19 — DE Lower (Wave 1 of 3 — 50%, new cycle)
+## 2026-09-21 — ME Upper (Pin Press) ⭐ NEW VARIATION
 
 **Feel:** —
-**Notes:** Lower day, alternating off yesterday's DE Upper. **New wave starts** — pendulum resets to position 1 of 3 = 50%. Box squats 145 (50% of 285), speed deadlifts 165 (50% of 325). Straight weight, no bands. Normal stance (9/9 was wide). **Bar speed governs.**
+**Notes:** **First session using the safety arms.** Pin press has never been run — it was blocked until now — which makes it the freshest stimulus in the pool. Everything else is inside or near the 3-week window: close-grip 9/11, floor press 9/5, Larsen 8/28.
+
+**Setup:** safety arms set so the bar rests **2–3" off your chest** — roughly where your bench stalls. Every rep starts dead on the arms: settle, kill all momentum, then drive. No bouncing, no stretch reflex. That's the entire point — it builds force production from a dead stop at your weakest position.
+
+No baseline exists. A mid-range pin press usually lands near or slightly under full bench (shorter ROM, but no stretch reflex to help). Off your 215, expect ~185–200. **Ramp to a controlled triple around 185 and stop there** — establish the number, don't chase it on a first exposure.
+
+**No dedicated tricep accessory** — pin press is a lockout lift, triceps are covered.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Pin Press (work up to heavy triple) | Ramp → top triple | 45 / 95 / 135 / 165 / **185 x3** | Pins 2–3" off chest. Full dead stop each rep. Establish the baseline |
+| Pull-ups / Chin-ups | 4 x 6–12 | BW or weighted | Vertical pull — add weight if 12 is easy |
+| Flat DB Press | 4 x 10–12 | 35 lb DBs | Chest — full ROM to contrast the partial |
+| EZ Bar Curls | 3 x 10–12 | **25/side (65.5)** | Strict, no swing |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Neutral grip |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+
+---
+
+## 2026-09-20 — Rest Day
+
+**Feel:** —
+**Notes:** Rest day after 9/18–9/19.
+
+---
+
+## 2026-09-19 — DE Lower (Wave 1 of 3 — 50%, new cycle) ✓
+
+**Feel:** —
+**Notes:** Completed. Lower day, alternating off yesterday's DE Upper. **New wave starts** — pendulum resets to position 1 of 3 = 50%. Box squats 145 (50% of 285), speed deadlifts 165 (50% of 325). Straight weight, no bands. Normal stance (9/9 was wide). **Bar speed governs.**
 
 Second speed day in a row, which is intentional: this is the first lower session in 10 days (last was 9/9), and re-entering with light bar speed work beats loading straight into a max. Next lower session can be ME.
 

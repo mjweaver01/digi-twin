@@ -39,6 +39,7 @@ status: current
 
 | Date | Variation | Result |
 |---|---|---|
+| 2026-09-21 | **Pin Press** ⭐ | *planned — 185x3 target, first ever* |
 | 2026-09-11 | Close-Grip Bench | 190x3 (target — result not logged) |
 | 2026-09-05 | Floor Press | **190x3 PR** |
 | 2026-08-28 | Larsen Press | 175x3 |
@@ -46,7 +47,7 @@ status: current
 | 2026-08-17 | Flat Bench | **215 PR** |
 | 2026-08-11 | Overhead Press | 125x3 |
 
-**Eligible next** (3+ weeks clear): Overhead Press, Flat Bench, Incline. Never run: **Pin Press** ⭐(newly unlocked), **Board Press** (needs DIY boards), **EZ Bar Floor Press**.
+**Eligible next** (3+ weeks clear): Overhead Press, Flat Bench, Incline, Larsen Press. Never run: **Board Press** (needs DIY boards), **EZ Bar Floor Press**.
 
 ### ME Lower — recent (newest first)
 
