@@ -26,6 +26,7 @@ status: current
 | Front Squat | 185x3 | 2026-08-15 |
 | Larsen Press | 175x3 | 2026-08-28 |
 | Paused Squat | 215x3 | 2026-09-06 |
+| Pin Press | 185x3 | 2026-09-21 |
 
 ---
 
@@ -33,6 +34,7 @@ status: current
 
 | Date | Lift | Weight | Notes |
 |---|---|---|---|
+| 2026-09-21 | Pin Press | 185x3 | First tracked pin press — 2–3" off chest. Unlocked by new safety arms |
 | 2026-09-12 | Sumo Deadlift | 305 | +20 from 285 (7/26). Matches the conventional jump exactly |
 | 2026-09-06 | Paused Squat | 215x3 | First tracked paused squat — 2–3s pause, hit as programmed |
 | 2026-09-05 | Floor Press | 190x3 | +20 from 170 (7/5). Last lift still carrying a July number |

@@ -1,3 +1,26 @@
+## 2026-09-22 — ME Lower (Anderson Squat) ⭐ NEW VARIATION
+
+**Feel:** —
+**Notes:** Second never-run variation the safety arms unlocked. Lower day, alternating off yesterday's pin press.
+
+**Why this over deficit deadlift** (which I'd flagged as the weak-point pick): Anderson squats train the bottom of the squat from a dead stop, and your logged weak point is the forward lean / bar path under load. Box squats let you sit back onto support; Anderson squats give you no stretch reflex and nowhere to hide — if the chest caves, the bar doesn't move. Deficit deadlift stays queued for the next ME Lower.
+
+**Setup:** safety arms set so the bar rests at or just below parallel. Unrack nothing — the bar starts on the arms. Get under it, brace hard, drive up from a full dead stop. Reset the bar on the arms between every rep.
+
+No baseline. Anderson usually lands ~80–85% of a box squat, so ~230–240 off the 285 — but position and bracing are the limiter on a first exposure. **Ramp to a controlled triple around 205 and stop.**
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Anderson Squat (work up to heavy triple) | Ramp → top triple | 45 / 135 / 165 / 185 / **205 x3** | Bar starts on the arms at/below parallel. Full dead stop, reset each rep. Chest up — the lift exposes forward lean |
+| Good Mornings | 3–4 x 8–10 | **125 lbs** | ESTIMATE — hinge, soft knees |
+| Lawnmowers | 4 x 10 | 35 lb DB | Single-arm, brace hard |
+| DB Curls | 3 x 10–12 | 25–35 lb DBs | Supinated |
+| Cross-Body Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Across the chest |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+| Toes-to-Bar | 3 x 10–15 | BW | Full ROM |
+
+---
+
 ## 2026-09-21 — ME Upper (Pin Press) ⭐ NEW VARIATION
 
 **Feel:** —
@@ -11,7 +34,7 @@ No baseline exists. A mid-range pin press usually lands near or slightly under f
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
-| Pin Press (work up to heavy triple) | Ramp → top triple | 45 / 95 / 135 / 165 / **185 x3** | Pins 2–3" off chest. Full dead stop each rep. Establish the baseline |
+| Pin Press (work up to heavy triple) | Ramp → top triple | 45 / 95 / 135 / 165 / **185 x3 ✓** | Pins 2–3" off chest, dead stop each rep. First tracked pin press — baseline set |
 | Pull-ups / Chin-ups | 4 x 6–12 | BW or weighted | Vertical pull — add weight if 12 is easy |
 | Flat DB Press | 4 x 10–12 | 35 lb DBs | Chest — full ROM to contrast the partial |
 | EZ Bar Curls | 3 x 10–12 | **25/side (65.5)** | Strict, no swing |
