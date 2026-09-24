@@ -8,11 +8,11 @@ Pin press on Monday was a lockout lift, so today's tricep slot gets skull crushe
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
 | Speed Bench Press | 9 x 3 | **110 lbs** | 50% of 215. Rotate grip: 3 close / 3 medium / 3 wide. 45–60s rest |
-| Barbell Rows | 4 x 8–12 | **140 lbs** | ESTIMATE — back thickness |
+| Supinated Barbell Rows | 4 x 8–12 | **140 lbs** | ESTIMATE — underhand grip, pull to lower chest |
 | Arnold Press | 4 x 10–12 | 35 lb DBs | Delts |
 | EZ Bar Skull Crushers | 3 x 8–12 | **20/side (55.5)** | Elbows tight, full stretch |
-| EZ Bar Curls | 3 x 10–12 | **25/side (65.5)** | Strict, no swing |
-| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Neutral grip |
+| EZ Bar Curls | 3 x 10–12 | **25/side (65.5)** | Adjust to feel after the rows |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Adjust to feel after the rows |
 | Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
 
 ---

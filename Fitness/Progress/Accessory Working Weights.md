@@ -2,7 +2,7 @@
 type: fitness
 tags: [digi-twin, fitness, weights, reference]
 owner: Mike
-updated: 2026-09-13
+updated: 2026-09-24
 status: current
 ---
 
@@ -21,7 +21,8 @@ status: current
 ### Barbell — Pulling
 | Exercise | Working weight | Reps | Basis |
 |---|---|---|---|
-| Barbell Rows | **140** | 4 x 8–12 | ESTIMATE — ~65% of bench (215) |
+| Barbell Rows — supinated / standard grip | **140** | 4 x 8–12 | ESTIMATE — ~65% of bench (215) |
+| Barbell Rows — snatch grip | **115** | 4 x 8–12 | ESTIMATE — ~80% of standard-grip rows; wide grip shortens leverage |
 | Stiff-Leg / Snatch-Grip RDL | **195** | 3–4 x 8–10 | ESTIMATE — ~60% of conventional DL (325) |
 | Good Mornings | **125** | 3–4 x 8–10 | ESTIMATE — ~38% of conventional DL (325) |
 
@@ -49,8 +50,8 @@ The speed wave is a **3-session pendulum** — 50% → 55% → 60% of the curren
 
 | Wave | Last session | Position used | Next session is |
 |---|---|---|---|
-| **DE Upper** | 2026-09-08 | 1 of 3 (110) | **2 of 3 — 120** |
-| **DE Lower** | 2026-09-09 | 3 of 3 (170 / 195) | **Reset → Wave 1 — 145 / 165** |
+| **DE Upper** | 2026-09-24 | 1 of 3 (110) | **2 of 3 — 120** |
+| **DE Lower** | 2026-09-19 | 1 of 3 (145 / 165) | **2 of 3 — 155 / 180** |
 
 ✅ **All three speed lifts run off tested maxes** — bench 215 (8/17), box squat 285 (8/24), conventional deadlift 325 (8/31). No estimates in the wave.
 

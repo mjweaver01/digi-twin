@@ -34,6 +34,8 @@
 | **Triceps** | JM Press **or** EZ Bar Skull Crushers **or** Dips | 3 x 8–12 |
 | **Arms** ⭐ | **Two curl variations allowed** — one supinated (DB or EZ Bar Curls, 3 x 10–12) + Hammer Curls (3 x 12–15). Different elbow flexors, low systemic cost | see options |
 
+> **Barbell row grip:** **Supinated (underhand, ~140) is Mike's preferred default** — keep it alongside the usual two curl variations; he'll adjust curl weight by feel. *Snatch grip* (wide overhand, ~115) is an occasional variation for upper-back emphasis, not a replacement.
+
 Plus **Band Pull-Aparts / Face Pulls 3 x 20** — shoulder health, trivial cost, doesn't count toward the four.
 
 ### Redundancy watch-list
