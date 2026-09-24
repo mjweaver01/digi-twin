@@ -18,7 +18,7 @@ status: current
 
 | Wave | Last session | Position used | Next session is |
 |---|---|---|---|
-| **DE Upper** | 2026-09-18 | 3 of 3 — 130 | **Reset → 1 of 3 — 110** |
+| **DE Upper** | 2026-09-24 | 1 of 3 — 110 | **2 of 3 — 120** |
 | **DE Lower** | 2026-09-19 | 1 of 3 — 145 / 165 | **2 of 3 — 155 / 180** |
 
 | Wave position | Speed Bench (of 215) | Speed Box Squat (of 285) | Speed Deadlift (of 325) |
@@ -53,7 +53,7 @@ status: current
 
 | Date | Variation | Result |
 |---|---|---|
-| 2026-09-22 | **Anderson Squat** ⭐ | *planned — 205x3 target, first ever* |
+| 2026-09-22 | **Anderson Squat** ⭐ | **205x3** — first ever |
 | 2026-09-12 | Sumo Deadlift | **305 PR** |
 | 2026-09-06 | Paused Squat | 215x3 |
 | 2026-08-31 | Conventional Deadlift | **325 PR** |

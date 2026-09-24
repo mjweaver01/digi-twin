@@ -1,4 +1,30 @@
-## 2026-09-22 — ME Lower (Anderson Squat) ⭐ NEW VARIATION
+## 2026-09-24 — DE Upper (Wave 1 of 3 — 50%, new cycle)
+
+**Feel:** —
+**Notes:** Upper day, alternating off Tuesday's Anderson squat. **New wave starts** — pendulum resets to position 1 of 3 = 50% of 215 ≈ 110. Straight weight, no bands. Max acceleration off the chest; rotate grip close/medium/wide, 3 sets each. **Bar speed governs.**
+
+Pin press on Monday was a lockout lift, so today's tricep slot gets skull crushers — longest gap of any tricep movement (last 9/2). Accessories picked by longest gap; nothing repeats from 9/21 or 9/22.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Bench Press | 9 x 3 | **110 lbs** | 50% of 215. Rotate grip: 3 close / 3 medium / 3 wide. 45–60s rest |
+| Barbell Rows | 4 x 8–12 | **140 lbs** | ESTIMATE — back thickness |
+| Arnold Press | 4 x 10–12 | 35 lb DBs | Delts |
+| EZ Bar Skull Crushers | 3 x 8–12 | **20/side (55.5)** | Elbows tight, full stretch |
+| EZ Bar Curls | 3 x 10–12 | **25/side (65.5)** | Strict, no swing |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Neutral grip |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+
+---
+
+## 2026-09-23 — Rest Day
+
+**Feel:** —
+**Notes:** Rest day after 9/21–9/22.
+
+---
+
+## 2026-09-22 — ME Lower (Anderson Squat) ⭐ NEW VARIATION ✓
 
 **Feel:** —
 **Notes:** Second never-run variation the safety arms unlocked. Lower day, alternating off yesterday's pin press.
@@ -11,7 +37,7 @@ No baseline. Anderson usually lands ~80–85% of a box squat, so ~230–240 off 
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
-| Anderson Squat (work up to heavy triple) | Ramp → top triple | 45 / 135 / 165 / 185 / **205 x3** | Bar starts on the arms at/below parallel. Full dead stop, reset each rep. Chest up — the lift exposes forward lean |
+| Anderson Squat (work up to heavy triple) | Ramp → top triple | 45 / 135 / 165 / 185 / **205 x3 ✓** | Bar starts on the arms at/below parallel, dead stop each rep. First tracked Anderson squat — baseline set |
 | Good Mornings | 3–4 x 8–10 | **125 lbs** | ESTIMATE — hinge, soft knees |
 | Lawnmowers | 4 x 10 | 35 lb DB | Single-arm, brace hard |
 | DB Curls | 3 x 10–12 | 25–35 lb DBs | Supinated |
