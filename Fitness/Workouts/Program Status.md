@@ -19,7 +19,7 @@ status: current
 | Wave | Last session | Position used | Next session is |
 |---|---|---|---|
 | **DE Upper** | 2026-09-24 | 1 of 3 — 110 | **2 of 3 — 120** |
-| **DE Lower** | 2026-09-19 | 1 of 3 — 145 / 165 | **2 of 3 — 155 / 180** |
+| **DE Lower** | 2026-09-25 | 2 of 3 — 155 / 180 | **3 of 3 — 170 / 195** |
 
 | Wave position | Speed Bench (of 215) | Speed Box Squat (of 285) | Speed Deadlift (of 325) |
 |---|---|---|---|

@@ -51,7 +51,7 @@ Ramp slowly. If form breaks down, drop weight. (Watch the forward lean / bar pat
 | **Arms** ⭐ | **Two curl variations allowed** — one supinated (DB or EZ Bar Curls, 3 x 10–12) + Hammer Curls (3 x 12–15). Different elbow flexors, low systemic cost | see options |
 | **Core** | **Toes-to-Bar** — always. Vary by adding weight or slowing the tempo, not by swapping the movement | 3 x 10–15 |
 
-> **Barbell row grip:** **Supinated (underhand, ~140) is Mike's preferred default** — keep it alongside the usual two curl variations; he'll adjust curl weight by feel. *Snatch grip* (wide overhand, ~115) is an occasional variation for upper-back emphasis, not a replacement.
+> **Barbell row grip:** **Supinated (underhand, ~140) is Mike's preferred default** — keep it alongside the usual two curl variations; he'll adjust curl weight by feel. *Snatch grip* (wide overhand, ~140 — same load as supinated, logged 9/24) is an occasional variation for upper-back emphasis, not a replacement.
 
 Plus **Band Pull-Aparts / Face Pulls 3 x 20** — shoulder health, trivial cost, doesn't count toward the four.
 

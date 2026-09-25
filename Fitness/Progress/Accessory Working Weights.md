@@ -21,8 +21,8 @@ status: current
 ### Barbell — Pulling
 | Exercise | Working weight | Reps | Basis |
 |---|---|---|---|
-| Barbell Rows — supinated / standard grip | **140** | 4 x 8–12 | ESTIMATE — ~65% of bench (215) |
-| Barbell Rows — snatch grip | **115** | 4 x 8–12 | ESTIMATE — ~80% of standard-grip rows; wide grip shortens leverage |
+| Barbell Rows — supinated / standard grip | **140** | 4 x 8–12 | **Logged 9/24** (2 sets) |
+| Barbell Rows — snatch grip | **140** | 4 x 8–12 | **Logged 9/24** (2 sets). My 115 estimate was too low — Mike moves the same load with either grip |
 | Stiff-Leg / Snatch-Grip RDL | **195** | 3–4 x 8–10 | ESTIMATE — ~60% of conventional DL (325) |
 | Good Mornings | **125** | 3–4 x 8–10 | ESTIMATE — ~38% of conventional DL (325) |
 
@@ -51,7 +51,7 @@ The speed wave is a **3-session pendulum** — 50% → 55% → 60% of the curren
 | Wave | Last session | Position used | Next session is |
 |---|---|---|---|
 | **DE Upper** | 2026-09-24 | 1 of 3 (110) | **2 of 3 — 120** |
-| **DE Lower** | 2026-09-19 | 1 of 3 (145 / 165) | **2 of 3 — 155 / 180** |
+| **DE Lower** | 2026-09-25 | 2 of 3 (155 / 180) | **3 of 3 — 170 / 195** |
 
 ✅ **All three speed lifts run off tested maxes** — bench 215 (8/17), box squat 285 (8/24), conventional deadlift 325 (8/31). No estimates in the wave.
 
@@ -112,4 +112,5 @@ Replace ESTIMATE rows as real numbers come in.
 
 | Date | Exercise | Weight x Reps | Notes |
 |---|---|---|---|
+| 2026-09-24 | Barbell Rows | 140 x 2 sets supinated + 140 x 2 sets snatch grip | Both grips at the same load |
 | 2026-08-05 | Lawnmowers | 35 lb DB x 10, 4 sets | Reported as appropriately hard — not light |

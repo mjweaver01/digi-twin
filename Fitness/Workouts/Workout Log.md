@@ -1,14 +1,35 @@
-## 2026-09-24 — DE Upper (Wave 1 of 3 — 50%, new cycle)
+## 2026-09-25 — DE Lower (Wave 2 of 3 — 55%)
 
 **Feel:** —
-**Notes:** Upper day, alternating off Tuesday's Anderson squat. **New wave starts** — pendulum resets to position 1 of 3 = 50% of 215 ≈ 110. Straight weight, no bands. Max acceleration off the chest; rotate grip close/medium/wide, 3 sets each. **Bar speed governs.**
+**Notes:** Lower day, alternating off yesterday's DE Upper. Wave position 2 of 3 = 55%. Box squats 155 (55% of 285), speed deadlifts 180 (55% of 325). Straight weight, no bands. Wide stance (9/19 was normal). **Bar speed governs.**
+
+Second day of the block — rest tomorrow (9/26). Accessories picked by longest gap; nothing repeats from 9/22 or 9/24.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Box Squats — wide stance | 10–12 x 2 | **155 lbs** | 55% of 285. Sit back, pause, explode up. 45–60s rest |
+| Speed Deadlifts | 6–8 x 1 | **180 lbs** | 55% of 325. Full reset each rep, explosive pull. 45–60s rest |
+| Stiff-Leg / Snatch-Grip RDL | 3–4 x 8–10 | **195 lbs** | ESTIMATE — push the stretch |
+| Pull-ups / Chin-ups | 4 x 6–12 | BW or weighted | Vertical pull |
+| DB Curls | 3 x 10–12 | 25–35 lb DBs | Supinated |
+| Cross-Body Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Across the chest |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+| Toes-to-Bar | 3 x 10–15 | BW | Full ROM |
+
+---
+
+## 2026-09-24 — DE Upper (Wave 1 of 3 — 50%, new cycle) ✓
+
+**Feel:** —
+**Notes:** Completed. Upper day, alternating off Tuesday's Anderson squat. **New wave starts** — pendulum resets to position 1 of 3 = 50% of 215 ≈ 110. Straight weight, no bands. Max acceleration off the chest; rotate grip close/medium/wide, 3 sets each. **Bar speed governs.**
 
 Pin press on Monday was a lockout lift, so today's tricep slot gets skull crushers — longest gap of any tricep movement (last 9/2). Accessories picked by longest gap; nothing repeats from 9/21 or 9/22.
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
 | Speed Bench Press | 9 x 3 | **110 lbs** | 50% of 215. Rotate grip: 3 close / 3 medium / 3 wide. 45–60s rest |
-| Supinated Barbell Rows | 4 x 8–12 | **140 lbs** | ESTIMATE — underhand grip, pull to lower chest |
+| Barbell Rows — Supinated | 2 sets | **140 lbs** | ✓ Underhand grip |
+| Barbell Rows — Snatch Grip | 2 sets | **140 lbs** | ✓ Wide overhand grip — same load as supinated |
 | Arnold Press | 4 x 10–12 | 35 lb DBs | Delts |
 | EZ Bar Skull Crushers | 3 x 8–12 | **20/side (55.5)** | Elbows tight, full stretch |
 | EZ Bar Curls | 3 x 10–12 | **25/side (65.5)** | Adjust to feel after the rows |
