@@ -1,3 +1,30 @@
+## 2026-09-27 — ME Upper (Overhead Press)
+
+**Feel:** —
+**Notes:** Upper day, alternating off Friday's DE Lower. ME rotation follows the sequence after pin press → **strict overhead press**. It's also the stalest upper variation: last run 8/11 (125x3), 47 days ago, when bench was 205 — it's 215 now. Aim 135x3.
+
+Standing, strict — no leg drive, no push press. Squeeze glutes, brace hard, press around the face and finish with the head through. Keep Valsalva moderate.
+
+Press accessory is horizontal (DB incline) since the ME lift is already overhead — no Arnold press today.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Overhead Press (work up to heavy triple) | Ramp → top triple | 45 / 75 / 95 / 115 / 125 / **135 x3** | Strict standing. Push past 125 (8/11) |
+| Lawnmowers | 4 x 10 | 35 lb DB | Single-arm, brace hard |
+| DB Incline Press | 4 x 10–12 | 35 lb DBs | Horizontal press — different plane from the ME lift |
+| EZ Bar Curls | 3 x 10–12 | **25/side (65.5)** | Strict, no swing |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Neutral grip |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+
+---
+
+## 2026-09-26 — Rest Day
+
+**Feel:** —
+**Notes:** Rest day after 9/24–9/25.
+
+---
+
 ## 2026-09-25 — DE Lower (Wave 2 of 3 — 55%)
 
 **Feel:** —

@@ -39,6 +39,7 @@ status: current
 
 | Date | Variation | Result |
 |---|---|---|
+| 2026-09-27 | Overhead Press | *planned — 135x3 target* |
 | 2026-09-21 | **Pin Press** ⭐ | **185x3** — first ever |
 | 2026-09-11 | Close-Grip Bench | 190x3 (target — result not logged) |
 | 2026-09-05 | Floor Press | **190x3 PR** |
