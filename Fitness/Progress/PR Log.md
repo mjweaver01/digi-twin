@@ -28,6 +28,7 @@ status: current
 | Paused Squat | 215x3 | 2026-09-06 |
 | Pin Press | 185x3 | 2026-09-21 |
 | Anderson Squat | 205x3 | 2026-09-22 |
+| Overhead Press (strict) | 135x1 | 2026-09-27 |
 
 ---
 
@@ -35,6 +36,7 @@ status: current
 
 | Date | Lift | Weight | Notes |
 |---|---|---|---|
+| 2026-09-27 | Overhead Press (strict) | 135x1 | Up from 125x3 (8/11). Reps 2–3 at 135 needed leg drive — strict triple still 125 |
 | 2026-09-22 | Anderson Squat | 205x3 | First tracked Anderson squat — dead stop off the safety arms at parallel |
 | 2026-09-21 | Pin Press | 185x3 | First tracked pin press — 2–3" off chest. Unlocked by new safety arms |
 | 2026-09-12 | Sumo Deadlift | 305 | +20 from 285 (7/26). Matches the conventional jump exactly |

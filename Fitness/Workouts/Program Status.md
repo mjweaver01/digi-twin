@@ -39,7 +39,7 @@ status: current
 
 | Date | Variation | Result |
 |---|---|---|
-| 2026-09-27 | Overhead Press | *planned — 135x3 target* |
+| 2026-09-27 | Overhead Press | **135x1 strict** (+2 with leg drive) |
 | 2026-09-21 | **Pin Press** ⭐ | **185x3** — first ever |
 | 2026-09-11 | Close-Grip Bench | 190x3 (target — result not logged) |
 | 2026-09-05 | Floor Press | **190x3 PR** |
@@ -54,6 +54,7 @@ status: current
 
 | Date | Variation | Result |
 |---|---|---|
+| 2026-09-28 | Deficit Deadlift | *planned — 270x3 target* |
 | 2026-09-22 | **Anderson Squat** ⭐ | **205x3** — first ever |
 | 2026-09-12 | Sumo Deadlift | **305 PR** |
 | 2026-09-06 | Paused Squat | 215x3 |
@@ -62,7 +63,7 @@ status: current
 | 2026-08-15 | Front Squat | 185x3 |
 | 2026-08-09 | Deficit Deadlift | 255x3 |
 
-**Eligible next** (3+ weeks clear): **Deficit Deadlift** (queued — weak point), Front Squat, Conventional, Box Squat. Never run: **Rack/Pin Pulls** ⭐(newly unlocked), **Heavy Good Morning**, **Zercher Squat**.
+**Eligible next** (3+ weeks clear): Front Squat, Conventional, Box Squat. Never run: **Rack/Pin Pulls** ⭐(newly unlocked), **Heavy Good Morning**, **Zercher Squat**.
 
 > ✅ **Safety arms added 2026-09-19** — **Pin Press**, **Anderson Squat**, and **Rack/Pin Pulls** are now available and never run. All three are fresh stimulus and target lockout / dead-stop strength.
 

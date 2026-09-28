@@ -1,4 +1,26 @@
-## 2026-09-27 — ME Upper (Overhead Press)
+## 2026-09-28 — ME Lower (Deficit Deadlift)
+
+**Feel:** —
+**Notes:** Lower day, alternating off yesterday's OHP. Deficit deadlift has been queued as the weak-point lift since August — 255x3 on 8/9 against what's now a 325 conventional (78%). Deficit usually runs 85–90% of conventional, so there's real room here. Aim **270x3**.
+
+Stand on a 45 lb plate for a 1–2" deficit. Chest up, hips don't shoot — the extra range is exactly where you're weak. Full reset each rep. Stop at form breakdown.
+
+**No hinge accessory** — the ME lift is a maximal pull. Pull-ups over rows today to keep the low back out of it after the deficit work.
+
+Second day of the block — rest tomorrow (9/29).
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Deficit Deadlift (work up to heavy triple) | Ramp → top triple | 135 / 185 / 225 / 245 / 255 / **270 x3** | 1–2" off a 45. Push past 255x3 (8/9) |
+| Pull-ups / Chin-ups | 4 x 6–12 | BW or weighted | Vertical pull — spares the low back |
+| DB Curls | 3 x 10–12 | 25–35 lb DBs | Supinated |
+| Cross-Body Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Across the chest |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+| Toes-to-Bar | 3 x 10–15 | BW | Full ROM |
+
+---
+
+## 2026-09-27 — ME Upper (Overhead Press) ✓
 
 **Feel:** —
 **Notes:** Upper day, alternating off Friday's DE Lower. ME rotation follows the sequence after pin press → **strict overhead press**. It's also the stalest upper variation: last run 8/11 (125x3), 47 days ago, when bench was 205 — it's 215 now. Aim 135x3.
@@ -9,7 +31,7 @@ Press accessory is horizontal (DB incline) since the ME lift is already overhead
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
-| Overhead Press (work up to heavy triple) | Ramp → top triple | 45 / 75 / 95 / 115 / 125 / **135 x3** | Strict standing. Push past 125 (8/11) |
+| Overhead Press (work up to heavy triple) | Ramp → top triple | 45 / 75 / 95 / 115 / 125 / **135 x1 strict + 2 with leg drive** | ✓ Rep 1 strict; reps 2–3 needed a kip/push. Strict PR is 135x1 — strict triple still 125x3 (8/11). Very heavy |
 | Lawnmowers | 4 x 10 | 35 lb DB | Single-arm, brace hard |
 | DB Incline Press | 4 x 10–12 | 35 lb DBs | Horizontal press — different plane from the ME lift |
 | EZ Bar Curls | 3 x 10–12 | **25/side (65.5)** | Strict, no swing |
