@@ -18,7 +18,7 @@ status: current
 
 | Wave | Last session | Position used | Next session is |
 |---|---|---|---|
-| **DE Upper** | 2026-09-24 | 1 of 3 — 110 | **2 of 3 — 120** |
+| **DE Upper** | 2026-09-30 | 2 of 3 — 120 | **3 of 3 — 130**, then reset |
 | **DE Lower** | 2026-09-25 | 2 of 3 — 155 / 180 | **3 of 3 — 170 / 195** |
 
 | Wave position | Speed Bench (of 215) | Speed Box Squat (of 285) | Speed Deadlift (of 325) |
@@ -54,7 +54,7 @@ status: current
 
 | Date | Variation | Result |
 |---|---|---|
-| 2026-09-28 | Deficit Deadlift | *planned — 270x3 target* |
+| 2026-09-28 | Deficit Deadlift | **275x3 PR** |
 | 2026-09-22 | **Anderson Squat** ⭐ | **205x3** — first ever |
 | 2026-09-12 | Sumo Deadlift | **305 PR** |
 | 2026-09-06 | Paused Squat | 215x3 |
@@ -87,7 +87,7 @@ Seven max attempts between 7/13 and 9/12 with no formal deload before the trip. 
 ✅ **All three speed lifts run off tested maxes** — no estimates in the wave.
 ⚠️ **Barbell accessory weights are still ESTIMATES** — see [[Fitness/Progress/Accessory Working Weights]]. Replace with actuals as they're logged.
 
-**Next emphasis to consider:** deficit deadlift is 255x3 against a 325 conventional — relatively low, pointing at off-the-floor weakness as the gap worth attacking.
+**Off-the-floor gap mostly closed:** deficit deadlift went 255x3 → 275x3, now ~85% of the 325 conventional (up from 78%) — inside the typical 85–90% range. Next emphasis to consider: the Anderson squat (205x3, 72% of box squat) — the bottom-of-squat / forward-lean weakness is now the bigger gap.
 
 ---
 

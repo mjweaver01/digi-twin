@@ -1,4 +1,30 @@
-## 2026-09-28 — ME Lower (Deficit Deadlift)
+## 2026-09-30 — DE Upper (Wave 2 of 3 — 55%)
+
+**Feel:** —
+**Notes:** Upper day, alternating off Monday's deficit deadlift. Wave position 2 of 3 = 55% of 215 ≈ 120. Straight weight, no bands. Max acceleration off the chest; rotate grip close/medium/wide, 3 sets each. **Bar speed governs.**
+
+Flat DB press rather than Arnolds — shoulders took a beating on Sunday's OHP.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Bench Press | 9 x 3 | **120 lbs** | 55% of 215. Rotate grip: 3 close / 3 medium / 3 wide. 45–60s rest |
+| Barbell Rows — Supinated | 4 x 8–12 | **140 lbs** | Underhand, pull to lower chest |
+| Flat DB Press | 4 x 10–12 | 35 lb DBs | Chest |
+| Dips | 3 x 8–15 | BW (weighted if easy) | Chest/tricep mass |
+| EZ Bar Curls | 3 x 10–12 | **25/side (65.5)** | Adjust to feel after the rows |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Adjust to feel |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+
+---
+
+## 2026-09-29 — Rest Day
+
+**Feel:** —
+**Notes:** Rest day after 9/27–9/28.
+
+---
+
+## 2026-09-28 — ME Lower (Deficit Deadlift) ✓
 
 **Feel:** —
 **Notes:** Lower day, alternating off yesterday's OHP. Deficit deadlift has been queued as the weak-point lift since August — 255x3 on 8/9 against what's now a 325 conventional (78%). Deficit usually runs 85–90% of conventional, so there's real room here. Aim **270x3**.
@@ -11,7 +37,7 @@ Second day of the block — rest tomorrow (9/29).
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
-| Deficit Deadlift (work up to heavy triple) | Ramp → top triple | 135 / 185 / 225 / 245 / 255 / **270 x3** | 1–2" off a 45. Push past 255x3 (8/9) |
+| Deficit Deadlift (work up to heavy triple) | Ramp → top triple | 135 / 185 / 225 / 245 / 255 / 270 / **275 x3 (PR)** | ✓ 1–2" off a 45. +20 over 255x3 (8/9) |
 | Pull-ups / Chin-ups | 4 x 6–12 | BW or weighted | Vertical pull — spares the low back |
 | DB Curls | 3 x 10–12 | 25–35 lb DBs | Supinated |
 | Cross-Body Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Across the chest |

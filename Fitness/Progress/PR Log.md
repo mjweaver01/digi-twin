@@ -22,7 +22,7 @@ status: current
 | Box Squat | 285 | 2026-08-24 |
 | Conventional Deadlift | 325 | 2026-08-31 |
 | Sumo Deadlift | 305 | 2026-09-12 |
-| Deficit Deadlift | 255x3 | 2026-08-09 |
+| Deficit Deadlift | 275x3 | 2026-09-28 |
 | Front Squat | 185x3 | 2026-08-15 |
 | Larsen Press | 175x3 | 2026-08-28 |
 | Paused Squat | 215x3 | 2026-09-06 |
@@ -36,6 +36,7 @@ status: current
 
 | Date | Lift | Weight | Notes |
 |---|---|---|---|
+| 2026-09-28 | Deficit Deadlift | 275x3 | +20 over 255x3 (8/9). Now ~85% of conventional (325), up from 78% — weak point closing |
 | 2026-09-27 | Overhead Press (strict) | 135x1 | Up from 125x3 (8/11). Reps 2–3 at 135 needed leg drive — strict triple still 125 |
 | 2026-09-22 | Anderson Squat | 205x3 | First tracked Anderson squat — dead stop off the safety arms at parallel |
 | 2026-09-21 | Pin Press | 185x3 | First tracked pin press — 2–3" off chest. Unlocked by new safety arms |
