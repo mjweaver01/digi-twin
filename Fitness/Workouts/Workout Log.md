@@ -1,7 +1,27 @@
-## 2026-09-30 — DE Upper (Wave 2 of 3 — 55%)
+## 2026-10-01 — DE Lower (Wave 3 of 3 — 60%)
 
 **Feel:** —
-**Notes:** Upper day, alternating off Monday's deficit deadlift. Wave position 2 of 3 = 55% of 215 ≈ 120. Straight weight, no bands. Max acceleration off the chest; rotate grip close/medium/wide, 3 sets each. **Bar speed governs.**
+**Notes:** Lower day, alternating off yesterday's DE Upper. **Closes the lower wave** — position 3 of 3 = 60%. Box squats 170 (60% of 285), speed deadlifts 195 (60% of 325). Straight weight, no bands. Normal stance (9/25 was wide). **Bar speed governs** — when speed drops, the set is done. Next DE Lower resets to Wave 1 (145 / 165).
+
+Second day of the block — rest tomorrow (10/2). Accessories picked by longest gap; nothing repeats from 9/28 or 9/30.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Box Squats — normal stance | 10–12 x 2 | **170 lbs** | 60% of 285. Sit back, pause, explode up. 45–60s rest |
+| Speed Deadlifts | 6–8 x 1 | **195 lbs** | 60% of 325. Full reset each rep, explosive pull. 45–60s rest |
+| Good Mornings | 3–4 x 8–10 | **125 lbs** | ESTIMATE — hinge, soft knees |
+| Lawnmowers | 4 x 10 | 35 lb DB | Single-arm, brace hard |
+| DB Curls | 3 x 10–12 | 25–35 lb DBs | Supinated |
+| Cross-Body Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Across the chest |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+| Toes-to-Bar | 3 x 10–15 | BW | Full ROM |
+
+---
+
+## 2026-09-30 — DE Upper (Wave 2 of 3 — 55%) ✓
+
+**Feel:** —
+**Notes:** Completed — everything hit as written. Upper day, alternating off Monday's deficit deadlift. Wave position 2 of 3 = 55% of 215 ≈ 120. Straight weight, no bands. Max acceleration off the chest; rotate grip close/medium/wide, 3 sets each. **Bar speed governs.**
 
 Flat DB press rather than Arnolds — shoulders took a beating on Sunday's OHP.
 
