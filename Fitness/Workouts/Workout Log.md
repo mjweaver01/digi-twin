@@ -1,9 +1,19 @@
-## 2026-10-01 — DE Lower (Wave 3 of 3 — 60%)
+---
+type: fitness
+tags: [digi-twin, fitness, log]
+owner: Mike
+updated: 2026-10-02
+status: current
+---
+
+# Workout Log
+
+## 2026-10-02 — DE Lower (Wave 3 of 3 — 60%)
 
 **Feel:** —
-**Notes:** Lower day, alternating off yesterday's DE Upper. **Closes the lower wave** — position 3 of 3 = 60%. Box squats 170 (60% of 285), speed deadlifts 195 (60% of 325). Straight weight, no bands. Normal stance (9/25 was wide). **Bar speed governs** — when speed drops, the set is done. Next DE Lower resets to Wave 1 (145 / 165).
+**Notes:** Pushed from 10/1 (rested instead). Lower day, alternating off Wednesday's DE Upper. **Closes the lower wave** — position 3 of 3 = 60%. Box squats 170 (60% of 285), speed deadlifts 195 (60% of 325). Straight weight, no bands. Normal stance (9/25 was wide). **Bar speed governs** — when speed drops, the set is done. Next DE Lower resets to Wave 1 (145 / 165).
 
-Second day of the block — rest tomorrow (10/2). Accessories picked by longest gap; nothing repeats from 9/28 or 9/30.
+Upper tomorrow (10/3). Accessories picked by longest gap; nothing repeats from 9/28 or 9/30.
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
@@ -15,6 +25,13 @@ Second day of the block — rest tomorrow (10/2). Accessories picked by longest 
 | Cross-Body Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Across the chest |
 | Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
 | Toes-to-Bar | 3 x 10–15 | BW | Full ROM |
+
+---
+
+## 2026-10-01 — Rest Day
+
+**Feel:** —
+**Notes:** Rest day — planned DE Lower pushed to 10/2.
 
 ---
 
