@@ -1,13 +1,3 @@
----
-type: fitness
-tags: [digi-twin, fitness, log]
-owner: Mike
-updated: 2026-10-02
-status: current
----
-
-# Workout Log
-
 ## 2026-10-02 — DE Lower (Wave 3 of 3 — 60%)
 
 **Feel:** —
