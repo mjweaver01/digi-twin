@@ -1,3 +1,23 @@
+## 2026-10-03 — ME Upper (Flat Bench — MAX ATTEMPT)
+
+**Feel:** —
+**Notes:** Upper day, alternating off yesterday's DE Lower. **Real max attempt.** Flat bench is the stalest upper lift — 215 on 8/17, 47 days ago — and every variation built around it has moved since (floor press 190x3, pin press 185x3, incline 175). Aim **225**.
+
+Second reason to test now: the upper speed wave resets after the next DE Upper, and bench is what it's calculated from. A fresh number now means the next wave runs off current strength instead of a 7-week-old max.
+
+Ramp in small jumps near the top. Keep Valsalva moderate. Safety arms set just below chest height. Stop at form breakdown.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Bench Press (work up to a max single) | Ramp → top single | 45 / 95 / 135 / 165 / 185 / 205 / 215 / **225** | Push past 215 (8/17). Small jumps at the top |
+| Pull-ups / Chin-ups | 4 x 6–12 | BW or weighted | Vertical pull |
+| Arnold Press | 4 x 10–12 | 35 lb DBs | Delts — different plane from the ME lift |
+| EZ Bar Curls | 3 x 10–12 | **25/side (65.5)** | Strict, no swing |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Neutral grip |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+
+---
+
 ## 2026-10-02 — DE Lower (Wave 3 of 3 — 60%)
 
 **Feel:** —

@@ -39,6 +39,7 @@ status: current
 
 | Date | Variation | Result |
 |---|---|---|
+| 2026-10-03 | Flat Bench | *planned — max attempt, 225 target* |
 | 2026-09-27 | Overhead Press | **135x1 strict** (+2 with leg drive) |
 | 2026-09-21 | **Pin Press** ⭐ | **185x3** — first ever |
 | 2026-09-11 | Close-Grip Bench | 190x3 (target — result not logged) |
