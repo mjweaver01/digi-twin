@@ -18,14 +18,14 @@ status: current
 
 | Wave | Last session | Position used | Next session is |
 |---|---|---|---|
-| **DE Upper** | 2026-09-30 | 2 of 3 — 120 | **3 of 3 — 130**, then reset |
+| **DE Upper** | 2026-09-30 | 2 of 3 — 120 | **3 of 3 — 130** (finishes on the old 215 basis), then **reset off 225 → 115** |
 | **DE Lower** | 2026-10-02 | 3 of 3 — 170 / 195 | **Reset → 1 of 3 — 145 / 165** |
 
-| Wave position | Speed Bench (of 215) | Speed Box Squat (of 285) | Speed Deadlift (of 325) |
+| Wave position | Speed Bench (of **225** — from next reset) | Speed Box Squat (of 285) | Speed Deadlift (of 325) |
 |---|---|---|---|
-| 1 — 50% | 110 | 145 | 165 |
-| 2 — 55% | 120 | 155 | 180 |
-| 3 — 60% | 130 | 170 | 195 |
+| 1 — 50% | **115** | 145 | 165 |
+| 2 — 55% | **125** | 155 | 180 |
+| 3 — 60% | **135** | 170 | 195 |
 
 **Straight weight — no bands.** Mike dislikes banded barbell work. Bar speed is the governor: when speed visibly drops, the set is over.
 
@@ -39,7 +39,7 @@ status: current
 
 | Date | Variation | Result |
 |---|---|---|
-| 2026-10-03 | Flat Bench | *planned — max attempt, 225 target* |
+| 2026-10-03 | Flat Bench | **225 PR** |
 | 2026-09-27 | Overhead Press | **135x1 strict** (+2 with leg drive) |
 | 2026-09-21 | **Pin Press** ⭐ | **185x3** — first ever |
 | 2026-09-11 | Close-Grip Bench | 190x3 (target — result not logged) |
@@ -49,7 +49,7 @@ status: current
 | 2026-08-17 | Flat Bench | **215 PR** |
 | 2026-08-11 | Overhead Press | 125x3 |
 
-**Eligible next** (3+ weeks clear): Overhead Press, Flat Bench, Incline, Larsen Press. Never run: **Board Press** (needs DIY boards), **EZ Bar Floor Press**.
+**Eligible next** (3+ weeks clear): Incline, Larsen Press, Floor Press, Close-Grip. Never run: **Board Press** (needs DIY boards), **EZ Bar Floor Press**.
 
 ### ME Lower — recent (newest first)
 

@@ -16,7 +16,7 @@ status: current
 
 | Lift | PR | Date |
 |---|---|---|
-| Bench Press | 215 | 2026-08-17 |
+| Bench Press | 225 | 2026-10-03 |
 | Incline Bench | 175 (30°) | 2026-08-22 |
 | Floor Press | 190x3 | 2026-09-05 |
 | Box Squat | 285 | 2026-08-24 |
@@ -36,6 +36,7 @@ status: current
 
 | Date | Lift | Weight | Notes |
 |---|---|---|---|
+| 2026-10-03 | Bench Press | 225 | +10 over 215 (8/17). First max with safety arms. Recalibrates the speed bench wave |
 | 2026-09-28 | Deficit Deadlift | 275x3 | +20 over 255x3 (8/9). Now ~85% of conventional (325), up from 78% — weak point closing |
 | 2026-09-27 | Overhead Press (strict) | 135x1 | Up from 125x3 (8/11). Reps 2–3 at 135 needed leg drive — strict triple still 125 |
 | 2026-09-22 | Anderson Squat | 205x3 | First tracked Anderson squat — dead stop off the safety arms at parallel |

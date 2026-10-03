@@ -1,4 +1,4 @@
-## 2026-10-03 — ME Upper (Flat Bench — MAX ATTEMPT)
+## 2026-10-03 — ME Upper (Flat Bench — MAX ATTEMPT) ✓
 
 **Feel:** —
 **Notes:** Upper day, alternating off yesterday's DE Lower. **Real max attempt.** Flat bench is the stalest upper lift — 215 on 8/17, 47 days ago — and every variation built around it has moved since (floor press 190x3, pin press 185x3, incline 175). Aim **225**.
@@ -9,7 +9,7 @@ Ramp in small jumps near the top. Keep Valsalva moderate. Safety arms set just b
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
-| Bench Press (work up to a max single) | Ramp → top single | 45 / 95 / 135 / 165 / 185 / 205 / 215 / **225** | Push past 215 (8/17). Small jumps at the top |
+| Bench Press (work up to a max single) | Ramp → top single | 45 / 95 / 135 / 165 / 185 / 205 / 215 / **225 (PR)** | ✓ +10 over 215 (8/17). First max with the safety arms |
 | Pull-ups / Chin-ups | 4 x 6–12 | BW or weighted | Vertical pull |
 | Arnold Press | 4 x 10–12 | 35 lb DBs | Delts — different plane from the ME lift |
 | EZ Bar Curls | 3 x 10–12 | **25/side (65.5)** | Strict, no swing |

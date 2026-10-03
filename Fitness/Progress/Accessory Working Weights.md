@@ -37,23 +37,23 @@ status: current
 
 The speed wave is a **3-session pendulum** — 50% → 55% → 60% of the current max, then reset to 50% and recalculate off any new PRs. **Position advances per DE session of that type, not per calendar week.** Upper and lower run independent waves.
 
-| Wave position | Speed Bench (of **215**) | Speed Box Squat (of **285**) | Speed Deadlift (of **325**) |
+| Wave position | Speed Bench (of **225**) | Speed Box Squat (of **285**) | Speed Deadlift (of **325**) |
 |---|---|---|---|
-| **1** — 50% | **110** | **145** | **165** |
-| **2** — 55% | **120** | **155** | **180** |
-| **3** — 60% | **130** | **170** | **195** |
+| **1** — 50% | **115** | **145** | **165** |
+| **2** — 55% | **125** | **155** | **180** |
+| **3** — 60% | **135** | **170** | **195** |
 | → reset | recalc off new bench | recalc off new box squat | recalc off new DL |
 
-*All recalculated off tested maxes: bench 215 (8/17), box squat 285 (8/24), conventional deadlift 325 (8/31).*
+*All recalculated off tested maxes: bench 225 (10/3), box squat 285 (8/24), conventional deadlift 325 (8/31).*
 
 ### Current position
 
 | Wave | Last session | Position used | Next session is |
 |---|---|---|---|
-| **DE Upper** | 2026-09-30 | 2 of 3 (120) | **3 of 3 — 130**, then reset |
+| **DE Upper** | 2026-09-30 | 2 of 3 (120) | **3 of 3 — 130** (old basis), then **reset off 225 → 115** |
 | **DE Lower** | 2026-10-02 | 3 of 3 (170 / 195) | **Reset → Wave 1 — 145 / 165** |
 
-✅ **All three speed lifts run off tested maxes** — bench 215 (8/17), box squat 285 (8/24), conventional deadlift 325 (8/31). No estimates in the wave.
+✅ **All three speed lifts run off tested maxes** — bench 225 (10/3), box squat 285 (8/24), conventional deadlift 325 (8/31). No estimates in the wave.
 
 ### EZ Bar
 **EZ bar = 15.5 lbs** (confirmed 2026-09-03). Loadable in 5 lb pairs (2.5s if available), so achievable totals are 15.5 / 25.5 / 35.5 / 45.5 / 55.5 / 65.5 …
@@ -86,7 +86,7 @@ Use these when a movement isn't in the table yet. Percentages are of the relevan
 
 | Movement type | % of main lift | Reference lift |
 |---|---|---|
-| Barbell Row (8–12) | 60–70% | Bench (215) |
+| Barbell Row (8–12) | 60–70% | Bench (225) |
 | RDL / Stiff-Leg (8–10) | 55–65% | Conventional DL (325) |
 | Good Morning (8–10) | 30–40% | Conventional DL |
 | Overhead Press (3–5) | 55–65% | Bench |
