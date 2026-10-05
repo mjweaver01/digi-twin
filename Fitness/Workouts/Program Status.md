@@ -55,6 +55,7 @@ status: current
 
 | Date | Variation | Result |
 |---|---|---|
+| 2026-10-05 | Front Squat | *planned — 200x3 target* |
 | 2026-09-28 | Deficit Deadlift | **275x3 PR** |
 | 2026-09-22 | **Anderson Squat** ⭐ | **205x3** — first ever |
 | 2026-09-12 | Sumo Deadlift | **305 PR** |
@@ -64,7 +65,7 @@ status: current
 | 2026-08-15 | Front Squat | 185x3 |
 | 2026-08-09 | Deficit Deadlift | 255x3 |
 
-**Eligible next** (3+ weeks clear): Front Squat, Conventional, Box Squat. Never run: **Rack/Pin Pulls** ⭐(newly unlocked), **Heavy Good Morning**, **Zercher Squat**.
+**Eligible next** (3+ weeks clear): Conventional, Box Squat, Sumo, Paused Squat. Never run: **Rack/Pin Pulls** ⭐(newly unlocked), **Heavy Good Morning**, **Zercher Squat**.
 
 > ✅ **Safety arms added 2026-09-19** — **Pin Press**, **Anderson Squat**, and **Rack/Pin Pulls** are now available and never run. All three are fresh stimulus and target lockout / dead-stop strength.
 

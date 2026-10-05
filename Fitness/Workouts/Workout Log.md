@@ -1,3 +1,37 @@
+# Workout Log
+
+## 2026-10-05 — ME Lower (Front Squat)
+
+**Feel:** —
+**Notes:** Lower day, alternating off Saturday's bench max. Picked to attack the gap Program Status flags: the bottom of the squat / forward lean (Anderson squat is only 72% of box squat). Anderson itself is inside the 3-week window, so front squat takes the job — the front rack won't let you lean forward without dumping the bar.
+
+It's also the stalest lower variation: 185x3 on 8/15, 51 days ago. That's only ~65% of your 285 box squat; front squats usually land 80–85%, so there's a lot of room. Aim **200x3**.
+
+Elbows high, bar on the front delts, upright torso. Stop the moment the elbows drop or the chest caves.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Front Squat (work up to heavy triple) | Ramp → top triple | 45 / 95 / 135 / 165 / 185 / **200 x3** | Elbows high, chest up. Push past 185x3 (8/15) |
+| KB Swings | 3 x 15–20 | 35 lb KB | Hip-driven, snap the hips |
+| Barbell Rows — Supinated | 4 x 8–12 | **140 lbs** | Underhand, pull to lower chest |
+| DB Curls | 3 x 10–12 | 25–35 lb DBs | Adjust to feel after the rows |
+| Cross-Body Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Across the chest |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+| V-Ups | 3 x 12–15 | BW | Hands and feet meet at the top, slow on the way down |
+
+---
+
+## 2026-10-04 — Active Recovery (2-Mile Walk)
+
+**Feel:** —
+**Notes:** No lifting — walked 2 miles. Active recovery after 10/2–10/3.
+
+| Exercise | Distance | Notes |
+|---|---|---|
+| Walk | 2 miles | Active recovery |
+
+---
+
 ## 2026-10-03 — ME Upper (Flat Bench — MAX ATTEMPT) ✓
 
 **Feel:** —
