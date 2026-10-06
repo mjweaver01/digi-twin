@@ -1,6 +1,25 @@
 # Workout Log
 
-## 2026-10-05 — ME Lower (Front Squat)
+## 2026-10-06 — DE Upper (Wave 3 of 3 — 60%)
+
+**Feel:** —
+**Notes:** Upper day, alternating off yesterday's front squat. **Closes the upper wave** at 130 — 60% of the old 215 basis. Next DE Upper resets off the new 225 bench → **115**. Straight weight, no bands. Rotate grip close/medium/wide, 3 sets each. **Bar speed governs.**
+
+Second day of the block — rest tomorrow (10/7). Accessories picked by longest gap; nothing repeats from 10/3 or 10/5.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Bench Press | 9 x 3 | **130 lbs** | Rotate grip: 3 close / 3 medium / 3 wide. 45–60s rest |
+| Lawnmowers | 4 x 10 | 35 lb DB | Single-arm, brace hard |
+| DB Incline Press | 4 x 10–12 | 35 lb DBs | Upper chest |
+| JM Press | 3 x 8–10 | **25/side (65.5)** | Bar to throat, elbows forward |
+| EZ Bar Curls | 3 x 10–12 | **25/side (65.5)** | Strict, no swing |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Neutral grip |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+
+---
+
+## 2026-10-05 — ME Lower (Front Squat) ✓
 
 **Feel:** —
 **Notes:** Lower day, alternating off Saturday's bench max. Picked to attack the gap Program Status flags: the bottom of the squat / forward lean (Anderson squat is only 72% of box squat). Anderson itself is inside the 3-week window, so front squat takes the job — the front rack won't let you lean forward without dumping the bar.
@@ -11,7 +30,7 @@ Elbows high, bar on the front delts, upright torso. Stop the moment the elbows d
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
-| Front Squat (work up to heavy triple) | Ramp → top triple | 45 / 95 / 135 / 165 / 185 / **200 x3** | Elbows high, chest up. Push past 185x3 (8/15) |
+| Front Squat (work up to heavy triple) | Ramp → top triple | 45 / 95 / 135 / 165 / 185 / **200 x3 (PR)** | ✓ +15 over 185x3 (8/15). Rep 3 needed a bounce/kip to finish — first two clean |
 | KB Swings | 3 x 15–20 | 35 lb KB | Hip-driven, snap the hips |
 | Barbell Rows — Supinated | 4 x 8–12 | **140 lbs** | Underhand, pull to lower chest |
 | DB Curls | 3 x 10–12 | 25–35 lb DBs | Adjust to feel after the rows |

@@ -50,7 +50,7 @@ The speed wave is a **3-session pendulum** — 50% → 55% → 60% of the curren
 
 | Wave | Last session | Position used | Next session is |
 |---|---|---|---|
-| **DE Upper** | 2026-09-30 | 2 of 3 (120) | **3 of 3 — 130** (old basis), then **reset off 225 → 115** |
+| **DE Upper** | 2026-10-06 | 3 of 3 (130, old basis) | **Reset → Wave 1 — 115** (off 225) |
 | **DE Lower** | 2026-10-02 | 3 of 3 (170 / 195) | **Reset → Wave 1 — 145 / 165** |
 
 ✅ **All three speed lifts run off tested maxes** — bench 225 (10/3), box squat 285 (8/24), conventional deadlift 325 (8/31). No estimates in the wave.

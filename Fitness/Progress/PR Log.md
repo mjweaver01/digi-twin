@@ -23,7 +23,7 @@ status: current
 | Conventional Deadlift | 325 | 2026-08-31 |
 | Sumo Deadlift | 305 | 2026-09-12 |
 | Deficit Deadlift | 275x3 | 2026-09-28 |
-| Front Squat | 185x3 | 2026-08-15 |
+| Front Squat | 200x3 | 2026-10-05 |
 | Larsen Press | 175x3 | 2026-08-28 |
 | Paused Squat | 215x3 | 2026-09-06 |
 | Pin Press | 185x3 | 2026-09-21 |
@@ -36,6 +36,7 @@ status: current
 
 | Date | Lift | Weight | Notes |
 |---|---|---|---|
+| 2026-10-05 | Front Squat | 200x3 | +15 over 185x3 (8/15). Rep 3 needed a bounce to finish — top end of current strength |
 | 2026-10-03 | Bench Press | 225 | +10 over 215 (8/17). First max with safety arms. Recalibrates the speed bench wave |
 | 2026-09-28 | Deficit Deadlift | 275x3 | +20 over 255x3 (8/9). Now ~85% of conventional (325), up from 78% — weak point closing |
 | 2026-09-27 | Overhead Press (strict) | 135x1 | Up from 125x3 (8/11). Reps 2–3 at 135 needed leg drive — strict triple still 125 |

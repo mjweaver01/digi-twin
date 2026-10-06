@@ -18,7 +18,7 @@ status: current
 
 | Wave | Last session | Position used | Next session is |
 |---|---|---|---|
-| **DE Upper** | 2026-09-30 | 2 of 3 — 120 | **3 of 3 — 130** (finishes on the old 215 basis), then **reset off 225 → 115** |
+| **DE Upper** | 2026-10-06 | 3 of 3 — 130 (old 215 basis) | **Reset → 1 of 3 — 115** (off 225) |
 | **DE Lower** | 2026-10-02 | 3 of 3 — 170 / 195 | **Reset → 1 of 3 — 145 / 165** |
 
 | Wave position | Speed Bench (of **225** — from next reset) | Speed Box Squat (of 285) | Speed Deadlift (of 325) |
@@ -55,7 +55,7 @@ status: current
 
 | Date | Variation | Result |
 |---|---|---|
-| 2026-10-05 | Front Squat | *planned — 200x3 target* |
+| 2026-10-05 | Front Squat | **200x3 PR** (rep 3 bounced) |
 | 2026-09-28 | Deficit Deadlift | **275x3 PR** |
 | 2026-09-22 | **Anderson Squat** ⭐ | **205x3** — first ever |
 | 2026-09-12 | Sumo Deadlift | **305 PR** |
