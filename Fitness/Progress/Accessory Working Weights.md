@@ -23,8 +23,6 @@ status: current
 |---|---|---|---|
 | Barbell Rows — supinated / standard grip | **140** | 4 x 8–12 | **Logged 9/24** (2 sets) |
 | Barbell Rows — snatch grip | **140** | 4 x 8–12 | **Logged 9/24** (2 sets). My 115 estimate was too low — Mike moves the same load with either grip |
-| Stiff-Leg / Snatch-Grip RDL | **195** | 3–4 x 8–10 | ESTIMATE — ~60% of conventional DL (325) |
-| Good Mornings | **125** | 3–4 x 8–10 | ESTIMATE — ~38% of conventional DL (325) |
 
 ### Barbell — Pressing
 | Exercise | Working weight | Reps | Basis |
@@ -51,7 +49,7 @@ The speed wave is a **3-session pendulum** — 50% → 55% → 60% of the curren
 | Wave | Last session | Position used | Next session is |
 |---|---|---|---|
 | **DE Upper** | 2026-10-06 | 3 of 3 (130, old basis) | **Reset → Wave 1 — 115** (off 225) |
-| **DE Lower** | 2026-10-02 | 3 of 3 (170 / 195) | **Reset → Wave 1 — 145 / 165** |
+| **DE Lower** | 2026-10-08 | 1 of 3 (145 / 165) | **2 of 3 — 155 / 180** |
 
 ✅ **All three speed lifts run off tested maxes** — bench 225 (10/3), box squat 285 (8/24), conventional deadlift 325 (8/31). No estimates in the wave.
 
@@ -70,6 +68,7 @@ The speed wave is a **3-session pendulum** — 50% → 55% → 60% of the curren
 ### Dumbbell / Bodyweight
 | Exercise | Working weight | Reps | Basis |
 |---|---|---|---|
+| KB Swings | 35 lb KB | 3 x 15–20 | Only hinge accessory — no RDLs, good mornings, or hip thrusts |
 | Lawnmowers | 35 lb DB | 4 x 10 | **Logged 8/5** |
 | DB Incline / Flat Press | 35 lb DBs | 4 x 10–12 | Logged |
 | Arnold Press | 35 lb DBs | 4 x 10–12 | Logged |

@@ -21,11 +21,10 @@ Ramp slowly. If form breaks down, drop weight. (Watch the forward lean / bar pat
 | **Front Squat** | Upper back, trunk | Will expose the forward-lean habit — good |
 | **Paused Squat** | Kills the stretch reflex | 2–3s pause at the bottom |
 | **Anderson Squat** ⭐NEW | Dead-stop out of the hole | Bar starts on safety arms at/below parallel. Unlocked Sept 2026 |
-| **Heavy Good Morning** | Posterior chain | As the *main* lift, loaded — not the light accessory version |
 | **Banded Box Squat / Banded Deadlift** | Accommodating resistance | Bands anchored under the rack / feet |
 | **Zercher Squat** | Trunk, upper back | Bar in the elbow crooks |
 
-**Suggested sequence** (no repeat inside 3 weeks): Box Squat → Deficit Deadlift → Front Squat → Sumo → **Pin Pulls** → Paused Squat → **Anderson Squat** → Conventional → Heavy Good Morning → Zercher Squat → repeat.
+**Suggested sequence** (no repeat inside 3 weeks): Box Squat → Deficit Deadlift → Front Squat → Sumo → **Pin Pulls** → Paused Squat → **Anderson Squat** → Conventional → Zercher Squat → repeat.
 
 > ✅ **Safety arms added Sept 2026** — Anderson squats and proper rack/pin pulls are both available now.
 
@@ -46,7 +45,7 @@ Ramp slowly. If form breaks down, drop weight. (Watch the forward lean / bar pat
 
 | Job | Options | Sets x Reps |
 |---|---|---|
-| **Posterior chain** (hinge) | Stiff-Leg / Snatch-Grip RDL **or** Good Mornings | 3–4 x 8–10 |
+| **Posterior chain** (hinge) | **KB Swings** — the only hinge accessory Mike wants. Skip the slot entirely when the ME lift is a pull | 3 x 15–20 |
 | **Upper back / delts** | **Lawnmowers** (preferred) **or** Barbell Rows **or** Pull-ups **or** Arnold Press | 4 x 10–12 |
 | **Arms** ⭐ | **Two curl variations allowed** — one supinated (DB or EZ Bar Curls, 3 x 10–12) + Hammer Curls (3 x 12–15). Different elbow flexors, low systemic cost | see options |
 | **Core** | **Toes-to-Bar** — always. Vary by adding weight or slowing the tempo, not by swapping the movement | 3 x 10–15 |
@@ -63,6 +62,6 @@ Things that look like different exercises but do the same job. Never stack these
 - **Trunk** — carries, planks, dead bugs, Pallof. One block only.
 
 ### ⛔ Do not program
-Banded leg curls · Nordic curls · slider curls · back raises / bench back extensions · hanging leg raises · farmer's & suitcase carries · Bulgarian split squats · preacher curls — Mike dislikes these.
+Banded leg curls · Nordic curls · slider curls · back raises / bench back extensions · hanging leg raises · farmer's & suitcase carries · Bulgarian split squats · preacher curls · good mornings · RDLs / stiff-leg deadlifts · hip thrusts — Mike dislikes these.
 
 **Rest:** 3–5 min on ME sets, 60–90s on accessories

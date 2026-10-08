@@ -1,5 +1,32 @@
 # Workout Log
 
+## 2026-10-08 — DE Lower (Wave 1 of 3 — 50%, new cycle)
+
+**Feel:** —
+**Notes:** Lower day, alternating off Tuesday's DE Upper. **New wave starts** — pendulum resets to position 1 of 3 = 50%. Box squats 145 (50% of 285), speed deadlifts 165 (50% of 325). Straight weight, no bands. Wide stance (10/2 was normal). **Bar speed governs.**
+
+Accessories picked by longest gap; nothing repeats from 10/5 or 10/6.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Box Squats — wide stance | 10–12 x 2 | **145 lbs** | 50% of 285. Sit back, pause, explode up. 45–60s rest |
+| Speed Deadlifts | 6–8 x 1 | **165 lbs** | 50% of 325. Full reset each rep, explosive pull. 45–60s rest |
+| KB Swings | 3 x 15–20 | 35 lb KB | Hip-driven, snap the hips |
+| Pull-ups / Chin-ups | 4 x 6–12 | BW or weighted | Vertical pull |
+| DB Curls | 3 x 10–12 | 25–35 lb DBs | Supinated |
+| Cross-Body Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Across the chest |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+| Toes-to-Bar | 3 x 10–15 | BW | Full ROM |
+
+---
+
+## 2026-10-07 — Rest Day
+
+**Feel:** —
+**Notes:** Rest day after 10/5–10/6.
+
+---
+
 ## 2026-10-06 — DE Upper (Wave 3 of 3 — 60%)
 
 **Feel:** —

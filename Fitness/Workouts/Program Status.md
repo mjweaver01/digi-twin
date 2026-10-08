@@ -19,7 +19,7 @@ status: current
 | Wave | Last session | Position used | Next session is |
 |---|---|---|---|
 | **DE Upper** | 2026-10-06 | 3 of 3 — 130 (old 215 basis) | **Reset → 1 of 3 — 115** (off 225) |
-| **DE Lower** | 2026-10-02 | 3 of 3 — 170 / 195 | **Reset → 1 of 3 — 145 / 165** |
+| **DE Lower** | 2026-10-08 | 1 of 3 — 145 / 165 | **2 of 3 — 155 / 180** |
 
 | Wave position | Speed Bench (of **225** — from next reset) | Speed Box Squat (of 285) | Speed Deadlift (of 325) |
 |---|---|---|---|
@@ -65,7 +65,7 @@ status: current
 | 2026-08-15 | Front Squat | 185x3 |
 | 2026-08-09 | Deficit Deadlift | 255x3 |
 
-**Eligible next** (3+ weeks clear): Conventional, Box Squat, Sumo, Paused Squat. Never run: **Rack/Pin Pulls** ⭐(newly unlocked), **Heavy Good Morning**, **Zercher Squat**.
+**Eligible next** (3+ weeks clear): Conventional, Box Squat, Sumo, Paused Squat. Never run: **Rack/Pin Pulls** ⭐(newly unlocked), **Zercher Squat**.
 
 > ✅ **Safety arms added 2026-09-19** — **Pin Press**, **Anderson Squat**, and **Rack/Pin Pulls** are now available and never run. All three are fresh stimulus and target lockout / dead-stop strength.
 

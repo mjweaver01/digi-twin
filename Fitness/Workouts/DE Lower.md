@@ -35,7 +35,7 @@
 | Job | **Variation A** | **Variation B** | Sets x Reps |
 |---|---|---|---|
 | **Speed squat stance** | Normal / competition | Wide — drive knees out | 10–12 x 2 |
-| **Posterior chain** (hinge) | Stiff-Leg / Snatch-Grip RDL | Good Mornings | 3–4 x 8–10 |
+| **Posterior chain** (hinge) | KB Swings | KB Swings (more reps or slower eccentric) | 3 x 15–20 |
 | **Upper back** (pull) | Lawnmowers | Barbell Rows **or** Pull-ups | 4 x 8–12 |
 | **Arms** ⭐ (two allowed) | DB Curls + Hammer Curls | EZ Bar Curls + Cross-Body Hammer Curls | 3 x 10–12 / 3 x 12–15 |
 | **Core** | Toes-to-Bar | Toes-to-Bar (weighted, or slower tempo) | 3 x 10–15 |
@@ -54,6 +54,6 @@ Things that look like different exercises but do the same job. Never stack these
 *(Anti-movement core — dead bugs, Pallof, planks — was a July 2026 accommodation for a thoracic injury. Mike is healthy; default back to loaded flexion.)*
 
 ### ⛔ Do not program
-Banded leg curls · Nordic curls · slider curls · back raises / bench back extensions · hanging leg raises · farmer's & suitcase carries · Bulgarian split squats · preacher curls — Mike dislikes these.
+Banded leg curls · Nordic curls · slider curls · back raises / bench back extensions · hanging leg raises · farmer's & suitcase carries · Bulgarian split squats · preacher curls · good mornings · RDLs / stiff-leg deadlifts · hip thrusts — Mike dislikes these.
 
 **Rest:** 45–60s on speed sets, 60–90s on accessories

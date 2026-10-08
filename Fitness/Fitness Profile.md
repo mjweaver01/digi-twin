@@ -106,7 +106,8 @@ Main gap is calories, not protein. For evening, lean on fat-based foods rather t
 - **ME emphasis:** bias heavy **3s/5s over true singles** for mass; singles for testing only. **Rotate the ME variation every 1–2 weeks; never repeat one within 3 weeks.** Deep rotation pools live in [[Fitness/Workouts/ME Upper]] and [[Fitness/Workouts/ME Lower]].
 - **Accessories:** **ONE movement per job, 4 accessories max.** Slots are defined by function (posterior chain / pull / press / arms / core), not by an open menu. Check the redundancy watch-lists in the templates before adding anything. Arms are the one exception — two curl variations allowed.
 - **Prescribe real weights** — never "loaded barbell" or "EZ bar" with no number. Pull from [[Fitness/Progress/Accessory Working Weights]].
-- **⛔ Do not program:** banded leg curls · Nordic curls · slider curls · back raises / bench back extensions · hanging leg raises · farmer's & suitcase carries · Bulgarian split squats · preacher curls.
+- **⛔ Do not program:** banded leg curls · Nordic curls · slider curls · back raises / bench back extensions · hanging leg raises · farmer's & suitcase carries · Bulgarian split squats · preacher curls · good mornings · RDLs / stiff-leg deadlifts · hip thrusts.
+- **Hinge accessory:** KB swings only.
 - **Rep-effort work:** dips + high-rep DB pressing to failure for hypertrophy.
 - **Weak points:** forward lean on squats = upper-back/bracing — prioritize heavy rows + ab/bracing work every lower day.
 - Good movement foundation from CrossFit background.
