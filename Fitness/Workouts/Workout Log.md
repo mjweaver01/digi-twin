@@ -1,5 +1,25 @@
 # Workout Log
 
+## 2026-10-09 — ME Upper (Incline Bench — MAX ATTEMPT)
+
+**Feel:** —
+**Notes:** Upper day, alternating off yesterday's DE Lower. ME rotation moves to incline — next in sequence and the stalest upper variation: 175 on 8/22 (30°), 48 days ago. Flat bench has gone 215 → 225 since. Aim **185**.
+
+**Angle: 30°** — same as 8/22, so the numbers are comparable. Safety arms just below chest height. Small jumps at the top; stop at form breakdown.
+
+Second day of the block — rest tomorrow (10/10).
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Incline Bench Press (work up to a max single) | Ramp → top single | 45 / 95 / 135 / 155 / 175 / **185** | **30°**. Push past 175 (8/22) |
+| Barbell Rows — Supinated | 4 x 8–12 | **140 lbs** | Underhand, pull to lower chest |
+| Flat DB Press | 4 x 10–12 | 35 lb DBs | Different angle from the ME lift |
+| EZ Bar Curls | 3 x 10–12 | **25/side (65.5)** | Adjust to feel after the rows |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Neutral grip |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+
+---
+
 ## 2026-10-08 — DE Lower (Wave 1 of 3 — 50%, new cycle)
 
 **Feel:** —
