@@ -1,6 +1,32 @@
 # Workout Log
 
-## 2026-10-09 — ME Upper (Incline Bench — MAX ATTEMPT)
+## 2026-10-11 — DE Upper (Wave 1 of 3 — 50%, new cycle)
+
+**Feel:** —
+**Notes:** Upper by request (two upper sessions in a row, separated by the 10/10 rest day). **New wave starts** — first speed bench session off the new 225 PR: position 1 of 3 = 50% ≈ **115**. Straight weight, no bands. Rotate grip close/medium/wide, 3 sets each. **Bar speed governs.**
+
+Speed work is deliberately light, which suits following Friday's incline max. Next session should be lower — last lower was 10/8.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Bench Press | 9 x 3 | **115 lbs** | 50% of 225. Rotate grip: 3 close / 3 medium / 3 wide. 45–60s rest |
+| Lawnmowers | 4 x 10 | 35 lb DB | Single-arm, brace hard |
+| Arnold Press | 4 x 10–12 | 35 lb DBs | Delts |
+| Rolling DB Tricep Extensions | 3 x 10–12 | 25 lb DBs | Lower DBs beside the head, roll elbows back, press up |
+| DB Curls | 3 x 10–12 | 25–35 lb DBs | Supinated |
+| Cross-Body Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Across the chest |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+
+---
+
+## 2026-10-10 — Rest Day
+
+**Feel:** —
+**Notes:** Rest day after 10/8–10/9.
+
+---
+
+## 2026-10-09 — ME Upper (Incline Bench — MAX ATTEMPT) ✓
 
 **Feel:** —
 **Notes:** Upper day, alternating off yesterday's DE Lower. ME rotation moves to incline — next in sequence and the stalest upper variation: 175 on 8/22 (30°), 48 days ago. Flat bench has gone 215 → 225 since. Aim **185**.
@@ -11,7 +37,7 @@ Second day of the block — rest tomorrow (10/10).
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
-| Incline Bench Press (work up to a max single) | Ramp → top single | 45 / 95 / 135 / 155 / 175 / **185** | **30°**. Push past 175 (8/22) |
+| Incline Bench Press (work up to a max single) | Ramp → top single | 45 / 95 / 135 / 155 / 175 / **185 (PR)** | ✓ **30°**. +10 over 175 (8/22) |
 | Barbell Rows — Supinated | 4 x 8–12 | **140 lbs** | Underhand, pull to lower chest |
 | Flat DB Press | 4 x 10–12 | 35 lb DBs | Different angle from the ME lift |
 | EZ Bar Curls | 3 x 10–12 | **25/side (65.5)** | Adjust to feel after the rows |

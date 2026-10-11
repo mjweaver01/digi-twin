@@ -18,10 +18,10 @@ status: current
 
 | Wave | Last session | Position used | Next session is |
 |---|---|---|---|
-| **DE Upper** | 2026-10-06 | 3 of 3 — 130 (old 215 basis) | **Reset → 1 of 3 — 115** (off 225) |
+| **DE Upper** | 2026-10-11 | 1 of 3 — 115 (off 225) | **2 of 3 — 125** |
 | **DE Lower** | 2026-10-08 | 1 of 3 — 145 / 165 | **2 of 3 — 155 / 180** |
 
-| Wave position | Speed Bench (of **225** — from next reset) | Speed Box Squat (of 285) | Speed Deadlift (of 325) |
+| Wave position | Speed Bench (of **225**) | Speed Box Squat (of 285) | Speed Deadlift (of 325) |
 |---|---|---|---|
 | 1 — 50% | **115** | 145 | 165 |
 | 2 — 55% | **125** | 155 | 180 |
@@ -39,7 +39,7 @@ status: current
 
 | Date | Variation | Result |
 |---|---|---|
-| 2026-10-09 | Incline (30°) | *planned — 185 max attempt* |
+| 2026-10-09 | Incline (30°) | **185 PR** |
 | 2026-10-03 | Flat Bench | **225 PR** |
 | 2026-09-27 | Overhead Press | **135x1 strict** (+2 with leg drive) |
 | 2026-09-21 | **Pin Press** ⭐ | **185x3** — first ever |
