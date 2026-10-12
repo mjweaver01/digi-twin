@@ -1,6 +1,27 @@
 # Workout Log
 
-## 2026-10-11 — DE Upper (Wave 1 of 3 — 50%, new cycle)
+## 2026-10-12 — ME Lower (Paused Squat)
+
+**Feel:** —
+**Notes:** Lower day, alternating off yesterday's DE Upper. Paused squat attacks the gap Program Status flags — the bottom of the squat / forward lean (Anderson squat is only 72% of box squat). Last run 9/6 at 215x3, 36 days ago. Aim **225x3**.
+
+Full 2–3 second pause at the bottom, dead still, chest up — then drive. No bouncing out of the hole. Safety arms set just below the bottom position. Stop at form breakdown.
+
+Second day of the block — rest tomorrow (10/13).
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Paused Squat (work up to heavy triple) | Ramp → top triple | 45 / 135 / 165 / 195 / 215 / **225 x3** | 2–3s pause at the bottom, chest up. Push past 215x3 (9/6) |
+| KB Swings | 3 x 15–20 | 35 lb KB | Hip-driven, snap the hips |
+| Pull-ups / Chin-ups | 4 x 6–12 | BW or weighted | Vertical pull |
+| EZ Bar Curls | 3 x 10–12 | **25/side (65.5)** | Strict, no swing |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Neutral grip |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+| Toes-to-Bar | 3 x 10–15 | BW | Full ROM |
+
+---
+
+## 2026-10-11 — DE Upper (Wave 1 of 3 — 50%, new cycle) ✓
 
 **Feel:** —
 **Notes:** Upper by request (two upper sessions in a row, separated by the 10/10 rest day). **New wave starts** — first speed bench session off the new 225 PR: position 1 of 3 = 50% ≈ **115**. Straight weight, no bands. Rotate grip close/medium/wide, 3 sets each. **Bar speed governs.**
