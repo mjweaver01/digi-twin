@@ -39,6 +39,7 @@ status: current
 
 | Date | Variation | Result |
 |---|---|---|
+| 2026-10-14 | Larsen Press | *planned — 185x3 target* |
 | 2026-10-09 | Incline (30°) | **185 PR** |
 | 2026-10-03 | Flat Bench | **225 PR** |
 | 2026-09-27 | Overhead Press | **135x1 strict** (+2 with leg drive) |
@@ -50,13 +51,13 @@ status: current
 | 2026-08-17 | Flat Bench | **215 PR** |
 | 2026-08-11 | Overhead Press | 125x3 |
 
-**Eligible next** (3+ weeks clear): Larsen Press, Floor Press, Close-Grip. Never run: **Board Press** (needs DIY boards), **EZ Bar Floor Press**.
+**Eligible next** (3+ weeks clear): Floor Press, Close-Grip, Pin Press. Never run: **Board Press** (needs DIY boards), **EZ Bar Floor Press**.
 
 ### ME Lower — recent (newest first)
 
 | Date | Variation | Result |
 |---|---|---|
-| 2026-10-12 | Paused Squat | *planned — 225x3 target* |
+| 2026-10-12 | Paused Squat | **225x3 PR** |
 | 2026-10-05 | Front Squat | **200x3 PR** (rep 3 bounced) |
 | 2026-09-28 | Deficit Deadlift | **275x3 PR** |
 | 2026-09-22 | **Anderson Squat** ⭐ | **205x3** — first ever |

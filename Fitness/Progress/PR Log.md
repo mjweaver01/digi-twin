@@ -25,7 +25,7 @@ status: current
 | Deficit Deadlift | 275x3 | 2026-09-28 |
 | Front Squat | 200x3 | 2026-10-05 |
 | Larsen Press | 175x3 | 2026-08-28 |
-| Paused Squat | 215x3 | 2026-09-06 |
+| Paused Squat | 225x3 | 2026-10-12 |
 | Pin Press | 185x3 | 2026-09-21 |
 | Anderson Squat | 205x3 | 2026-09-22 |
 | Overhead Press (strict) | 135x1 | 2026-09-27 |
@@ -36,6 +36,7 @@ status: current
 
 | Date | Lift | Weight | Notes |
 |---|---|---|---|
+| 2026-10-12 | Paused Squat | 225x3 | +10 over 215x3 (9/6). Bottom-position strength improving |
 | 2026-10-09 | Incline Bench | 185 | +10 over 175 (8/22), same 30° angle — directly comparable |
 | 2026-10-05 | Front Squat | 200x3 | +15 over 185x3 (8/15). Rep 3 needed a bounce to finish — top end of current strength |
 | 2026-10-03 | Bench Press | 225 | +10 over 215 (8/17). First max with safety arms. Recalibrates the speed bench wave |

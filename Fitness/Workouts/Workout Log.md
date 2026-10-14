@@ -1,6 +1,33 @@
 # Workout Log
 
-## 2026-10-12 — ME Lower (Paused Squat)
+## 2026-10-14 — ME Upper (Larsen Press)
+
+**Feel:** —
+**Notes:** Upper day, alternating off Monday's paused squat. ME rotation follows the sequence after incline → **Larsen press**. It's also the stalest upper variation: 175x3 on 8/28, 47 days ago, when bench was 215 — it's 225 now. Aim **185x3**.
+
+Feet up on the bench — no leg drive at all. Shoulder blades pinned, controlled descent. Safety arms just below chest height. If the setup feels unstable, drop the weight rather than fighting it.
+
+Second day of the block — rest tomorrow (10/15).
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Larsen Press (work up to heavy triple) | Ramp → top triple | 45 / 95 / 135 / 155 / 175 / **185 x3** | Feet up, no leg drive. Push past 175x3 (8/28) |
+| Barbell Rows — Supinated | 4 x 8–12 | **140 lbs** | Underhand, pull to lower chest |
+| DB Incline Press | 4 x 10–12 | 35 lb DBs | Upper chest — different angle from the ME lift |
+| DB Curls | 3 x 10–12 | 25–35 lb DBs | Adjust to feel after the rows |
+| Cross-Body Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Across the chest |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+
+---
+
+## 2026-10-13 — Rest Day
+
+**Feel:** —
+**Notes:** Rest day after 10/11–10/12.
+
+---
+
+## 2026-10-12 — ME Lower (Paused Squat) ✓
 
 **Feel:** —
 **Notes:** Lower day, alternating off yesterday's DE Upper. Paused squat attacks the gap Program Status flags — the bottom of the squat / forward lean (Anderson squat is only 72% of box squat). Last run 9/6 at 215x3, 36 days ago. Aim **225x3**.
@@ -11,7 +38,7 @@ Second day of the block — rest tomorrow (10/13).
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
-| Paused Squat (work up to heavy triple) | Ramp → top triple | 45 / 135 / 165 / 195 / 215 / **225 x3** | 2–3s pause at the bottom, chest up. Push past 215x3 (9/6) |
+| Paused Squat (work up to heavy triple) | Ramp → top triple | 45 / 135 / 165 / 195 / 215 / **225 x3 (PR)** | ✓ 2–3s pause. +10 over 215x3 (9/6) |
 | KB Swings | 3 x 15–20 | 35 lb KB | Hip-driven, snap the hips |
 | Pull-ups / Chin-ups | 4 x 6–12 | BW or weighted | Vertical pull |
 | EZ Bar Curls | 3 x 10–12 | **25/side (65.5)** | Strict, no swing |
