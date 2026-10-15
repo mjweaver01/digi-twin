@@ -1,17 +1,37 @@
 # Workout Log
 
-## 2026-10-14 — ME Upper (Larsen Press)
+## 2026-10-15 — DE Lower (Wave 2 of 3 — 55%)
+
+**Feel:** —
+**Notes:** Lower day, alternating off yesterday's Larsen press. Wave position 2 of 3 = 55%. Box squats 155 (55% of 285), speed deadlifts 180 (55% of 325). Straight weight, no bands. Normal stance (10/8 was wide). **Bar speed governs.**
+
+Second day of the block — rest tomorrow (10/16). Accessories picked by longest gap; nothing repeats from 10/12 or 10/14.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Box Squats — normal stance | 10–12 x 2 | **155 lbs** | 55% of 285. Sit back, pause, explode up. 45–60s rest |
+| Speed Deadlifts | 6–8 x 1 | **180 lbs** | 55% of 325. Full reset each rep, explosive pull. 45–60s rest |
+| KB Swings | 3 x 15–20 | 35 lb KB | Hip-driven, snap the hips |
+| Lawnmowers | 4 x 10 | 35 lb DB | Single-arm, brace hard |
+| EZ Bar Curls | 3 x 10–12 | **25/side (65.5)** | Strict, no swing |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Neutral grip |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+| Toes-to-Bar | 3 x 10–15 | BW | Full ROM |
+
+---
+
+## 2026-10-14 — ME Upper (Larsen Press) ✓
 
 **Feel:** —
 **Notes:** Upper day, alternating off Monday's paused squat. ME rotation follows the sequence after incline → **Larsen press**. It's also the stalest upper variation: 175x3 on 8/28, 47 days ago, when bench was 215 — it's 225 now. Aim **185x3**.
 
 Feet up on the bench — no leg drive at all. Shoulder blades pinned, controlled descent. Safety arms just below chest height. If the setup feels unstable, drop the weight rather than fighting it.
 
-Second day of the block — rest tomorrow (10/15).
+First day of the block (10/13 was rest).
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
-| Larsen Press (work up to heavy triple) | Ramp → top triple | 45 / 95 / 135 / 155 / 175 / **185 x3** | Feet up, no leg drive. Push past 175x3 (8/28) |
+| Larsen Press (work up to heavy triple) | Ramp → top triple | 45 / 95 / 135 / 155 / 175 / **185 x3 (PR)** | ✓ Feet up, no leg drive. +10 over 175x3 (8/28) |
 | Barbell Rows — Supinated | 4 x 8–12 | **140 lbs** | Underhand, pull to lower chest |
 | DB Incline Press | 4 x 10–12 | 35 lb DBs | Upper chest — different angle from the ME lift |
 | DB Curls | 3 x 10–12 | 25–35 lb DBs | Adjust to feel after the rows |

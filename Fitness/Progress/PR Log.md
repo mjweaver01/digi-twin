@@ -24,7 +24,7 @@ status: current
 | Sumo Deadlift | 305 | 2026-09-12 |
 | Deficit Deadlift | 275x3 | 2026-09-28 |
 | Front Squat | 200x3 | 2026-10-05 |
-| Larsen Press | 175x3 | 2026-08-28 |
+| Larsen Press | 185x3 | 2026-10-14 |
 | Paused Squat | 225x3 | 2026-10-12 |
 | Pin Press | 185x3 | 2026-09-21 |
 | Anderson Squat | 205x3 | 2026-09-22 |
@@ -36,6 +36,7 @@ status: current
 
 | Date | Lift | Weight | Notes |
 |---|---|---|---|
+| 2026-10-14 | Larsen Press | 185x3 | +10 over 175x3 (8/28). Feet up, no leg drive |
 | 2026-10-12 | Paused Squat | 225x3 | +10 over 215x3 (9/6). Bottom-position strength improving |
 | 2026-10-09 | Incline Bench | 185 | +10 over 175 (8/22), same 30° angle — directly comparable |
 | 2026-10-05 | Front Squat | 200x3 | +15 over 185x3 (8/15). Rep 3 needed a bounce to finish — top end of current strength |
