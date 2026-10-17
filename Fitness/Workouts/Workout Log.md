@@ -1,5 +1,31 @@
 # Workout Log
 
+## 2026-10-17 — DE Upper (Wave 2 of 3 — 55%)
+
+**Feel:** —
+**Notes:** Upper day, alternating off Thursday's DE Lower. Wave position 2 of 3 = 55% of 225 ≈ **125**. Straight weight, no bands. Rotate grip close/medium/wide, 3 sets each. **Bar speed governs.**
+
+Accessories picked by longest gap; nothing repeats from 10/14 or 10/15.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Bench Press | 9 x 3 | **125 lbs** | 55% of 225. Rotate grip: 3 close / 3 medium / 3 wide. 45–60s rest |
+| Barbell Rows — Supinated | 4 x 8–12 | **140 lbs** | Underhand, pull to lower chest |
+| Flat DB Press | 4 x 10–12 | 35 lb DBs | Chest |
+| Rolling DB Tricep Extensions | 3 x 10–12 | 25 lb DBs | Lower DBs beside the head, roll elbows back, press up |
+| DB Curls | 3 x 10–12 | 25–35 lb DBs | Supinated |
+| Cross-Body Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Across the chest |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+
+---
+
+## 2026-10-16 — Rest Day
+
+**Feel:** —
+**Notes:** Rest day after 10/14–10/15.
+
+---
+
 ## 2026-10-15 — DE Lower (Wave 2 of 3 — 55%)
 
 **Feel:** —
