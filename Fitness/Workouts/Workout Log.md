@@ -1,9 +1,9 @@
 # Workout Log
 
-## 2026-10-17 — DE Upper (Wave 2 of 3 — 55%)
+## 2026-10-18 — DE Upper (Wave 2 of 3 — 55%)
 
 **Feel:** —
-**Notes:** Upper day, alternating off Thursday's DE Lower. Wave position 2 of 3 = 55% of 225 ≈ **125**. Straight weight, no bands. Rotate grip close/medium/wide, 3 sets each. **Bar speed governs.**
+**Notes:** Pushed from 10/17 (rested instead). Upper day, alternating off Thursday's DE Lower. Wave position 2 of 3 = 55% of 225 ≈ **125**. Straight weight, no bands. Rotate grip close/medium/wide, 3 sets each. **Bar speed governs.**
 
 Accessories picked by longest gap; nothing repeats from 10/14 or 10/15.
 
@@ -16,6 +16,13 @@ Accessories picked by longest gap; nothing repeats from 10/14 or 10/15.
 | DB Curls | 3 x 10–12 | 25–35 lb DBs | Supinated |
 | Cross-Body Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Across the chest |
 | Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+
+---
+
+## 2026-10-17 — Rest Day
+
+**Feel:** —
+**Notes:** Rest day — planned DE Upper pushed to 10/18.
 
 ---
 
