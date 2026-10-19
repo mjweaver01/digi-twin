@@ -57,6 +57,7 @@ status: current
 
 | Date | Variation | Result |
 |---|---|---|
+| 2026-10-19 | Box Squat | *planned — max test, 300 target* |
 | 2026-10-12 | Paused Squat | **225x3 PR** |
 | 2026-10-05 | Front Squat | **200x3 PR** (rep 3 bounced) |
 | 2026-09-28 | Deficit Deadlift | **275x3 PR** |
@@ -68,7 +69,7 @@ status: current
 | 2026-08-15 | Front Squat | 185x3 |
 | 2026-08-09 | Deficit Deadlift | 255x3 |
 
-**Eligible next** (3+ weeks clear): Box Squat (stalest — 285 from 8/24), Conventional, Sumo. Never run: **Rack/Pin Pulls** ⭐(newly unlocked), **Zercher Squat**.
+**Eligible next** (3+ weeks clear): Conventional, Sumo. Never run: **Rack/Pin Pulls** ⭐(newly unlocked), **Zercher Squat**.
 
 > ✅ **Safety arms added 2026-09-19** — **Pin Press**, **Anderson Squat**, and **Rack/Pin Pulls** are now available and never run. All three are fresh stimulus and target lockout / dead-stop strength.
 

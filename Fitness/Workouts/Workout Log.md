@@ -1,5 +1,26 @@
 # Workout Log
 
+## 2026-10-19 — ME Lower (Box Squat — MAX TEST)
+
+**Feel:** —
+**Notes:** Lower day, alternating off yesterday's DE Upper. **Last max before the deload.** Box squat is the stalest lower lift — 285 on 8/24, 56 days ago — and it's what the speed box squat wave is calculated from. Since then paused squat went 215 → 225x3 and front squat 185 → 200x3, so the bottom position is stronger. Aim **300**.
+
+Testing now means the post-deload lower wave resets off a current number. Sit back onto the box, pause, explode. Brace hard, chest up — watch the forward lean. Safety arms just below box height. Small jumps at the top; stop at form breakdown. Keep Valsalva moderate.
+
+Rest tomorrow (10/20), then deload week.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Box Squat (work up to a max single) | Ramp → top single | 45 / 135 / 185 / 225 / 255 / 275 / 285 / **300** | Push past 285 (8/24). Small jumps from 275 up |
+| KB Swings | 3 x 15–20 | 35 lb KB | Hip-driven, snap the hips |
+| Pull-ups / Chin-ups | 4 x 6–12 | BW or weighted | Vertical pull |
+| EZ Bar Curls | 3 x 10–12 | **25/side (65.5)** | Strict, no swing |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Neutral grip |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+| Toes-to-Bar | 3 x 10–15 | BW | Full ROM |
+
+---
+
 ## 2026-10-18 — DE Upper (Wave 2 of 3 — 55%)
 
 **Feel:** —
