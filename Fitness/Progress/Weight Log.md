@@ -25,6 +25,7 @@ Track weekly. Weigh in same conditions each time (morning, before eating, after 
 | 2026-08-01 | 170 | Start of August — hit the 170 lbs lean goal. |
 | 2026-08-21 | 175 | Back to the pre-cut number, but lean this time. +5 lbs over the month. |
 | 2026-09-24 | 178 | +3 lbs in ~5 weeks. Includes the Cincinnati trip (9/15–9/17). |
+| 2026-10-19 | 180 | +2 lbs in ~4 weeks. Logged the day of the 305 box squat PR. |
 
 ---
 
