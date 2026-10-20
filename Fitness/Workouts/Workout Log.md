@@ -1,6 +1,32 @@
 # Workout Log
 
-## 2026-10-19 — ME Lower (Box Squat — MAX TEST)
+## 2026-10-21 — DELOAD — Upper (light)
+
+**Feel:** —
+**Notes:** **Deload week, day 1.** Fewer sets, nothing heavy, no grinding. The point is to move the bar and let the last stretch of PRs (seven in 17 days) actually consolidate. Every set should feel easy — if anything feels hard, stop the set.
+
+Speed bench stays at 50% but drops from 9 sets to 6. Accessories cut to 2–3 sets.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Bench Press | 6 x 3 | **115 lbs** | 50% of 225. Rotate grip: 2 close / 2 medium / 2 wide. Crisp, fast |
+| Lawnmowers | 3 x 10 | 35 lb DB | Single-arm |
+| Arnold Press | 2 x 10 | 35 lb DBs | Delts — easy |
+| JM Press | 2 x 10 | **20/side (55.5)** | Light — one plate size down |
+| DB Curls | 2 x 10–12 | 25–35 lb DBs | |
+| Cross-Body Hammer Curls | 2 x 12 | 25–35 lb DBs | |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+
+---
+
+## 2026-10-20 — Rest Day
+
+**Feel:** —
+**Notes:** Rest day after 10/18–10/19. Deload week starts tomorrow.
+
+---
+
+## 2026-10-19 — ME Lower (Box Squat — MAX TEST) ✓
 
 **Feel:** —
 **Notes:** Lower day, alternating off yesterday's DE Upper. **Last max before the deload.** Box squat is the stalest lower lift — 285 on 8/24, 56 days ago — and it's what the speed box squat wave is calculated from. Since then paused squat went 215 → 225x3 and front squat 185 → 200x3, so the bottom position is stronger. Aim **300**.
@@ -11,7 +37,7 @@ Rest tomorrow (10/20), then deload week.
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
-| Box Squat (work up to a max single) | Ramp → top single | 45 / 135 / 185 / 225 / 255 / 275 / 285 / **300** | Push past 285 (8/24). Small jumps from 275 up |
+| Box Squat (work up to a max single) | Ramp → top single | 45 / 135 / 185 / 225 / 255 / 275 / 285 / 300 / **305 (PR)** | ✓ +20 over 285 (8/24). First squat over 300 |
 | KB Swings | 3 x 15–20 | 35 lb KB | Hip-driven, snap the hips |
 | Pull-ups / Chin-ups | 4 x 6–12 | BW or weighted | Vertical pull |
 | EZ Bar Curls | 3 x 10–12 | **25/side (65.5)** | Strict, no swing |

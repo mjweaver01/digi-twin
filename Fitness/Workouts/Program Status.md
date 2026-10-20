@@ -18,14 +18,14 @@ status: current
 
 | Wave | Last session | Position used | Next session is |
 |---|---|---|---|
-| **DE Upper** | 2026-10-18 | 2 of 3 — 125 | **3 of 3 — 135** |
-| **DE Lower** | 2026-10-15 | 2 of 3 — 155 / 180 | **3 of 3 — 170 / 195** |
+| **DE Upper** | 2026-10-18 | 2 of 3 — 125 | **Deload week 10/21–10/26**, then **reset → 1 of 3 — 115** |
+| **DE Lower** | 2026-10-15 | 2 of 3 — 155 / 180 | **Deload week 10/21–10/26**, then **reset → 1 of 3 — 155 / 165** (box squat now 305) |
 
-| Wave position | Speed Bench (of **225**) | Speed Box Squat (of 285) | Speed Deadlift (of 325) |
+| Wave position | Speed Bench (of **225**) | Speed Box Squat (of **305**) | Speed Deadlift (of 325) |
 |---|---|---|---|
-| 1 — 50% | **115** | 145 | 165 |
-| 2 — 55% | **125** | 155 | 180 |
-| 3 — 60% | **135** | 170 | 195 |
+| 1 — 50% | **115** | **155** | 165 |
+| 2 — 55% | **125** | **170** | 180 |
+| 3 — 60% | **135** | **185** | 195 |
 
 **Straight weight — no bands.** Mike dislikes banded barbell work. Bar speed is the governor: when speed visibly drops, the set is over.
 
@@ -57,7 +57,7 @@ status: current
 
 | Date | Variation | Result |
 |---|---|---|
-| 2026-10-19 | Box Squat | *planned — max test, 300 target* |
+| 2026-10-19 | Box Squat | **305 PR** |
 | 2026-10-12 | Paused Squat | **225x3 PR** |
 | 2026-10-05 | Front Squat | **200x3 PR** (rep 3 bounced) |
 | 2026-09-28 | Deficit Deadlift | **275x3 PR** |
@@ -69,7 +69,7 @@ status: current
 | 2026-08-15 | Front Squat | 185x3 |
 | 2026-08-09 | Deficit Deadlift | 255x3 |
 
-**Eligible next** (3+ weeks clear): Conventional, Sumo. Never run: **Rack/Pin Pulls** ⭐(newly unlocked), **Zercher Squat**.
+**Eligible next** (3+ weeks clear): Conventional, Sumo, Deficit Deadlift. Never run: **Rack/Pin Pulls** ⭐(newly unlocked), **Zercher Squat**.
 
 > ✅ **Safety arms added 2026-09-19** — **Pin Press**, **Anderson Squat**, and **Rack/Pin Pulls** are now available and never run. All three are fresh stimulus and target lockout / dead-stop strength.
 
@@ -83,7 +83,7 @@ status: current
 | Prior | None since restarting 2026-06-04 |
 | Guideline | Light week every ~6 weeks of hard training, or when Feel trends ≤ 5 |
 
-Seven max attempts between 7/13 and 9/12 with no formal deload before the trip. Next deload due ~late October, or sooner if top sets stall or bar speed slows.
+**Deload: 2026-10-21 → 10-26.** Seven PRs in 17 days before it (bench 225, front squat 200x3, incline 185, paused squat 225x3, Larsen 185x3, box squat 305 — plus deficit 275x3 just before). No max attempts that week; resume normal rotation 10/27.
 
 ---
 

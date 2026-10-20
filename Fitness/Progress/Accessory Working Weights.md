@@ -35,14 +35,14 @@ status: current
 
 The speed wave is a **3-session pendulum** — 50% → 55% → 60% of the current max, then reset to 50% and recalculate off any new PRs. **Position advances per DE session of that type, not per calendar week.** Upper and lower run independent waves.
 
-| Wave position | Speed Bench (of **225**) | Speed Box Squat (of **285**) | Speed Deadlift (of **325**) |
+| Wave position | Speed Bench (of **225**) | Speed Box Squat (of **305**) | Speed Deadlift (of **325**) |
 |---|---|---|---|
-| **1** — 50% | **115** | **145** | **165** |
-| **2** — 55% | **125** | **155** | **180** |
-| **3** — 60% | **135** | **170** | **195** |
+| **1** — 50% | **115** | **155** | **165** |
+| **2** — 55% | **125** | **170** | **180** |
+| **3** — 60% | **135** | **185** | **195** |
 | → reset | recalc off new bench | recalc off new box squat | recalc off new DL |
 
-*All recalculated off tested maxes: bench 225 (10/3), box squat 285 (8/24), conventional deadlift 325 (8/31).*
+*All recalculated off tested maxes: bench 225 (10/3), box squat 305 (10/19), conventional deadlift 325 (8/31).*
 
 ### Current position
 
@@ -51,7 +51,7 @@ The speed wave is a **3-session pendulum** — 50% → 55% → 60% of the curren
 | **DE Upper** | 2026-10-18 | 2 of 3 (125) | **3 of 3 — 135** |
 | **DE Lower** | 2026-10-15 | 2 of 3 (155 / 180) | **3 of 3 — 170 / 195** |
 
-✅ **All three speed lifts run off tested maxes** — bench 225 (10/3), box squat 285 (8/24), conventional deadlift 325 (8/31). No estimates in the wave.
+✅ **All three speed lifts run off tested maxes** — bench 225 (10/3), box squat 305 (10/19), conventional deadlift 325 (8/31). No estimates in the wave.
 
 ### EZ Bar
 **EZ bar = 15.5 lbs** (confirmed 2026-09-03). Loadable in 5 lb pairs (2.5s if available), so achievable totals are 15.5 / 25.5 / 35.5 / 45.5 / 55.5 / 65.5 …
