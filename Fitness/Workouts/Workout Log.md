@@ -1,6 +1,24 @@
 # Workout Log
 
-## 2026-10-21 — DELOAD — Upper (light)
+## 2026-10-22 — DELOAD — Lower (light)
+
+**Feel:** —
+**Notes:** **Deload week, day 2.** Speed work below normal Wave 1 and with fewer sets; accessories cut to 2–3 sets. Every set should feel easy — stop any set that gets hard. Rest tomorrow (10/23).
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Box Squats | 8 x 2 | **145 lbs** | ~47% of 305. Sit back, pause, explode. 45–60s rest |
+| Speed Deadlifts | 5 x 1 | **165 lbs** | ~50% of 325. Full reset each rep |
+| KB Swings | 2 x 15 | 35 lb KB | Hip-driven |
+| Barbell Rows — Supinated | 3 x 10 | **135 lbs** | One plate-step lighter than normal |
+| EZ Bar Curls | 2 x 10–12 | **25/side (65.5)** | |
+| Hammer Curls | 2 x 12 | 25–35 lb DBs | |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+| Toes-to-Bar | 2 x 10 | BW | |
+
+---
+
+## 2026-10-21 — DELOAD — Upper (light) ✓
 
 **Feel:** —
 **Notes:** **Deload week, day 1.** Fewer sets, nothing heavy, no grinding. The point is to move the bar and let the last stretch of PRs (seven in 17 days) actually consolidate. Every set should feel easy — if anything feels hard, stop the set.
