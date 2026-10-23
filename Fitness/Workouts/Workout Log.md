@@ -1,6 +1,29 @@
 # Workout Log
 
-## 2026-10-22 — DELOAD — Lower (light)
+## 2026-10-24 — DELOAD — Upper (moderate)
+
+**Feel:** —
+**Notes:** **Deload week, day 3.** Moderate rather than light — a few heavier triples to keep the groove sharp, but **no max attempt**. Close-grip at ~70% of bench, 3 crisp sets, then stop. Accessories at 2–3 sets. No tricep accessory — close-grip covers it.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Close-Grip Bench | Warm-up → 3 x 3 | 45 / 95 / 135 / **155 x3 x3** | ~70% of 225. Shoulder-width grip, elbows tucked. Every rep fast — no grinding |
+| Pull-ups / Chin-ups | 3 x 8 | BW | Vertical pull |
+| DB Incline Press | 2 x 10 | 35 lb DBs | Upper chest |
+| DB Curls | 2 x 10–12 | 25–35 lb DBs | |
+| Hammer Curls | 2 x 12 | 25–35 lb DBs | |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+
+---
+
+## 2026-10-23 — Rest Day
+
+**Feel:** —
+**Notes:** Rest day — deload week.
+
+---
+
+## 2026-10-22 — DELOAD — Lower (light) ✓
 
 **Feel:** —
 **Notes:** **Deload week, day 2.** Speed work below normal Wave 1 and with fewer sets; accessories cut to 2–3 sets. Every set should feel easy — stop any set that gets hard. Rest tomorrow (10/23).
