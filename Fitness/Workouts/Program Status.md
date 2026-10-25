@@ -83,7 +83,7 @@ status: current
 | Prior | None since restarting 2026-06-04 |
 | Guideline | Light week every ~6 weeks of hard training, or when Feel trends ≤ 5 |
 
-**Deload: 2026-10-21 → 10-26.** Seven PRs in 17 days before it (bench 225, front squat 200x3, incline 185, paused squat 225x3, Larsen 185x3, box squat 305 — plus deficit 275x3 just before). No max attempts that week; resume normal rotation 10/27.
+**Deload: 2026-10-21 → 10-26.** Seven PRs in 17 days before it (bench 225, front squat 200x3, incline 185, paused squat 225x3, Larsen 185x3, box squat 305 — plus deficit 275x3 just before). No max attempts that week. Shifted a day: moderate upper 10/25, moderate lower 10/26, rest 10/27, resume normal rotation 10/28.
 
 ---
 
