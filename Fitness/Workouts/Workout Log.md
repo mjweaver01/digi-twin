@@ -1,6 +1,23 @@
 # Workout Log
 
-## 2026-10-25 — DELOAD — Upper (moderate)
+## 2026-10-26 — DELOAD — Lower (moderate)
+
+**Feel:** —
+**Notes:** **Deload week, final session.** A few heavier triples to keep the squat groove sharp, but **no max attempt**. Front squat at ~70% of the 200x3 — 3 crisp sets, then stop. Accessories at 2–3 sets. Rest tomorrow (10/27); normal training resumes 10/28.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Front Squat | Warm-up → 3 x 3 | 45 / 95 / 125 / **145 x3 x3** | Elbows high, chest up. Every rep fast — no grinding |
+| KB Swings | 2 x 15 | 35 lb KB | Hip-driven |
+| Lawnmowers | 3 x 10 | 35 lb DB | Single-arm |
+| EZ Bar Curls | 2 x 10–12 | **25/side (65.5)** | |
+| Cross-Body Hammer Curls | 2 x 12 | 25–35 lb DBs | |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+| Toes-to-Bar | 2 x 10 | BW | |
+
+---
+
+## 2026-10-25 — DELOAD — Upper (moderate) ✓
 
 **Feel:** —
 **Notes:** Pushed from 10/24. **Deload week, day 3.** Moderate rather than light — a few heavier triples to keep the groove sharp, but **no max attempt**. Close-grip at ~70% of bench, 3 crisp sets, then stop. Accessories at 2–3 sets. No tricep accessory — close-grip covers it.
