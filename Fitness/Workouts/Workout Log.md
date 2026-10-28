@@ -1,6 +1,32 @@
 # Workout Log
 
-## 2026-10-26 — DELOAD — Lower (moderate)
+## 2026-10-28 — DE Upper (Wave 1 of 3 — 50%, new cycle)
+
+**Feel:** —
+**Notes:** **First session back after the deload.** Upper day, alternating off Monday's lower. Speed wave restarts at position 1 of 3 = 50% of 225 ≈ **115**. Straight weight, no bands. Rotate grip close/medium/wide, 3 sets each. **Bar speed governs** — after a deload it should feel fast.
+
+Full volume is back: 9 sets of speed bench, 3–4 sets on accessories. Accessories picked by longest gap; nothing repeats from 10/25 or 10/26.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Bench Press | 9 x 3 | **115 lbs** | 50% of 225. Rotate grip: 3 close / 3 medium / 3 wide. 45–60s rest |
+| Barbell Rows — Supinated | 4 x 8–12 | **140 lbs** | Underhand, pull to lower chest |
+| Flat DB Press | 4 x 10–12 | 35 lb DBs | Chest |
+| Rolling DB Tricep Extensions | 3 x 10–12 | 25 lb DBs | Lower beside the head, roll elbows back, press up |
+| DB Curls | 3 x 10–12 | 25–35 lb DBs | Adjust to feel after the rows |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Neutral grip |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+
+---
+
+## 2026-10-27 — Rest Day
+
+**Feel:** —
+**Notes:** Rest day — end of the deload week.
+
+---
+
+## 2026-10-26 — DELOAD — Lower (moderate) ✓
 
 **Feel:** —
 **Notes:** **Deload week, final session.** A few heavier triples to keep the squat groove sharp, but **no max attempt**. Front squat at ~70% of the 200x3 — 3 crisp sets, then stop. Accessories at 2–3 sets. Rest tomorrow (10/27); normal training resumes 10/28.

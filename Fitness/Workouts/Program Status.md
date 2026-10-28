@@ -18,8 +18,8 @@ status: current
 
 | Wave | Last session | Position used | Next session is |
 |---|---|---|---|
-| **DE Upper** | 2026-10-18 | 2 of 3 — 125 | **Deload week 10/21–10/26**, then **reset → 1 of 3 — 115** |
-| **DE Lower** | 2026-10-15 | 2 of 3 — 155 / 180 | **Deload week 10/21–10/26**, then **reset → 1 of 3 — 155 / 165** (box squat now 305) |
+| **DE Upper** | 2026-10-28 | 1 of 3 — 115 (post-deload reset) | **2 of 3 — 125** |
+| **DE Lower** | 2026-10-15 (pre-deload) | 2 of 3 — 155 / 180 | **Reset → 1 of 3 — 155 / 165** (box squat now 305) |
 
 | Wave position | Speed Bench (of **225**) | Speed Box Squat (of **305**) | Speed Deadlift (of 325) |
 |---|---|---|---|
@@ -79,9 +79,10 @@ status: current
 
 | Field | Value |
 |---|---|
-| Last deload | **2026-09-15, 09-16, 09-17** (Cincinnati trip). One light hotel session on 9/16 — curls, Arnolds, pull-ups. Back training 9/18 |
+| Last deload | **2026-10-21 → 10-26** (planned). 4 light/moderate sessions, no max attempts. Back to full training 10/28 |
+| Before that | 2026-09-15 → 09-17 (Cincinnati trip) |
 | Prior | None since restarting 2026-06-04 |
-| Guideline | Light week every ~6 weeks of hard training, or when Feel trends ≤ 5 |
+| Guideline | Light week every ~6 weeks of hard training, or when Feel trends ≤ 5. **Next due ~early December** |
 
 **Deload: 2026-10-21 → 10-26.** Seven PRs in 17 days before it (bench 225, front squat 200x3, incline 185, paused squat 225x3, Larsen 185x3, box squat 305 — plus deficit 275x3 just before). No max attempts that week. Shifted a day: moderate upper 10/25, moderate lower 10/26, rest 10/27, resume normal rotation 10/28.
 
