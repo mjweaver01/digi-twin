@@ -1,6 +1,26 @@
 # Workout Log
 
-## 2026-10-28 — DE Upper (Wave 1 of 3 — 50%, new cycle)
+## 2026-10-29 — DE Lower (Wave 1 of 3 — 50%, new cycle)
+
+**Feel:** —
+**Notes:** Lower day, alternating off yesterday's DE Upper. **New wave starts — first speed box squats off the 305 PR**: position 1 of 3 = 50% ≈ **155** (up from 145). Speed deadlifts 165 (50% of 325). Straight weight, no bands. Wide stance (10/15 was normal). **Bar speed governs.**
+
+Second day of the block — rest tomorrow (10/30). Accessories picked by longest gap; nothing repeats from 10/26 or 10/28.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Box Squats — wide stance | 10–12 x 2 | **155 lbs** | 50% of 305. Sit back, pause, explode up. 45–60s rest |
+| Speed Deadlifts | 6–8 x 1 | **165 lbs** | 50% of 325. Full reset each rep, explosive pull. 45–60s rest |
+| KB Swings | 3 x 15–20 | 35 lb KB | Hip-driven, snap the hips |
+| Pull-ups / Chin-ups | 4 x 6–12 | BW or weighted | Vertical pull |
+| EZ Bar Curls | 3 x 10–12 | **25/side (65.5)** | Strict, no swing |
+| Cross-Body Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Across the chest |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+| Toes-to-Bar | 3 x 10–15 | BW | Full ROM |
+
+---
+
+## 2026-10-28 — DE Upper (Wave 1 of 3 — 50%, new cycle) ✓
 
 **Feel:** —
 **Notes:** **First session back after the deload.** Upper day, alternating off Monday's lower. Speed wave restarts at position 1 of 3 = 50% of 225 ≈ **115**. Straight weight, no bands. Rotate grip close/medium/wide, 3 sets each. **Bar speed governs** — after a deload it should feel fast.

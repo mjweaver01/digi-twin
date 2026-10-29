@@ -19,7 +19,7 @@ status: current
 | Wave | Last session | Position used | Next session is |
 |---|---|---|---|
 | **DE Upper** | 2026-10-28 | 1 of 3 — 115 (post-deload reset) | **2 of 3 — 125** |
-| **DE Lower** | 2026-10-15 (pre-deload) | 2 of 3 — 155 / 180 | **Reset → 1 of 3 — 155 / 165** (box squat now 305) |
+| **DE Lower** | 2026-10-29 | 1 of 3 — 155 / 165 (first off 305) | **2 of 3 — 170 / 180** |
 
 | Wave position | Speed Bench (of **225**) | Speed Box Squat (of **305**) | Speed Deadlift (of 325) |
 |---|---|---|---|
