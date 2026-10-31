@@ -1,6 +1,31 @@
 # Workout Log
 
-## 2026-10-29 — DE Lower (Wave 1 of 3 — 50%, new cycle)
+## 2026-10-31 — ME Upper (Floor Press)
+
+**Feel:** —
+**Notes:** Upper day, alternating off Thursday's DE Lower. **First max-effort session since the deload.** ME rotation follows the sequence after Larsen → **floor press**, which is also the stalest upper variation: 190x3 on 9/5, 56 days ago, when bench was 215 — it's 225 now. Aim **200x3**.
+
+Dead-stop every rep: let the triceps settle on the floor, no bouncing the elbows. Elbows ~45°, hips flat. **No dedicated tricep accessory** — floor press already is one.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Floor Press (work up to heavy triple) | Ramp → top triple | 45 / 95 / 135 / 165 / 185 / **200 x3** | Dead-stop each rep. Push past 190x3 (9/5) |
+| Lawnmowers | 4 x 10 | 35 lb DB | Single-arm, brace hard |
+| Arnold Press | 4 x 10–12 | 35 lb DBs | Delts — different plane from the ME lift |
+| DB Curls | 3 x 10–12 | 25–35 lb DBs | Supinated |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Neutral grip |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+
+---
+
+## 2026-10-30 — Rest Day
+
+**Feel:** —
+**Notes:** Rest day after 10/28–10/29.
+
+---
+
+## 2026-10-29 — DE Lower (Wave 1 of 3 — 50%, new cycle) ✓
 
 **Feel:** —
 **Notes:** Lower day, alternating off yesterday's DE Upper. **New wave starts — first speed box squats off the 305 PR**: position 1 of 3 = 50% ≈ **155** (up from 145). Speed deadlifts 165 (50% of 325). Straight weight, no bands. Wide stance (10/15 was normal). **Bar speed governs.**
