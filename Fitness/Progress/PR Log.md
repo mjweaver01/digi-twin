@@ -18,7 +18,7 @@ status: current
 |---|---|---|
 | Bench Press | 225 | 2026-10-03 |
 | Incline Bench | 185 (30°) | 2026-10-09 |
-| Floor Press | 190x3 | 2026-09-05 |
+| Floor Press | 205x3 | 2026-10-31 |
 | Box Squat | 305 | 2026-10-19 |
 | Conventional Deadlift | 325 | 2026-08-31 |
 | Sumo Deadlift | 305 | 2026-09-12 |
@@ -36,6 +36,7 @@ status: current
 
 | Date | Lift | Weight | Notes |
 |---|---|---|---|
+| 2026-10-31 | Floor Press | 205x3 | +15 over 190x3 (9/5). First ME session after the deload |
 | 2026-10-19 | Box Squat | 305 | +20 over 285 (8/24). First squat over 300. Recalibrates the speed box squat wave |
 | 2026-10-14 | Larsen Press | 185x3 | +10 over 175x3 (8/28). Feet up, no leg drive |
 | 2026-10-12 | Paused Squat | 225x3 | +10 over 215x3 (9/6). Bottom-position strength improving |

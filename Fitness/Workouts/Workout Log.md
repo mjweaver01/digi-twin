@@ -1,6 +1,32 @@
 # Workout Log
 
-## 2026-10-31 — ME Upper (Floor Press)
+## 2026-11-02 — DE Upper (Wave 2 of 3 — 55%)
+
+**Feel:** —
+**Notes:** Upper by request — second upper session in a row, separated by the 11/1 rest day. Lower skipped this time; next session should be lower (last lower was 10/29). Wave position 2 of 3 = 55% of 225 ≈ **125**. Straight weight, no bands. Rotate grip close/medium/wide, 3 sets each. **Bar speed governs.**
+
+Speed work is deliberately light, which suits following Saturday's floor press. Accessories picked by longest gap; nothing repeats from 10/29 or 10/31.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Bench Press | 9 x 3 | **125 lbs** | 55% of 225. Rotate grip: 3 close / 3 medium / 3 wide. 45–60s rest |
+| Barbell Rows — Supinated | 4 x 8–12 | **140 lbs** | Underhand, pull to lower chest |
+| DB Incline Press | 4 x 10–12 | 35 lb DBs | Upper chest |
+| EZ Bar Skull Crushers | 3 x 8–12 | **20/side (55.5)** | Elbows tight, full stretch |
+| EZ Bar Curls | 3 x 10–12 | **25/side (65.5)** | Adjust to feel after the rows |
+| Cross-Body Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Across the chest |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+
+---
+
+## 2026-11-01 — Rest Day
+
+**Feel:** —
+**Notes:** No workout.
+
+---
+
+## 2026-10-31 — ME Upper (Floor Press) ✓
 
 **Feel:** —
 **Notes:** Upper day, alternating off Thursday's DE Lower. **First max-effort session since the deload.** ME rotation follows the sequence after Larsen → **floor press**, which is also the stalest upper variation: 190x3 on 9/5, 56 days ago, when bench was 215 — it's 225 now. Aim **200x3**.
@@ -9,7 +35,7 @@ Dead-stop every rep: let the triceps settle on the floor, no bouncing the elbows
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
-| Floor Press (work up to heavy triple) | Ramp → top triple | 45 / 95 / 135 / 165 / 185 / **200 x3** | Dead-stop each rep. Push past 190x3 (9/5) |
+| Floor Press (work up to heavy triple) | Ramp → top triple | 45 / 95 / 135 / 165 / 185 / 200 / **205 x3 (PR)** | ✓ Dead-stop each rep. +15 over 190x3 (9/5) |
 | Lawnmowers | 4 x 10 | 35 lb DB | Single-arm, brace hard |
 | Arnold Press | 4 x 10–12 | 35 lb DBs | Delts — different plane from the ME lift |
 | DB Curls | 3 x 10–12 | 25–35 lb DBs | Supinated |

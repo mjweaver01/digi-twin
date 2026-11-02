@@ -18,7 +18,7 @@ status: current
 
 | Wave | Last session | Position used | Next session is |
 |---|---|---|---|
-| **DE Upper** | 2026-10-28 | 1 of 3 — 115 (post-deload reset) | **2 of 3 — 125** |
+| **DE Upper** | 2026-11-02 | 2 of 3 — 125 | **3 of 3 — 135** |
 | **DE Lower** | 2026-10-29 | 1 of 3 — 155 / 165 (first off 305) | **2 of 3 — 170 / 180** |
 
 | Wave position | Speed Bench (of **225**) | Speed Box Squat (of **305**) | Speed Deadlift (of 325) |
@@ -39,7 +39,7 @@ status: current
 
 | Date | Variation | Result |
 |---|---|---|
-| 2026-10-31 | Floor Press | *planned — 200x3 target* |
+| 2026-10-31 | Floor Press | **205x3 PR** |
 | 2026-10-14 | Larsen Press | **185x3 PR** |
 | 2026-10-09 | Incline (30°) | **185 PR** |
 | 2026-10-03 | Flat Bench | **225 PR** |
