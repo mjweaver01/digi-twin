@@ -1,6 +1,26 @@
 # Workout Log
 
-## 2026-11-02 — DE Upper (Wave 2 of 3 — 55%)
+## 2026-11-03 — ME Lower (Conventional Deadlift — MAX TEST)
+
+**Feel:** —
+**Notes:** Lower day — first lower session since 10/29. **Conventional deadlift max test.** 325 from 8/31 is now the stalest number on the board by a wide margin (64 days), while every other main lift has been retested. It's also what the speed deadlift wave runs off. Since then deficit went 255x3 → 275x3 and sumo hit 305. Aim **335**.
+
+Full reset each rep, small jumps at the top. Keep Valsalva moderate. Stop at form breakdown — a clean 335 beats a grind at 345.
+
+**No hinge accessory** — the ME lift is a maximal pull. Rest tomorrow (11/4).
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Conventional Deadlift (work up to a max single) | Ramp → top single | 135 / 185 / 225 / 275 / 305 / 325 / **335** | Push past 325 (8/31). Small jumps from 305 up |
+| Pull-ups / Chin-ups | 4 x 6–12 | BW or weighted | Vertical pull |
+| DB Curls | 3 x 10–12 | 25–35 lb DBs | Supinated |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Neutral grip |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+| Toes-to-Bar | 3 x 10–15 | BW | Full ROM |
+
+---
+
+## 2026-11-02 — DE Upper (Wave 2 of 3 — 55%) ✓
 
 **Feel:** —
 **Notes:** Upper by request — second upper session in a row, separated by the 11/1 rest day. Lower skipped this time; next session should be lower (last lower was 10/29). Wave position 2 of 3 = 55% of 225 ≈ **125**. Straight weight, no bands. Rotate grip close/medium/wide, 3 sets each. **Bar speed governs.**
