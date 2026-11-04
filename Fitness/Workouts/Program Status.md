@@ -19,13 +19,13 @@ status: current
 | Wave | Last session | Position used | Next session is |
 |---|---|---|---|
 | **DE Upper** | 2026-11-02 | 2 of 3 — 125 | **3 of 3 — 135** |
-| **DE Lower** | 2026-10-29 | 1 of 3 — 155 / 165 (first off 305) | **2 of 3 — 170 / 180** |
+| **DE Lower** | 2026-10-29 | 1 of 3 — 155 / 165 | **2 of 3 — 170 / 190** (speed deads now off 345) |
 
-| Wave position | Speed Bench (of **225**) | Speed Box Squat (of **305**) | Speed Deadlift (of 325) |
+| Wave position | Speed Bench (of **225**) | Speed Box Squat (of **305**) | Speed Deadlift (of **345**) |
 |---|---|---|---|
-| 1 — 50% | **115** | **155** | 165 |
-| 2 — 55% | **125** | **170** | 180 |
-| 3 — 60% | **135** | **185** | 195 |
+| 1 — 50% | **115** | **155** | **175** |
+| 2 — 55% | **125** | **170** | **190** |
+| 3 — 60% | **135** | **185** | **205** |
 
 **Straight weight — no bands.** Mike dislikes banded barbell work. Bar speed is the governor: when speed visibly drops, the set is over.
 
@@ -58,7 +58,7 @@ status: current
 
 | Date | Variation | Result |
 |---|---|---|
-| 2026-11-03 | Conventional Deadlift | *planned — max test, 335 target* |
+| 2026-11-03 | Conventional Deadlift | **345 PR** |
 | 2026-10-19 | Box Squat | **305 PR** |
 | 2026-10-12 | Paused Squat | **225x3 PR** |
 | 2026-10-05 | Front Squat | **200x3 PR** (rep 3 bounced) |
@@ -96,7 +96,7 @@ status: current
 ✅ **All three speed lifts run off tested maxes** — no estimates in the wave.
 ⚠️ **Barbell accessory weights are still ESTIMATES** — see [[Fitness/Progress/Accessory Working Weights]]. Replace with actuals as they're logged.
 
-**Off-the-floor gap mostly closed:** deficit deadlift went 255x3 → 275x3, now ~85% of the 325 conventional (up from 78%) — inside the typical 85–90% range. Next emphasis to consider: the Anderson squat (205x3, 72% of box squat) — the bottom-of-squat / forward-lean weakness is now the bigger gap.
+**Off-the-floor gap:** deficit deadlift is 275x3 — ~80% of the new 345 conventional (it was 85% of 325). The conventional jumped faster than the deficit, so this gap has reopened a little; deficit is eligible again and worth a retest. Next emphasis to consider: the Anderson squat (205x3, 72% of box squat) — the bottom-of-squat / forward-lean weakness is now the bigger gap.
 
 ---
 
