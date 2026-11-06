@@ -1,5 +1,30 @@
 # Workout Log
 
+## 2026-11-06 — ME Upper (Close-Grip Bench)
+
+**Feel:** —
+**Notes:** Pushed from 11/5 (rested instead). Upper day, alternating off Tuesday's deadlift. ME rotation moves to **close-grip bench** — the stalest upper variation (last run 9/11, 55 days ago, and that result was never logged). Bench has gone 215 → 225 since. Close-grip usually runs 85–90% of bench, so aim **195x3**.
+
+Hands about shoulder width, elbows tucked, bar to lower chest. Safety arms just below chest height. **No dedicated tricep accessory** — close-grip is the tricep lift.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Close-Grip Bench (work up to heavy triple) | Ramp → top triple | 45 / 95 / 135 / 165 / 185 / **195 x3** | Shoulder-width grip, elbows tucked. Establish a logged number |
+| Lawnmowers | 4 x 10 | 35 lb DB | Single-arm, brace hard |
+| Flat DB Press | 4 x 10–12 | 35 lb DBs | Chest |
+| EZ Bar Curls | 3 x 10–12 | **25/side (65.5)** | Strict, no swing |
+| Cross-Body Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Across the chest |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+
+---
+
+## 2026-11-05 — Rest Day
+
+**Feel:** —
+**Notes:** Rest day — close-grip session pushed to 11/6.
+
+---
+
 ## 2026-11-04 — Rest Day
 
 **Feel:** —
