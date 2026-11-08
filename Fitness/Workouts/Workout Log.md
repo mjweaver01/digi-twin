@@ -1,11 +1,11 @@
 # Workout Log
 
-## 2026-11-08 — DE Lower (Wave 2 of 3 — 55%)
+## 2026-11-08 — DE Lower (Wave 2 of 3 — 55%) ✓
 
 **Feel:** —
-**Notes:** Lower day, alternating off Friday's close-grip. Wave position 2 of 3 = 55%. Box squats 170 (55% of 305). **Speed deadlifts 190 — first session off the new 345 PR** (was 180 off 325). Straight weight, no bands. Normal stance (10/29 was wide). **Bar speed governs.**
+**Notes:** Completed — plus raked all the leaves in the yard (~300 cal) the same day. Lower day, alternating off Friday's close-grip. Wave position 2 of 3 = 55%. Box squats 170 (55% of 305). **Speed deadlifts 190 — first session off the new 345 PR** (was 180 off 325). Straight weight, no bands. Normal stance (10/29 was wide). **Bar speed governs.**
 
-Accessories picked by longest gap; nothing repeats from 11/3 or 11/6.
+Accessories picked by longest gap; nothing repeats from 11/3 or 11/6. Upper tomorrow (11/9), then rest.
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
