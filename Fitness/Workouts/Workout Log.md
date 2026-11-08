@@ -1,6 +1,33 @@
 # Workout Log
 
-## 2026-11-06 — ME Upper (Close-Grip Bench)
+## 2026-11-08 — DE Lower (Wave 2 of 3 — 55%)
+
+**Feel:** —
+**Notes:** Lower day, alternating off Friday's close-grip. Wave position 2 of 3 = 55%. Box squats 170 (55% of 305). **Speed deadlifts 190 — first session off the new 345 PR** (was 180 off 325). Straight weight, no bands. Normal stance (10/29 was wide). **Bar speed governs.**
+
+Accessories picked by longest gap; nothing repeats from 11/3 or 11/6.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Box Squats — normal stance | 10–12 x 2 | **170 lbs** | 55% of 305. Sit back, pause, explode up. 45–60s rest |
+| Speed Deadlifts | 6–8 x 1 | **190 lbs** | 55% of 345. Full reset each rep, explosive pull. 45–60s rest |
+| KB Swings | 3 x 15–20 | 35 lb KB | Hip-driven, snap the hips |
+| Barbell Rows — Supinated | 4 x 8–12 | **140 lbs** | Underhand, pull to lower chest |
+| DB Curls | 3 x 10–12 | 25–35 lb DBs | Adjust to feel after the rows |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Neutral grip |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+| Toes-to-Bar | 3 x 10–15 | BW | Full ROM |
+
+---
+
+## 2026-11-07 — Rest Day
+
+**Feel:** —
+**Notes:** Rest day.
+
+---
+
+## 2026-11-06 — ME Upper (Close-Grip Bench) ✓
 
 **Feel:** —
 **Notes:** Pushed from 11/5 (rested instead). Upper day, alternating off Tuesday's deadlift. ME rotation moves to **close-grip bench** — the stalest upper variation (last run 9/11, 55 days ago, and that result was never logged). Bench has gone 215 → 225 since. Close-grip usually runs 85–90% of bench, so aim **195x3**.
@@ -9,7 +36,7 @@ Hands about shoulder width, elbows tucked, bar to lower chest. Safety arms just 
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
-| Close-Grip Bench (work up to heavy triple) | Ramp → top triple | 45 / 95 / 135 / 165 / 185 / **195 x3** | Shoulder-width grip, elbows tucked. Establish a logged number |
+| Close-Grip Bench (work up to heavy triple) | Ramp → top triple | 45 / 95 / 135 / 165 / 185 / **195 x3 (PR)** | ✓ Shoulder-width grip, elbows tucked. First logged close-grip result |
 | Lawnmowers | 4 x 10 | 35 lb DB | Single-arm, brace hard |
 | Flat DB Press | 4 x 10–12 | 35 lb DBs | Chest |
 | EZ Bar Curls | 3 x 10–12 | **25/side (65.5)** | Strict, no swing |

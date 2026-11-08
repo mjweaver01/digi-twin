@@ -29,6 +29,7 @@ status: current
 | Pin Press | 185x3 | 2026-09-21 |
 | Anderson Squat | 205x3 | 2026-09-22 |
 | Overhead Press (strict) | 135x1 | 2026-09-27 |
+| Close-Grip Bench | 195x3 | 2026-11-06 |
 
 ---
 
@@ -36,6 +37,7 @@ status: current
 
 | Date | Lift | Weight | Notes |
 |---|---|---|---|
+| 2026-11-06 | Close-Grip Bench | 195x3 | First logged close-grip result (~87% of the 225 bench) |
 | 2026-11-03 | Conventional Deadlift | 345 | +20 over 325 (8/31). Recalibrates the speed deadlift wave |
 | 2026-10-31 | Floor Press | 205x3 | +15 over 190x3 (9/5). First ME session after the deload |
 | 2026-10-19 | Box Squat | 305 | +20 over 285 (8/24). First squat over 300. Recalibrates the speed box squat wave |
