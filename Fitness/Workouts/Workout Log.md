@@ -1,6 +1,34 @@
 # Workout Log
 
-## 2026-11-09 — DE Upper (Wave 3 of 3 — 60%)
+## 2026-11-11 — ME Lower (Anderson Squat)
+
+**Feel:** —
+**Notes:** Lower day, alternating off Monday's DE Upper. **Anderson squat** — queued as the next ME Lower because it targets the weak point Program Status flags: the bottom of the squat / forward lean. Last run 9/22 at 205x3 (first ever), 50 days ago. Since then paused squat went 215 → 225x3 and box squat 285 → 305. Aim **215x3**.
+
+**Setup:** safety arms at or just below parallel, bar starts on the arms. Get under it, brace hard, chest up, drive from a dead stop. Reset the bar on the arms between every rep. Stop the moment the chest caves.
+
+Second day of the block — rest tomorrow (11/12).
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Anderson Squat (work up to heavy triple) | Ramp → top triple | 45 / 135 / 165 / 185 / 205 / **215 x3** | Dead stop off the arms at parallel. Push past 205x3 (9/22) |
+| KB Swings | 3 x 15–20 | 35 lb KB | Hip-driven, snap the hips |
+| Lawnmowers | 4 x 10 | 35 lb DB | Single-arm, brace hard |
+| DB Curls | 3 x 10–12 | 25–35 lb DBs | Supinated |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Neutral grip |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+| Toes-to-Bar | 3 x 10–15 | BW | Full ROM |
+
+---
+
+## 2026-11-10 — Rest Day
+
+**Feel:** —
+**Notes:** Rest day after 11/8–11/9.
+
+---
+
+## 2026-11-09 — DE Upper (Wave 3 of 3 — 60%) ✓
 
 **Feel:** —
 **Notes:** Upper day, alternating off yesterday's DE Lower. **Closes the upper wave** — position 3 of 3 = 60% of 225 ≈ **135**. Straight weight, no bands. Rotate grip close/medium/wide, 3 sets each. **Bar speed governs.** Next DE Upper resets to Wave 1 (115).
