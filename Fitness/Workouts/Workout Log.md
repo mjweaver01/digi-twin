@@ -1,17 +1,35 @@
 # Workout Log
 
-## 2026-11-11 — ME Lower (Anderson Squat)
+## 2026-11-12 — ME Upper (Pin Press)
+
+**Feel:** —
+**Notes:** Upper day, alternating off yesterday's Anderson squat. Second day of the block — rest tomorrow (11/13). ME rotation follows the sequence after close-grip → **pin press**, which is also the stalest upper variation: 185x3 on 9/21 (first ever), 52 days ago, when bench was 215. Since then bench hit 225, floor press 205x3, close-grip 195x3. Aim **195x3**.
+
+Safety arms set so the bar rests **2–3" off your chest** — same height as 9/21 so the numbers compare. Every rep starts dead on the arms: settle, kill momentum, drive. **No dedicated tricep accessory** — pin press is a lockout lift.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Pin Press (work up to heavy triple) | Ramp → top triple | 45 / 95 / 135 / 165 / 185 / **195 x3** | Pins 2–3" off chest, dead stop each rep. Push past 185x3 (9/21) |
+| Barbell Rows — Supinated | 4 x 8–12 | **140 lbs** | Underhand, pull to lower chest |
+| DB Incline Press | 4 x 10–12 | 35 lb DBs | Upper chest |
+| EZ Bar Curls | 3 x 10–12 | **25/side (65.5)** | Adjust to feel after the rows |
+| Cross-Body Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Across the chest |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+
+---
+
+## 2026-11-11 — ME Lower (Anderson Squat) ✓
 
 **Feel:** —
 **Notes:** Lower day, alternating off Monday's DE Upper. **Anderson squat** — queued as the next ME Lower because it targets the weak point Program Status flags: the bottom of the squat / forward lean. Last run 9/22 at 205x3 (first ever), 50 days ago. Since then paused squat went 215 → 225x3 and box squat 285 → 305. Aim **215x3**.
 
 **Setup:** safety arms at or just below parallel, bar starts on the arms. Get under it, brace hard, chest up, drive from a dead stop. Reset the bar on the arms between every rep. Stop the moment the chest caves.
 
-Second day of the block — rest tomorrow (11/12).
+First day of the block (11/10 was rest) — upper tomorrow (11/12), rest 11/13.
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
-| Anderson Squat (work up to heavy triple) | Ramp → top triple | 45 / 135 / 165 / 185 / 205 / **215 x3** | Dead stop off the arms at parallel. Push past 205x3 (9/22) |
+| Anderson Squat (work up to heavy triple) | Ramp → top triple | 45 / 135 / 165 / 185 / 205 / 215 / **235 x3 (PR)** | ✓ Dead stop off the arms at parallel. +30 over 205x3 (9/22) |
 | KB Swings | 3 x 15–20 | 35 lb KB | Hip-driven, snap the hips |
 | Lawnmowers | 4 x 10 | 35 lb DB | Single-arm, brace hard |
 | DB Curls | 3 x 10–12 | 25–35 lb DBs | Supinated |

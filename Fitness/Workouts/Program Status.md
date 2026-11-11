@@ -39,6 +39,7 @@ status: current
 
 | Date | Variation | Result |
 |---|---|---|
+| 2026-11-12 | **Pin Press** ⭐ | *planned — 195x3 target* |
 | 2026-11-06 | Close-Grip Bench | **195x3 PR** |
 | 2026-10-31 | Floor Press | **205x3 PR** |
 | 2026-10-14 | Larsen Press | **185x3 PR** |
@@ -53,13 +54,13 @@ status: current
 | 2026-08-17 | Flat Bench | **215 PR** |
 | 2026-08-11 | Overhead Press | 125x3 |
 
-**Eligible next** (3+ weeks clear): Pin Press, Overhead Press, Flat Bench, Incline. Never run: **Board Press** (needs DIY boards), **EZ Bar Floor Press**.
+**Eligible next** (3+ weeks clear): Overhead Press, Flat Bench, Incline, Larsen Press. Never run: **Board Press** (needs DIY boards), **EZ Bar Floor Press**.
 
 ### ME Lower — recent (newest first)
 
 | Date | Variation | Result |
 |---|---|---|
-| 2026-11-11 | **Anderson Squat** ⭐ | *planned — 215x3 target* |
+| 2026-11-11 | **Anderson Squat** ⭐ | **235x3 PR** |
 | 2026-11-03 | Conventional Deadlift | **345 PR** |
 | 2026-10-19 | Box Squat | **305 PR** |
 | 2026-10-12 | Paused Squat | **225x3 PR** |
@@ -98,7 +99,7 @@ status: current
 ✅ **All three speed lifts run off tested maxes** — no estimates in the wave.
 ⚠️ **Barbell accessory weights are still ESTIMATES** — see [[Fitness/Progress/Accessory Working Weights]]. Replace with actuals as they're logged.
 
-**Off-the-floor gap:** deficit deadlift is 275x3 — ~80% of the new 345 conventional (it was 85% of 325). The conventional jumped faster than the deficit, so this gap has reopened a little; deficit is eligible again and worth a retest. Next emphasis to consider: the Anderson squat (205x3, 72% of box squat) — the bottom-of-squat / forward-lean weakness is now the bigger gap.
+**Off-the-floor gap:** deficit deadlift is 275x3 — ~80% of the new 345 conventional (it was 85% of 325). The conventional jumped faster than the deficit, so this gap has reopened a little; deficit is eligible again and worth a retest. Bottom-of-squat gap closing: Anderson squat went 205x3 → 235x3 (11/11), now ~77% of the 305 box squat, up from 72%.
 
 ---
 
