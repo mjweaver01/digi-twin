@@ -1,6 +1,13 @@
 # Workout Log
 
-## 2026-11-12 — ME Upper (Pin Press)
+## 2026-11-13 — Rest Day
+
+**Feel:** —
+**Notes:** Rest day after 11/11–11/12.
+
+---
+
+## 2026-11-12 — ME Upper (Pin Press) ✓
 
 **Feel:** —
 **Notes:** Upper day, alternating off yesterday's Anderson squat. Second day of the block — rest tomorrow (11/13). ME rotation follows the sequence after close-grip → **pin press**, which is also the stalest upper variation: 185x3 on 9/21 (first ever), 52 days ago, when bench was 215. Since then bench hit 225, floor press 205x3, close-grip 195x3. Aim **195x3**.
@@ -9,8 +16,8 @@ Safety arms set so the bar rests **2–3" off your chest** — same height as 9/
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
-| Pin Press (work up to heavy triple) | Ramp → top triple | 45 / 95 / 135 / 165 / 185 / **195 x3** | Pins 2–3" off chest, dead stop each rep. Push past 185x3 (9/21) |
-| Barbell Rows — Supinated | 4 x 8–12 | **140 lbs** | Underhand, pull to lower chest |
+| Pin Press (work up to heavy triple) | Ramp → top triple | 45 / 95 / 135 / 165 / 185 / 195 / **205 x3 (PR)** | ✓ Pins 2–3" off chest, dead stop each rep. +20 over 185x3 (9/21) |
+| Barbell Rows — Supinated | **4 x 8** | **145 lbs** | ✓ Underhand. Up 5 from 140 |
 | DB Incline Press | 4 x 10–12 | 35 lb DBs | Upper chest |
 | EZ Bar Curls | 3 x 10–12 | **25/side (65.5)** | Adjust to feel after the rows |
 | Cross-Body Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Across the chest |

@@ -21,7 +21,7 @@ status: current
 ### Barbell — Pulling
 | Exercise | Working weight | Reps | Basis |
 |---|---|---|---|
-| Barbell Rows — supinated / standard grip | **140** | 4 x 8–12 | **Logged 9/24** (2 sets) |
+| Barbell Rows — supinated / standard grip | **145** | 4 x 8–12 | **Logged 11/12** — 4x8 @ 145 (up from 140). Add reps to 4x10–12 before the next jump |
 | Barbell Rows — snatch grip | **140** | 4 x 8–12 | **Logged 9/24** (2 sets). My 115 estimate was too low — Mike moves the same load with either grip |
 
 ### Barbell — Pressing
@@ -111,5 +111,6 @@ Replace ESTIMATE rows as real numbers come in.
 
 | Date | Exercise | Weight x Reps | Notes |
 |---|---|---|---|
+| 2026-11-12 | Barbell Rows — Supinated | 145 x 8, 4 sets | Up from 140 |
 | 2026-09-24 | Barbell Rows | 140 x 2 sets supinated + 140 x 2 sets snatch grip | Both grips at the same load |
 | 2026-08-05 | Lawnmowers | 35 lb DB x 10, 4 sets | Reported as appropriately hard — not light |
