@@ -1,5 +1,25 @@
 # Workout Log
 
+## 2026-11-14 — DE Lower (Wave 3 of 3 — 60%)
+
+**Feel:** —
+**Notes:** Lower day, alternating off Thursday's pin press. **Closes the lower wave** — position 3 of 3 = 60%. Box squats 185 (60% of 305), speed deadlifts 205 (60% of 345). Straight weight, no bands. Wide stance (11/8 was normal). **Bar speed governs** — these are the heaviest speed weights you've run, so stop a set the moment it slows. Next DE Lower resets to Wave 1 (155 / 175).
+
+Accessories picked by longest gap; nothing repeats from 11/11 or 11/12.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Box Squats — wide stance | 10–12 x 2 | **185 lbs** | 60% of 305. Sit back, pause, explode up. 45–60s rest |
+| Speed Deadlifts | 6–8 x 1 | **205 lbs** | 60% of 345. Full reset each rep, explosive pull. 45–60s rest |
+| KB Swings | 3 x 15–20 | 35 lb KB | Hip-driven, snap the hips |
+| Pull-ups / Chin-ups | 4 x 6–12 | BW or weighted | Vertical pull |
+| DB Curls | 3 x 10–12 | 25–35 lb DBs | Supinated |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Neutral grip |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+| Toes-to-Bar | 3 x 10–15 | BW | Full ROM |
+
+---
+
 ## 2026-11-13 — Rest Day
 
 **Feel:** —
