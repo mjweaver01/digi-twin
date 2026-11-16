@@ -1,5 +1,24 @@
 # Workout Log
 
+## 2026-11-16 — DE Upper (Wave 1 of 3 — 50%, new cycle)
+
+**Feel:** —
+**Notes:** Upper day, alternating off yesterday's DE Lower. **New wave starts** — position 1 of 3 = 50% of 225 ≈ **115**. Straight weight, no bands. Rotate grip close/medium/wide, 3 sets each. **Bar speed governs.**
+
+Second day of the block — rest tomorrow (11/17). Accessories picked by longest gap; nothing repeats from 11/12 or 11/15.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Bench Press | 9 x 3 | **115 lbs** | 50% of 225. Rotate grip: 3 close / 3 medium / 3 wide. 45–60s rest |
+| Lawnmowers | 4 x 10 | 35 lb DB | Single-arm, brace hard |
+| Flat DB Press | 4 x 10–12 | 35 lb DBs | Chest |
+| JM Press | 3 x 8–10 | **25/side (65.5)** | Bar to throat, elbows forward |
+| EZ Bar Curls | 3 x 10–12 | **25/side (65.5)** | Strict, no swing |
+| Cross-Body Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Across the chest |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+
+---
+
 ## 2026-11-15 — DE Lower (Wave 3 of 3 — 60%)
 
 **Feel:** —
