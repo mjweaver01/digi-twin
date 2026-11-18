@@ -39,6 +39,7 @@ status: current
 
 | Date | Variation | Result |
 |---|---|---|
+| 2026-11-19 | Overhead Press (strict) | *planned — 130x3 strict target* |
 | 2026-11-12 | **Pin Press** ⭐ | **205x3 PR** |
 | 2026-11-06 | Close-Grip Bench | **195x3 PR** |
 | 2026-10-31 | Floor Press | **205x3 PR** |
@@ -54,13 +55,13 @@ status: current
 | 2026-08-17 | Flat Bench | **215 PR** |
 | 2026-08-11 | Overhead Press | 125x3 |
 
-**Eligible next** (3+ weeks clear): Overhead Press, Flat Bench, Incline, Larsen Press. Never run: **Board Press** (needs DIY boards), **EZ Bar Floor Press**.
+**Eligible next** (3+ weeks clear): Flat Bench, Incline, Larsen Press. Never run: **Board Press** (needs DIY boards), **EZ Bar Floor Press**.
 
 ### ME Lower — recent (newest first)
 
 | Date | Variation | Result |
 |---|---|---|
-| 2026-11-18 | Deficit Deadlift | *planned — 290x3 target* |
+| 2026-11-18 | Deficit Deadlift | **290x3 PR** |
 | 2026-11-11 | **Anderson Squat** ⭐ | **235x3 PR** |
 | 2026-11-03 | Conventional Deadlift | **345 PR** |
 | 2026-10-19 | Box Squat | **305 PR** |
@@ -100,7 +101,7 @@ status: current
 ✅ **All three speed lifts run off tested maxes** — no estimates in the wave.
 ⚠️ **Barbell accessory weights are still ESTIMATES** — see [[Fitness/Progress/Accessory Working Weights]]. Replace with actuals as they're logged.
 
-**Off-the-floor gap:** deficit deadlift is 275x3 — ~80% of the new 345 conventional (it was 85% of 325). The conventional jumped faster than the deficit, so this gap has reopened a little; deficit is eligible again and worth a retest. Bottom-of-squat gap closing: Anderson squat went 205x3 → 235x3 (11/11), now ~77% of the 305 box squat, up from 72%.
+**Off-the-floor gap:** deficit deadlift retested 11/18 — 275x3 → 290x3, back to ~84% of the 345 conventional. Holding inside the normal range. Bottom-of-squat gap closing: Anderson squat went 205x3 → 235x3 (11/11), now ~77% of the 305 box squat, up from 72%.
 
 ---
 

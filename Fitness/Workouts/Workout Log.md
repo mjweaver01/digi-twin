@@ -1,17 +1,37 @@
 # Workout Log
 
-## 2026-11-18 — ME Lower (Deficit Deadlift)
+## 2026-11-19 — ME Upper (Overhead Press)
+
+**Feel:** —
+**Notes:** Upper day, alternating off yesterday's deficit deadlift. Second day of the block — rest tomorrow (11/20). ME rotation follows the sequence after pin press → **strict overhead press**, which is also the stalest upper variation (9/27, 53 days ago).
+
+Last time: 135 for 1 strict rep, then reps 2–3 needed leg drive — so the real strict triple is still 125. **Target: 130x3, every rep strict.** Stop the ramp at the last weight that moves without your legs. If 130 grinds, 125x3 clean is a fine day.
+
+Standing, glutes squeezed, brace hard, press around the face. Press accessory is horizontal (DB incline) since the ME lift is overhead.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Overhead Press (strict — work up to heavy triple) | Ramp → top triple | 45 / 75 / 95 / 115 / 125 / **130 x3** | **No leg drive on any rep.** Strict triple to beat: 125x3 |
+| Barbell Rows — Supinated | 4 x 8–12 | **145 lbs** | Underhand. Add reps toward 10–12 before adding weight |
+| DB Incline Press | 4 x 10–12 | 35 lb DBs | Horizontal press — different plane from the ME lift |
+| EZ Bar Curls | 3 x 10–12 | **25/side (65.5)** | Adjust to feel after the rows |
+| Cross-Body Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Across the chest |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+
+---
+
+## 2026-11-18 — ME Lower (Deficit Deadlift) ✓
 
 **Feel:** —
 **Notes:** Lower day, alternating off Monday's DE Upper. **Deficit deadlift** — flagged in Program Status for a retest: 275x3 (9/28) is now only ~80% of the new 345 conventional, down from 85%. The conventional jumped faster, so off-the-floor strength has fallen behind again. Aim **290x3** (~84%).
 
 Stand on a 45 for a 1–2" deficit. Chest up, hips don't shoot. Full reset each rep. Stop at form breakdown.
 
-**No hinge accessory** — the ME lift is a maximal pull. Pull-ups over rows to keep the low back out of it. Rest tomorrow (11/19).
+**No hinge accessory** — the ME lift is a maximal pull. Pull-ups over rows to keep the low back out of it. First day of the block (11/17 was rest) — upper tomorrow (11/19), rest 11/20.
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
-| Deficit Deadlift (work up to heavy triple) | Ramp → top triple | 135 / 185 / 225 / 255 / 275 / **290 x3** | 1–2" off a 45. Push past 275x3 (9/28) |
+| Deficit Deadlift (work up to heavy triple) | Ramp → top triple | 135 / 185 / 225 / 255 / 275 / **290 x3 (PR)** | ✓ 1–2" off a 45. +15 over 275x3 (9/28) |
 | Pull-ups / Chin-ups | 4 x 6–12 | BW or weighted | Vertical pull — spares the low back |
 | DB Curls | 3 x 10–12 | 25–35 lb DBs | Supinated |
 | Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Neutral grip |

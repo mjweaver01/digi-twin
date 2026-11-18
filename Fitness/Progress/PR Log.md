@@ -22,7 +22,7 @@ status: current
 | Box Squat | 305 | 2026-10-19 |
 | Conventional Deadlift | 345 | 2026-11-03 |
 | Sumo Deadlift | 305 | 2026-09-12 |
-| Deficit Deadlift | 275x3 | 2026-09-28 |
+| Deficit Deadlift | 290x3 | 2026-11-18 |
 | Front Squat | 200x3 | 2026-10-05 |
 | Larsen Press | 185x3 | 2026-10-14 |
 | Paused Squat | 225x3 | 2026-10-12 |
@@ -37,6 +37,7 @@ status: current
 
 | Date | Lift | Weight | Notes |
 |---|---|---|---|
+| 2026-11-18 | Deficit Deadlift | 290x3 | +15 over 275x3 (9/28). Back to ~84% of conventional (345) |
 | 2026-11-12 | Pin Press | 205x3 | +20 over 185x3 (9/21). Same pin height (2–3" off chest) — directly comparable |
 | 2026-11-11 | Anderson Squat | 235x3 | +30 over 205x3 (9/22). Now ~77% of box squat (was 72%) — bottom-position gap closing |
 | 2026-11-06 | Close-Grip Bench | 195x3 | First logged close-grip result (~87% of the 225 bench) |
