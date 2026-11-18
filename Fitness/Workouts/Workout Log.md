@@ -1,5 +1,32 @@
 # Workout Log
 
+## 2026-11-18 — ME Lower (Deficit Deadlift)
+
+**Feel:** —
+**Notes:** Lower day, alternating off Monday's DE Upper. **Deficit deadlift** — flagged in Program Status for a retest: 275x3 (9/28) is now only ~80% of the new 345 conventional, down from 85%. The conventional jumped faster, so off-the-floor strength has fallen behind again. Aim **290x3** (~84%).
+
+Stand on a 45 for a 1–2" deficit. Chest up, hips don't shoot. Full reset each rep. Stop at form breakdown.
+
+**No hinge accessory** — the ME lift is a maximal pull. Pull-ups over rows to keep the low back out of it. Rest tomorrow (11/19).
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Deficit Deadlift (work up to heavy triple) | Ramp → top triple | 135 / 185 / 225 / 255 / 275 / **290 x3** | 1–2" off a 45. Push past 275x3 (9/28) |
+| Pull-ups / Chin-ups | 4 x 6–12 | BW or weighted | Vertical pull — spares the low back |
+| DB Curls | 3 x 10–12 | 25–35 lb DBs | Supinated |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Neutral grip |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+| Toes-to-Bar | 3 x 10–15 | BW | Full ROM |
+
+---
+
+## 2026-11-17 — Rest Day
+
+**Feel:** —
+**Notes:** Rest day after 11/15–11/16.
+
+---
+
 ## 2026-11-16 — DE Upper (Wave 1 of 3 — 50%, new cycle)
 
 **Feel:** —
