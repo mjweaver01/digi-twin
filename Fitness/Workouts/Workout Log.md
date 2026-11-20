@@ -1,9 +1,9 @@
 # Workout Log
 
-## 2026-11-19 — ME Upper (Overhead Press)
+## 2026-11-20 — ME Upper (Overhead Press)
 
 **Feel:** —
-**Notes:** Upper day, alternating off yesterday's deficit deadlift. Second day of the block — rest tomorrow (11/20). ME rotation follows the sequence after pin press → **strict overhead press**, which is also the stalest upper variation (9/27, 53 days ago).
+**Notes:** Pushed from 11/19. Upper day, alternating off Wednesday's deficit deadlift. First day of the block (11/19 was rest) — lower tomorrow (11/21), rest 11/22. ME rotation follows the sequence after pin press → **strict overhead press**, which is also the stalest upper variation (9/27, 53 days ago).
 
 Last time: 135 for 1 strict rep, then reps 2–3 needed leg drive — so the real strict triple is still 125. **Target: 130x3, every rep strict.** Stop the ramp at the last weight that moves without your legs. If 130 grinds, 125x3 clean is a fine day.
 
@@ -20,6 +20,13 @@ Standing, glutes squeezed, brace hard, press around the face. Press accessory is
 
 ---
 
+## 2026-11-19 — Rest Day
+
+**Feel:** —
+**Notes:** Rest day — GTA 6 release day. OHP session pushed to 11/20.
+
+---
+
 ## 2026-11-18 — ME Lower (Deficit Deadlift) ✓
 
 **Feel:** —
@@ -27,7 +34,7 @@ Standing, glutes squeezed, brace hard, press around the face. Press accessory is
 
 Stand on a 45 for a 1–2" deficit. Chest up, hips don't shoot. Full reset each rep. Stop at form breakdown.
 
-**No hinge accessory** — the ME lift is a maximal pull. Pull-ups over rows to keep the low back out of it. First day of the block (11/17 was rest) — upper tomorrow (11/19), rest 11/20.
+**No hinge accessory** — the ME lift is a maximal pull. Pull-ups over rows to keep the low back out of it. First day of the block (11/17 was rest).
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|

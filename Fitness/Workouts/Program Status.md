@@ -39,7 +39,7 @@ status: current
 
 | Date | Variation | Result |
 |---|---|---|
-| 2026-11-19 | Overhead Press (strict) | *planned — 130x3 strict target* |
+| 2026-11-20 | Overhead Press (strict) | *planned — 130x3 strict target* |
 | 2026-11-12 | **Pin Press** ⭐ | **205x3 PR** |
 | 2026-11-06 | Close-Grip Bench | **195x3 PR** |
 | 2026-10-31 | Floor Press | **205x3 PR** |
