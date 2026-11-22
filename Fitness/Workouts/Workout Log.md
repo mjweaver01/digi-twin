@@ -1,9 +1,36 @@
 # Workout Log
 
+## 2026-11-22 — DE Lower (Wave 1 of 3 — 50%, new cycle)
+
+**Feel:** —
+**Notes:** Lower day, alternating off Friday's OHP — shifted a day (skipped 11/21). **New wave starts** — position 1 of 3 = 50%. Box squats 155 (50% of 305), speed deadlifts 175 (50% of 345 — first Wave 1 off the new deadlift). Straight weight, no bands. Normal stance (11/15 was wide). **Bar speed governs.**
+
+Accessories picked by longest gap; nothing repeats from 11/18 or 11/20.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Box Squats — normal stance | 10–12 x 2 | **155 lbs** | 50% of 305. Sit back, pause, explode up. 45–60s rest |
+| Speed Deadlifts | 6–8 x 1 | **175 lbs** | 50% of 345. Full reset each rep, explosive pull. 45–60s rest |
+| KB Swings | 3 x 15–20 | 35 lb KB | Hip-driven, snap the hips |
+| Lawnmowers | 4 x 10 | 35 lb DB | Single-arm, brace hard |
+| DB Curls | 3 x 10–12 | 25–35 lb DBs | Supinated |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Neutral grip |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+| Toes-to-Bar | 3 x 10–15 | BW | Full ROM |
+
+---
+
+## 2026-11-21 — Rest Day
+
+**Feel:** —
+**Notes:** Rest day — plan shifted a day; lower moved to 11/22.
+
+---
+
 ## 2026-11-20 — ME Upper (Overhead Press)
 
 **Feel:** —
-**Notes:** Pushed from 11/19. Upper day, alternating off Wednesday's deficit deadlift. First day of the block (11/19 was rest) — lower tomorrow (11/21), rest 11/22. ME rotation follows the sequence after pin press → **strict overhead press**, which is also the stalest upper variation (9/27, 53 days ago).
+**Notes:** Pushed from 11/19. Upper day, alternating off Wednesday's deficit deadlift. First day of the block (11/19 was rest). ME rotation follows the sequence after pin press → **strict overhead press**, which is also the stalest upper variation (9/27, 53 days ago).
 
 Last time: 135 for 1 strict rep, then reps 2–3 needed leg drive — so the real strict triple is still 125. **Target: 130x3, every rep strict.** Stop the ramp at the last weight that moves without your legs. If 130 grinds, 125x3 clean is a fine day.
 
