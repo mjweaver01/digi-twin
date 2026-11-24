@@ -18,7 +18,7 @@ status: current
 
 | Wave | Last session | Position used | Next session is |
 |---|---|---|---|
-| **DE Upper** | 2026-11-16 | 1 of 3 — 115 | **2 of 3 — 125** |
+| **DE Upper** | 2026-11-24 | 2 of 3 — 125 | **3 of 3 — 135** |
 | **DE Lower** | 2026-11-22 | 1 of 3 — 155 / 175 | **2 of 3 — 170 / 190** |
 
 | Wave position | Speed Bench (of **225**) | Speed Box Squat (of **305**) | Speed Deadlift (of **345**) |
@@ -39,7 +39,7 @@ status: current
 
 | Date | Variation | Result |
 |---|---|---|
-| 2026-11-20 | Overhead Press (strict) | *planned — 130x3 strict target* |
+| 2026-11-20 | Overhead Press (strict) | **130x3 strict PR** |
 | 2026-11-12 | **Pin Press** ⭐ | **205x3 PR** |
 | 2026-11-06 | Close-Grip Bench | **195x3 PR** |
 | 2026-10-31 | Floor Press | **205x3 PR** |

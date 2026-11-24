@@ -1,6 +1,32 @@
 # Workout Log
 
-## 2026-11-22 — DE Lower (Wave 1 of 3 — 50%, new cycle)
+## 2026-11-24 — DE Upper (Wave 2 of 3 — 55%)
+
+**Feel:** —
+**Notes:** Upper day, alternating off Sunday's DE Lower. Wave position 2 of 3 = 55% of 225 ≈ **125**. Straight weight, no bands. Rotate grip close/medium/wide, 3 sets each. **Bar speed governs.**
+
+First day of the block (11/23 was rest) — lower tomorrow (11/25), rest 11/26. Accessories picked by longest gap; nothing repeats from 11/20 or 11/22.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Speed Bench Press | 9 x 3 | **125 lbs** | 55% of 225. Rotate grip: 3 close / 3 medium / 3 wide. 45–60s rest |
+| Pull-ups / Chin-ups | 4 x 6–12 | BW or weighted | Vertical pull |
+| Arnold Press | 4 x 10–12 | 35 lb DBs | Delts |
+| EZ Bar Skull Crushers | 3 x 8–12 | **20/side (55.5)** | Elbows tight, full stretch |
+| EZ Bar Curls | 3 x 10–12 | **25/side (65.5)** | Strict, no swing |
+| Cross-Body Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Across the chest |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+
+---
+
+## 2026-11-23 — Rest Day
+
+**Feel:** —
+**Notes:** Rest day after 11/22.
+
+---
+
+## 2026-11-22 — DE Lower (Wave 1 of 3 — 50%, new cycle) ✓
 
 **Feel:** —
 **Notes:** Lower day, alternating off Friday's OHP — shifted a day (skipped 11/21). **New wave starts** — position 1 of 3 = 50%. Box squats 155 (50% of 305), speed deadlifts 175 (50% of 345 — first Wave 1 off the new deadlift). Straight weight, no bands. Normal stance (11/15 was wide). **Bar speed governs.**
@@ -27,7 +53,7 @@ Accessories picked by longest gap; nothing repeats from 11/18 or 11/20.
 
 ---
 
-## 2026-11-20 — ME Upper (Overhead Press)
+## 2026-11-20 — ME Upper (Overhead Press) ✓
 
 **Feel:** —
 **Notes:** Pushed from 11/19. Upper day, alternating off Wednesday's deficit deadlift. First day of the block (11/19 was rest). ME rotation follows the sequence after pin press → **strict overhead press**, which is also the stalest upper variation (9/27, 53 days ago).
@@ -38,7 +64,7 @@ Standing, glutes squeezed, brace hard, press around the face. Press accessory is
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
-| Overhead Press (strict — work up to heavy triple) | Ramp → top triple | 45 / 75 / 95 / 115 / 125 / **130 x3** | **No leg drive on any rep.** Strict triple to beat: 125x3 |
+| Overhead Press (strict — work up to heavy triple) | Ramp → top triple | 45 / 75 / 95 / 115 / 125 / **130 x3 strict (PR)** | ✓ No leg drive. +5 over the 125x3 strict triple (8/11) |
 | Barbell Rows — Supinated | 4 x 8–12 | **145 lbs** | Underhand. Add reps toward 10–12 before adding weight |
 | DB Incline Press | 4 x 10–12 | 35 lb DBs | Horizontal press — different plane from the ME lift |
 | EZ Bar Curls | 3 x 10–12 | **25/side (65.5)** | Adjust to feel after the rows |
