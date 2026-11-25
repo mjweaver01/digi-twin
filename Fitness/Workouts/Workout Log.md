@@ -1,11 +1,11 @@
 # Workout Log
 
-## 2026-11-24 — DE Upper (Wave 2 of 3 — 55%)
+## 2026-11-25 — DE Upper (Wave 2 of 3 — 55%)
 
 **Feel:** —
-**Notes:** Upper day, alternating off Sunday's DE Lower. Wave position 2 of 3 = 55% of 225 ≈ **125**. Straight weight, no bands. Rotate grip close/medium/wide, 3 sets each. **Bar speed governs.**
+**Notes:** Pushed from 11/24 (rested instead). Upper day, alternating off Sunday's DE Lower. Wave position 2 of 3 = 55% of 225 ≈ **125**. Straight weight, no bands. Rotate grip close/medium/wide, 3 sets each. **Bar speed governs.**
 
-First day of the block (11/23 was rest) — lower tomorrow (11/25), rest 11/26. Accessories picked by longest gap; nothing repeats from 11/20 or 11/22.
+Two rest days before it (11/23–11/24). Lower tomorrow (11/26, Thanksgiving) if you want it, otherwise rest. Accessories picked by longest gap; nothing repeats from 11/20 or 11/22.
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
@@ -16,6 +16,13 @@ First day of the block (11/23 was rest) — lower tomorrow (11/25), rest 11/26. 
 | EZ Bar Curls | 3 x 10–12 | **25/side (65.5)** | Strict, no swing |
 | Cross-Body Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Across the chest |
 | Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+
+---
+
+## 2026-11-24 — Rest Day
+
+**Feel:** —
+**Notes:** Rest day — DE Upper pushed to 11/25.
 
 ---
 
