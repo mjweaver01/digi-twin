@@ -1,6 +1,6 @@
 # Workout Log
 
-## 2026-11-27 — ME Lower (Sumo Deadlift — MAX TEST)
+## 2026-11-27 — ME Lower (Sumo Deadlift — MAX TEST) ✓
 
 **Feel:** —
 **Notes:** Pushed from 11/26 (Thanksgiving — rested). Lower day, alternating off Wednesday's DE Upper. Second day of the block — rest tomorrow (11/28). **Sumo deadlift** — the stalest lower number on the board (305 on 9/12, 75 days ago). Conventional has gone 325 → 345 since. Aim **315**.
@@ -11,7 +11,7 @@ Wide stance, toes ~45°, drive the knees out off the floor. Full reset each rep,
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
-| Sumo Deadlift (work up to a max single) | Ramp → top single | 135 / 185 / 225 / 255 / 285 / 305 / **315** | Push past 305 (9/12). Drive knees out |
+| Sumo Deadlift (work up to a max single) | Ramp → top single | 135 / 185 / 225 / 255 / 285 / 305 / **315 (PR)** | ✓ +10 over 305 (9/12) |
 | Lawnmowers | 4 x 10 | 35 lb DB | Single-arm, brace hard |
 | DB Curls | 3 x 10–12 | 25–35 lb DBs | Supinated |
 | Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Neutral grip |

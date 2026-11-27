@@ -61,7 +61,7 @@ status: current
 
 | Date | Variation | Result |
 |---|---|---|
-| 2026-11-27 | Sumo Deadlift | *planned — max test, 315 target* |
+| 2026-11-27 | Sumo Deadlift | **315 PR** |
 | 2026-11-18 | Deficit Deadlift | **290x3 PR** |
 | 2026-11-11 | **Anderson Squat** ⭐ | **235x3 PR** |
 | 2026-11-03 | Conventional Deadlift | **345 PR** |

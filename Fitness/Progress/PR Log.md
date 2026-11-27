@@ -21,7 +21,7 @@ status: current
 | Floor Press | 205x3 | 2026-10-31 |
 | Box Squat | 305 | 2026-10-19 |
 | Conventional Deadlift | 345 | 2026-11-03 |
-| Sumo Deadlift | 305 | 2026-09-12 |
+| Sumo Deadlift | 315 | 2026-11-27 |
 | Deficit Deadlift | 290x3 | 2026-11-18 |
 | Front Squat | 200x3 | 2026-10-05 |
 | Larsen Press | 185x3 | 2026-10-14 |
@@ -37,6 +37,7 @@ status: current
 
 | Date | Lift | Weight | Notes |
 |---|---|---|---|
+| 2026-11-27 | Sumo Deadlift | 315 | +10 over 305 (9/12). ~91% of conventional (345) |
 | 2026-11-20 | Overhead Press (strict) | 130x3 | First strict triple above 125 — no leg drive. Strict single still 135 (9/27) |
 | 2026-11-18 | Deficit Deadlift | 290x3 | +15 over 275x3 (9/28). Back to ~84% of conventional (345) |
 | 2026-11-12 | Pin Press | 205x3 | +20 over 185x3 (9/21). Same pin height (2–3" off chest) — directly comparable |
