@@ -1,13 +1,13 @@
 # Workout Log
 
-## 2026-11-26 — ME Lower (Sumo Deadlift — MAX TEST) — Thanksgiving
+## 2026-11-27 — ME Lower (Sumo Deadlift — MAX TEST)
 
 **Feel:** —
-**Notes:** Lower day, alternating off yesterday's DE Upper. Second day of the block — rest tomorrow (11/27). **Sumo deadlift** — the stalest lower number on the board (305 on 9/12, 75 days ago). Conventional has gone 325 → 345 since. Aim **315**.
+**Notes:** Pushed from 11/26 (Thanksgiving — rested). Lower day, alternating off Wednesday's DE Upper. Second day of the block — rest tomorrow (11/28). **Sumo deadlift** — the stalest lower number on the board (305 on 9/12, 75 days ago). Conventional has gone 325 → 345 since. Aim **315**.
 
 Wide stance, toes ~45°, drive the knees out off the floor. Full reset each rep, small jumps from 295 up. Keep Valsalva moderate. Stop at form breakdown.
 
-Holiday session — **no hinge accessory** (the ME lift is the pull), and the accessory block is short. Then go eat; the extra calories are on-plan for the bulk.
+**No hinge accessory** — the ME lift is the pull. Short accessory block.
 
 | Exercise | Sets x Reps | Weight | Notes |
 |---|---|---|---|
@@ -17,6 +17,13 @@ Holiday session — **no hinge accessory** (the ME lift is the pull), and the ac
 | Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Neutral grip |
 | Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
 | Toes-to-Bar | 3 x 10–15 | BW | Full ROM |
+
+---
+
+## 2026-11-26 — Rest Day (Thanksgiving)
+
+**Feel:** —
+**Notes:** Thanksgiving — rested. Sumo session pushed to 11/27.
 
 ---
 
