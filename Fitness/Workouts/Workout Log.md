@@ -1,6 +1,26 @@
 # Workout Log
 
-## 2026-11-25 — DE Upper (Wave 2 of 3 — 55%)
+## 2026-11-26 — ME Lower (Sumo Deadlift — MAX TEST) — Thanksgiving
+
+**Feel:** —
+**Notes:** Lower day, alternating off yesterday's DE Upper. Second day of the block — rest tomorrow (11/27). **Sumo deadlift** — the stalest lower number on the board (305 on 9/12, 75 days ago). Conventional has gone 325 → 345 since. Aim **315**.
+
+Wide stance, toes ~45°, drive the knees out off the floor. Full reset each rep, small jumps from 295 up. Keep Valsalva moderate. Stop at form breakdown.
+
+Holiday session — **no hinge accessory** (the ME lift is the pull), and the accessory block is short. Then go eat; the extra calories are on-plan for the bulk.
+
+| Exercise | Sets x Reps | Weight | Notes |
+|---|---|---|---|
+| Sumo Deadlift (work up to a max single) | Ramp → top single | 135 / 185 / 225 / 255 / 285 / 305 / **315** | Push past 305 (9/12). Drive knees out |
+| Lawnmowers | 4 x 10 | 35 lb DB | Single-arm, brace hard |
+| DB Curls | 3 x 10–12 | 25–35 lb DBs | Supinated |
+| Hammer Curls | 3 x 12–15 | 25–35 lb DBs | Neutral grip |
+| Band Pull-Aparts / Face Pulls | 3 x 20 | Band | Shoulder health |
+| Toes-to-Bar | 3 x 10–15 | BW | Full ROM |
+
+---
+
+## 2026-11-25 — DE Upper (Wave 2 of 3 — 55%) ✓
 
 **Feel:** —
 **Notes:** Pushed from 11/24 (rested instead). Upper day, alternating off Sunday's DE Lower. Wave position 2 of 3 = 55% of 225 ≈ **125**. Straight weight, no bands. Rotate grip close/medium/wide, 3 sets each. **Bar speed governs.**
